@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <title>تطبيقات بلس</title>
+  <link rel="preconnect" href="https://i.ibb.co">
+  <link rel="dns-prefetch" href="https://i.ibb.co">
+  <link rel="preload" as="image" href="https://i.ibb.co/C5Ds7y44/38-F9828-A-8-F40-4-C0-B-8737-C177-F6315099.jpg">
+  <link rel="preload" as="image" href="https://i.ibb.co/hJBrMQz9/88-CA59-AC-9-F1-B-461-B-B9-A9-D3-C176-EB0-C61.png">
+  <link rel="preload" as="image" href="https://i.ibb.co/3mF6Mk2K/1a3d45cd57d75b0755d6c5cc59edc945.png">
+  <link rel="preload" as="image" href="https://i.ibb.co/MyDDv53j/IMG-6855.jpg">
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet">
+  <style>
+    @font-face { font-family:'STC'; src:local('STC Bold'),local('STC-Bold'); font-weight:700; }
+    :root {
+      --primary:#2AABEE; --secondary:#229ED9; --accent:#54c5f8;
+      --primary-deep:#1a8ac4; --primary-glow:rgba(42,171,238,0.35);
+      --bg:#dce8f5;
+      --bg-mesh:linear-gradient(135deg,#e8f4fd 0%,#d4eaf8 35%,#c8e0f5 65%,#ddeeff 100%);
+      --card:rgba(255,255,255,0.88);
+      --card-blur:none;
+      --card-border:rgba(255,255,255,0.9);
+      --card-shadow:0 4px 16px rgba(42,171,238,0.10),0 1px 0 rgba(255,255,255,0.9) inset;
+      --text:#0d1b2a; --muted:#4a6278;
+      --note-border:#2AABEE; --note-text:#1a6a9a;
+      --cols:2; --gap:12px; --max:480px;
+      --radius-card:22px; --icon:52px; --ring:68px;
+      --fs-name:14px; --fs-btn:13px; --fs-note:10px;
+      --pad-card:12px 10px 10px;
+      --t-fast:0.06s; --t-med:0.10s; --t-slow:0.16s;
+      --ease-bounce:cubic-bezier(0.34,1.56,0.64,1);
+      --ease-out:cubic-bezier(0.25,1,0.5,1);
+    }
+    body.dark {
+      --bg:#0e1621;
+      --bg-mesh:linear-gradient(135deg,#0e1621 0%,#111d2e 40%,#0d1a2a 70%,#121e2e 100%);
+      --card:rgba(23,33,48,0.78);
+      --card-border:rgba(42,171,238,0.18);
+      --card-shadow:0 8px 32px rgba(0,0,0,0.4),0 1px 0 rgba(42,171,238,0.12) inset;
+      --text:#e8f3fb; --muted:#7a99b8;
+      --note-border:#2AABEE; --note-text:#54c5f8;
+    }
+    body.dark .telegram-text-btn { background:rgba(23,33,48,0.8); color:var(--accent); border-color:rgba(42,171,238,0.4); }
+    body.dark .telegram-text-btn:hover { background:rgba(42,171,238,0.12); }
+    body.dark .developer-credit { background:rgba(23,33,48,0.7); border-color:rgba(42,171,238,0.15); }
+    body.dark .tip-toggle-btn { background:rgba(42,171,238,0.08); border-color:rgba(42,171,238,0.2); }
+    body.dark .app-warning { background:rgba(42,171,238,0.07); border-color:rgba(42,171,238,0.25); }
+    body.dark .app-card { --card:rgba(23,33,48,0.78); }
+    body.dark .note-card { background:rgba(40,30,10,0.8); border-color:#d97706; color:#fbbf24; }
+    body.dark .note-card strong { color:#fbbf24; }
+    body.dark .note-path { color:#fed7aa !important; }
+    body.dark .theme-toggle { background:rgba(23,33,48,0.9); border-color:rgba(42,171,238,0.3); }
+    body.dark canvas { opacity:0.6; }
+
+    .app-icon img { opacity:0; transition:opacity 0.3s ease; }
+    .app-icon img.loaded { opacity:1; }
+    .app-icon::before {
+      content:''; position:absolute; inset:0; border-radius:14px;
+      background:linear-gradient(90deg,rgba(42,171,238,0.07) 25%,rgba(42,171,238,0.18) 50%,rgba(42,171,238,0.07) 75%);
+      background-size:200% 100%;
+      animation:skeleton 1.2s ease-in-out infinite; z-index:0;
+    }
+    .app-icon.img-loaded::before { display:none; }
+    @keyframes skeleton { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+    body.dark .app-icon::before {
+      background:linear-gradient(90deg,rgba(42,171,238,0.05) 25%,rgba(42,171,238,0.13) 50%,rgba(42,171,238,0.05) 75%);
+      background-size:200% 100%;
+    }
+
+    *,*::before,*::after { box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent; }
+    html { width:100%; scroll-behavior:smooth; text-size-adjust:100%; }
+    body {
+      font-family:'STC','Cairo',sans-serif; font-weight:700;
+      background:var(--bg); background-image:var(--bg-mesh);
+      color:var(--text);
+      min-height:100dvh; overflow-x:hidden;
+      padding:20px 15px 80px;
+      transition:background var(--t-slow) ease, color var(--t-slow) ease;
+      -webkit-overflow-scrolling:touch;
+    }
+    canvas { position:fixed; top:0; left:0; width:100%; height:100%; z-index:0; pointer-events:none; will-change:transform; }
+
+    .page-wrap { position:relative; z-index:10; max-width:var(--max); margin:0 auto; display:flex; flex-direction:column; gap:var(--gap); }
+
+    .theme-toggle {
+      position:fixed; top:16px; right:16px; z-index:999;
+      width:42px; height:42px; border-radius:50%;
+      border:1.5px solid rgba(255,255,255,0.6);
+      background:rgba(255,255,255,0.55);
+      backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px);
+      box-shadow:0 4px 18px rgba(42,171,238,0.18), 0 1px 0 rgba(255,255,255,0.9) inset;
+      cursor:pointer; display:flex; align-items:center; justify-content:center;
+      font-size:19px; line-height:1; padding:0;
+      transition:background var(--t-slow) ease, border-color var(--t-slow) ease, transform var(--t-med) var(--ease-bounce), box-shadow var(--t-med) ease;
+      will-change:transform;
+    }
+    .theme-toggle:hover { transform:scale(1.13) rotate(18deg); box-shadow:0 6px 24px rgba(42,171,238,0.32); }
+    .theme-toggle:active { transform:scale(0.9); transition-duration:var(--t-fast); }
+
+    .header-card {
+      background:linear-gradient(135deg,#1a8ac4 0%,#2AABEE 50%,#229ED9 100%);
+      border-radius:24px; padding:8px 14px; text-align:center;
+      box-shadow:0 12px 40px rgba(42,171,238,0.35), 0 1px 0 rgba(255,255,255,0.35) inset;
+      border:1px solid rgba(255,255,255,0.3);
+      animation:cardUp 0.45s var(--ease-out) both;
+      position:relative; overflow:hidden; will-change:transform;
+    }
+    .header-card::after {
+      content:''; position:absolute; top:-50%; left:-60%; width:40%; height:200%;
+      background:linear-gradient(to right,rgba(255,255,255,0),rgba(255,255,255,0.22),rgba(255,255,255,0));
+      transform:skewX(-20deg); animation:shimmer 4s ease-in-out infinite; pointer-events:none;
+    }
+    @keyframes shimmer { 0%{left:-60%} 50%{left:130%} 100%{left:130%} }
+    .header-card h1 { color:#fff; font-size:clamp(11px,2.8vw,15px); margin-bottom:2px; letter-spacing:-0.5px; line-height:1.2; text-shadow:0 1px 4px rgba(0,0,0,0.15); }
+    .subtitle-line { width:40px; height:3px; background:rgba(255,255,255,0.6); border-radius:2px; margin:4px auto 6px; }
+    .header-badges-row { display:flex; align-items:center; justify-content:center; gap:10px; flex-wrap:wrap; }
+
+    .channel-row {
+      display:inline-flex; align-items:center; gap:8px;
+      background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.38);
+      backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px);
+      border-radius:50px; padding:6px 14px; text-decoration:none; cursor:pointer;
+      transition:transform var(--t-med) var(--ease-bounce), background var(--t-fast) ease;
+      will-change:transform;
+    }
+    .channel-row:hover { background:rgba(255,255,255,0.36); transform:translateY(-2px); }
+    .channel-row:active,.channel-row.touch-active { transform:scale(0.88) translateY(2px) !important; background:rgba(255,255,255,0.48) !important; transition-duration:var(--t-fast); }
+    .channel-avatar { width:28px; height:28px; border-radius:50%; object-fit:cover; }
+    .channel-name { color:#fff; font-size:12px; font-weight:900; text-shadow:0 1px 3px rgba(0,0,0,0.2); }
+
+    .cert-badge {
+      display:inline-flex; align-items:center; gap:6px;
+      background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.38);
+      backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px);
+      border-radius:50px; padding:6px 14px; cursor:pointer;
+      transition:all var(--t-med) var(--ease-bounce);
+      position:relative; user-select:none;
+      animation:cardUp 0.45s var(--ease-out) both; animation-delay:.1s;
+      will-change:transform;
+    }
+    .cert-badge:hover { background:rgba(255,255,255,0.36); transform:translateY(-2px); }
+    .cert-badge:active { transform:scale(0.95); transition-duration:var(--t-fast); }
+    .cert-dot { width:8px; height:8px; border-radius:50%; background:#f87171; box-shadow:0 0 0 0 rgba(248,113,113,0.7); flex-shrink:0; animation:certPulse 2s ease-in-out infinite; }
+    @keyframes certPulse { 0%{box-shadow:0 0 0 0 rgba(248,113,113,0.7)} 50%{box-shadow:0 0 0 5px rgba(248,113,113,0)} 100%{box-shadow:0 0 0 0 rgba(248,113,113,0)} }
+    .cert-label { color:#fff; font-size:12px; font-weight:900; white-space:nowrap; }
+    .cert-arrow { color:rgba(255,255,255,0.85); font-size:10px; display:inline-block; transition:transform var(--t-med) ease; }
+    .cert-badge.open .cert-arrow { transform:rotate(180deg); }
+    .cert-tooltip {
+      position:absolute; bottom:calc(100% + 8px); left:50%;
+      transform:translateX(-50%) translateY(4px) scale(0.9);
+      background:rgba(255,255,255,0.92); backdrop-filter:blur(20px); -webkit-backdrop-filter:blur(20px);
+      color:#1a6a9a; font-size:11px; font-weight:700; padding:7px 12px; border-radius:12px; white-space:nowrap;
+      box-shadow:0 6px 24px rgba(42,171,238,0.22); border:1px solid rgba(255,255,255,0.8);
+      opacity:0; pointer-events:none;
+      transition:opacity var(--t-med) ease, transform var(--t-med) var(--ease-bounce);
+      z-index:200;
+    }
+    .cert-tooltip::after { content:''; position:absolute; top:100%; left:50%; transform:translateX(-50%); border:5px solid transparent; border-top-color:rgba(255,255,255,0.92); }
+    .cert-badge.open .cert-tooltip { opacity:1; pointer-events:auto; transform:translateX(-50%) translateY(0) scale(1); }
+
+    .apps-grid { display:grid; grid-template-columns:repeat(var(--cols),1fr); gap:var(--gap); }
+    @supports (content-visibility:auto) { .app-card { content-visibility:auto; contain-intrinsic-size:0 160px; } }
+    .app-card:last-child:nth-child(odd) { grid-column:1/-1; max-width:calc(50% - var(--gap)/2); margin:0 auto; width:100%; }
+
+    .app-card {
+      background:var(--card); border-radius:var(--radius-card); padding:var(--pad-card); text-align:center;
+      box-shadow:var(--card-shadow); border:1px solid var(--card-border);
+      display:flex; flex-direction:column; align-items:center; justify-content:space-between;
+      transition:transform var(--t-med) var(--ease-bounce), box-shadow var(--t-med) ease, border-color var(--t-med) ease;
+      position:relative; overflow:hidden; opacity:0; will-change:transform; contain:layout style;
+    }
+    .app-card::after { content:''; position:absolute; top:0; left:0; right:0; height:1px; background:linear-gradient(90deg,transparent,rgba(255,255,255,0.9),transparent); border-radius:var(--radius-card) var(--radius-card) 0 0; }
+    .app-card.in-view { animation:cardUp 0.4s var(--ease-out) both; }
+    .app-card:hover { transform:translateY(-3px) scale(1.01); box-shadow:0 10px 24px rgba(42,171,238,0.18); border-color:rgba(42,171,238,0.5); }
+    body.dark .app-card:hover { border-color:rgba(42,171,238,0.45); }
+    .app-card.touch-active { transform:scale(0.97) !important; box-shadow:0 2px 8px rgba(42,171,238,0.15) !important; border-color:rgba(42,171,238,0.4) !important; transition-duration:var(--t-fast) !important; }
+    .app-card::before { content:''; position:absolute; top:0; left:0; right:0; height:3px; background:linear-gradient(90deg,var(--secondary),var(--accent)); border-radius:var(--radius-card) var(--radius-card) 0 0; opacity:0; transition:opacity var(--t-med) ease; }
+    .app-card:hover::before,.app-card.touch-active::before { opacity:1; }
+
+    .icon-ring {
+      width:var(--ring); height:var(--ring); min-width:var(--ring); min-height:var(--ring);
+      margin:0 auto 10px; position:relative; display:flex; align-items:center; justify-content:center; flex-shrink:0; will-change:transform;
+    }
+    .icon-ring svg.ring-svg { position:absolute; inset:0; width:100%; height:100%; pointer-events:none; overflow:visible; }
+    .ring-track { fill:none; stroke:rgba(42,171,238,0.15); stroke-width:2.5; }
+    .ring-progress { fill:none; stroke:url(#ringGrad); stroke-width:2.5; stroke-linecap:round; animation:dashSpin 2s linear infinite; filter:drop-shadow(0 0 3px rgba(42,171,238,0.7)); will-change:stroke-dashoffset; }
+    .ring-inner { fill:none; stroke:rgba(42,171,238,0.25); stroke-width:1.5; stroke-linecap:round; animation:dashSpinRev 3s linear infinite; will-change:stroke-dashoffset; }
+    @keyframes dashSpin    { to{stroke-dashoffset:-232} }
+    @keyframes dashSpinRev { to{stroke-dashoffset:188} }
+    @media (prefers-reduced-motion: reduce), (max-width:600px) { .ring-progress { animation-duration:4s !important; } .ring-inner { animation-duration:6s !important; } }
+
+    .app-icon {
+      width:var(--icon); height:var(--icon); min-width:var(--icon); min-height:var(--icon);
+      border-radius:16px; overflow:hidden; border:1.5px solid rgba(255,255,255,0.7);
+      box-shadow:0 4px 14px rgba(42,171,238,0.15), 0 1px 0 rgba(255,255,255,0.8) inset;
+      display:block; position:relative; flex-shrink:0;
+      transition:transform var(--t-med) var(--ease-bounce), box-shadow var(--t-med) ease;
+      z-index:1; background:var(--card); will-change:transform;
+    }
+    .app-card:hover .app-icon { transform:scale(1.05); }
+    .app-icon img { position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; display:block; }
+
+    .app-name { color:var(--text); font-size:var(--fs-name); font-weight:900; margin-bottom:2px; transition:color var(--t-slow); }
+    .app-note  { font-size:var(--fs-note); color:var(--muted); margin-bottom:6px; line-height:1.5; font-weight:700; padding:0 4px; text-align:center; }
+
+    .app-warning {
+      font-size:11px; color:var(--note-text); background:rgba(42,171,238,0.08);
+      border:1px solid rgba(42,171,238,0.28); border-radius:10px; padding:0 6px;
+      margin-bottom:0; line-height:1.6; font-weight:700; text-align:right;
+      overflow:hidden; max-height:0; opacity:0; width:100%;
+      transform:translateY(-6px) scale(0.98); transform-origin:top center;
+      transition:max-height var(--t-slow) var(--ease-out), padding var(--t-slow) var(--ease-out), margin-bottom var(--t-slow) var(--ease-out), opacity var(--t-med) ease, transform var(--t-slow) var(--ease-out), background var(--t-slow) ease;
+    }
+    .app-warning.visible { max-height:200px; padding:8px 6px; margin-bottom:6px; opacity:1; transform:translateY(0) scale(1); }
+
+    .tip-toggle-btn {
+      display:flex; align-items:center; justify-content:center; gap:4px;
+      background:rgba(42,171,238,0.10); border:1px solid rgba(42,171,238,0.25);
+      border-radius:20px; padding:6px 12px; font-size:11px; color:var(--primary);
+      font-family:'STC','Cairo',sans-serif; font-weight:700; cursor:pointer;
+      margin-bottom:6px; width:90%;
+      transition:transform var(--t-med) var(--ease-bounce), background var(--t-fast) ease, box-shadow var(--t-fast) ease;
+      will-change:transform;
+    }
+    .tip-toggle-btn:hover { background:rgba(42,171,238,0.2); transform:translateY(-1px); box-shadow:0 3px 12px rgba(42,171,238,0.2); }
+    .tip-toggle-btn.touch-active { transform:scale(0.85) !important; background:rgba(42,171,238,0.28) !important; transition-duration:var(--t-fast) !important; }
+    .tip-toggle-btn.open { background:var(--primary); color:#fff; box-shadow:0 4px 14px rgba(42,171,238,0.4); }
+    .tip-toggle-btn .tip-arrow { display:inline-block; transition:transform var(--t-slow) var(--ease-out); font-style:normal; }
+    .tip-toggle-btn.open .tip-arrow { transform:rotate(180deg); }
+
+    .install-btn {
+      display:flex; align-items:center; justify-content:center; width:100%;
+      background:linear-gradient(135deg,#1a8ac4,#2AABEE 60%,#54c5f8);
+      color:#fff; padding:8px 6px; border-radius:12px;
+      font-size:var(--fs-btn); font-weight:900;
+      box-shadow:0 4px 16px rgba(42,171,238,0.38), 0 1px 0 rgba(255,255,255,0.3) inset;
+      transition:transform var(--t-med) var(--ease-bounce), box-shadow var(--t-med) ease, background var(--t-slow) ease;
+      cursor:pointer; margin-top:auto; border:none;
+      position:relative; overflow:hidden; gap:8px;
+      font-family:'STC','Cairo',sans-serif; will-change:transform;
+    }
+    .install-btn::before { content:''; position:absolute; top:0; left:-75%; width:50%; height:100%; background:linear-gradient(90deg,rgba(255,255,255,0),rgba(255,255,255,0.3),rgba(255,255,255,0)); transform:skewX(-18deg); transition:left 0s; pointer-events:none; }
+    .install-btn:hover::before { left:130%; transition:left 0.4s ease; }
+    .install-btn::after { content:''; position:absolute; border-radius:50%; background:rgba(255,255,255,0.35); width:0; height:0; top:50%; left:50%; transform:translate(-50%,-50%) scale(0); opacity:0; pointer-events:none; }
+    .install-btn.ripple::after { animation:btnRipple 0.2s ease-out forwards; }
+    @keyframes btnRipple { 0%{width:0;height:0;opacity:0.8;transform:translate(-50%,-50%) scale(0)} 100%{width:200px;height:200px;opacity:0;transform:translate(-50%,-50%) scale(1)} }
+    .install-btn:hover { box-shadow:0 8px 28px rgba(42,171,238,0.5); transform:translateY(-3px) scale(1.02); }
+    .install-btn:active,.install-btn.touch-active { transform:scale(0.92) translateY(1px); box-shadow:0 2px 8px rgba(42,171,238,0.25); transition-duration:var(--t-fast); }
+    .install-btn.success { background:linear-gradient(135deg,#059669,#10b981); box-shadow:0 4px 14px rgba(5,150,105,0.35); pointer-events:none; animation:successPop 0.35s var(--ease-bounce); }
+    @keyframes successPop { 0%{transform:scale(0.92)} 60%{transform:scale(1.06)} 100%{transform:scale(1)} }
+    .btn-check { display:none; width:16px; height:16px; }
+    .install-btn.success .btn-check { display:block; animation:checkPop 0.4s var(--ease-bounce); }
+    .install-btn.success .btn-text { display:none; }
+    .install-btn.success .loading-spinner { display:none !important; }
+    @keyframes checkPop { from{transform:scale(0) rotate(-45deg);opacity:0} to{transform:scale(1) rotate(0);opacity:1} }
+    .loading-spinner { display:none; width:14px; height:14px; border:2px solid rgba(255,255,255,0.3); border-top:2px solid white; border-radius:50%; animation:spin 0.6s linear infinite; }
+    .install-btn.loading .loading-spinner { display:inline-block; }
+    .install-btn.loading .btn-text { opacity:0.65; }
+    .install-btn.loading { animation:loadingPulse 1s ease-in-out infinite; }
+    @keyframes loadingPulse { 0%,100%{box-shadow:0 4px 16px rgba(42,171,238,0.3)} 50%{box-shadow:0 4px 28px rgba(42,171,238,0.65)} }
+    @keyframes spin { to{transform:rotate(360deg)} }
+
+    .note-card { padding:16px; background:#fffbeb; border:2px solid #f59e0b; border-radius:16px; font-size:13px; color:#d97706; line-height:1.9; text-align:right; animation:cardUp 0.4s var(--ease-out) both; animation-delay:0.8s; transition:background var(--t-slow) ease, border-color var(--t-slow) ease; }
+    .note-card strong { color:#d97706; font-size:14px; font-weight:900; display:block; margin-bottom:6px; }
+    .note-path { color:#000000 !important; font-weight:900; display:block; margin-top:4px; }
+
+    .telegram-wrap { display:flex; justify-content:center; margin-top:5px; animation:cardUp 0.4s var(--ease-out) both; animation-delay:0.9s; }
+    .telegram-text-btn {
+      display:inline-flex; align-items:center; justify-content:center; gap:8px;
+      background:rgba(255,255,255,0.92); border:1.5px solid rgba(42,171,238,0.35); color:var(--primary);
+      padding:12px 20px; border-radius:14px; text-decoration:none; font-size:14px; font-weight:700;
+      box-shadow:0 4px 18px rgba(42,171,238,0.12), 0 1px 0 rgba(255,255,255,0.9) inset;
+      width:100%; position:relative; overflow:hidden;
+      transition:transform var(--t-med) var(--ease-bounce), box-shadow var(--t-med) ease, background var(--t-fast) ease, color var(--t-fast) ease;
+      will-change:transform;
+    }
+    .telegram-text-btn:hover { transform:translateY(-2px); box-shadow:0 8px 28px rgba(42,171,238,0.28); }
+    .telegram-text-btn:active,.telegram-text-btn.pressed { transform:scale(0.94); background:var(--primary); color:#fff; box-shadow:0 2px 10px rgba(42,171,238,0.4); transition-duration:var(--t-fast); }
+    .telegram-text-btn.releasing { animation:tgRelease 0.4s var(--ease-bounce) forwards; }
+    @keyframes tgRelease { 0%{transform:scale(0.94)} 55%{transform:scale(1.04) translateY(-3px)} 100%{transform:scale(1) translateY(0)} }
+
+    .developer-credit { display:flex; align-items:center; justify-content:center; gap:10px; padding:12px 16px; background:rgba(255,255,255,0.92); border-radius:14px; box-shadow:0 4px 18px rgba(42,171,238,0.08), 0 1px 0 rgba(255,255,255,0.85) inset; border:1px solid rgba(255,255,255,0.7); margin-top:10px; animation:cardUp 0.4s var(--ease-out) both; animation-delay:1s; transition:background var(--t-slow) ease; }
+    .developer-credit a { display:flex; align-items:center; justify-content:center; gap:10px; text-decoration:none; width:100%; transition:transform var(--t-med) var(--ease-bounce); will-change:transform; }
+    .developer-credit a:hover { transform:translateY(-2px); }
+    .developer-credit a.touch-active { transform:scale(0.92); opacity:0.8; transition-duration:var(--t-fast); }
+    .developer-credit img { width:32px; height:32px; border-radius:50%; object-fit:cover; transition:transform var(--t-med) ease, box-shadow var(--t-med) ease; }
+    .developer-credit a:hover img { transform:scale(1.1) rotate(5deg); }
+    .developer-credit a.touch-active img { transform:scale(1.15) rotate(10deg); box-shadow:0 0 10px rgba(42,171,238,0.5); }
+    .developer-credit-text { font-size:12px; color:var(--text); font-weight:700; transition:color var(--t-slow); }
+    .developer-credit a:hover .developer-credit-text { color:var(--primary); }
+
+    #toast { position:fixed; bottom:30px; left:50%; transform:translateX(-50%) translateY(20px); background:rgba(14,22,33,0.95); color:#fff; font-family:'STC','Cairo',sans-serif; font-size:13px; font-weight:700; padding:12px 24px; border-radius:50px; box-shadow:0 8px 32px rgba(0,0,0,0.25); border:1px solid rgba(255,255,255,0.12); opacity:0; transition:opacity var(--t-med) ease, transform var(--t-med) ease; z-index:9999; white-space:nowrap; pointer-events:none; }
+    #toast.show { opacity:1; transform:translateX(-50%) translateY(0); }
+
+    @keyframes cardUp { from{opacity:0;transform:translateY(12px)} to{opacity:1;transform:translateY(0)} }
+
+    .warning-link { color:var(--primary); font-weight:900; text-decoration:underline; cursor:pointer; }
+    body.dark .warning-link { color:var(--accent); }
+    .warning-link:hover { opacity:0.8; }
+
+    @media (min-width:600px) {
+      :root { --cols:3; --gap:14px; --max:800px; --icon:58px; --ring:76px; --fs-name:15px; --fs-btn:14px; --fs-note:11px; --pad-card:14px 12px 12px; --radius-card:20px; }
+      body { padding:24px 20px 90px; }
+      .header-card { padding:10px 18px; }
+      .header-card h1 { font-size:clamp(13px,2vw,17px); }
+      .theme-toggle { width:46px; height:46px; font-size:21px; top:18px; right:18px; }
+      .app-card:last-child:nth-child(odd) { max-width:calc(33.33% - var(--gap)); }
+      .install-btn { padding:10px 8px; }
+      .note-card { font-size:14px; }
+    }
+    @media (min-width:1025px) {
+      :root { --cols:4; --gap:16px; --max:1160px; --icon:60px; --ring:78px; --fs-name:15px; --fs-btn:14px; --fs-note:11px; --pad-card:16px 14px 14px; --radius-card:22px; }
+      body { padding:28px 30px 100px; }
+      .header-card { padding:12px 24px; max-width:680px; margin-left:auto; margin-right:auto; }
+      .theme-toggle { top:22px; right:24px; width:48px; height:48px; font-size:22px; }
+      .page-wrap { gap:18px; }
+      .app-card:last-child:nth-child(odd) { max-width:calc(25% - var(--gap)*3/4); }
+      .note-card,.telegram-wrap,.developer-credit { max-width:680px; margin-left:auto; margin-right:auto; }
+      .install-btn { padding:10px 8px; font-size:14px; }
+    }
+    @media (min-width:1441px) {
+      :root { --cols:5; --gap:18px; --max:1400px; --icon:64px; --ring:84px; --fs-name:16px; --fs-btn:15px; --fs-note:12px; --pad-card:18px 16px 16px; --radius-card:24px; }
+      body { padding:32px 40px 110px; }
+      .theme-toggle { top:24px; right:32px; width:52px; height:52px; font-size:24px; }
+      .header-card { max-width:760px; padding:14px 28px; }
+      .header-card h1 { font-size:clamp(15px,1.5vw,20px); }
+      .app-card:last-child:nth-child(odd) { max-width:calc(20% - var(--gap)*4/5); }
+      .note-card,.telegram-wrap,.developer-credit { max-width:760px; margin-left:auto; margin-right:auto; }
+      .app-icon { border-radius:18px; }
+    }
+    @media (min-width:1921px) {
+      :root { --cols:6; --gap:22px; --max:1760px; --icon:70px; --ring:92px; --fs-name:17px; --fs-btn:16px; --fs-note:13px; --pad-card:22px 18px 18px; --radius-card:26px; }
+      body { padding:40px 60px 120px; }
+      .theme-toggle { top:28px; right:40px; width:56px; height:56px; font-size:26px; }
+      .header-card { max-width:900px; padding:16px 32px; }
+      .header-card h1 { font-size:clamp(16px,1.1vw,22px); }
+      .app-card:last-child:nth-child(odd) { max-width:calc(100%/6 - var(--gap)*5/6); }
+      .note-card,.telegram-wrap,.developer-credit { max-width:900px; margin-left:auto; margin-right:auto; }
+      .install-btn { padding:12px 10px; }
+      .channel-avatar { width:32px; height:32px; }
+      .channel-name,.cert-label { font-size:14px; }
+    }
+    @media (max-width:374px) {
+      :root { --cols:2; --gap:10px; --fs-name:13px; --fs-btn:12px; }
+      body { padding:16px 10px 70px; }
+      .header-card h1 { font-size:11px; }
+    }
+    @media (max-height:500px) and (orientation:landscape) {
+      :root { --cols:3; --gap:10px; --max:700px; }
+      body { padding:12px 16px 60px; }
+      .header-card { padding:6px 12px; }
+      .icon-ring { margin-bottom:6px; }
+      .app-name { font-size:12px; }
+    }
+  </style>
+</head>
+<body>
+  <canvas id="bg"></canvas>
+  <div id="toast"></div>
+  <button class="theme-toggle" id="themeToggle" title="تغيير الثيم" aria-label="تغيير الثيم">🌙</button>
+
+  <div class="page-wrap">
+
+    <div class="header-card">
+      <h1>تطبيقات بلس موقعة بشهادة مجانية مؤقتة</h1>
+      <div class="subtitle-line"></div>
+      <div class="header-badges-row">
+        <a href="https://t.me/ikiraplus" target="_blank" class="channel-row touch-target">
+          <img class="channel-avatar" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram">
+          <span class="channel-name">كيرا بلس - iKiraPlus</span>
+        </a>
+
+      </div>
+    </div>
+
+    <div class="apps-grid">
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/C5Ds7y44/38-F9828-A-8-F40-4-C0-B-8737-C177-F6315099.jpg" alt="سينمانا كيرا" loading="eager" fetchpriority="high" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">سينمانا كيرا</div>
+        <div class="app-note"></div>
+        <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
+        <div class="app-warning">النسخه تدعم التحميل بالكامل وتعمل مع انترنت ايرثلنك ومزوديها فقط</div>
+        <button class="install-btn touch-target" data-idx="0">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/8DNpKFv5/IMG-7068.png" alt="ريكرام" loading="eager" fetchpriority="high" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">ريكرام</div>
+        <div class="app-note"></div>
+        <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
+        <div class="app-warning">اذا كانت المميزات مقفلة فقط قم بتغيير لغة التطبيق من الإنكليزي إلى العربي او بالعكس واعد تشغيل التطبيق</div>
+        <button class="install-btn touch-target" data-idx="1">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/3mF6Mk2K/1a3d45cd57d75b0755d6c5cc59edc945.png" alt="واتساب كولد" loading="eager" fetchpriority="high" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">واتساب كولد</div>
+        <div class="app-note"></div>
+        <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
+        <div class="app-warning">اذا اردت استخدام النسخه بشكل ثانوي بجانب الاساسية قم بالتسجيل بها عن طريق خيار ( الربط كجهاز مصاحب )</div>
+        <button class="install-btn touch-target" data-idx="2">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/MyDDv53j/IMG-6855.jpg" alt="تيلكرام بلس" loading="eager" fetchpriority="high" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">تيلكرام بلس</div>
+        <div class="app-note"></div>
+        <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
+        <div class="app-warning">لتفعيل مميزات النسخه اذهب الى - اعدادات التليكرام - اضغط على أيقونة ( اسأل سوالاً ) ضغطه مطوله وستفتح معك المميزات</div>
+        <button class="install-btn touch-target" data-idx="3">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/G3Cv9wJc/IMG-6856.jpg" alt="تيك توك بلس" loading="lazy" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">تيك توك بلس</div>
+        <div class="app-note"></div>
+        <button class="install-btn touch-target" data-idx="4">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/hxj3GJKB/EAFAC971-F96-B-4-A80-AF88-92-B50-CD73-D4-C.png" alt="يوتيوب بلس" loading="lazy" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">يوتيوب بلس</div>
+        <div class="app-note"></div>
+        <button class="install-btn touch-target" data-idx="5">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/QjH0kx3F/59540802-D97-C-481-E-BC57-8-E48-B8-B32-FF6.png" alt="air movie" loading="lazy" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">air movie</div>
+        <div class="app-note"></div>
+        <button class="install-btn touch-target" data-idx="6">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/Jj6ycNq4/CB3973-F3-F85-C-4926-979-E-0486-B1-C56-B77.png" alt="hitv pro" loading="lazy" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">hitv pro</div>
+        <div class="app-note"></div>
+        <button class="install-btn touch-target" data-idx="7">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/cKCkKzXR/EAFA8-A9-E-B26-F-4-BEB-868-F-9-FA46-AFBD659.png" alt="Remini pro" loading="lazy" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">Remini pro</div>
+        <div class="app-note"></div>
+        <button class="install-btn touch-target" data-idx="8">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+      <div class="app-card">
+        <div class="icon-ring"><div class="app-icon"><img src="https://i.ibb.co/V0NPQ9hf/0-B0-A729-F-7-FA3-4-F29-9-DDE-109-B7-C0-DBD57.png" alt="Genral Pro" loading="lazy" decoding="async" width="52" height="52"></div></div>
+        <div class="app-name">Genral Pro</div>
+        <div class="app-note"></div>
+        <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
+        <div class="app-warning">كود التفعيل 5050 هذا التطبيق مختص لمشاهدة القنوات الرياضية والتلفزيونية المشفرة ويحتوي قسم خاص بالافلام والمسلسلات بالاعلى</div>
+        <button class="install-btn touch-target" data-idx="9" data-direct="false">
+          <span class="loading-spinner"></span>
+          <svg class="btn-check" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          <span class="btn-text">تثبيت</span>
+        </button>
+      </div>
+
+    </div>
+
+    <div class="note-card">
+      <strong>⚠️ ملاحظة مهمة</strong>
+      إذا ظهرت لك رسالة «المؤسسة غير موثوق بها» اتبع التالي:<br>
+      <span class="note-path">الإعدادات ← عام ← إدارة الأجهزة ← قم بتوثيق الشهادة</span>
+    </div>
+
+    <div class="telegram-wrap">
+      <a class="telegram-text-btn" href="https://t.me/ikira18" target="_blank">
+        💬 اذا واجهتك مشكلة تواصل معي هنا
+      </a>
+    </div>
+
+    <div class="developer-credit">
+      <a href="https://t.me/iDyala" target="_blank" class="touch-target">
+        <img src="https://i.ibb.co/G33RGgsF/IMG-6850.jpg" alt="Dyala Youssif">
+        <span class="developer-credit-text">Website designed by Dyala Youssif</span>
+      </a>
+    </div>
+
+  </div>
+
+  <script>
+    /* ══ حماية الصفحة ══ */
+    (function(){
+      document.addEventListener('contextmenu',function(e){e.preventDefault();return false;});
+      document.addEventListener('keydown',function(e){
+        if(e.key==='F12'){e.preventDefault();return false;}
+        if(e.ctrlKey&&e.shiftKey&&['I','J','C','K'].includes(e.key.toUpperCase())){e.preventDefault();return false;}
+        if(e.ctrlKey&&['U','S'].includes(e.key.toUpperCase())){e.preventDefault();return false;}
+        if(e.metaKey&&e.altKey&&['I','J','C'].includes(e.key.toUpperCase())){e.preventDefault();return false;}
+      });
+
+
+      /* روابط التطبيقات (0-8) مشفرة بـ base64 */
+      window._r=[
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3QtY2luZW1hbmEucGxpc3Q=',
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3QtcmVncmFtLnBsaXN0',
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3Qtd2hhdHNhcHBnb2xkLnBsaXN0',
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3QtdGVsZWdyYW1wbHVzLnBsaXN0',
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3QtdGlrdG9rcGx1cy5wbGlzdA==',
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3QteW91dHViZXBsdXMucGxpc3Q=',
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3QtYWlybW92aWUucGxpc3Q=',
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3QtaGl0di5wbGlzdA==',
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3QtcmVtaW5pcGx1cy5wbGlzdA==',
+        /* index 9 — Genral Pro */
+        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmEtYXBwcy5wYWdlcy5kZXYvbWFuaWZlc3QtZ2VucmFsLnBsaXN0'
+      ];
+      window._g=function(i){return atob(window._r[i]);};
+    })();
+
+    /* ══ CANVAS PARTICLES ══ */
+    const canvas=document.getElementById('bg');
+    const ctx=canvas.getContext('2d');
+    let W,H,particles=[];
+    let isDark=false;
+
+    function getCount(){
+      const area=window.innerWidth*window.innerHeight;
+      if(area>3000000)return 40;
+      if(area>1500000)return 30;
+      if(area>700000)return 20;
+      if(area>300000)return 15;
+      return 10;
+    }
+    function resize(){W=canvas.width=window.innerWidth;H=canvas.height=window.innerHeight;}
+    resize();
+    let resizeTimer;
+    window.addEventListener('resize',()=>{clearTimeout(resizeTimer);resizeTimer=setTimeout(()=>{resize();init();},150);});
+
+    class Particle{
+      constructor(){this.reset(true);}
+      reset(scatter){
+        this.x=scatter?Math.random()*W:(Math.random()<0.5?0:W);
+        this.y=Math.random()*H;
+        this.size=Math.random()*2.5+0.8;
+        this.speedX=(Math.random()-0.5)*0.45;
+        this.speedY=(Math.random()-0.5)*0.45;
+        this.life=Math.random();
+        this.maxLife=Math.random()*0.008+0.003;
+        this.color=Math.random()>0.5?`rgba(0,173,159,${(Math.random()*0.1+0.03).toFixed(2)})`:`rgba(0,199,183,${(Math.random()*0.1+0.03).toFixed(2)})`;
+      }
+      update(){this.x+=this.speedX;this.y+=this.speedY;this.life-=this.maxLife;if(this.life<=0||this.x>W||this.x<0||this.y>H||this.y<0)this.reset(false);}
+      draw(){ctx.beginPath();ctx.arc(this.x,this.y,this.size,0,Math.PI*2);ctx.fillStyle=this.color;ctx.fill();}
+    }
+
+    function init(){particles=Array.from({length:getCount()},()=>new Particle());}
+    init();
+
+    let lastFrame=0;
+    const FRAME_MS=40;
+    function drawBg(ts){
+      requestAnimationFrame(drawBg);
+      if(ts-lastFrame<FRAME_MS)return;
+      lastFrame=ts;
+      ctx.fillStyle=isDark?'rgba(14,22,33,0.55)':'rgba(220,232,245,0.35)';
+      ctx.fillRect(0,0,W,H);
+      particles.forEach(p=>{p.update();p.draw();});
+    }
+    drawBg(0);
+
+    /* ══ SKELETON ══ */
+    document.querySelectorAll('.app-icon img').forEach(img=>{
+      const mark=()=>{img.classList.add('loaded');img.closest('.app-icon').classList.add('img-loaded');};
+      if(img.complete&&img.naturalWidth>0){mark();}
+      else{
+        img.addEventListener('load',mark,{once:true});
+        img.addEventListener('error',()=>{img.closest('.app-icon').classList.add('img-loaded');img.style.display='none';},{once:true});
+      }
+    });
+
+    /* ══ THEME TOGGLE ══ */
+    const toggleBtn=document.getElementById('themeToggle');
+    toggleBtn.addEventListener('click',()=>{
+      isDark=!isDark;
+      document.body.classList.toggle('dark',isDark);
+      toggleBtn.textContent=isDark?'☀️':'🌙';
+      showToast(isDark?'🌙 الوضع الليلي':'☀️ الوضع النهاري');
+    });
+
+    /* ══ TIP TOGGLE ══ */
+    function toggleTip(btn){
+      const warning=btn.nextElementSibling;
+      const isOpen=warning.classList.contains('visible');
+      document.querySelectorAll('.app-warning.visible').forEach(w=>{
+        w.classList.remove('visible');
+        w.previousElementSibling.classList.remove('open');
+      });
+      if(!isOpen){warning.classList.add('visible');btn.classList.add('open');}
+    }
+
+    /* ══ CERT BADGE ══ */
+    let toastTimer;
+    function showToast(msg){
+      const t=document.getElementById('toast');
+      t.textContent=msg;t.classList.add('show');
+      clearTimeout(toastTimer);
+      toastTimer=setTimeout(()=>t.classList.remove('show'),2500);
+    }
+    function toggleCert(el){
+      const isOpen=el.classList.contains('open');
+      document.querySelectorAll('.cert-badge.open').forEach(b=>b.classList.remove('open'));
+      if(!isOpen){el.classList.add('open');setTimeout(()=>el.classList.remove('open'),3500);}
+    }
+    document.addEventListener('click',e=>{
+      if(!e.target.closest('.cert-badge'))
+        document.querySelectorAll('.cert-badge.open').forEach(b=>b.classList.remove('open'));
+    });
+
+    /* ══ SVG RINGS ══ */
+    document.querySelectorAll('.icon-ring').forEach((ring,idx)=>{
+      const ns='http://www.w3.org/2000/svg';
+      const svg=document.createElementNS(ns,'svg');
+      svg.setAttribute('class','ring-svg');svg.setAttribute('viewBox','0 0 68 68');
+      const defs=document.createElementNS(ns,'defs');
+      const grad=document.createElementNS(ns,'linearGradient');
+      const gid=`rg-${idx}`;
+      grad.setAttribute('id',gid);grad.setAttribute('x1','0%');grad.setAttribute('y1','0%');
+      grad.setAttribute('x2','100%');grad.setAttribute('y2','100%');
+      [['0%','#54c5f8','1'],['55%','#2AABEE','0.6'],['100%','#54c5f8','0']].forEach(([off,col,op])=>{
+        const s=document.createElementNS(ns,'stop');
+        s.setAttribute('offset',off);s.setAttribute('stop-color',col);s.setAttribute('stop-opacity',op);
+        grad.appendChild(s);
+      });
+      defs.appendChild(grad);svg.appendChild(defs);
+      const track=document.createElementNS(ns,'rect');
+      track.setAttribute('class','ring-track');track.setAttribute('x','2');track.setAttribute('y','2');
+      track.setAttribute('width','64');track.setAttribute('height','64');track.setAttribute('rx','15');
+      const prog=document.createElementNS(ns,'rect');
+      prog.setAttribute('class','ring-progress');prog.setAttribute('x','2');prog.setAttribute('y','2');
+      prog.setAttribute('width','64');prog.setAttribute('height','64');prog.setAttribute('rx','15');
+      prog.setAttribute('stroke-dasharray','70 160');prog.setAttribute('stroke-dashoffset','0');
+      prog.setAttribute('stroke',`url(#${gid})`);
+      const inner=document.createElementNS(ns,'rect');
+      inner.setAttribute('class','ring-inner');inner.setAttribute('x','6');inner.setAttribute('y','6');
+      inner.setAttribute('width','56');inner.setAttribute('height','56');inner.setAttribute('rx','12');
+      inner.setAttribute('stroke-dasharray','40 163');inner.setAttribute('stroke-dashoffset','0');
+      svg.appendChild(track);svg.appendChild(prog);svg.appendChild(inner);
+      ring.prepend(svg);
+    });
+
+    /* ══ INTERSECTION OBSERVER ══ */
+    const cardObs=new IntersectionObserver((entries)=>{
+      entries.forEach(entry=>{
+        if(entry.isIntersecting){entry.target.classList.add('in-view');cardObs.unobserve(entry.target);}
+      });
+    },{threshold:0,rootMargin:'0px 0px 60px 0px'});
+    document.querySelectorAll('.app-card').forEach((card,i)=>{
+      card.style.animationDelay=`${i*0.02}s`;
+      cardObs.observe(card);
+    });
+
+    /* ══ TOUCH EVENTS ══ */
+    document.querySelectorAll('.app-card').forEach(card=>{
+      card.addEventListener('touchstart',e=>{
+        if(e.target.closest('.install-btn,.tip-toggle-btn'))return;
+        card.classList.add('touch-active');
+      },{passive:true});
+      const rem=()=>card.classList.remove('touch-active');
+      card.addEventListener('touchend',rem,{passive:true});
+      card.addEventListener('touchcancel',rem,{passive:true});
+    });
+    document.querySelectorAll('.touch-target').forEach(el=>{
+      el.addEventListener('touchstart',function(){this.classList.add('touch-active');},{passive:true});
+      el.addEventListener('touchend',function(){this.classList.remove('touch-active');},{passive:true});
+      el.addEventListener('touchcancel',function(){this.classList.remove('touch-active');},{passive:true});
+    });
+
+    /* ══ INSTALL BUTTONS ══ */
+    document.querySelectorAll('.install-btn').forEach(btn=>{
+      function triggerRipple(){
+        btn.classList.remove('ripple');void btn.offsetWidth;
+        btn.classList.add('ripple');
+        setTimeout(()=>btn.classList.remove('ripple'),200);
+      }
+      btn.addEventListener('touchstart',triggerRipple,{passive:true});
+      btn.addEventListener('mousedown',triggerRipple);
+      btn.addEventListener('click',function(e){
+        e.preventDefault();
+        if(this.disabled)return;
+        const idx=parseInt(this.getAttribute('data-idx'));
+        const isDirect=this.getAttribute('data-direct')==='true';
+        const url=window._g(idx);
+        this.classList.add('loading');this.disabled=true;
+
+        if(isDirect){
+          /* فتح رابط مباشر في تبويب جديد */
+          setTimeout(()=>{window.open(url,'_blank');},30);
+        } else {
+          /* تثبيت عبر itms-services */
+          setTimeout(()=>{window.location.href=url;},30);
+        }
+
+        setTimeout(()=>{
+          this.classList.remove('loading');this.classList.add('success');
+          showToast('✅ جاري التحميل...');
+          setTimeout(()=>{this.classList.remove('success');this.disabled=false;},3000);
+        },3000);
+      });
+    });
+
+    /* ══ TELEGRAM BUTTON ══ */
+    const tgBtn=document.querySelector('.telegram-text-btn');
+    if(tgBtn){
+      const tgPress=()=>{tgBtn.classList.remove('releasing');tgBtn.classList.add('pressed');};
+      const tgRelease=()=>{tgBtn.classList.remove('pressed');tgBtn.classList.add('releasing');setTimeout(()=>tgBtn.classList.remove('releasing'),400);};
+      tgBtn.addEventListener('touchstart',tgPress,{passive:true});
+      tgBtn.addEventListener('touchend',tgRelease,{passive:true});
+      tgBtn.addEventListener('touchcancel',tgRelease,{passive:true});
+      tgBtn.addEventListener('mousedown',tgPress);
+      tgBtn.addEventListener('mouseup',tgRelease);
+      tgBtn.addEventListener('mouseleave',tgRelease);
+    }
+  </script>
+</body>
+</html>
