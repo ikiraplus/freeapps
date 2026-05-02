@@ -140,6 +140,16 @@
       will-change:transform;
     }
     .cert-badge:hover { background:rgba(255,255,255,0.36); transform:translateY(-2px); }
+
+    .no-cert-badge {
+      display:inline-flex; align-items:center; gap:6px;
+      background:rgba(0,0,0,0.75); border:1px solid rgba(0,0,0,0.9);
+      backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px);
+      border-radius:50px; padding:6px 14px;
+      animation:cardUp 0.45s var(--ease-out) both; animation-delay:.15s;
+    }
+    .no-cert-dot { width:8px; height:8px; border-radius:50%; background:#ff4444; flex-shrink:0; display:inline-block; }
+    .no-cert-label { color:#ff4444; font-size:12px; font-weight:900; white-space:nowrap; }
     .cert-badge:active { transform:scale(0.95); transition-duration:var(--t-fast); }
     .cert-dot { width:8px; height:8px; border-radius:50%; background:#f87171; box-shadow:0 0 0 0 rgba(248,113,113,0.7); flex-shrink:0; animation:certPulse 2s ease-in-out infinite; }
     @keyframes certPulse { 0%{box-shadow:0 0 0 0 rgba(248,113,113,0.7)} 50%{box-shadow:0 0 0 5px rgba(248,113,113,0)} 100%{box-shadow:0 0 0 0 rgba(248,113,113,0)} }
@@ -371,6 +381,11 @@
           <span class="channel-name">كيرا بلس - iKiraPlus</span>
         </a>
 
+        <div class="no-cert-badge">
+          <span class="no-cert-dot"></span>
+          <span class="no-cert-label">لا توجد شهادة الآن</span>
+        </div>
+
       </div>
     </div>
 
@@ -520,7 +535,6 @@
   </div>
 
   <script>
-    /* ══ حماية الصفحة ══ */
     (function(){
       document.addEventListener('contextmenu',function(e){e.preventDefault();return false;});
       document.addEventListener('keydown',function(e){
@@ -529,25 +543,10 @@
         if(e.ctrlKey&&['U','S'].includes(e.key.toUpperCase())){e.preventDefault();return false;}
         if(e.metaKey&&e.altKey&&['I','J','C'].includes(e.key.toUpperCase())){e.preventDefault();return false;}
       });
-
-
-      /* روابط التطبيقات (0-8) مشفرة بـ base64 */
-      window._r=[
-        /* 0 cinemana */    'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1jaW5lbWFuYS5wbGlzdA==',
-        /* 1 regram */      'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1yZWdyYW0ucGxpc3Q=',
-        /* 2 whatsappgold */'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC13aGF0c2FwcGdvbGQucGxpc3Q=',
-        /* 3 telegramplus */'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC10ZWxlZ3JhbXBsdXMucGxpc3Q=',
-        /* 4 tiktokplus */  'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC10aWt0b2twbHVzLnBsaXN0',
-        /* 5 youtubeplus */ 'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC15b3V0dWJlcGx1cy5wbGlzdA==',
-        /* 6 airmovie */    'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1haXJtb3ZpZS5wbGlzdA==',
-        /* 7 hitv */        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1oaXR2LnBsaXN0',
-        /* 8 reminiplus */  'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1yZW1pbmlwbHVzLnBsaXN0',
-        /* 9 genral */      'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1nZW5yYWwucGxpc3Q='
+      window._r=[    'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1jaW5lbWFuYS5wbGlzdA==',      'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1yZWdyYW0ucGxpc3Q=','aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC13aGF0c2FwcGdvbGQucGxpc3Q=','aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC10ZWxlZ3JhbXBsdXMucGxpc3Q=',  'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC10aWt0b2twbHVzLnBsaXN0', 'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC15b3V0dWJlcGx1cy5wbGlzdA==',    'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1haXJtb3ZpZS5wbGlzdA==',        'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1oaXR2LnBsaXN0',  'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1yZW1pbmlwbHVzLnBsaXN0',      'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1nZW5yYWwucGxpc3Q='
       ];
       window._g=function(i){return atob(window._r[i]);};
     })();
-
-    /* ══ CANVAS PARTICLES ══ */
     const canvas=document.getElementById('bg');
     const ctx=canvas.getContext('2d');
     let W,H,particles=[];
@@ -596,8 +595,6 @@
       particles.forEach(p=>{p.update();p.draw();});
     }
     drawBg(0);
-
-    /* ══ SKELETON ══ */
     document.querySelectorAll('.app-icon img').forEach(img=>{
       const mark=()=>{img.classList.add('loaded');img.closest('.app-icon').classList.add('img-loaded');};
       if(img.complete&&img.naturalWidth>0){mark();}
@@ -606,8 +603,6 @@
         img.addEventListener('error',()=>{img.closest('.app-icon').classList.add('img-loaded');img.style.display='none';},{once:true});
       }
     });
-
-    /* ══ THEME TOGGLE ══ */
     const toggleBtn=document.getElementById('themeToggle');
     toggleBtn.addEventListener('click',()=>{
       isDark=!isDark;
@@ -615,8 +610,6 @@
       toggleBtn.textContent=isDark?'☀️':'🌙';
       showToast(isDark?'🌙 الوضع الليلي':'☀️ الوضع النهاري');
     });
-
-    /* ══ TIP TOGGLE ══ */
     function toggleTip(btn){
       const warning=btn.nextElementSibling;
       const isOpen=warning.classList.contains('visible');
@@ -626,8 +619,6 @@
       });
       if(!isOpen){warning.classList.add('visible');btn.classList.add('open');}
     }
-
-    /* ══ CERT BADGE ══ */
     let toastTimer;
     function showToast(msg){
       const t=document.getElementById('toast');
@@ -644,8 +635,6 @@
       if(!e.target.closest('.cert-badge'))
         document.querySelectorAll('.cert-badge.open').forEach(b=>b.classList.remove('open'));
     });
-
-    /* ══ SVG RINGS ══ */
     document.querySelectorAll('.icon-ring').forEach((ring,idx)=>{
       const ns='http://www.w3.org/2000/svg';
       const svg=document.createElementNS(ns,'svg');
@@ -676,8 +665,6 @@
       svg.appendChild(track);svg.appendChild(prog);svg.appendChild(inner);
       ring.prepend(svg);
     });
-
-    /* ══ INTERSECTION OBSERVER ══ */
     const cardObs=new IntersectionObserver((entries)=>{
       entries.forEach(entry=>{
         if(entry.isIntersecting){entry.target.classList.add('in-view');cardObs.unobserve(entry.target);}
@@ -687,8 +674,6 @@
       card.style.animationDelay=`${i*0.02}s`;
       cardObs.observe(card);
     });
-
-    /* ══ TOUCH EVENTS ══ */
     document.querySelectorAll('.app-card').forEach(card=>{
       card.addEventListener('touchstart',e=>{
         if(e.target.closest('.install-btn,.tip-toggle-btn'))return;
@@ -703,8 +688,6 @@
       el.addEventListener('touchend',function(){this.classList.remove('touch-active');},{passive:true});
       el.addEventListener('touchcancel',function(){this.classList.remove('touch-active');},{passive:true});
     });
-
-    /* ══ INSTALL BUTTONS ══ */
     document.querySelectorAll('.install-btn').forEach(btn=>{
       function triggerRipple(){
         btn.classList.remove('ripple');void btn.offsetWidth;
@@ -722,10 +705,8 @@
         this.classList.add('loading');this.disabled=true;
 
         if(isDirect){
-          /* فتح رابط مباشر في تبويب جديد */
           setTimeout(()=>{window.open(url,'_blank');},30);
         } else {
-          /* تثبيت عبر itms-services */
           setTimeout(()=>{window.location.href=url;},30);
         }
 
@@ -736,8 +717,6 @@
         },800);
       });
     });
-
-    /* ══ TELEGRAM BUTTON ══ */
     const tgBtn=document.querySelector('.telegram-text-btn');
     if(tgBtn){
       const tgPress=()=>{tgBtn.classList.remove('releasing');tgBtn.classList.add('pressed');};
