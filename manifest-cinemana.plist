@@ -12,13 +12,13 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://github.com/ikiraplus/freeapps/releases/download/v3.0/Cinemana.ipa</string>
+          <string>https://github.com/ikiraplus/freeapps/releases/download/v3.0/Cinemanakira.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.kira.cinemanaa.fixed</string>
+        <string>com.cinemana.ikiraplus</string>
         <key>bundle-version</key>
         <string>1.0</string>
         <key>kind</key>
