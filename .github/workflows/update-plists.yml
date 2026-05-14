@@ -1,0 +1,356 @@
+name: Update plist links and bundle id from release
+
+on:
+  release:
+    types: [published, edited]
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: "Release tag مثل v5.0.0"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  update-plists:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Update plist IPA links and bundle id
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_TAG: ${{ inputs.release_tag }}
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python3 <<'PY'
+          import os
+          import re
+          import json
+          import zipfile
+          import plistlib
+          import tempfile
+          import urllib.request
+          from pathlib import Path
+
+          token = os.environ["GITHUB_TOKEN"]
+          repo_full = os.environ["GITHUB_REPOSITORY"]
+          owner, repo = repo_full.split("/")
+          release_tag_input = os.environ.get("RELEASE_TAG", "").strip()
+          event_path = os.environ.get("GITHUB_EVENT_PATH")
+
+          api_base = "https://api.github.com"
+
+          def github_json(url):
+              req = urllib.request.Request(url)
+              req.add_header("Authorization", f"Bearer {token}")
+              req.add_header("Accept", "application/vnd.github+json")
+              req.add_header("User-Agent", "plist-updater")
+
+              with urllib.request.urlopen(req) as r:
+                  return json.loads(r.read().decode("utf-8"))
+
+          def download_asset(asset, out_path):
+              req = urllib.request.Request(asset["url"])
+              req.add_header("Authorization", f"Bearer {token}")
+              req.add_header("Accept", "application/octet-stream")
+              req.add_header("User-Agent", "plist-updater")
+
+              with urllib.request.urlopen(req) as r, open(out_path, "wb") as f:
+                  f.write(r.read())
+
+          def normalize(text):
+              return re.sub(r"[^a-z0-9]+", "", str(text).lower())
+
+          def keyword_groups(rule):
+              if isinstance(rule.get("aliases"), list):
+                  return rule["aliases"]
+
+              if isinstance(rule.get("keywords"), list):
+                  return [rule["keywords"]]
+
+              return []
+
+          def match_asset(asset_name, rule):
+              if not asset_name.lower().endswith(".ipa"):
+                  return False
+
+              clean_name = normalize(asset_name)
+
+              for group in keyword_groups(rule):
+                  if all(normalize(word) in clean_name for word in group):
+                      return True
+
+              return False
+
+          def get_release():
+              if event_path and Path(event_path).exists():
+                  with open(event_path, "r", encoding="utf-8") as f:
+                      event = json.load(f)
+
+                  if "release" in event:
+                      return event["release"]
+
+              if release_tag_input:
+                  return github_json(
+                      f"{api_base}/repos/{owner}/{repo}/releases/tags/{release_tag_input}"
+                  )
+
+              return github_json(
+                  f"{api_base}/repos/{owner}/{repo}/releases/latest"
+              )
+
+          def list_assets(release):
+              release_id = release["id"]
+              return github_json(
+                  f"{api_base}/repos/{owner}/{repo}/releases/{release_id}/assets?per_page=100"
+              )
+
+          def extract_bundle_id_from_ipa(ipa_path):
+              with zipfile.ZipFile(ipa_path, "r") as z:
+                  plist_names = [
+                      name for name in z.namelist()
+                      if name.startswith("Payload/")
+                      and name.endswith(".app/Info.plist")
+                  ]
+
+                  if not plist_names:
+                      return ""
+
+                  data = z.read(plist_names[0])
+                  info = plistlib.loads(data)
+
+                  return info.get("CFBundleIdentifier", "")
+
+          def update_manifest_with_plistlib(plist_path, new_url=None, bundle_id=None, clear_url=False):
+              """
+              يعدل manifest بشكل صحيح:
+              - يحدث رابط software-package
+              - يحدث bundle-identifier فقط إذا bundle_id موجود
+              - إذا clear_url=True يمسح رابط IPA
+              """
+              try:
+                  with open(plist_path, "rb") as f:
+                      data = plistlib.load(f)
+
+                  changed = False
+
+                  items = data.get("items", [])
+
+                  if items and isinstance(items, list):
+                      item = items[0]
+
+                      assets = item.get("assets", [])
+
+                      for asset_item in assets:
+                          if asset_item.get("kind") == "software-package":
+                              old_url = asset_item.get("url", "")
+
+                              if clear_url:
+                                  target_url = ""
+                              else:
+                                  target_url = new_url or old_url
+
+                              if old_url != target_url:
+                                  asset_item["url"] = target_url
+                                  changed = True
+
+                      metadata = item.get("metadata", {})
+
+                      if bundle_id:
+                          old_bundle = metadata.get("bundle-identifier", "")
+
+                          if old_bundle != bundle_id:
+                              metadata["bundle-identifier"] = bundle_id
+                              changed = True
+
+                  if changed:
+                      with open(plist_path, "wb") as f:
+                          plistlib.dump(data, f, sort_keys=False)
+
+                  return changed
+
+              except Exception as e:
+                  print(f"plistlib failed for {plist_path}: {e}")
+                  return None
+
+          def fallback_replace_ipa_url(content, new_url):
+              ipa_url_regex = r'https?://[^<>"\'\s]+\.ipa(?:\?[^<>"\'\s]*)?'
+              return re.sub(ipa_url_regex, new_url, content, flags=re.I)
+
+          def fallback_replace_key_string(content, key, value):
+              if not value:
+                  return content
+
+              pattern = rf"(<key>{re.escape(key)}</key>\s*<string>)(.*?)(</string>)"
+
+              if re.search(pattern, content, flags=re.S):
+                  return re.sub(pattern, rf"\g<1>{value}\g<3>", content, flags=re.S)
+
+              return content
+
+          release = get_release()
+          assets = list_assets(release)
+
+          print(f"Using release: {release.get('tag_name')}")
+          print("Assets:")
+
+          for a in assets:
+              print(" -", a["name"])
+
+          map_path = Path("release-map.json")
+
+          if not map_path.exists():
+              raise SystemExit("release-map.json not found")
+
+          mapping = json.loads(map_path.read_text(encoding="utf-8"))
+
+          changed_files = []
+          cleared_files = []
+          skipped = []
+
+          with tempfile.TemporaryDirectory() as tmpdir:
+              for plist_file, rule in mapping.items():
+                  plist_path = Path(plist_file)
+
+                  if not plist_path.exists():
+                      skipped.append(f"{plist_file}: file not found")
+                      print(f"SKIP {plist_file}: file not found")
+                      continue
+
+                  matched_assets = [
+                      a for a in assets
+                      if match_asset(a["name"], rule)
+                  ]
+
+                  # إذا ماكو IPA مطابق، امسح رابط IPA من manifest
+                  if not matched_assets:
+                      print(f"NO IPA FOUND FOR {plist_file}, clearing IPA URL")
+
+                      changed = update_manifest_with_plistlib(
+                          plist_path,
+                          clear_url=True
+                      )
+
+                      if changed is None:
+                          old_content = plist_path.read_text(encoding="utf-8")
+                          new_content = fallback_replace_ipa_url(old_content, "")
+
+                          if new_content != old_content:
+                              plist_path.write_text(new_content, encoding="utf-8")
+                              changed = True
+                          else:
+                              changed = False
+
+                      if changed:
+                          cleared_files.append(plist_file)
+                          print(f"CLEARED URL {plist_file}")
+                      else:
+                          skipped.append(f"{plist_file}: no matching IPA and URL already empty")
+                          print(f"NO CHANGE {plist_file}: URL already empty")
+
+                      continue
+
+                  matched_assets.sort(
+                      key=lambda a: a.get("updated_at") or a.get("created_at") or "",
+                      reverse=True
+                  )
+
+                  asset = matched_assets[0]
+                  ipa_path = Path(tmpdir) / asset["name"]
+                  new_url = asset["browser_download_url"]
+                  bundle_id = ""
+
+                  print(f"MATCH {plist_file} -> {asset['name']}")
+                  print(f"New URL: {new_url}")
+
+                  # هنا المهم:
+                  # الرابط يتحدث دائماً
+                  # الباندل يتحدث فقط إذا قدر يقرأه من IPA
+                  try:
+                      download_asset(asset, ipa_path)
+                  except Exception as e:
+                      print(f"WARNING {plist_file}: failed to download IPA, URL will still be updated - {e}")
+                      skipped.append(f"{plist_file}: bundle id skipped, IPA download failed")
+                  else:
+                      try:
+                          bundle_id = extract_bundle_id_from_ipa(ipa_path)
+                      except Exception as e:
+                          print(f"WARNING {plist_file}: failed to read bundle id, old bundle id will stay - {e}")
+                          skipped.append(f"{plist_file}: bundle id skipped, read failed")
+                          bundle_id = ""
+
+                  if bundle_id:
+                      print(f"Bundle ID: {bundle_id}")
+                  else:
+                      print(f"Bundle ID: not updated for {plist_file}")
+
+                  changed = update_manifest_with_plistlib(
+                      plist_path,
+                      new_url=new_url,
+                      bundle_id=bundle_id,
+                      clear_url=False
+                  )
+
+                  if changed is None:
+                      old_content = plist_path.read_text(encoding="utf-8")
+                      new_content = old_content
+
+                      new_content = fallback_replace_ipa_url(new_content, new_url)
+                      new_content = fallback_replace_key_string(
+                          new_content,
+                          "bundle-identifier",
+                          bundle_id
+                      )
+
+                      if new_content != old_content:
+                          plist_path.write_text(new_content, encoding="utf-8")
+                          changed = True
+                      else:
+                          changed = False
+
+                  if changed:
+                      changed_files.append(plist_file)
+                      print(f"UPDATED {plist_file}")
+                  else:
+                      skipped.append(f"{plist_file}: no changes")
+                      print(f"NO CHANGE {plist_file}")
+
+          print("")
+          print("Updated files:")
+
+          for f in changed_files:
+              print(" -", f)
+
+          print("")
+          print("Cleared files:")
+
+          for f in cleared_files:
+              print(" -", f)
+
+          print("")
+          print("Skipped:")
+
+          for s in skipped:
+              print(" -", s)
+
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git status
+          git diff
+          git add manifest-*.plist
+          git commit -m "Auto update plist links and bundle id from release" || exit 0
+          git push origin HEAD:main
