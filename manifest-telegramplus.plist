@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/ikiraplus/freeapps/releases/download/v4.0/Swiftgram.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>app.Telegramextra.ikiraplus</string>
+				<string>app.swiftgram.ikiraplus</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
