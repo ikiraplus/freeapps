@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.whatsappgold.ikiraplus</string>
+				<string>net.whatsapp.ikiraplus</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
