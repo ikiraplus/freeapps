@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ikiraplus/freeapps/releases/download/v7.9/Cinemana.ipa</string>
+					<string>https://github.com/ikiraplus/freeapps/releases/download/bag/Cinemana_4.1.0_1782130396.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cinemana.ikiraplus</string>
+				<string>com.xl.MyXL.Giant</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
