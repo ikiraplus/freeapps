@@ -680,7 +680,89 @@
       #cert-popup-overlay,#cert-popup-box {animation-duration:.01ms!important;}
     }
 
-  </style>
+  
+
+    /* Stability fixes: popup close, unclipped labels, smoother notes */
+    .app-name {
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      width:100%;
+      min-width:0;
+      min-height:2.8em;
+      padding:2px 7px 4px;
+      line-height:1.45;
+      letter-spacing:0;
+      white-space:normal;
+      overflow:visible;
+      text-overflow:clip;
+      overflow-wrap:anywhere;
+      word-break:normal;
+      text-align:center;
+      text-rendering:optimizeLegibility;
+      -webkit-font-smoothing:antialiased;
+    }
+
+    .tip-toggle-btn {
+      transform:translateZ(0);
+      will-change:transform;
+      transition:transform .16s cubic-bezier(.2,.8,.2,1), background-color .16s ease, border-color .16s ease;
+      -webkit-backdrop-filter:blur(10px) saturate(145%);
+      backdrop-filter:blur(10px) saturate(145%);
+    }
+    .tip-toggle-btn:hover { transform:translateY(-1px) translateZ(0); }
+    .tip-toggle-btn:active,
+    .tip-toggle-btn.touch-active {
+      transform:scale(.97) translateZ(0)!important;
+      transition-duration:.08s!important;
+      box-shadow:none!important;
+    }
+    .tip-toggle-btn .tip-arrow {
+      will-change:transform;
+      transition:transform .18s cubic-bezier(.2,.8,.2,1);
+    }
+
+    .app-warning {
+      display:grid;
+      grid-template-rows:0fr;
+      max-height:none;
+      width:100%;
+      padding:0 6px;
+      margin:0;
+      opacity:0;
+      transform:translateY(-3px) translateZ(0);
+      overflow:hidden;
+      -webkit-backdrop-filter:none;
+      backdrop-filter:none;
+      will-change:grid-template-rows,opacity,transform;
+      transition:grid-template-rows .20s cubic-bezier(.2,.8,.2,1),
+                 padding .20s cubic-bezier(.2,.8,.2,1),
+                 margin-bottom .20s cubic-bezier(.2,.8,.2,1),
+                 opacity .13s ease,
+                 transform .18s cubic-bezier(.2,.8,.2,1);
+    }
+    .app-warning-inner {
+      min-height:0;
+      overflow:hidden;
+      display:block;
+    }
+    .app-warning.visible {
+      grid-template-rows:1fr;
+      max-height:none;
+      padding:8px 6px;
+      margin-bottom:6px;
+      opacity:1;
+      transform:translateY(0) translateZ(0);
+    }
+
+    #cert-popup-overlay.closing #cert-popup-close {
+      opacity:0!important;
+      visibility:hidden!important;
+      pointer-events:none!important;
+      transform:scale(.72) translateZ(0)!important;
+      transition:opacity .10s ease, visibility 0s linear .10s, transform .10s ease!important;
+    }
+</style>
 </head>
 <body>
 <div id="cert-popup-overlay">
@@ -736,7 +818,7 @@
 <div class="app-name">سينمانا كيرا</div>
 <div class="app-note"></div>
 <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
-<div class="app-warning">النسخه تدعم التحميل بالكامل وتعمل مع انترنت ايرثلنك ومزوديها فقط</div>
+<div class="app-warning"><span class="app-warning-inner">النسخه تدعم التحميل بالكامل وتعمل مع انترنت ايرثلنك ومزوديها فقط</span></div>
 <button class="install-btn touch-target" data-idx="0">
 <span class="loading-spinner"></span>
 <svg class="btn-check" fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
@@ -748,7 +830,7 @@
 <div class="app-name">ريوكرام ( هونيستا )</div>
 <div class="app-note"></div>
 <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
-<div class="app-warning">لفتح مميزات النسخة اضغط ضغطة مطوله على زر الهوم بالاسفل ( زر البيت بجانب الريلزات )</div>
+<div class="app-warning"><span class="app-warning-inner">لفتح مميزات النسخة اضغط ضغطة مطوله على زر الهوم بالاسفل ( زر البيت بجانب الريلزات )</span></div>
 <button class="install-btn touch-target" data-idx="1">
 <span class="loading-spinner"></span>
 <svg class="btn-check" fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
@@ -760,7 +842,7 @@
 <div class="app-name">واتساب كولد</div>
 <div class="app-note"></div>
 <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
-<div class="app-warning">اذا اردت استخدام النسخه بشكل ثانوي بجانب الاساسية قم بالتسجيل بها عن طريق خيار ( الربط كجهاز مصاحب )</div>
+<div class="app-warning"><span class="app-warning-inner">اذا اردت استخدام النسخه بشكل ثانوي بجانب الاساسية قم بالتسجيل بها عن طريق خيار ( الربط كجهاز مصاحب )</span></div>
 <button class="install-btn touch-target" data-idx="2">
 <span class="loading-spinner"></span>
 <svg class="btn-check" fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
@@ -772,7 +854,7 @@
 <div class="app-name">تيليكرام بلس</div>
 <div class="app-note"></div>
 <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
-<div class="app-warning">لتفعيل المميزات اذهب للاعدادات لقسم whitegram وهناك مميزات إضافية اذهب للاعدادات واضغط مطولاً على «اسأل سؤالاً»</div>
+<div class="app-warning"><span class="app-warning-inner">لتفعيل المميزات اذهب للاعدادات لقسم whitegram وهناك مميزات إضافية اذهب للاعدادات واضغط مطولاً على «اسأل سؤالاً»</span></div>
 <button class="install-btn touch-target" data-idx="3">
 <span class="loading-spinner"></span>
 <svg class="btn-check" fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
@@ -804,7 +886,7 @@
 <div class="app-name">cinemabox</div>
 <div class="app-note"></div>
 <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
-<div class="app-warning">محذوف من المتجر يعمل مع شبكات وانترنت ( الجزيرة - سوبرسيل - هرنز )</div>
+<div class="app-warning"><span class="app-warning-inner">محذوف من المتجر يعمل مع شبكات وانترنت ( الجزيرة - سوبرسيل - هرنز )</span></div>
 <button class="install-btn touch-target" data-idx="11">
 <span class="loading-spinner"></span>
 <svg class="btn-check" fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
@@ -816,7 +898,7 @@
 <div class="app-name">voziplay</div>
 <div class="app-note"></div>
 <button class="tip-toggle-btn touch-target" onclick="toggleTip(this)">💡 ملاحظة <i class="tip-arrow">▾</i></button>
-<div class="app-warning">كود التفعيل 22455 هذا التطبيق مختص لمشاهدة القنوات الرياضية والتلفزيونية المشفرة ويحتوي قسم خاص بالأفلام والمسلسلات بالاسفل كما يحتوي قسم أنمي وموسيقى</div>
+<div class="app-warning"><span class="app-warning-inner">كود التفعيل 22455 هذا التطبيق مختص لمشاهدة القنوات الرياضية والتلفزيونية المشفرة ويحتوي قسم خاص بالأفلام والمسلسلات بالاسفل كما يحتوي قسم أنمي وموسيقى</span></div>
 <button class="install-btn touch-target" data-direct="false" data-idx="9">
 <span class="loading-spinner"></span>
 <svg class="btn-check" fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
@@ -959,14 +1041,24 @@
       try{localStorage.setItem('ikira-theme',isDark?'dark':'light');}catch(_e){}
       showToast(isDark?'🌙 الوضع الليلي':'☀️ الوضع النهاري');
     });
+    let tipFrame=0;
     function toggleTip(btn){
       const warning=btn.nextElementSibling;
-      const isOpen=warning.classList.contains('visible');
-      document.querySelectorAll('.app-warning.visible').forEach(w=>{
-        w.classList.remove('visible');
-        w.previousElementSibling.classList.remove('open');
+      if(!warning||!warning.classList.contains('app-warning'))return;
+      const shouldOpen=!warning.classList.contains('visible');
+      btn.classList.remove('touch-active');
+      cancelAnimationFrame(tipFrame);
+      tipFrame=requestAnimationFrame(()=>{
+        document.querySelectorAll('.app-warning.visible').forEach(w=>{
+          w.classList.remove('visible');
+          const trigger=w.previousElementSibling;
+          if(trigger)trigger.classList.remove('open','touch-active');
+        });
+        if(shouldOpen){
+          warning.classList.add('visible');
+          btn.classList.add('open');
+        }
       });
-      if(!isOpen){warning.classList.add('visible');btn.classList.add('open');}
     }
     let toastTimer;
     function showToast(msg){
@@ -1087,8 +1179,13 @@
         if(isClosing)return;
         isClosing=true;
         closeBtn.disabled=true;
+        closeBtn.setAttribute('aria-hidden','true');
         overlay.classList.add('closing');
-        window.setTimeout(()=>{overlay.hidden=true;},300);
+        window.setTimeout(()=>{
+          overlay.style.display='none';
+          overlay.hidden=true;
+          overlay.remove();
+        },280);
       }
       const press=()=>closeBtn.classList.add('pressed');
       const release=()=>closeBtn.classList.remove('pressed');
