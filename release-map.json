@@ -1,38 +1,74 @@
 {
   "manifest-airmovie.plist": {
     "aliases": [
-      ["air", "movie"],
-      ["air", "mov"]
+      [
+        "air",
+        "movie"
+      ],
+      [
+        "air",
+        "mov"
+      ]
     ]
   },
   "manifest-cinemana.plist": {
-    "keywords": ["cinemana"]
+    "keywords": [
+      "cinemana"
+    ]
   },
-  "manifest-genral.plist": {
-    "keywords": ["genral"]
+  "manifest-voziplay.plist": {
+    "keywords": [
+      "voziplay"
+    ]
   },
   "manifest-hitv.plist": {
-    "keywords": ["hitv"]
+    "keywords": [
+      "hitv"
+    ]
   },
   "manifest-regram.plist": {
-    "keywords": ["ryukgram"]
+    "keywords": [
+      "ryukgram"
+    ]
   },
   "manifest-reminiplus.plist": {
-    "keywords": ["remini"]
+    "keywords": [
+      "remini"
+    ]
   },
   "manifest-telegramplus.plist": {
     "aliases": [
-      ["telegram"],
-      ["swiftgram"]
+      [
+        "telegram"
+      ],
+      [
+        "swiftgram"
+      ]
     ]
   },
   "manifest-tiktokplus.plist": {
-    "keywords": ["tiktok"]
+    "keywords": [
+      "tiktok"
+    ]
   },
   "manifest-whatsappgold.plist": {
-    "keywords": ["whatsapp"]
+    "keywords": [
+      "whatsapp"
+    ]
   },
   "manifest-youtubeplus.plist": {
-    "keywords": ["youtube"]
+    "keywords": [
+      "youtube"
+    ]
+  },
+  "manifest-picsart.plist": {
+    "keywords": [
+      "picsart"
+    ]
+  },
+  "manifest-cinemabox.plist": {
+    "keywords": [
+      "cinemabox"
+    ]
   }
 }
