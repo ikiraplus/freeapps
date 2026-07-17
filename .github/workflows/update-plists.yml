@@ -1,356 +1,416 @@
-name: Update plist links and bundle id from release
+name: Update plist links and bundle id from releases
 
 on:
+  push:
+    branches: [main]
+    tags: ['**']
   release:
-    types: [published, edited]
+    types: [created, published, edited, deleted, unpublished, prereleased, released]
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
-      release_tag:
-        description: "Release tag مثل v5.0.0"
+      force_verify:
+        description: "إعادة فحص كل ملفات IPA حتى لو لم تتغير"
         required: false
-        type: string
+        default: false
+        type: boolean
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-plists-${{ github.repository }}
+  cancel-in-progress: true
+
 jobs:
   update-plists:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository main branch
         uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 2
 
-      - name: Update plist IPA links and bundle id
+      - name: Update plist IPA links and verified bundle ids
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          RELEASE_TAG: ${{ inputs.release_tag }}
-          GITHUB_EVENT_PATH: ${{ github.event_path }}
           GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+          FORCE_VERIFY: ${{ inputs.force_verify || 'false' }}
         run: |
           python3 <<'PY'
-          import os
-          import re
+          import datetime as dt
           import json
-          import zipfile
+          import os
           import plistlib
+          import re
           import tempfile
+          import urllib.error
           import urllib.request
-          from pathlib import Path
+          import zipfile
+          from pathlib import Path, PurePosixPath
 
           token = os.environ["GITHUB_TOKEN"]
           repo_full = os.environ["GITHUB_REPOSITORY"]
-          owner, repo = repo_full.split("/")
-          release_tag_input = os.environ.get("RELEASE_TAG", "").strip()
-          event_path = os.environ.get("GITHUB_EVENT_PATH")
-
+          owner, repo = repo_full.split("/", 1)
+          event_name = os.environ.get("GITHUB_EVENT_NAME", "")
+          event_path = Path(os.environ.get("GITHUB_EVENT_PATH", ""))
+          force_verify = os.environ.get("FORCE_VERIFY", "false").lower() == "true"
           api_base = "https://api.github.com"
 
-          def github_json(url):
+          def request_json(url):
               req = urllib.request.Request(url)
               req.add_header("Authorization", f"Bearer {token}")
               req.add_header("Accept", "application/vnd.github+json")
+              req.add_header("X-GitHub-Api-Version", "2022-11-28")
               req.add_header("User-Agent", "plist-updater")
+              with urllib.request.urlopen(req, timeout=30) as response:
+                  return json.loads(response.read().decode("utf-8"))
 
-              with urllib.request.urlopen(req) as r:
-                  return json.loads(r.read().decode("utf-8"))
+          def load_event():
+              if not event_path.is_file():
+                  return {}
+              try:
+                  return json.loads(event_path.read_text(encoding="utf-8"))
+              except Exception as exc:
+                  print(f"WARNING: cannot read event payload: {exc}")
+                  return {}
 
-          def download_asset(asset, out_path):
-              req = urllib.request.Request(asset["url"])
-              req.add_header("Authorization", f"Bearer {token}")
-              req.add_header("Accept", "application/octet-stream")
-              req.add_header("User-Agent", "plist-updater")
+          event = load_event()
+          event_release_id = str((event.get("release") or {}).get("id") or "")
 
-              with urllib.request.urlopen(req) as r, open(out_path, "wb") as f:
-                  f.write(r.read())
+          def list_releases():
+              releases = []
+              page = 1
+              while True:
+                  batch = request_json(
+                      f"{api_base}/repos/{owner}/{repo}/releases?per_page=100&page={page}"
+                  )
+                  if not isinstance(batch, list):
+                      raise RuntimeError("GitHub releases response is not a list")
+                  releases.extend(batch)
+                  if len(batch) < 100:
+                      break
+                  page += 1
+              return [release for release in releases if not release.get("draft")]
 
           def normalize(text):
               return re.sub(r"[^a-z0-9]+", "", str(text).lower())
 
           def keyword_groups(rule):
-              if isinstance(rule.get("aliases"), list):
-                  return rule["aliases"]
-
-              if isinstance(rule.get("keywords"), list):
-                  return [rule["keywords"]]
-
+              aliases = rule.get("aliases")
+              if isinstance(aliases, list):
+                  return aliases
+              keywords = rule.get("keywords")
+              if isinstance(keywords, list):
+                  return [keywords]
               return []
 
           def match_asset(asset_name, rule):
-              if not asset_name.lower().endswith(".ipa"):
+              if not str(asset_name).lower().endswith(".ipa"):
                   return False
-
               clean_name = normalize(asset_name)
-
-              for group in keyword_groups(rule):
-                  if all(normalize(word) in clean_name for word in group):
-                      return True
-
-              return False
-
-          def get_release():
-              if event_path and Path(event_path).exists():
-                  with open(event_path, "r", encoding="utf-8") as f:
-                      event = json.load(f)
-
-                  if "release" in event:
-                      return event["release"]
-
-              if release_tag_input:
-                  return github_json(
-                      f"{api_base}/repos/{owner}/{repo}/releases/tags/{release_tag_input}"
-                  )
-
-              return github_json(
-                  f"{api_base}/repos/{owner}/{repo}/releases/latest"
+              return any(
+                  group and all(normalize(word) in clean_name for word in group)
+                  for group in keyword_groups(rule)
               )
 
-          def list_assets(release):
-              release_id = release["id"]
-              return github_json(
-                  f"{api_base}/repos/{owner}/{repo}/releases/{release_id}/assets?per_page=100"
-              )
-
-          def extract_bundle_id_from_ipa(ipa_path):
-              with zipfile.ZipFile(ipa_path, "r") as z:
-                  plist_names = [
-                      name for name in z.namelist()
-                      if name.startswith("Payload/")
-                      and name.endswith(".app/Info.plist")
-                  ]
-
-                  if not plist_names:
-                      return ""
-
-                  data = z.read(plist_names[0])
-                  info = plistlib.loads(data)
-
-                  return info.get("CFBundleIdentifier", "")
-
-          def update_manifest_with_plistlib(plist_path, new_url=None, bundle_id=None, clear_url=False):
-              """
-              يعدل manifest بشكل صحيح:
-              - يحدث رابط software-package
-              - يحدث bundle-identifier فقط إذا bundle_id موجود
-              - إذا clear_url=True يمسح رابط IPA
-              """
-              try:
-                  with open(plist_path, "rb") as f:
-                      data = plistlib.load(f)
-
-                  changed = False
-
-                  items = data.get("items", [])
-
-                  if items and isinstance(items, list):
-                      item = items[0]
-
-                      assets = item.get("assets", [])
-
-                      for asset_item in assets:
-                          if asset_item.get("kind") == "software-package":
-                              old_url = asset_item.get("url", "")
-
-                              if clear_url:
-                                  target_url = ""
-                              else:
-                                  target_url = new_url or old_url
-
-                              if old_url != target_url:
-                                  asset_item["url"] = target_url
-                                  changed = True
-
-                      metadata = item.get("metadata", {})
-
-                      if bundle_id:
-                          old_bundle = metadata.get("bundle-identifier", "")
-
-                          if old_bundle != bundle_id:
-                              metadata["bundle-identifier"] = bundle_id
-                              changed = True
-
-                  if changed:
-                      with open(plist_path, "wb") as f:
-                          plistlib.dump(data, f, sort_keys=False)
-
-                  return changed
-
-              except Exception as e:
-                  print(f"plistlib failed for {plist_path}: {e}")
-                  return None
-
-          def fallback_replace_ipa_url(content, new_url):
-              ipa_url_regex = r'https?://[^<>"\'\s]+\.ipa(?:\?[^<>"\'\s]*)?'
-              return re.sub(ipa_url_regex, new_url, content, flags=re.I)
-
-          def fallback_replace_key_string(content, key, value):
+          def parse_time(value):
               if not value:
-                  return content
+                  return dt.datetime.min.replace(tzinfo=dt.timezone.utc)
+              try:
+                  return dt.datetime.fromisoformat(value.replace("Z", "+00:00"))
+              except ValueError:
+                  return dt.datetime.min.replace(tzinfo=dt.timezone.utc)
 
-              pattern = rf"(<key>{re.escape(key)}</key>\s*<string>)(.*?)(</string>)"
+          def asset_sort_key(item):
+              asset, release = item
+              return (
+                  parse_time(asset.get("updated_at") or asset.get("created_at")),
+                  parse_time(release.get("published_at") or release.get("created_at")),
+                  int(asset.get("id") or 0),
+              )
 
-              if re.search(pattern, content, flags=re.S):
-                  return re.sub(pattern, rf"\g<1>{value}\g<3>", content, flags=re.S)
+          def is_same_repo_download_url(url):
+              prefix = f"https://github.com/{owner}/{repo}/releases/download/"
+              return isinstance(url, str) and url.startswith(prefix)
 
-              return content
+          def download_asset(asset, out_path):
+              req = urllib.request.Request(asset["url"])
+              req.add_header("Authorization", f"Bearer {token}")
+              req.add_header("Accept", "application/octet-stream")
+              req.add_header("X-GitHub-Api-Version", "2022-11-28")
+              req.add_header("User-Agent", "plist-updater")
 
-          release = get_release()
-          assets = list_assets(release)
+              expected_size = int(asset.get("size") or 0)
+              written = 0
+              with urllib.request.urlopen(req, timeout=60) as response, open(out_path, "wb") as output:
+                  while True:
+                      chunk = response.read(1024 * 1024)
+                      if not chunk:
+                          break
+                      output.write(chunk)
+                      written += len(chunk)
 
-          print(f"Using release: {release.get('tag_name')}")
-          print("Assets:")
+              if expected_size and written != expected_size:
+                  raise ValueError(
+                      f"download size mismatch: expected {expected_size}, received {written}"
+                  )
+              if written < 100:
+                  raise ValueError("downloaded IPA is unexpectedly small")
 
-          for a in assets:
-              print(" -", a["name"])
+          bundle_id_pattern = re.compile(
+              r"^[A-Za-z0-9][A-Za-z0-9-]*(?:\.[A-Za-z0-9][A-Za-z0-9-]*)+$"
+          )
+
+          def inspect_main_app(ipa_path):
+              if not zipfile.is_zipfile(ipa_path):
+                  raise ValueError("file is not a valid ZIP/IPA")
+
+              with zipfile.ZipFile(ipa_path, "r") as archive:
+                  bad_member = archive.testzip()
+                  if bad_member:
+                      raise ValueError(f"corrupt ZIP member: {bad_member}")
+
+                  names = set(archive.namelist())
+                  main_plists = []
+                  for name in names:
+                      path = PurePosixPath(name)
+                      # يقبل فقط Payload/AppName.app/Info.plist الخاص بالتطبيق الرئيسي.
+                      # بهذا يتم تجاهل PlugIns وWatch والتطبيقات الفرعية.
+                      if (
+                          len(path.parts) == 3
+                          and path.parts[0] == "Payload"
+                          and path.parts[1].endswith(".app")
+                          and path.parts[2] == "Info.plist"
+                      ):
+                          main_plists.append(name)
+
+                  if len(main_plists) != 1:
+                      raise ValueError(
+                          f"expected exactly one main app Info.plist, found {len(main_plists)}"
+                      )
+
+                  plist_name = main_plists[0]
+                  try:
+                      info = plistlib.loads(archive.read(plist_name))
+                  except Exception as exc:
+                      raise ValueError(f"cannot parse main Info.plist: {exc}") from exc
+
+                  bundle_id = str(info.get("CFBundleIdentifier") or "").strip()
+                  executable = str(info.get("CFBundleExecutable") or "").strip()
+                  package_type = str(info.get("CFBundlePackageType") or "").strip()
+
+                  if not bundle_id_pattern.fullmatch(bundle_id):
+                      raise ValueError(f"invalid CFBundleIdentifier: {bundle_id!r}")
+                  if not executable or "/" in executable or "\\" in executable:
+                      raise ValueError("invalid or missing CFBundleExecutable")
+                  if package_type and package_type != "APPL":
+                      raise ValueError(f"unexpected CFBundlePackageType: {package_type}")
+
+                  app_dir = str(PurePosixPath(plist_name).parent)
+                  executable_path = f"{app_dir}/{executable}"
+                  if executable_path not in names:
+                      raise ValueError("main executable declared in Info.plist is missing")
+
+                  return bundle_id
+
+          def read_manifest(plist_path):
+              with open(plist_path, "rb") as handle:
+                  data = plistlib.load(handle)
+
+              items = data.get("items")
+              if not isinstance(items, list) or not items:
+                  raise ValueError("manifest has no items")
+
+              item = items[0]
+              assets = item.get("assets")
+              metadata = item.get("metadata")
+              if not isinstance(assets, list) or not isinstance(metadata, dict):
+                  raise ValueError("manifest structure is invalid")
+
+              package = next(
+                  (asset for asset in assets if asset.get("kind") == "software-package"),
+                  None,
+              )
+              if package is None:
+                  raise ValueError("manifest has no software-package asset")
+
+              return data, package, metadata
+
+          def valid_bundle_id(value):
+              return bool(bundle_id_pattern.fullmatch(str(value or "").strip()))
+
+          def write_manifest(plist_path, target_url, bundle_id=None):
+              data, package, metadata = read_manifest(plist_path)
+              changed = False
+
+              if package.get("url", "") != target_url:
+                  package["url"] = target_url
+                  changed = True
+
+              if bundle_id and metadata.get("bundle-identifier", "") != bundle_id:
+                  metadata["bundle-identifier"] = bundle_id
+                  changed = True
+
+              if changed:
+                  with open(plist_path, "wb") as handle:
+                      plistlib.dump(data, handle, sort_keys=False)
+              return changed
+
+          def current_manifest_values(plist_path):
+              _, package, metadata = read_manifest(plist_path)
+              return (
+                  str(package.get("url") or "").strip(),
+                  str(metadata.get("bundle-identifier") or "").strip(),
+              )
+
+          def changed_files_from_push():
+              if event_name != "push":
+                  return set()
+              before = str(event.get("before") or "")
+              after = str(event.get("after") or "")
+              if not before or not after or set(before) == {"0"}:
+                  return {".github/workflows/update-plists.yml"}
+              try:
+                  import subprocess
+                  output = subprocess.check_output(
+                      ["git", "diff", "--name-only", before, after],
+                      text=True,
+                      stderr=subprocess.DEVNULL,
+                  )
+                  return {line.strip() for line in output.splitlines() if line.strip()}
+              except Exception as exc:
+                  print(f"WARNING: cannot inspect changed paths: {exc}")
+                  return set()
+
+          changed_paths = changed_files_from_push()
+          workflow_changed = ".github/workflows/update-plists.yml" in changed_paths
+          mapping_changed = "release-map.json" in changed_paths
+          recent_cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(minutes=15)
 
           map_path = Path("release-map.json")
-
-          if not map_path.exists():
+          if not map_path.is_file():
               raise SystemExit("release-map.json not found")
-
           mapping = json.loads(map_path.read_text(encoding="utf-8"))
 
-          changed_files = []
-          cleared_files = []
-          skipped = []
+          try:
+              releases = list_releases()
+          except urllib.error.HTTPError as exc:
+              raise SystemExit(f"GitHub API failed while listing releases: HTTP {exc.code}")
+
+          assets_with_release = []
+          for release in releases:
+              for asset in release.get("assets") or []:
+                  url = asset.get("browser_download_url")
+                  if is_same_repo_download_url(url):
+                      assets_with_release.append((asset, release))
+                  else:
+                      print(f"IGNORE external/invalid asset URL: {asset.get('name')}")
+
+          print(f"Published/non-draft releases found: {len(releases)}")
+          print(f"IPA/release assets found in this repository: {len(assets_with_release)}")
+
+          updated = []
+          cleared = []
+          unchanged = []
+          rejected = []
 
           with tempfile.TemporaryDirectory() as tmpdir:
               for plist_file, rule in mapping.items():
                   plist_path = Path(plist_file)
-
-                  if not plist_path.exists():
-                      skipped.append(f"{plist_file}: file not found")
-                      print(f"SKIP {plist_file}: file not found")
+                  if not plist_path.is_file():
+                      rejected.append(f"{plist_file}: manifest file not found")
                       continue
 
-                  matched_assets = [
-                      a for a in assets
-                      if match_asset(a["name"], rule)
+                  try:
+                      current_url, current_bundle = current_manifest_values(plist_path)
+                  except Exception as exc:
+                      rejected.append(f"{plist_file}: invalid manifest: {exc}")
+                      continue
+
+                  candidates = [
+                      pair for pair in assets_with_release
+                      if match_asset(pair[0].get("name", ""), rule)
                   ]
+                  candidates.sort(key=asset_sort_key, reverse=True)
 
-                  # إذا ماكو IPA مطابق، امسح رابط IPA من manifest
-                  if not matched_assets:
-                      print(f"NO IPA FOUND FOR {plist_file}, clearing IPA URL")
-
-                      changed = update_manifest_with_plistlib(
-                          plist_path,
-                          clear_url=True
-                      )
-
-                      if changed is None:
-                          old_content = plist_path.read_text(encoding="utf-8")
-                          new_content = fallback_replace_ipa_url(old_content, "")
-
-                          if new_content != old_content:
-                              plist_path.write_text(new_content, encoding="utf-8")
-                              changed = True
-                          else:
-                              changed = False
-
-                      if changed:
-                          cleared_files.append(plist_file)
-                          print(f"CLEARED URL {plist_file}")
+                  # لا توجد Releases أو لا يوجد IPA مطابق داخل نفس المستودع:
+                  # يُمسح الرابط فوراً.
+                  if not candidates:
+                      if write_manifest(plist_path, ""):
+                          cleared.append(plist_file)
+                          print(f"CLEARED {plist_file}: no matching IPA asset in repository releases")
                       else:
-                          skipped.append(f"{plist_file}: no matching IPA and URL already empty")
-                          print(f"NO CHANGE {plist_file}: URL already empty")
-
+                          unchanged.append(plist_file)
                       continue
 
-                  matched_assets.sort(
-                      key=lambda a: a.get("updated_at") or a.get("created_at") or "",
-                      reverse=True
+                  asset, release = candidates[0]
+                  new_url = asset["browser_download_url"]
+                  asset_time = parse_time(asset.get("updated_at") or asset.get("created_at"))
+
+                  verify = (
+                      force_verify
+                      or mapping_changed
+                      or plist_file in changed_paths
+                      or current_url != new_url
+                      or not valid_bundle_id(current_bundle)
+                      or (event_name == "release" and str(release.get("id")) == event_release_id)
+                      or asset_time >= recent_cutoff
                   )
 
-                  asset = matched_assets[0]
-                  ipa_path = Path(tmpdir) / asset["name"]
-                  new_url = asset["browser_download_url"]
-                  bundle_id = ""
+                  if not verify:
+                      # فحص سريع: الرابط الحالي ما زال Asset حقيقياً داخل نفس الريبو
+                      # ولم يتغير الملف أو الباندل، لذلك لا يعاد تنزيل IPA.
+                      unchanged.append(plist_file)
+                      print(f"VALID {plist_file}: unchanged repository asset; deep scan skipped")
+                      continue
 
-                  print(f"MATCH {plist_file} -> {asset['name']}")
-                  print(f"New URL: {new_url}")
+                  ipa_path = Path(tmpdir) / f"{asset.get('id', 'asset')}.ipa"
+                  print(
+                      f"VERIFY {plist_file} <- {asset.get('name')} "
+                      f"(release {release.get('tag_name')})"
+                  )
 
-                  # هنا المهم:
-                  # الرابط يتحدث دائماً
-                  # الباندل يتحدث فقط إذا قدر يقرأه من IPA
                   try:
                       download_asset(asset, ipa_path)
-                  except Exception as e:
-                      print(f"WARNING {plist_file}: failed to download IPA, URL will still be updated - {e}")
-                      skipped.append(f"{plist_file}: bundle id skipped, IPA download failed")
+                      bundle_id = inspect_main_app(ipa_path)
+                  except Exception as exc:
+                      # رفض آمن: لا يوضع رابط IPA لم ينجح فحصه الكامل.
+                      write_manifest(plist_path, "")
+                      rejected.append(f"{plist_file}: {asset.get('name')} rejected: {exc}")
+                      print(f"REJECTED {plist_file}: {exc}")
+                      continue
+
+                  if write_manifest(plist_path, new_url, bundle_id):
+                      updated.append(plist_file)
+                      print(f"UPDATED {plist_file}: {bundle_id}")
                   else:
-                      try:
-                          bundle_id = extract_bundle_id_from_ipa(ipa_path)
-                      except Exception as e:
-                          print(f"WARNING {plist_file}: failed to read bundle id, old bundle id will stay - {e}")
-                          skipped.append(f"{plist_file}: bundle id skipped, read failed")
-                          bundle_id = ""
+                      unchanged.append(plist_file)
+                      print(f"VERIFIED {plist_file}: no content change")
 
-                  if bundle_id:
-                      print(f"Bundle ID: {bundle_id}")
-                  else:
-                      print(f"Bundle ID: not updated for {plist_file}")
-
-                  changed = update_manifest_with_plistlib(
-                      plist_path,
-                      new_url=new_url,
-                      bundle_id=bundle_id,
-                      clear_url=False
-                  )
-
-                  if changed is None:
-                      old_content = plist_path.read_text(encoding="utf-8")
-                      new_content = old_content
-
-                      new_content = fallback_replace_ipa_url(new_content, new_url)
-                      new_content = fallback_replace_key_string(
-                          new_content,
-                          "bundle-identifier",
-                          bundle_id
-                      )
-
-                      if new_content != old_content:
-                          plist_path.write_text(new_content, encoding="utf-8")
-                          changed = True
-                      else:
-                          changed = False
-
-                  if changed:
-                      changed_files.append(plist_file)
-                      print(f"UPDATED {plist_file}")
-                  else:
-                      skipped.append(f"{plist_file}: no changes")
-                      print(f"NO CHANGE {plist_file}")
-
-          print("")
-          print("Updated files:")
-
-          for f in changed_files:
-              print(" -", f)
-
-          print("")
-          print("Cleared files:")
-
-          for f in cleared_files:
-              print(" -", f)
-
-          print("")
-          print("Skipped:")
-
-          for s in skipped:
-              print(" -", s)
-
+          print("\nSummary")
+          print("Updated:", ", ".join(updated) or "none")
+          print("Cleared:", ", ".join(cleared) or "none")
+          print("Unchanged:", ", ".join(unchanged) or "none")
+          print("Rejected:")
+          for item in rejected:
+              print(" -", item)
           PY
 
-      - name: Commit and push changes
+      - name: Commit and push manifest changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git status
-          git diff
           git add manifest-*.plist
-          git commit -m "Auto update plist links and bundle id from release" || exit 0
+          if git diff --cached --quiet; then
+            echo "No manifest changes"
+            exit 0
+          fi
+          git commit -m "Auto update verified plist links and bundle ids"
           git push origin HEAD:main
