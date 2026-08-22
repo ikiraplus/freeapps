@@ -10,7 +10,9 @@ import sys
 import time
 import urllib.error
 import urllib.request
-from collections import Counter
+import threading
+from collections import Counter, deque
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 
 try:
@@ -865,6 +867,57 @@ GEMINI_SYSTEM_INSTRUCTION = (
     "Do not add explanations, quotes, or extra text."
 )
 
+# Google's published free-tier limit for gemini-3.6-flash is ~15 requests/minute.
+# We stay safely under that on purpose: going over it doesn't get the account
+# banned, but there's no reason to hug the edge either.
+GEMINI_MAX_REQUESTS_PER_MINUTE = int(os.getenv("GEMINI_MAX_RPM", "10"))
+
+
+class _SlidingWindowRateLimiter:
+    """Blocks callers so that at most `max_calls` happen in any rolling `period` window.
+
+    Shared across all translation threads so the *combined* request rate never
+    exceeds Gemini's published free-tier quota, no matter how many workers run
+    concurrently.
+    """
+
+    def __init__(self, max_calls, period=60.0):
+        self.max_calls = max_calls
+        self.period = period
+        self._lock = threading.Lock()
+        self._timestamps = deque()
+
+    def acquire(self):
+        while True:
+            with self._lock:
+                now = time.monotonic()
+                while self._timestamps and now - self._timestamps[0] >= self.period:
+                    self._timestamps.popleft()
+
+                if len(self._timestamps) < self.max_calls:
+                    self._timestamps.append(now)
+                    return
+
+                wait_time = self.period - (now - self._timestamps[0])
+
+            if wait_time > 0:
+                time.sleep(wait_time)
+
+
+_gemini_rate_limiter = _SlidingWindowRateLimiter(GEMINI_MAX_REQUESTS_PER_MINUTE)
+
+
+def _parse_retry_after_seconds(details_text, default=15.0, cap=90.0):
+    """Extract Gemini's own suggested retry delay from a 429 error body, if present."""
+    match = re.search(r"retry in\s+([\d.]+)\s*s", details_text, re.IGNORECASE)
+    if not match:
+        return default
+    try:
+        seconds = float(match.group(1))
+    except ValueError:
+        return default
+    return min(max(seconds, 1.0), cap)
+
 
 def gemini_translate_to_english(text):
     """Translate an Arabic app description to natural English using Gemini."""
@@ -902,7 +955,11 @@ def gemini_translate_to_english(text):
     )
 
     last_error = None
-    for attempt in range(1, 4):
+    max_attempts = 6
+    for attempt in range(1, max_attempts + 1):
+        # Wait for a free slot in our own quota window before every attempt,
+        # including retries, so a burst of 429s can't turn into a hammering loop.
+        _gemini_rate_limiter.acquire()
         try:
             with urllib.request.urlopen(request, timeout=90) as response:
                 body = json.loads(response.read().decode("utf-8"))
@@ -918,12 +975,18 @@ def gemini_translate_to_english(text):
         except urllib.error.HTTPError as exc:
             details = exc.read().decode("utf-8", errors="replace")
             last_error = RuntimeError(f"Gemini HTTP {exc.code}: {details[:500]}")
-            if exc.code not in {408, 429, 500, 502, 503, 504}:
+            if exc.code == 429:
+                # Honor Google's own suggested wait time instead of guessing.
+                delay = _parse_retry_after_seconds(details)
+                print(f"⏳ Gemini rate limit hit, waiting {delay:.0f}s before retry ({attempt}/{max_attempts})")
+                time.sleep(delay)
+                continue
+            if exc.code not in {408, 500, 502, 503, 504}:
                 raise last_error
         except (urllib.error.URLError, TimeoutError, KeyError, IndexError, json.JSONDecodeError) as exc:
             last_error = RuntimeError(f"Gemini request failed: {exc}")
 
-        if attempt < 3:
+        if attempt < max_attempts:
             time.sleep(attempt * 3)
 
     raise last_error or RuntimeError("Gemini translation failed")
@@ -939,12 +1002,22 @@ def app_identity_for_translation(app):
     return name_identity_key(app)
 
 
+GEMINI_TRANSLATE_WORKERS = int(os.getenv("GEMINI_TRANSLATE_WORKERS", "4"))
+
+# The EN file is hosted at its own URL and must self-report that, not IPA-AR.json's URL.
+EN_SOURCE_URL = "https://ikiraplus.pages.dev/IPA-EN.json"
+
+
 def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
     """Create IPA-EN from IPA-AR, translating only descriptions that need work.
 
-    All app metadata is copied from IPA-AR. Existing English descriptions are kept
-    when the corresponding Arabic description did not change; this avoids wasting
-    Gemini requests on every scheduled run.
+    All app metadata is copied from IPA-AR, except sourceURL, which is overridden
+    to point at the English file's own hosted location. Existing English
+    descriptions are kept when the corresponding Arabic description did not
+    change; this avoids wasting Gemini requests on every scheduled run. Apps that
+    do need translation are sent to Gemini concurrently (see
+    GEMINI_TRANSLATE_WORKERS) instead of one at a time, since each request is a
+    slow, mostly-idle network call.
     """
     old_ar_apps = get_apps(old_ar_source)
     old_en_apps = get_apps(old_en_source)
@@ -961,9 +1034,11 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
             old_en_by_key[key] = app
 
     output = copy.deepcopy(ar_source)
+    output["sourceURL"] = EN_SOURCE_URL
     translated = 0
     reused = 0
     empty = 0
+    pending = []  # (app, arabic_description) pairs that need a fresh translation
 
     for app in output.get("apps", []):
         if not isinstance(app, dict):
@@ -989,14 +1064,28 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
             reused += 1
             continue
 
-        print(f"🌐 Translating: {clean_text(app.get('name') or app.get('id'))}")
-        app["localizedDescription"] = gemini_translate_to_english(arabic_description)
-        translated += 1
+        pending.append((app, arabic_description))
+
+    if pending:
+        print(f"🌐 Translating {len(pending)} app(s) using up to {GEMINI_TRANSLATE_WORKERS} workers")
+        with ThreadPoolExecutor(max_workers=min(GEMINI_TRANSLATE_WORKERS, len(pending))) as executor:
+            future_to_app = {
+                executor.submit(gemini_translate_to_english, arabic_description): app
+                for app, arabic_description in pending
+            }
+            for future in as_completed(future_to_app):
+                app = future_to_app[future]
+                app_label = clean_text(app.get("name") or app.get("id"))
+                app["localizedDescription"] = future.result()
+                translated += 1
+                print(f"🌐 Translated ({translated}/{len(pending)}): {app_label}")
 
     print(f"🌐 English descriptions translated: {translated}")
     print(f"♻️ English descriptions reused: {reused}")
     print(f"ℹ️ Apps without Arabic descriptions: {empty}")
     return output
+
+
 
 def main():
     parser = argparse.ArgumentParser()
