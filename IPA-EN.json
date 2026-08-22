@@ -26,7 +26,7 @@
   "apps": [
     {
       "id": "app-1773401165477",
-      "name": "ريكرام",
+      "name": "regram",
       "bundleIdentifier": "com.ikiraplus.apps.app.57cde4b522",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773401165477.png",
       "localizedDescription": "For activation Application features:\n- Change the application language from English to Arabic or vice versa",
