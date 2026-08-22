@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ikiraplus/freeapps/releases/download/2.8/hitv_1.1.1_1787391768.ipa</string>
+					<string>https://github.com/ikiraplus/freeapps/releases/download/2.8/hitv-Pro_1.5_1787392991.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.loktv.ikiraplus</string>
+				<string>com.typhon6.halo.bridge4</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
