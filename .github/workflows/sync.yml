@@ -1,4 +1,4 @@
-name: Sync IPA-AR from iKiraPlus source
+name: Sync IPA-AR + IPA-EN from iKiraPlus source
 
 on:
   workflow_dispatch:
@@ -9,13 +9,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: sync-ipa-ar
+  group: sync-ipa-ar-en
   cancel-in-progress: true
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
 
     steps:
       - name: Checkout freeapps
@@ -48,45 +48,58 @@ jobs:
           print(f'✅ source apps downloaded: {len(apps)}')
           PY
 
-      - name: Sync IPA-AR.json
+      - name: Sync IPA-AR.json + IPA-EN.json
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: llama-3.3-70b-versatile
         run: |
           set -euo pipefail
+          if [ -z "${GROQ_API_KEY:-}" ]; then
+            echo '❌ GROQ_API_KEY secret is missing.'
+            exit 1
+          fi
+
           python sync_apps.py \
             --source source_jom.json \
-            --target IPA-AR.json
+            --target IPA-AR.json \
+            --target-en IPA-EN.json
 
       - name: Show sync summary
         run: |
           python - <<'PY'
           import json
-          with open('IPA-AR.json', 'r', encoding='utf-8') as f:
-              data = json.load(f)
+          for path in ('IPA-AR.json', 'IPA-EN.json'):
+              with open(path, 'r', encoding='utf-8') as f:
+                  data = json.load(f)
+              apps = [a for a in data.get('apps', []) if isinstance(a, dict)]
+              two_versions = sum(1 for a in apps if len(a.get('versions', [])) == 2)
+              one_version = sum(1 for a in apps if len(a.get('versions', [])) == 1)
+              print(f'✅ apps in {path}: {len(apps)}')
+              print(f'✅ {path} apps with 2 versions: {two_versions}')
+              print(f'✅ {path} apps with 1 version: {one_version}')
+              print(f"✅ first app in {path}: {apps[0].get('name') if apps else 'NONE'}")
 
-          apps = [a for a in data.get('apps', []) if isinstance(a, dict)]
-          two_versions = sum(1 for a in apps if len(a.get('versions', [])) == 2)
-          one_version = sum(1 for a in apps if len(a.get('versions', [])) == 1)
-
-          print(f'✅ apps in IPA-AR.json: {len(apps)}')
-          print(f'✅ apps with 2 versions: {two_versions}')
-          print(f'✅ apps with 1 version: {one_version}')
-          print(f"✅ first app: {apps[0].get('name') if apps else 'NONE'}")
+          ar = json.load(open('IPA-AR.json', 'r', encoding='utf-8'))
+          en = json.load(open('IPA-EN.json', 'r', encoding='utf-8'))
+          if len(ar.get('apps', [])) != len(en.get('apps', [])):
+              raise SystemExit('❌ IPA-AR.json and IPA-EN.json have different app counts')
+          print('✅ AR/EN app counts match')
           PY
 
-      - name: Commit only when IPA-AR.json changed
+      - name: Commit only when AR or EN changed
         shell: bash
         run: |
           set -euo pipefail
-
           rm -f source_jom.json
 
-          if git diff --quiet -- IPA-AR.json; then
-            echo '✅ No changes in IPA-AR.json — nothing to commit.'
+          if git diff --quiet -- IPA-AR.json IPA-EN.json; then
+            echo '✅ No changes in IPA-AR.json or IPA-EN.json — nothing to commit.'
             exit 0
           fi
 
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
-          git add IPA-AR.json
-          git commit -m 'Auto sync IPA-AR source'
+          git add IPA-AR.json IPA-EN.json
+          git commit -m 'Auto sync IPA-AR and IPA-EN source'
           git push
