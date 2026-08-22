@@ -1139,6 +1139,15 @@ TRANSLATE_WORKERS = int(os.getenv("TRANSLATE_WORKERS", "3"))
 EN_SOURCE_URL = "https://ikiraplus.pages.dev/IPA-EN.json"
 
 
+# Bump this whenever the translation logic changes in a way that makes
+# previously-saved English text stale (e.g. line-break handling, glossary
+# terms, category/caption translation being added). On the next run, any
+# existing IPA-EN.json stamped with an older version is treated as "nothing
+# to reuse" so everything gets retranslated once with the current logic —
+# after that, normal reuse-if-unchanged caching resumes as usual.
+TRANSLATION_FORMAT_VERSION = 2
+
+
 def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
     """Create IPA-EN from IPA-AR, translating only descriptions that need work.
 
@@ -1150,6 +1159,11 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
     TRANSLATE_WORKERS) instead of one at a time, since each request is a slow,
     mostly-idle network call.
     """
+    if not isinstance(old_en_source, dict) or old_en_source.get("translationFormatVersion") != TRANSLATION_FORMAT_VERSION:
+        if isinstance(old_en_source, dict) and old_en_source.get("apps"):
+            print("♻️ Translation logic changed since the last run — retranslating everything once.")
+        old_en_source = None
+
     old_ar_apps = get_apps(old_ar_source)
     old_en_apps = get_apps(old_en_source)
 
@@ -1217,6 +1231,8 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
 
     translate_categories(output, old_ar_source=old_ar_source, old_en_source=old_en_source)
     translate_news_captions(output, old_ar_source=old_ar_source, old_en_source=old_en_source)
+
+    output["translationFormatVersion"] = TRANSLATION_FORMAT_VERSION
 
     return output
 
