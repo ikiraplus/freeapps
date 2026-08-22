@@ -50,8 +50,6 @@ jobs:
 
       - name: Sync IPA-AR.json + IPA-EN.json
         env:
-          # No API key needed: translation uses Google's free, unofficial
-          # translate_a/single endpoint. Kept intentionally conservative.
           TRANSLATE_WORKERS: '3'
           TRANSLATE_MAX_RPM: '20'
         run: |
