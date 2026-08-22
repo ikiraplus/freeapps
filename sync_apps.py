@@ -47,9 +47,7 @@ APP_FIELD_ORDER = [
     "bundleId",
     "developerName",
     "iconURL",
-    "icon",
     "localizedDescription",
-    "note",
     "category",
     "versions",
     "version",
@@ -72,15 +70,27 @@ TRACKED_UPDATE_FIELDS = [
     "downloadURL",
     "ipaUrl",
     "iconURL",
-    "icon",
     "localizedDescription",
-    "note",
     "size",
     "category",
     "versions",
     "previousVersions",
     "hidden",
 ]
+
+# Fields we never want in the output, no matter where they came from (raw
+# source, a previously-synced target file, etc.). Some (toolVersion,
+# recommended) are just dropped outright; note/icon are used as one-time
+# fallbacks elsewhere (note -> localizedDescription, icon -> iconURL) and then
+# dropped so they don't linger as duplicate/junk fields.
+FIELDS_TO_DROP = ("toolVersion", "recommended", "note", "icon")
+
+
+def drop_removed_fields(app):
+    if isinstance(app, dict):
+        for key in FIELDS_TO_DROP:
+            app.pop(key, None)
+    return app
 
 DATE_FIELDS = {"versionDate", "addedAt", "updatedAt"}
 
@@ -132,6 +142,24 @@ def clean_text(value):
     text = re.sub(r"[\u200b\u200c\u200d\ufeff\u2060]", "", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
+
+
+def clean_text_keep_lines(value):
+    """Like clean_text, but preserves line breaks instead of flattening them.
+
+    Used for anything we're about to send to translation, so bullet-style
+    descriptions ("- point one\n- point two") keep their line structure in
+    the English output instead of collapsing into one run-on sentence.
+    """
+    if value is None:
+        return ""
+    text = str(value)
+    text = re.sub(r"[\u200b\u200c\u200d\ufeff\u2060]", "", text)
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r" *\n *", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
 
 
 def normalize_arabic(value):
@@ -380,6 +408,7 @@ def normalize_app(app, used_bundles, fallback_bundle=None):
     fixed.pop("previousVersions", None)
 
     fixed["bundleIdentifier"] = make_bundle(fixed, used_bundles, fallback_bundle=fallback_bundle)
+    drop_removed_fields(fixed)
     return order_dict(fixed, APP_FIELD_ORDER)
 
 
@@ -699,6 +728,9 @@ def build_source_from_regram(jom_source, target_source=None, today=None):
         output_apps.append(app)
         new_apps.append(clean_text(app.get("name") or app.get("id")))
 
+    for app in output_apps:
+        drop_removed_fields(app)
+
     clean_source = build_source_metadata(jom_source, target_source)
     clean_source["apps"] = output_apps
 
@@ -900,6 +932,100 @@ class _SlidingWindowRateLimiter:
 _translate_rate_limiter = _SlidingWindowRateLimiter(TRANSLATE_MAX_REQUESTS_PER_MINUTE)
 
 
+# ---------------------------------------------------------------------------
+# Glossary: domain terms that Google Translate frequently mistranslates
+# because it has no idea this is app-store / certificate / iOS-signing text.
+# Each Arabic term below is swapped for the given English term BEFORE the
+# text is sent to Google, so it never gets machine-guessed at all — it comes
+# back exactly as written here.
+#
+# To add or fix a term: just add/edit a line "arabic": "english" below.
+# No other code needs to change. Longer phrases are matched before shorter
+# ones automatically, so e.g. "كسر الحماية" won't get broken up by "كسر".
+# ---------------------------------------------------------------------------
+GLOSSARY = {
+    "كسر الحماية": "jailbreak",
+    "بدون جلبريك": "no jailbreak needed",
+    "شهادة مطور": "developer certificate",
+    "شهاده مطور": "developer certificate",
+    "شهادة مجانية": "free certificate",
+    "شهاده مجانيه": "free certificate",
+    "شهادة": "certificate",
+    "شهاده": "certificate",
+    "اعادة توقيع": "re-signing",
+    "إعادة توقيع": "re-signing",
+    "توقيع التطبيق": "app signing",
+    "توقيع": "signing",
+    "تفعيل": "activation",
+    "تحديث تلقائي": "auto-update",
+    "تحديث": "update",
+    "نسخة معدلة": "modded version",
+    "نسخه معدله": "modded version",
+    "نسخة مهكرة": "hacked version",
+    "نسخه مهكره": "hacked version",
+    "نسخة": "version",
+    "نسخه": "version",
+    "مهكرة": "hacked",
+    "مهكره": "hacked",
+    "معدل": "modded",
+    "مصدر خارجي": "third-party source",
+    "متجر تطبيقات": "app store",
+    "متجر": "store",
+    "شراء داخل التطبيق": "in-app purchases",
+    "مشتريات داخلية": "in-app purchases",
+    "بدون اعلانات": "ad-free",
+    "بدون إعلانات": "ad-free",
+    "اعلانات": "ads",
+    "إعلانات": "ads",
+    "قناة تليجرام": "Telegram channel",
+    "قناة": "channel",
+    "جهاز": "device",
+    "اصدار": "version",
+    "إصدار": "version",
+    "مجاني": "free",
+    "مجانا": "for free",
+    "مدفوع": "paid",
+    "متوافق مع": "compatible with",
+    "لا يعمل": "not working",
+    "يعمل": "working",
+    "دعم فني": "support",
+    "اشتراك": "subscription",
+    "رابط التحميل": "download link",
+    "رابط": "link",
+    "تحميل": "download",
+    "تثبيت": "installation",
+    "تحويل لغة": "change the language",
+}
+
+_GLOSSARY_SORTED = sorted(GLOSSARY.items(), key=lambda kv: len(kv[0]), reverse=True)
+
+
+def _protect_glossary_terms(text):
+    """Swap known Arabic terms for placeholders before translation.
+
+    Google leaves opaque all-caps tokens alone (same reason URLs and numbers
+    survive translation untouched), so whatever we put in tokens comes back
+    unchanged and gets swapped for our chosen English wording afterward.
+    """
+    tokens = {}
+    protected = text
+    for index, (arabic_term, english_term) in enumerate(_GLOSSARY_SORTED):
+        if arabic_term and arabic_term in protected:
+            placeholder = f"QQTERM{index}QQ"
+            protected = protected.replace(arabic_term, f" {placeholder} ")
+            tokens[placeholder] = english_term
+    return protected, tokens
+
+
+def _restore_glossary_terms(text, tokens):
+    for placeholder, english_term in tokens.items():
+        # Be lenient about stray spaces Google sometimes inserts inside
+        # all-caps tokens (e.g. "QQ TERM0QQ").
+        loose_pattern = r"\s*".join(re.escape(ch) for ch in placeholder)
+        text = re.sub(loose_pattern, f" {english_term} ", text, flags=re.IGNORECASE)
+    return re.sub(r" {2,}", " ", text).strip()
+
+
 def _parse_google_translate_response(raw_body):
     """Parse the nested-array JSON that translate_a/single returns.
 
@@ -914,11 +1040,13 @@ def _parse_google_translate_response(raw_body):
     return "".join(pieces)
 
 
-def translate_to_english(text):
-    """Translate an Arabic app description to English via Google's free web-translate endpoint."""
+def _translate_line_to_english(text):
+    """Translate a single line/chunk of Arabic text via Google's free web-translate endpoint."""
     text = clean_text(text)
     if not text:
         return ""
+
+    protected_text, glossary_tokens = _protect_glossary_terms(text)
 
     params = urllib.parse.urlencode(
         {
@@ -926,7 +1054,7 @@ def translate_to_english(text):
             "sl": "ar",
             "tl": "en",
             "dt": "t",
-            "q": text,
+            "q": protected_text,
         }
     )
     request = urllib.request.Request(
@@ -954,7 +1082,7 @@ def translate_to_english(text):
             result = clean_text(_parse_google_translate_response(raw_body))
             if not result:
                 raise RuntimeError("Google Translate returned an empty translation")
-            return result
+            return _restore_glossary_terms(result, glossary_tokens)
         except urllib.error.HTTPError as exc:
             last_error = RuntimeError(f"Google Translate HTTP {exc.code}")
             if exc.code in {429, 403}:
@@ -972,6 +1100,27 @@ def translate_to_english(text):
             time.sleep(attempt * 2)
 
     raise last_error or RuntimeError("Google Translate failed")
+
+
+def translate_to_english(text):
+    """Translate Arabic text to English, preserving line breaks.
+
+    Google's translate_a/single endpoint tends to flatten multi-line input
+    (bullet lists, numbered steps) into one run-on sentence. To keep that
+    structure ("- point one" / "- point two") intact in English, each line
+    is translated on its own and the result is rejoined with the same line
+    breaks. Blank lines are preserved without spending a request on them.
+    """
+    text = clean_text_keep_lines(text)
+    if not text:
+        return ""
+
+    lines = text.split("\n")
+    translated_lines = [
+        _translate_line_to_english(line) if line.strip() else ""
+        for line in lines
+    ]
+    return "\n".join(translated_lines).strip()
 
 
 def app_identity_for_translation(app):
@@ -1030,9 +1179,9 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
         old_ar = old_ar_by_key.get(key) if key else None
         old_en = old_en_by_key.get(key) if key else None
 
-        arabic_description = clean_text(app.get("localizedDescription"))
-        old_ar_description = clean_text(old_ar.get("localizedDescription")) if old_ar else ""
-        existing_english = clean_text(old_en.get("localizedDescription")) if old_en else ""
+        arabic_description = clean_text_keep_lines(app.get("localizedDescription"))
+        old_ar_description = clean_text_keep_lines(old_ar.get("localizedDescription")) if old_ar else ""
+        existing_english = clean_text_keep_lines(old_en.get("localizedDescription")) if old_en else ""
 
         # No Arabic description: don't invent one.
         if not arabic_description:
@@ -1065,7 +1214,118 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
     print(f"🌐 English descriptions translated: {translated}")
     print(f"♻️ English descriptions reused: {reused}")
     print(f"ℹ️ Apps without Arabic descriptions: {empty}")
+
+    translate_categories(output, old_ar_source=old_ar_source, old_en_source=old_en_source)
+    translate_news_captions(output, old_ar_source=old_ar_source, old_en_source=old_en_source)
+
     return output
+
+
+def translate_categories(output, old_ar_source=None, old_en_source=None):
+    """Translate each app's category (e.g. 'العاب' -> 'Games') for the EN file.
+
+    Each distinct Arabic category value is translated once and reused across
+    every app that shares it, and reused across runs when the app's category
+    text hasn't changed, instead of re-translating per app every time.
+    """
+    old_ar_apps = get_apps(old_ar_source)
+    old_en_apps = get_apps(old_en_source)
+    old_ar_by_key = {}
+    old_en_by_key = {}
+    for app in old_ar_apps:
+        key = app_identity_for_translation(app)
+        if key:
+            old_ar_by_key[key] = app
+    for app in old_en_apps:
+        key = app_identity_for_translation(app)
+        if key:
+            old_en_by_key[key] = app
+
+    category_map = {}
+    pending_categories = set()
+
+    for app in output.get("apps", []):
+        if not isinstance(app, dict):
+            continue
+        category = clean_text(app.get("category"))
+        if not category:
+            continue
+
+        key = app_identity_for_translation(app)
+        old_ar = old_ar_by_key.get(key) if key else None
+        old_en = old_en_by_key.get(key) if key else None
+        old_ar_category = clean_text(old_ar.get("category")) if old_ar else ""
+        existing_english_category = clean_text(old_en.get("category")) if old_en else ""
+
+        if existing_english_category and old_ar_category == category:
+            category_map.setdefault(category, existing_english_category)
+        else:
+            pending_categories.add(category)
+
+    # A category already resolved via reuse for one app is known for all apps
+    # sharing that same Arabic text, so don't re-translate it.
+    pending_categories -= set(category_map.keys())
+
+    if pending_categories:
+        with ThreadPoolExecutor(max_workers=min(TRANSLATE_WORKERS, len(pending_categories))) as executor:
+            future_to_category = {
+                executor.submit(translate_to_english, category): category
+                for category in pending_categories
+            }
+            for future in as_completed(future_to_category):
+                category = future_to_category[future]
+                category_map[category] = future.result()
+        print(f"🌐 Categories translated: {len(pending_categories)}")
+
+    for app in output.get("apps", []):
+        if not isinstance(app, dict):
+            continue
+        category = clean_text(app.get("category"))
+        if category and category in category_map:
+            app["category"] = category_map[category]
+
+
+def translate_news_captions(output, old_ar_source=None, old_en_source=None):
+    """Translate news[].caption (e.g. the channel blurb) for the EN file.
+
+    Titles are left untouched since they're brand names ("كيرا بلس"), not
+    descriptive text.
+    """
+    news_list = output.get("news")
+    if not isinstance(news_list, list):
+        return
+
+    old_ar_news = old_ar_source.get("news") if isinstance(old_ar_source, dict) else None
+    old_en_news = old_en_source.get("news") if isinstance(old_en_source, dict) else None
+
+    def by_identifier(items):
+        result = {}
+        if isinstance(items, list):
+            for item in items:
+                if isinstance(item, dict) and not is_empty(item.get("identifier")):
+                    result[clean_text(item.get("identifier"))] = item
+        return result
+
+    old_ar_by_id = by_identifier(old_ar_news)
+    old_en_by_id = by_identifier(old_en_news)
+
+    for item in news_list:
+        if not isinstance(item, dict):
+            continue
+        caption = clean_text_keep_lines(item.get("caption"))
+        if not caption:
+            continue
+
+        identifier = clean_text(item.get("identifier"))
+        old_ar_item = old_ar_by_id.get(identifier)
+        old_en_item = old_en_by_id.get(identifier)
+        old_ar_caption = clean_text_keep_lines(old_ar_item.get("caption")) if old_ar_item else ""
+        existing_english_caption = clean_text_keep_lines(old_en_item.get("caption")) if old_en_item else ""
+
+        if existing_english_caption and old_ar_caption == caption:
+            item["caption"] = existing_english_caption
+        else:
+            item["caption"] = translate_to_english(caption)
 
 
 
