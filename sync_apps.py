@@ -853,43 +853,49 @@ def print_report(path, report, apps_count):
 
 
 
-GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_API_URL = (
+    f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+)
+
+GEMINI_SYSTEM_INSTRUCTION = (
+    "You translate app store descriptions from Arabic to natural English. "
+    "Return ONLY the English translation. Preserve product/app names, URLs, "
+    "numbers, version numbers, emojis, and formatting when possible. "
+    "Do not add explanations, quotes, or extra text."
+)
 
 
-def groq_translate_to_english(text):
-    """Translate an Arabic app description to natural English using Groq."""
+def gemini_translate_to_english(text):
+    """Translate an Arabic app description to natural English using Gemini."""
     text = clean_text(text)
     if not text:
         return ""
 
-    api_key = os.getenv("GROQ_API_KEY")
+    api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        raise RuntimeError("GROQ_API_KEY is not set")
+        raise RuntimeError("GEMINI_API_KEY is not set")
 
     payload = {
-        "model": GROQ_MODEL,
-        "temperature": 0.1,
-        "max_completion_tokens": 1024,
-        "messages": [
+        "system_instruction": {
+            "parts": [{"text": GEMINI_SYSTEM_INSTRUCTION}],
+        },
+        "contents": [
             {
-                "role": "system",
-                "content": (
-                    "You translate app store descriptions from Arabic to natural English. "
-                    "Return ONLY the English translation. Preserve product/app names, URLs, "
-                    "numbers, version numbers, emojis, and formatting when possible. "
-                    "Do not add explanations, quotes, or extra text."
-                ),
-            },
-            {"role": "user", "content": text},
+                "role": "user",
+                "parts": [{"text": text}],
+            }
         ],
+        "generationConfig": {
+            "temperature": 0.1,
+            "maxOutputTokens": 1024,
+        },
     }
 
     request = urllib.request.Request(
-        GROQ_API_URL,
+        f"{GEMINI_API_URL}?key={api_key}",
         data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
         headers={
-            "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
         },
         method="POST",
@@ -900,23 +906,27 @@ def groq_translate_to_english(text):
         try:
             with urllib.request.urlopen(request, timeout=90) as response:
                 body = json.loads(response.read().decode("utf-8"))
-            result = body["choices"][0]["message"]["content"]
+            candidates = body.get("candidates") or []
+            if not candidates:
+                raise RuntimeError("Gemini returned no candidates")
+            parts = candidates[0].get("content", {}).get("parts", [])
+            result = "".join(part.get("text", "") for part in parts)
             result = clean_text(result)
             if not result:
-                raise RuntimeError("Groq returned an empty translation")
+                raise RuntimeError("Gemini returned an empty translation")
             return result
         except urllib.error.HTTPError as exc:
             details = exc.read().decode("utf-8", errors="replace")
-            last_error = RuntimeError(f"Groq HTTP {exc.code}: {details[:500]}")
+            last_error = RuntimeError(f"Gemini HTTP {exc.code}: {details[:500]}")
             if exc.code not in {408, 429, 500, 502, 503, 504}:
                 raise last_error
         except (urllib.error.URLError, TimeoutError, KeyError, IndexError, json.JSONDecodeError) as exc:
-            last_error = RuntimeError(f"Groq request failed: {exc}")
+            last_error = RuntimeError(f"Gemini request failed: {exc}")
 
         if attempt < 3:
             time.sleep(attempt * 3)
 
-    raise last_error or RuntimeError("Groq translation failed")
+    raise last_error or RuntimeError("Gemini translation failed")
 
 
 def app_identity_for_translation(app):
@@ -934,7 +944,7 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
 
     All app metadata is copied from IPA-AR. Existing English descriptions are kept
     when the corresponding Arabic description did not change; this avoids wasting
-    Groq requests on every scheduled run.
+    Gemini requests on every scheduled run.
     """
     old_ar_apps = get_apps(old_ar_source)
     old_en_apps = get_apps(old_en_source)
@@ -980,7 +990,7 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
             continue
 
         print(f"🌐 Translating: {clean_text(app.get('name') or app.get('id'))}")
-        app["localizedDescription"] = groq_translate_to_english(arabic_description)
+        app["localizedDescription"] = gemini_translate_to_english(arabic_description)
         translated += 1
 
     print(f"🌐 English descriptions translated: {translated}")
