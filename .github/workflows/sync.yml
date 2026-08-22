@@ -51,7 +51,7 @@ jobs:
       - name: Sync IPA-AR.json + IPA-EN.json
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash
+          GEMINI_MODEL: gemini-3.6-flash
         run: |
           set -euo pipefail
           if [ -z "${GEMINI_API_KEY:-}" ]; then
