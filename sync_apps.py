@@ -96,20 +96,20 @@ DEFAULT_SOURCE_META = {
     "website": "https://t.me/iKiraPlus",
     "news": [
         {
-            "title": "كيرا بلس",
-            "identifier": "com.ikiraplus.card",
-            "caption": "قناة كيرا بلس للتطبيقات والشهادات",
-            "date": "2026-05-11",
-            "imageURL": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
-            "url": "https://t.me/iKiraPlus",
-        },
-        {
             "title": "شراء شهادة مدفوعة - @ikira18",
             "identifier": "com.ikiraplus.certpaid",
             "caption": "تتوفر لدينا ميزة شراء شهادات مدفوعة بأنسب سعر",
             "date": "2026-08-22",
-            "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert.JPEG",
+            "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert-ar.png",
             "url": "https://t.me/ikira18",
+        },
+        {
+            "title": "كيرا بلس",
+            "identifier": "com.ikiraplus.card",
+            "caption": "قناة كيرا بلس للتطبيقات والشهادات",
+            "date": "2026-05-11",
+            "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/ikiraplus.jpg",
+            "url": "https://t.me/iKiraPlus",
         }
     ],
 }
@@ -902,6 +902,10 @@ _translate_rate_limiter = _SlidingWindowRateLimiter(TRANSLATE_MAX_REQUESTS_PER_M
 
 
 GLOSSARY = {
+    "شهادة مدفوعة": "paid certificate",
+    "شهاده مدفوعه": "paid certificate",
+    "شهادات مدفوعة": "paid certificates",
+    "شهادات مدفوعه": "paid certificates",
     "كيرا بلس": "iKiraPlus",
     "كسر الحماية": "jailbreak",
     "بدون جلبريك": "no jailbreak needed",
@@ -1210,6 +1214,11 @@ def translate_categories(output, old_ar_source=None, old_en_source=None):
             app["category"] = category_map[category]
 
 
+EN_NEWS_IMAGE_OVERRIDES = {
+    "com.ikiraplus.certpaid": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert-en.png",
+}
+
+
 def translate_news_captions(output, old_ar_source=None, old_en_source=None):
 
     news_list = output.get("news")
@@ -1235,6 +1244,10 @@ def translate_news_captions(output, old_ar_source=None, old_en_source=None):
             continue
 
         identifier = clean_text(item.get("identifier"))
+
+        if identifier in EN_NEWS_IMAGE_OVERRIDES:
+            item["imageURL"] = EN_NEWS_IMAGE_OVERRIDES[identifier]
+
         old_ar_item = old_ar_by_id.get(identifier)
         old_en_item = old_en_by_id.get(identifier)
 
