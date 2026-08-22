@@ -7,6 +7,9 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.error
+import urllib.request
 from collections import Counter
 from datetime import datetime, timezone
 
@@ -849,15 +852,153 @@ def print_report(path, report, apps_count):
     print("✅ bundleIdentifier values are unique")
 
 
+
+GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+
+
+def groq_translate_to_english(text):
+    """Translate an Arabic app description to natural English using Groq."""
+    text = clean_text(text)
+    if not text:
+        return ""
+
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        raise RuntimeError("GROQ_API_KEY is not set")
+
+    payload = {
+        "model": GROQ_MODEL,
+        "temperature": 0.1,
+        "max_completion_tokens": 1024,
+        "messages": [
+            {
+                "role": "system",
+                "content": (
+                    "You translate app store descriptions from Arabic to natural English. "
+                    "Return ONLY the English translation. Preserve product/app names, URLs, "
+                    "numbers, version numbers, emojis, and formatting when possible. "
+                    "Do not add explanations, quotes, or extra text."
+                ),
+            },
+            {"role": "user", "content": text},
+        ],
+    }
+
+    request = urllib.request.Request(
+        GROQ_API_URL,
+        data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+
+    last_error = None
+    for attempt in range(1, 4):
+        try:
+            with urllib.request.urlopen(request, timeout=90) as response:
+                body = json.loads(response.read().decode("utf-8"))
+            result = body["choices"][0]["message"]["content"]
+            result = clean_text(result)
+            if not result:
+                raise RuntimeError("Groq returned an empty translation")
+            return result
+        except urllib.error.HTTPError as exc:
+            details = exc.read().decode("utf-8", errors="replace")
+            last_error = RuntimeError(f"Groq HTTP {exc.code}: {details[:500]}")
+            if exc.code not in {408, 429, 500, 502, 503, 504}:
+                raise last_error
+        except (urllib.error.URLError, TimeoutError, KeyError, IndexError, json.JSONDecodeError) as exc:
+            last_error = RuntimeError(f"Groq request failed: {exc}")
+
+        if attempt < 3:
+            time.sleep(attempt * 3)
+
+    raise last_error or RuntimeError("Groq translation failed")
+
+
+def app_identity_for_translation(app):
+    """Stable identity used to match old AR/EN records across sync runs."""
+    keys = strong_identity_keys(app, include_url=True)
+    for prefix in ("id:", "bundle:", "url:"):
+        for key in keys:
+            if key.startswith(prefix):
+                return key
+    return name_identity_key(app)
+
+
+def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
+    """Create IPA-EN from IPA-AR, translating only descriptions that need work.
+
+    All app metadata is copied from IPA-AR. Existing English descriptions are kept
+    when the corresponding Arabic description did not change; this avoids wasting
+    Groq requests on every scheduled run.
+    """
+    old_ar_apps = get_apps(old_ar_source)
+    old_en_apps = get_apps(old_en_source)
+
+    old_ar_by_key = {}
+    old_en_by_key = {}
+    for app in old_ar_apps:
+        key = app_identity_for_translation(app)
+        if key:
+            old_ar_by_key[key] = app
+    for app in old_en_apps:
+        key = app_identity_for_translation(app)
+        if key:
+            old_en_by_key[key] = app
+
+    output = copy.deepcopy(ar_source)
+    translated = 0
+    reused = 0
+    empty = 0
+
+    for app in output.get("apps", []):
+        if not isinstance(app, dict):
+            continue
+
+        key = app_identity_for_translation(app)
+        old_ar = old_ar_by_key.get(key) if key else None
+        old_en = old_en_by_key.get(key) if key else None
+
+        arabic_description = clean_text(app.get("localizedDescription"))
+        old_ar_description = clean_text(old_ar.get("localizedDescription")) if old_ar else ""
+        existing_english = clean_text(old_en.get("localizedDescription")) if old_en else ""
+
+        # No Arabic description: don't invent one.
+        if not arabic_description:
+            app["localizedDescription"] = ""
+            empty += 1
+            continue
+
+        # Reuse the previous English translation if the Arabic source text is unchanged.
+        if existing_english and old_ar_description == arabic_description:
+            app["localizedDescription"] = existing_english
+            reused += 1
+            continue
+
+        print(f"🌐 Translating: {clean_text(app.get('name') or app.get('id'))}")
+        app["localizedDescription"] = groq_translate_to_english(arabic_description)
+        translated += 1
+
+    print(f"🌐 English descriptions translated: {translated}")
+    print(f"♻️ English descriptions reused: {reused}")
+    print(f"ℹ️ Apps without Arabic descriptions: {empty}")
+    return output
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", default="jom.json", help="Path to jom.json")
     parser.add_argument("--target", default="target_repo/IPA-AR.json", help="Path to target IPA-AR.json source file")
+    parser.add_argument("--target-en", default=None, help="Optional path to IPA-EN.json; generated from the Arabic output")
     parser.add_argument("--today", default=None, help="Override today's date as YYYY-MM-DD, useful for tests")
     args = parser.parse_args()
 
     jom_source = load_json_file(args.source)
     target_source = load_json_file(args.target, required=False)
+    old_en_source = load_json_file(args.target_en, required=False) if args.target_en else None
 
     output_source, report = build_source_from_regram(jom_source, target_source, today=args.today)
     validate_output(output_source, report["source_records"], report["ignored_before_start"])
@@ -865,6 +1006,18 @@ def main():
 
     written = load_json_file(args.target)
     validate_output(written, report["source_records"], report["ignored_before_start"])
+
+    if args.target_en:
+        english_source = build_english_source(
+            written,
+            old_ar_source=target_source,
+            old_en_source=old_en_source,
+        )
+        hard_write_json(args.target_en, english_source)
+        english_written = load_json_file(args.target_en)
+        if len(get_apps(english_written)) != len(get_apps(written)):
+            raise ValueError("IPA-EN.json app count does not match IPA-AR.json")
+        print(f"✅ target synced: {args.target_en}")
 
     apps = written["apps"]
     print_report(args.target, report, len(apps))
