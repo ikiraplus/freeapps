@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/ikiraplus/freeapps/releases/download/2.8/Vozi.Play_1.2_1787391773.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.voziplay.ikiraplus</string>
+				<string>com.dazplay</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
