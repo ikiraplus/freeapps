@@ -7,20 +7,20 @@
   "website": "https://t.me/iKiraPlus",
   "news": [
     {
-      "title": "iKiraPlus",
-      "identifier": "com.ikiraplus.card",
-      "caption": "channel iKiraPlus for applications and certificates",
-      "date": "2026-05-11",
-      "imageURL": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
-      "url": "https://t.me/iKiraPlus"
-    },
-    {
       "title": "Buy certificate paid - @ikira18",
       "identifier": "com.ikiraplus.certpaid",
       "caption": "We have the advantage of purchasing paid certificates at the most reasonable price",
       "date": "2026-08-22",
-      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert.JPEG",
+      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert-en.png",
       "url": "https://t.me/ikira18"
+    },
+    {
+      "title": "iKiraPlus",
+      "identifier": "com.ikiraplus.card",
+      "caption": "channel iKiraPlus for applications and certificates",
+      "date": "2026-05-11",
+      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/ikiraplus.jpg",
+      "url": "https://t.me/iKiraPlus"
     }
   ],
   "apps": [

@@ -7,20 +7,20 @@
   "website": "https://t.me/iKiraPlus",
   "news": [
     {
-      "title": "كيرا بلس",
-      "identifier": "com.ikiraplus.card",
-      "caption": "قناة كيرا بلس للتطبيقات والشهادات",
-      "date": "2026-05-11",
-      "imageURL": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
-      "url": "https://t.me/iKiraPlus"
-    },
-    {
       "title": "شراء شهادة مدفوعة - @ikira18",
       "identifier": "com.ikiraplus.certpaid",
       "caption": "تتوفر لدينا ميزة شراء شهادات مدفوعة بأنسب سعر",
       "date": "2026-08-22",
-      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert.JPEG",
+      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert-ar.png",
       "url": "https://t.me/ikira18"
+    },
+    {
+      "title": "كيرا بلس",
+      "identifier": "com.ikiraplus.card",
+      "caption": "قناة كيرا بلس للتطبيقات والشهادات",
+      "date": "2026-05-11",
+      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/ikiraplus.jpg",
+      "url": "https://t.me/iKiraPlus"
     }
   ],
   "apps": [
