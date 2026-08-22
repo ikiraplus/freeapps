@@ -1,0 +1,878 @@
+#!/usr/bin/env python3
+import argparse
+import base64
+import copy
+import hashlib
+import json
+import os
+import re
+import sys
+from collections import Counter
+from datetime import datetime, timezone
+
+try:
+    from zoneinfo import ZoneInfo
+except Exception:
+    ZoneInfo = None
+
+START_APP_NAME = "ريكرام"
+BUNDLE_PREFIX = "com.ikiraplus.apps"
+LOCAL_TIMEZONE = "Asia/Baghdad"
+
+
+def _unpack(value):
+    return base64.b64decode(value[::-1]).decode("utf-8")
+
+SOURCE_FIELD_ORDER = [
+    "name",
+    "identifier",
+    "sourceURL",
+    "iconURL",
+    "sourceIcon",
+    "website",
+    "news",
+    "apps",
+]
+
+APP_FIELD_ORDER = [
+    "id",
+    "name",
+    "bundleIdentifier",
+    "bundleId",
+    "developerName",
+    "iconURL",
+    "icon",
+    "localizedDescription",
+    "note",
+    "category",
+    "versions",
+    "version",
+    "versionDate",
+    "downloadURL",
+    "ipaUrl",
+    "size",
+    "addedAt",
+    "updatedAt",
+    "hidden",
+]
+
+TRACKED_UPDATE_FIELDS = [
+    "id",
+    "name",
+    "bundleIdentifier",
+    "bundleId",
+    "developerName",
+    "version",
+    "downloadURL",
+    "ipaUrl",
+    "iconURL",
+    "icon",
+    "localizedDescription",
+    "note",
+    "size",
+    "category",
+    "versions",
+    "previousVersions",
+    "hidden",
+]
+
+DATE_FIELDS = {"versionDate", "addedAt", "updatedAt"}
+
+DEFAULT_SOURCE_META = {
+    "name": "iKiraPlus - IPA Store",
+    "identifier": "com.ikiraplus.store",
+    "sourceURL": _unpack("=UmcvR3chBXav4Wah12LlNmc192cvA3brN2Yhp2Lt92YuQnblRnbvNmclNXdiVHa0l2ZucXYy9yL6MHc0RHa"),
+    "iconURL": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
+    "sourceIcon": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
+    "website": "https://t.me/iKiraPlus",
+    "news": [
+        {
+            "title": "كيرا بلس",
+            "identifier": "com.ikiraplus.card",
+            "caption": "قناة كيرا بلس للتطبيقات والشهادات",
+            "date": "2026-05-11",
+            "tintColor": "#7A7DFF",
+            "imageURL": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
+            "url": "https://t.me/iKiraPlus",
+        }
+    ],
+}
+
+CERTIFICATE_ID_NEEDLES = (
+    "shahada-free",
+    "shahadda-free",
+    "shahada",
+    "shahadda",
+)
+CERTIFICATE_NAME_NEEDLES = (
+    "شهاده مجاني",
+    "شهاده",
+)
+
+
+def today_string():
+    if ZoneInfo is not None:
+        try:
+            return datetime.now(ZoneInfo(LOCAL_TIMEZONE)).strftime("%Y-%m-%d")
+        except Exception:
+            pass
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
+def clean_text(value):
+    if value is None:
+        return ""
+    text = str(value)
+    text = re.sub(r"[\u200b\u200c\u200d\ufeff\u2060]", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def normalize_arabic(value):
+    text = clean_text(value)
+    text = re.sub(r"[\u064b-\u065f\u0670\u0640]", "", text)
+    text = text.replace("أ", "ا").replace("إ", "ا").replace("آ", "ا")
+    text = text.replace("ى", "ي")
+    text = text.replace("ة", "ه")
+    return text.casefold()
+
+
+def is_empty(value):
+    if value is None:
+        return True
+    if isinstance(value, str) and value.strip().lower() in {"", "null", "none", "nan"}:
+        return True
+    return False
+
+
+def first_non_empty(*values):
+    for value in values:
+        if not is_empty(value):
+            return value
+    return None
+
+
+def is_certificate_app(app):
+    if not isinstance(app, dict):
+        return False
+
+    name_key = normalize_arabic(app.get("name"))
+    id_key = clean_text(app.get("id")).casefold()
+    bundle_key = clean_text(app.get("bundleIdentifier") or app.get("bundleId")).casefold()
+    url_key = clean_text(app.get("downloadURL") or app.get("ipaUrl")).casefold()
+    blob = f"{id_key} {bundle_key} {url_key}"
+
+    if any(needle in name_key for needle in CERTIFICATE_NAME_NEEDLES):
+        return True
+    if any(needle in blob for needle in CERTIFICATE_ID_NEEDLES):
+        return True
+    return False
+
+
+def size_to_bytes(size):
+    if size is None:
+        return 0
+    if isinstance(size, bool):
+        return int(size)
+    if isinstance(size, int):
+        return size
+    if isinstance(size, float):
+        return int(size)
+
+    text = str(size).strip().lower().replace(",", "")
+    if not text:
+        return 0
+    if text.isdigit():
+        return int(text)
+
+    match = re.search(r"(\d+(?:\.\d+)?)", text)
+    if not match:
+        return 0
+
+    value = float(match.group(1))
+    if any(unit in text for unit in ["gb", "gib", "جيجا", "غيغا"]):
+        return int(value * 1024 * 1024 * 1024)
+    if any(unit in text for unit in ["mb", "mib", "ميجا", "ميكا", "مب"]):
+        return int(value * 1024 * 1024)
+    if any(unit in text for unit in ["kb", "kib", "كيلو", "كب"]):
+        return int(value * 1024)
+    return int(value)
+
+
+def normalize_version_date(value):
+    value = first_non_empty(value)
+    if value is None:
+        return None
+    text = str(value).strip()
+    if "T" in text:
+        text = text.split("T", 1)[0].strip()
+    return text or None
+
+
+def build_versions(app):
+    """Build at most 2 AltSource-style versions: current + newest previous."""
+    versions = []
+
+    current_version = clean_text(app.get("version"))
+    current_url = first_non_empty(app.get("downloadURL"), app.get("ipaUrl"))
+    current_date = normalize_version_date(
+        first_non_empty(app.get("versionDate"), app.get("updatedAt"), app.get("addedAt"))
+    )
+    current_size = size_to_bytes(app.get("size"))
+
+    if current_version and not is_empty(current_url):
+        current = {
+            "version": current_version,
+            "downloadURL": clean_text(current_url),
+        }
+        if current_date:
+            current["date"] = current_date
+        if current_size > 0:
+            current["size"] = current_size
+        versions.append(current)
+
+    previous = app.get("previousVersions")
+    if isinstance(previous, list):
+        for old in previous:
+            if len(versions) >= 2:
+                break
+            if not isinstance(old, dict):
+                continue
+
+            old_version = clean_text(old.get("version"))
+            old_url = first_non_empty(old.get("downloadURL"), old.get("ipaUrl"))
+            if not old_version or is_empty(old_url):
+                continue
+            if any(clean_text(v.get("version")) == old_version for v in versions):
+                continue
+
+            item = {
+                "version": old_version,
+                "downloadURL": clean_text(old_url),
+            }
+            old_date = normalize_version_date(
+                first_non_empty(old.get("date"), old.get("versionDate"), old.get("updatedAt"), old.get("addedAt"))
+            )
+            old_size = size_to_bytes(old.get("size"))
+            if old_date:
+                item["date"] = old_date
+            if old_size > 0:
+                item["size"] = old_size
+            versions.append(item)
+
+    return versions[:2]
+
+
+def slugify(text):
+    text = clean_text(text).casefold()
+    ascii_text = text.encode("ascii", "ignore").decode("ascii")
+    ascii_text = ascii_text.replace("'", "")
+    slug = re.sub(r"[^a-z0-9]+", "-", ascii_text).strip("-")
+    slug = re.sub(r"-+", "-", slug)
+    return slug[:42].strip("-") or "app"
+
+
+def stable_hash(*parts):
+    raw = "|".join(clean_text(part) for part in parts if not is_empty(part))
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:10]
+
+
+def make_bundle(app, used_bundles, fallback_bundle=None):
+    existing = first_non_empty(app.get("bundleIdentifier"), app.get("bundleId"))
+    fallback = clean_text(fallback_bundle)
+
+    if is_empty(existing) and fallback:
+        fallback_key = fallback.casefold()
+        if fallback_key not in used_bundles:
+            used_bundles.add(fallback_key)
+            return fallback
+
+    existing_key = clean_text(existing).casefold()
+    if existing_key and existing_key not in used_bundles:
+        used_bundles.add(existing_key)
+        return clean_text(existing)
+
+    base = (
+        f"{BUNDLE_PREFIX}."
+        f"{slugify(first_non_empty(app.get('name'), app.get('id'), 'app'))}."
+        f"{stable_hash(app.get('id'), app.get('name'))}"
+    )
+    candidate = base
+    counter = 2
+    while candidate.casefold() in used_bundles:
+        candidate = f"{base}.{counter}"
+        counter += 1
+
+    used_bundles.add(candidate.casefold())
+    return candidate
+
+
+def order_dict(data, preferred_order):
+    ordered = {key: data[key] for key in preferred_order if key in data}
+    for key, value in data.items():
+        if key not in ordered:
+            ordered[key] = value
+    return ordered
+
+
+def load_json_file(path, *, required=True):
+    if not os.path.exists(path):
+        if required:
+            raise FileNotFoundError(path)
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    if not isinstance(data, dict):
+        raise ValueError(f"{path} must contain a JSON object")
+    if not isinstance(data.get("apps"), list):
+        raise ValueError(f"{path} must contain an apps array")
+    return data
+
+
+def get_apps(source):
+    if not isinstance(source, dict):
+        return []
+    return [app for app in source.get("apps", []) if isinstance(app, dict)]
+
+
+def find_start_index(apps):
+    target = normalize_arabic(START_APP_NAME)
+    for index, app in enumerate(apps):
+        if normalize_arabic(app.get("name")) == target:
+            return index
+    names_preview = [clean_text(app.get("name")) for app in apps[:30]]
+    raise ValueError(f"Start app '{START_APP_NAME}' was not found. First apps: {names_preview}")
+
+
+def normalize_app(app, used_bundles, fallback_bundle=None):
+    fixed = copy.deepcopy(app)
+
+    if "name" in fixed:
+        fixed["name"] = clean_text(fixed.get("name"))
+
+    fixed["size"] = size_to_bytes(fixed.get("size"))
+    fixed["versionDate"] = normalize_version_date(
+        first_non_empty(fixed.get("versionDate"), fixed.get("updatedAt"), fixed.get("addedAt"))
+    )
+    if "addedAt" in fixed:
+        fixed["addedAt"] = normalize_version_date(fixed.get("addedAt"))
+    if "updatedAt" in fixed:
+        fixed["updatedAt"] = normalize_version_date(fixed.get("updatedAt"))
+
+    if is_empty(fixed.get("downloadURL")) and not is_empty(fixed.get("ipaUrl")):
+        fixed["downloadURL"] = fixed.get("ipaUrl")
+    if is_empty(fixed.get("ipaUrl")) and not is_empty(fixed.get("downloadURL")):
+        fixed["ipaUrl"] = fixed.get("downloadURL")
+    if is_empty(fixed.get("iconURL")) and not is_empty(fixed.get("icon")):
+        fixed["iconURL"] = fixed.get("icon")
+    if is_empty(fixed.get("icon")) and not is_empty(fixed.get("iconURL")):
+        fixed["icon"] = fixed.get("iconURL")
+    if is_empty(fixed.get("localizedDescription")) and not is_empty(fixed.get("note")):
+        fixed["localizedDescription"] = fixed.get("note")
+
+    fixed["versions"] = build_versions(fixed)
+    fixed.pop("previousVersions", None)
+
+    fixed["bundleIdentifier"] = make_bundle(fixed, used_bundles, fallback_bundle=fallback_bundle)
+    return order_dict(fixed, APP_FIELD_ORDER)
+
+
+def strong_identity_keys(app, include_url=True):
+    """Return stable identity keys without using the display name.
+
+    Names are intentionally excluded here because the source can contain
+    different apps with the same name. We prefer id, bundle id, then URL.
+    """
+    if not isinstance(app, dict):
+        return []
+
+    keys = []
+    app_id = first_non_empty(app.get("id"))
+    bundle = first_non_empty(app.get("bundleIdentifier"), app.get("bundleId"))
+    url = first_non_empty(app.get("downloadURL"), app.get("ipaUrl"))
+
+    if not is_empty(app_id):
+        keys.append(f"id:{clean_text(app_id).casefold()}")
+    if not is_empty(bundle):
+        keys.append(f"bundle:{clean_text(bundle).casefold()}")
+    if include_url and not is_empty(url):
+        keys.append(f"url:{clean_text(url).casefold()}")
+
+    return list(dict.fromkeys(keys))
+
+
+def name_identity_key(app):
+    if not isinstance(app, dict):
+        return None
+    name = normalize_arabic(app.get("name"))
+    return f"name:{name}" if name else None
+
+
+def source_record_identity(app):
+    """Single dedupe key for source records.
+
+    This prevents true duplicate records while preserving separate apps that
+    merely share the same display name.
+    """
+    keys = strong_identity_keys(app, include_url=True)
+    for prefix in ("id:", "bundle:", "url:"):
+        for key in keys:
+            if key.startswith(prefix):
+                return key
+    return name_identity_key(app)
+
+
+def build_target_lookup(target_apps):
+    strong_lookup = {}
+    duplicate_keys = []
+    name_candidates = {}
+
+    for index, app in enumerate(target_apps):
+        if is_certificate_app(app):
+            continue
+
+        for key in strong_identity_keys(app, include_url=True):
+            if key in strong_lookup:
+                duplicate_keys.append(key)
+            else:
+                strong_lookup[key] = index
+
+        name_key = name_identity_key(app)
+        if name_key:
+            name_candidates.setdefault(name_key, []).append(index)
+
+    # Name matching is only safe when the name occurs exactly once in target.
+    unique_name_lookup = {
+        key: indexes[0]
+        for key, indexes in name_candidates.items()
+        if len(indexes) == 1
+    }
+
+    return {
+        "strong": strong_lookup,
+        "unique_names": unique_name_lookup,
+    }, duplicate_keys
+
+
+def find_matching_target_index(raw_app, fixed_app, target_lookup):
+    strong_lookup = target_lookup.get("strong", {}) if isinstance(target_lookup, dict) else {}
+    unique_name_lookup = target_lookup.get("unique_names", {}) if isinstance(target_lookup, dict) else {}
+
+    keys = []
+    keys.extend(strong_identity_keys(raw_app, include_url=True))
+    keys.extend(strong_identity_keys(fixed_app, include_url=True))
+
+    for key in dict.fromkeys(keys):
+        if key in strong_lookup:
+            return strong_lookup[key]
+
+    # Last-resort name match, but only when that name is unique in the target.
+    for app in (raw_app, fixed_app):
+        name_key = name_identity_key(app)
+        if name_key and name_key in unique_name_lookup:
+            return unique_name_lookup[name_key]
+
+    return None
+
+def compare_value(key, value):
+    if key == "size":
+        return size_to_bytes(value)
+    if isinstance(value, str):
+        return clean_text(value)
+    if isinstance(value, (dict, list)):
+        return json.dumps(value, sort_keys=True, ensure_ascii=False)
+    return value
+
+
+def changed_field_names(old_app, new_app):
+    changed = []
+    for key in TRACKED_UPDATE_FIELDS:
+        old_exists = key in old_app and not is_empty(old_app.get(key))
+        new_exists = key in new_app and not is_empty(new_app.get(key))
+        old_value = compare_value(key, old_app.get(key)) if old_exists else None
+        new_value = compare_value(key, new_app.get(key)) if new_exists else None
+        if old_exists != new_exists or old_value != new_value:
+            changed.append(key)
+    return changed
+
+
+def merge_existing_app(existing_app, incoming_app, today):
+    updated = copy.deepcopy(existing_app)
+    original_dates = {key: updated.get(key) for key in DATE_FIELDS if key in updated}
+
+    for key in TRACKED_UPDATE_FIELDS:
+        if key in updated and key not in incoming_app:
+            updated.pop(key, None)
+
+    for key, value in incoming_app.items():
+        if key in DATE_FIELDS:
+            continue
+        updated[key] = value
+
+    changed = changed_field_names(existing_app, updated)
+
+    for key in DATE_FIELDS:
+        if key in updated:
+            updated.pop(key, None)
+        if key in original_dates:
+            updated[key] = original_dates[key]
+
+    if changed:
+        updated["versionDate"] = today
+        updated["updatedAt"] = today
+        if is_empty(updated.get("addedAt")):
+            updated["addedAt"] = today
+    else:
+        if is_empty(updated.get("versionDate")):
+            updated["versionDate"] = normalize_version_date(incoming_app.get("versionDate")) or today
+        if is_empty(updated.get("updatedAt")) and not is_empty(incoming_app.get("updatedAt")):
+            updated["updatedAt"] = normalize_version_date(incoming_app.get("updatedAt"))
+        if is_empty(updated.get("addedAt")) and not is_empty(incoming_app.get("addedAt")):
+            updated["addedAt"] = normalize_version_date(incoming_app.get("addedAt"))
+
+    updated["versionDate"] = normalize_version_date(updated.get("versionDate")) or today
+    if not is_empty(updated.get("addedAt")):
+        updated["addedAt"] = normalize_version_date(updated.get("addedAt"))
+    if not is_empty(updated.get("updatedAt")):
+        updated["updatedAt"] = normalize_version_date(updated.get("updatedAt"))
+
+    return order_dict(updated, APP_FIELD_ORDER), changed
+
+
+def new_app_with_dates(incoming_app, today):
+    fixed = copy.deepcopy(incoming_app)
+    fixed["versionDate"] = today
+    fixed["addedAt"] = today
+    fixed["updatedAt"] = today
+    return order_dict(fixed, APP_FIELD_ORDER)
+
+
+def prepare_source_records(jom_source, target_apps):
+    jom_apps = get_apps(jom_source)
+    start_index = find_start_index(jom_apps)
+    ignored_before_start = jom_apps[:start_index]
+    target_lookup, duplicate_target_keys = build_target_lookup(target_apps)
+
+    used_bundles = set()
+    seen_source_keys = set()
+    source_records = []
+    skipped_certificates = []
+    skipped_source_duplicates = []
+    target_match_collisions = []
+
+    for source_index, raw_app in enumerate(jom_apps[start_index:], start=start_index):
+        if is_certificate_app(raw_app):
+            skipped_certificates.append(clean_text(raw_app.get("name") or raw_app.get("id")))
+            continue
+
+        preliminary_match = find_matching_target_index(raw_app, {}, target_lookup)
+        fallback_bundle = None
+        if preliminary_match is not None and preliminary_match < len(target_apps):
+            fallback_bundle = first_non_empty(
+                target_apps[preliminary_match].get("bundleIdentifier"),
+                target_apps[preliminary_match].get("bundleId"),
+            )
+
+        fixed_app = normalize_app(raw_app, used_bundles, fallback_bundle=fallback_bundle)
+        if is_certificate_app(fixed_app):
+            skipped_certificates.append(clean_text(fixed_app.get("name") or fixed_app.get("id")))
+            continue
+
+        match_index = find_matching_target_index(raw_app, fixed_app, target_lookup)
+        record_key = source_record_identity(raw_app) or source_record_identity(fixed_app)
+
+        if record_key and record_key in seen_source_keys:
+            skipped_source_duplicates.append(clean_text(fixed_app.get("name") or fixed_app.get("id")))
+            continue
+        if record_key:
+            seen_source_keys.add(record_key)
+
+        source_records.append(
+            {
+                "source_index": source_index,
+                "raw": raw_app,
+                "fixed": fixed_app,
+                "match_index": match_index,
+                "keys": [record_key] if record_key else [],
+            }
+        )
+
+    matched_by_target_index = {}
+    unique_source_records = []
+    for record in source_records:
+        match_index = record["match_index"]
+        if match_index is not None:
+            if match_index in matched_by_target_index:
+                target_match_collisions.append(clean_text(record["fixed"].get("name") or record["fixed"].get("id")))
+                continue
+            matched_by_target_index[match_index] = record
+        unique_source_records.append(record)
+
+    report = {
+        "ignored_before_start": ignored_before_start,
+        "skipped_certificates": skipped_certificates,
+        "skipped_source_duplicates": skipped_source_duplicates,
+        "duplicate_target_keys": duplicate_target_keys,
+        "target_match_collisions": target_match_collisions,
+    }
+    return unique_source_records, matched_by_target_index, report
+
+
+def build_source_metadata(jom_source, target_source=None):
+    # Preserve the destination source metadata (name/icon/sourceURL/news/etc.)
+    # and only synchronize the apps array. Missing destination metadata falls
+    # back to jom.json, then to DEFAULT_SOURCE_META.
+    clean_source = {}
+
+    if isinstance(target_source, dict):
+        for key, value in target_source.items():
+            if key != "apps":
+                clean_source[key] = copy.deepcopy(value)
+
+    for key, value in jom_source.items():
+        if key != "apps" and key not in clean_source:
+            clean_source[key] = copy.deepcopy(value)
+
+    for key, value in DEFAULT_SOURCE_META.items():
+        if key not in clean_source:
+            clean_source[key] = copy.deepcopy(value)
+
+    clean_source.setdefault("name", DEFAULT_SOURCE_META["name"])
+    clean_source.setdefault("identifier", DEFAULT_SOURCE_META["identifier"])
+    clean_source.setdefault("sourceURL", DEFAULT_SOURCE_META["sourceURL"])
+    clean_source.setdefault("iconURL", DEFAULT_SOURCE_META["iconURL"])
+    clean_source.setdefault("sourceIcon", clean_source.get("iconURL", DEFAULT_SOURCE_META["sourceIcon"]))
+    clean_source.setdefault("website", DEFAULT_SOURCE_META["website"])
+    if not isinstance(clean_source.get("news"), list) or not clean_source.get("news"):
+        clean_source["news"] = copy.deepcopy(DEFAULT_SOURCE_META["news"])
+
+    return clean_source
+
+
+def build_source_from_regram(jom_source, target_source=None, today=None):
+    today = today or today_string()
+    target_apps = get_apps(target_source)
+    source_records, matched_by_target_index, report = prepare_source_records(jom_source, target_apps)
+
+    output_apps = []
+    used_record_ids = set()
+    changed_apps = []
+    unchanged_apps = []
+    new_apps = []
+    removed_apps = []
+
+    if target_apps:
+        for target_index, existing_app in enumerate(target_apps):
+            if is_certificate_app(existing_app):
+                removed_apps.append(clean_text(existing_app.get("name") or existing_app.get("id")))
+                continue
+
+            record = matched_by_target_index.get(target_index)
+            if record is None:
+                removed_apps.append(clean_text(existing_app.get("name") or existing_app.get("id")))
+                continue
+
+            merged_app, changed_fields = merge_existing_app(existing_app, record["fixed"], today)
+            output_apps.append(merged_app)
+            used_record_ids.add(id(record))
+
+            if changed_fields:
+                changed_apps.append(
+                    {
+                        "name": clean_text(merged_app.get("name") or merged_app.get("id")),
+                        "fields": changed_fields,
+                    }
+                )
+            else:
+                unchanged_apps.append(clean_text(merged_app.get("name") or merged_app.get("id")))
+
+    for record in source_records:
+        if id(record) in used_record_ids:
+            continue
+        app = new_app_with_dates(record["fixed"], today)
+        output_apps.append(app)
+        new_apps.append(clean_text(app.get("name") or app.get("id")))
+
+    clean_source = build_source_metadata(jom_source, target_source)
+    clean_source["apps"] = output_apps
+
+    report.update(
+        {
+            "today": today,
+            "changed_apps": changed_apps,
+            "unchanged_apps": unchanged_apps,
+            "new_apps": new_apps,
+            "removed_apps": removed_apps,
+            "source_records": source_records,
+        }
+    )
+    return order_dict(clean_source, SOURCE_FIELD_ORDER), report
+
+
+def validate_output(output_source, source_records, ignored_before_start):
+    output_apps = [app for app in output_source.get("apps", []) if isinstance(app, dict)]
+    expected_names = [clean_text(record["fixed"].get("name")) for record in source_records]
+    output_names = [clean_text(app.get("name")) for app in output_apps]
+
+    if not output_apps:
+        raise ValueError("Output has no apps")
+
+    first_name = output_apps[0].get("name")
+    if normalize_arabic(first_name) != normalize_arabic(START_APP_NAME):
+        raise ValueError(f"First app must be '{START_APP_NAME}', got '{first_name}'")
+
+    if Counter(output_names) != Counter(expected_names):
+        missing = list((Counter(expected_names) - Counter(output_names)).elements())[:20]
+        extra = list((Counter(output_names) - Counter(expected_names)).elements())[:20]
+        raise ValueError(f"Output app set does not match source apps. Missing: {missing}. Extra: {extra}")
+
+    certificate_apps = [clean_text(app.get("name") or app.get("id")) for app in output_apps if is_certificate_app(app)]
+    if certificate_apps:
+        raise ValueError(f"Certificate apps leaked into output: {certificate_apps[:20]}")
+
+    ignored_names = {clean_text(app.get("name")) for app in ignored_before_start if clean_text(app.get("name"))}
+    leaked_before_start = [name for name in output_names if name in ignored_names]
+    if leaked_before_start:
+        raise ValueError(f"Apps before ريكرام leaked into output: {leaked_before_start[:20]}")
+
+    empty_dates = [app.get("name") for app in output_apps if is_empty(app.get("versionDate"))]
+    if empty_dates:
+        raise ValueError(f"Empty versionDate values found: {empty_dates[:20]}")
+
+    bad_sizes = [app.get("name") for app in output_apps if not isinstance(app.get("size"), int)]
+    if bad_sizes:
+        raise ValueError(f"Size must be int bytes for: {bad_sizes[:20]}")
+
+    missing_bundles = [app.get("name") for app in output_apps if is_empty(app.get("bundleIdentifier"))]
+    if missing_bundles:
+        raise ValueError(f"Missing bundleIdentifier values: {missing_bundles[:20]}")
+
+    bundle_counts = Counter(clean_text(app.get("bundleIdentifier")).casefold() for app in output_apps if app.get("bundleIdentifier"))
+    duplicate_bundles = [bundle for bundle, count in bundle_counts.items() if count > 1]
+    if duplicate_bundles:
+        raise ValueError(f"Duplicate bundleIdentifier values: {duplicate_bundles[:20]}")
+
+    id_counts = Counter(clean_text(app.get("id")).casefold() for app in output_apps if not is_empty(app.get("id")))
+    duplicate_ids = [app_id for app_id, count in id_counts.items() if count > 1]
+    if duplicate_ids:
+        raise ValueError(f"Duplicate id values: {duplicate_ids[:20]}")
+
+
+    bad_versions = []
+    for app in output_apps:
+        versions = app.get("versions")
+        name = clean_text(app.get("name") or app.get("id"))
+        if not isinstance(versions, list) or not versions or len(versions) > 2:
+            bad_versions.append(f"{name}: invalid versions count")
+            continue
+        if clean_text(versions[0].get("version")) != clean_text(app.get("version")):
+            bad_versions.append(f"{name}: latest version mismatch")
+            continue
+        current_url = clean_text(first_non_empty(app.get("downloadURL"), app.get("ipaUrl")))
+        if clean_text(versions[0].get("downloadURL")) != current_url:
+            bad_versions.append(f"{name}: latest downloadURL mismatch")
+            continue
+        seen_versions = set()
+        for item in versions:
+            if not isinstance(item, dict) or is_empty(item.get("version")) or is_empty(item.get("downloadURL")):
+                bad_versions.append(f"{name}: incomplete version entry")
+                break
+            version_key = clean_text(item.get("version")).casefold()
+            if version_key in seen_versions:
+                bad_versions.append(f"{name}: duplicate version {item.get('version')}")
+                break
+            seen_versions.add(version_key)
+
+    if bad_versions:
+        raise ValueError(f"Invalid versions data: {bad_versions[:20]}")
+
+
+def hard_write_json(path, data):
+    directory = os.path.dirname(path)
+    if directory:
+        os.makedirs(directory, exist_ok=True)
+
+    try:
+        if os.path.exists(path):
+            os.chmod(path, 0o666)
+    except FileNotFoundError:
+        pass
+
+    tmp_path = f"{path}.tmp"
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+    os.replace(tmp_path, path)
+
+
+def print_report(path, report, apps_count):
+    print("✅ SMART SYNC OK")
+    print(f"✅ target synced: {path}")
+    print(f"✅ today date used for changed/new apps: {report['today']}")
+    print(f"✅ ignored before ريكرام: {len(report['ignored_before_start'])}")
+    for app in report["ignored_before_start"][:20]:
+        print(f"   - ignored: {clean_text(app.get('name') or app.get('id'))}")
+
+    print(f"✅ changed apps refreshed to today: {len(report['changed_apps'])}")
+    for item in report["changed_apps"][:30]:
+        print(f"   - updated: {item['name']} | fields: {', '.join(item['fields'])}")
+
+    print(f"✅ new apps added: {len(report['new_apps'])}")
+    for name in report["new_apps"][:30]:
+        print(f"   - new: {name}")
+
+    print(f"✅ removed apps not in source / duplicates / certificates: {len(report['removed_apps'])}")
+    for name in report["removed_apps"][:30]:
+        print(f"   - removed: {name}")
+
+    print(f"✅ unchanged apps kept with same dates: {len(report['unchanged_apps'])}")
+    print(f"✅ skipped certificate apps after ريكرام: {len(report['skipped_certificates'])}")
+    for name in report["skipped_certificates"][:20]:
+        print(f"   - skipped certificate: {name}")
+
+    print(f"✅ skipped duplicate source apps: {len(report['skipped_source_duplicates'])}")
+    for name in report["skipped_source_duplicates"][:20]:
+        print(f"   - skipped duplicate: {name}")
+
+    if report["duplicate_target_keys"]:
+        print(f"⚠️ duplicate keys found in old target and safely collapsed: {len(report['duplicate_target_keys'])}")
+    if report["target_match_collisions"]:
+        print(f"⚠️ target match collisions skipped: {len(report['target_match_collisions'])}")
+
+    print(f"✅ apps written: {apps_count}")
+    print("✅ existing apps keep their same order")
+    print("✅ changed app info updates versionDate/updatedAt only, no second copy")
+    print("✅ no شهادة مجانية apps in output")
+    print("✅ size is bytes/int")
+    print("✅ versionDate is never empty")
+    print("✅ bundleIdentifier values are unique")
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--source", default="jom.json", help="Path to jom.json")
+    parser.add_argument("--target", default="target_repo/IPA-AR.json", help="Path to target IPA-AR.json source file")
+    parser.add_argument("--today", default=None, help="Override today's date as YYYY-MM-DD, useful for tests")
+    args = parser.parse_args()
+
+    jom_source = load_json_file(args.source)
+    target_source = load_json_file(args.target, required=False)
+
+    output_source, report = build_source_from_regram(jom_source, target_source, today=args.today)
+    validate_output(output_source, report["source_records"], report["ignored_before_start"])
+    hard_write_json(args.target, output_source)
+
+    written = load_json_file(args.target)
+    validate_output(written, report["source_records"], report["ignored_before_start"])
+
+    apps = written["apps"]
+    print_report(args.target, report, len(apps))
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except Exception as exc:
+        print(f"❌ sync failed: {exc}", file=sys.stderr)
+        sys.exit(1)
