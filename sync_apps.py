@@ -320,25 +320,8 @@ def load_json_file(path, *, required=True):
         if required:
             raise FileNotFoundError(path)
         return None
-
-    # An existing but empty destination file is valid for the first sync.
-    # Treat it exactly like a missing optional target instead of failing
-    # with JSONDecodeError (e.g. "Expecting value: line 2 column 1").
-    with open(path, "r", encoding="utf-8-sig") as f:
-        text = f.read()
-
-    if not text.strip():
-        if required:
-            raise ValueError(f"{path} is empty")
-        return None
-
-    try:
-        data = json.loads(text)
-    except json.JSONDecodeError as exc:
-        raise ValueError(
-            f"{path} is not valid JSON: line {exc.lineno}, column {exc.colno}: {exc.msg}"
-        ) from exc
-
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
     if not isinstance(data, dict):
         raise ValueError(f"{path} must contain a JSON object")
     if not isinstance(data.get("apps"), list):
