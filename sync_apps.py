@@ -57,7 +57,6 @@ APP_FIELD_ORDER = [
     "size",
     "addedAt",
     "updatedAt",
-    "hidden",
 ]
 
 TRACKED_UPDATE_FIELDS = [
@@ -75,15 +74,14 @@ TRACKED_UPDATE_FIELDS = [
     "category",
     "versions",
     "previousVersions",
-    "hidden",
 ]
 
 # Fields we never want in the output, no matter where they came from (raw
 # source, a previously-synced target file, etc.). Some (toolVersion,
-# recommended) are just dropped outright; note/icon are used as one-time
-# fallbacks elsewhere (note -> localizedDescription, icon -> iconURL) and then
-# dropped so they don't linger as duplicate/junk fields.
-FIELDS_TO_DROP = ("toolVersion", "recommended", "note", "icon")
+# recommended, hidden) are just dropped outright; note/icon are used as
+# one-time fallbacks elsewhere (note -> localizedDescription, icon ->
+# iconURL) and then dropped so they don't linger as duplicate/junk fields.
+FIELDS_TO_DROP = ("toolVersion", "recommended", "note", "icon", "hidden")
 
 
 def drop_removed_fields(app):
@@ -944,6 +942,7 @@ _translate_rate_limiter = _SlidingWindowRateLimiter(TRANSLATE_MAX_REQUESTS_PER_M
 # ones automatically, so e.g. "كسر الحماية" won't get broken up by "كسر".
 # ---------------------------------------------------------------------------
 GLOSSARY = {
+    "كيرا بلس": "iKiraPlus",
     "كسر الحماية": "jailbreak",
     "بدون جلبريك": "no jailbreak needed",
     "شهادة مطور": "developer certificate",
@@ -1145,7 +1144,7 @@ EN_SOURCE_URL = "https://ikiraplus.pages.dev/IPA-EN.json"
 # existing IPA-EN.json stamped with an older version is treated as "nothing
 # to reuse" so everything gets retranslated once with the current logic —
 # after that, normal reuse-if-unchanged caching resumes as usual.
-TRANSLATION_FORMAT_VERSION = 2
+TRANSLATION_FORMAT_VERSION = 3
 
 
 def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
@@ -1302,10 +1301,11 @@ def translate_categories(output, old_ar_source=None, old_en_source=None):
 
 
 def translate_news_captions(output, old_ar_source=None, old_en_source=None):
-    """Translate news[].caption (e.g. the channel blurb) for the EN file.
+    """Translate news[].title and news[].caption for the EN file.
 
-    Titles are left untouched since they're brand names ("كيرا بلس"), not
-    descriptive text.
+    Brand-name titles like "كيرا بلس" translate safely to "iKiraPlus" via the
+    GLOSSARY protection in translate_to_english, so it's fine to translate
+    every title the same way rather than special-casing brand vs. non-brand.
     """
     news_list = output.get("news")
     if not isinstance(news_list, list):
@@ -1328,20 +1328,23 @@ def translate_news_captions(output, old_ar_source=None, old_en_source=None):
     for item in news_list:
         if not isinstance(item, dict):
             continue
-        caption = clean_text_keep_lines(item.get("caption"))
-        if not caption:
-            continue
 
         identifier = clean_text(item.get("identifier"))
         old_ar_item = old_ar_by_id.get(identifier)
         old_en_item = old_en_by_id.get(identifier)
-        old_ar_caption = clean_text_keep_lines(old_ar_item.get("caption")) if old_ar_item else ""
-        existing_english_caption = clean_text_keep_lines(old_en_item.get("caption")) if old_en_item else ""
 
-        if existing_english_caption and old_ar_caption == caption:
-            item["caption"] = existing_english_caption
-        else:
-            item["caption"] = translate_to_english(caption)
+        for field in ("title", "caption"):
+            text = clean_text_keep_lines(item.get(field))
+            if not text:
+                continue
+
+            old_ar_text = clean_text_keep_lines(old_ar_item.get(field)) if old_ar_item else ""
+            existing_english = clean_text_keep_lines(old_en_item.get(field)) if old_en_item else ""
+
+            if existing_english and old_ar_text == text:
+                item[field] = existing_english
+            else:
+                item[field] = translate_to_english(text)
 
 
 
