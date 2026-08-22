@@ -9,6 +9,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 import threading
 from collections import Counter, deque
@@ -855,30 +856,22 @@ def print_report(path, report, apps_count):
 
 
 
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.6-flash")
-GEMINI_API_URL = (
-    f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-)
+# Free, unofficial Google Translate endpoint (the same one translate.google.com's
+# web page itself calls). No account, no API key, no billing. It's not an
+# officially documented/supported API, so we're deliberately conservative about
+# request rate to avoid tripping any abuse protection — see the rate limiter below.
+GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
 
-GEMINI_SYSTEM_INSTRUCTION = (
-    "You translate app store descriptions from Arabic to natural English. "
-    "Return ONLY the English translation. Preserve product/app names, URLs, "
-    "numbers, version numbers, emojis, and formatting when possible. "
-    "Do not add explanations, quotes, or extra text."
-)
-
-# Google's published free-tier limit for gemini-3.6-flash is ~15 requests/minute.
-# We stay safely under that on purpose: going over it doesn't get the account
-# banned, but there's no reason to hug the edge either.
-GEMINI_MAX_REQUESTS_PER_MINUTE = int(os.getenv("GEMINI_MAX_RPM", "10"))
+# Undocumented endpoint => no published quota to target. We pick a modest, safe
+# rate on purpose (tunable via env) rather than hammering it.
+TRANSLATE_MAX_REQUESTS_PER_MINUTE = int(os.getenv("TRANSLATE_MAX_RPM", "20"))
 
 
 class _SlidingWindowRateLimiter:
     """Blocks callers so that at most `max_calls` happen in any rolling `period` window.
 
     Shared across all translation threads so the *combined* request rate never
-    exceeds Gemini's published free-tier quota, no matter how many workers run
-    concurrently.
+    exceeds our self-imposed cap, no matter how many workers run concurrently.
     """
 
     def __init__(self, max_calls, period=60.0):
@@ -904,92 +897,81 @@ class _SlidingWindowRateLimiter:
                 time.sleep(wait_time)
 
 
-_gemini_rate_limiter = _SlidingWindowRateLimiter(GEMINI_MAX_REQUESTS_PER_MINUTE)
+_translate_rate_limiter = _SlidingWindowRateLimiter(TRANSLATE_MAX_REQUESTS_PER_MINUTE)
 
 
-def _parse_retry_after_seconds(details_text, default=15.0, cap=90.0):
-    """Extract Gemini's own suggested retry delay from a 429 error body, if present."""
-    match = re.search(r"retry in\s+([\d.]+)\s*s", details_text, re.IGNORECASE)
-    if not match:
-        return default
-    try:
-        seconds = float(match.group(1))
-    except ValueError:
-        return default
-    return min(max(seconds, 1.0), cap)
+def _parse_google_translate_response(raw_body):
+    """Parse the nested-array JSON that translate_a/single returns.
+
+    Google splits long text into multiple sentence chunks; each chunk's
+    translation is the first element of its own small array. We join them.
+    """
+    data = json.loads(raw_body)
+    segments = data[0] if data else None
+    if not segments:
+        return ""
+    pieces = [seg[0] for seg in segments if seg and seg[0]]
+    return "".join(pieces)
 
 
-def gemini_translate_to_english(text):
-    """Translate an Arabic app description to natural English using Gemini."""
+def translate_to_english(text):
+    """Translate an Arabic app description to English via Google's free web-translate endpoint."""
     text = clean_text(text)
     if not text:
         return ""
 
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        raise RuntimeError("GEMINI_API_KEY is not set")
-
-    payload = {
-        "system_instruction": {
-            "parts": [{"text": GEMINI_SYSTEM_INSTRUCTION}],
-        },
-        "contents": [
-            {
-                "role": "user",
-                "parts": [{"text": text}],
-            }
-        ],
-        "generationConfig": {
-            "temperature": 0.1,
-            "maxOutputTokens": 1024,
-        },
-    }
-
+    params = urllib.parse.urlencode(
+        {
+            "client": "gtx",
+            "sl": "ar",
+            "tl": "en",
+            "dt": "t",
+            "q": text,
+        }
+    )
     request = urllib.request.Request(
-        f"{GEMINI_API_URL}?key={api_key}",
-        data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
+        f"{GOOGLE_TRANSLATE_URL}?{params}",
         headers={
-            "Content-Type": "application/json",
+            # A normal browser User-Agent avoids being treated as an obvious bot.
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+            ),
         },
-        method="POST",
+        method="GET",
     )
 
     last_error = None
     max_attempts = 6
     for attempt in range(1, max_attempts + 1):
-        # Wait for a free slot in our own quota window before every attempt,
-        # including retries, so a burst of 429s can't turn into a hammering loop.
-        _gemini_rate_limiter.acquire()
+        # Wait for a free slot in our own self-imposed quota window before every
+        # attempt, including retries, so transient blocks can't turn into a
+        # hammering loop.
+        _translate_rate_limiter.acquire()
         try:
-            with urllib.request.urlopen(request, timeout=90) as response:
-                body = json.loads(response.read().decode("utf-8"))
-            candidates = body.get("candidates") or []
-            if not candidates:
-                raise RuntimeError("Gemini returned no candidates")
-            parts = candidates[0].get("content", {}).get("parts", [])
-            result = "".join(part.get("text", "") for part in parts)
-            result = clean_text(result)
+            with urllib.request.urlopen(request, timeout=30) as response:
+                raw_body = response.read().decode("utf-8")
+            result = clean_text(_parse_google_translate_response(raw_body))
             if not result:
-                raise RuntimeError("Gemini returned an empty translation")
+                raise RuntimeError("Google Translate returned an empty translation")
             return result
         except urllib.error.HTTPError as exc:
-            details = exc.read().decode("utf-8", errors="replace")
-            last_error = RuntimeError(f"Gemini HTTP {exc.code}: {details[:500]}")
-            if exc.code == 429:
-                # Honor Google's own suggested wait time instead of guessing.
-                delay = _parse_retry_after_seconds(details)
-                print(f"⏳ Gemini rate limit hit, waiting {delay:.0f}s before retry ({attempt}/{max_attempts})")
+            last_error = RuntimeError(f"Google Translate HTTP {exc.code}")
+            if exc.code in {429, 403}:
+                # Likely a soft/temporary throttle. Back off generously.
+                delay = min(10 * attempt, 60)
+                print(f"⏳ Google Translate throttled, waiting {delay}s before retry ({attempt}/{max_attempts})")
                 time.sleep(delay)
                 continue
             if exc.code not in {408, 500, 502, 503, 504}:
                 raise last_error
-        except (urllib.error.URLError, TimeoutError, KeyError, IndexError, json.JSONDecodeError) as exc:
-            last_error = RuntimeError(f"Gemini request failed: {exc}")
+        except (urllib.error.URLError, TimeoutError, IndexError, json.JSONDecodeError) as exc:
+            last_error = RuntimeError(f"Google Translate request failed: {exc}")
 
         if attempt < max_attempts:
-            time.sleep(attempt * 3)
+            time.sleep(attempt * 2)
 
-    raise last_error or RuntimeError("Gemini translation failed")
+    raise last_error or RuntimeError("Google Translate failed")
 
 
 def app_identity_for_translation(app):
@@ -1002,7 +984,7 @@ def app_identity_for_translation(app):
     return name_identity_key(app)
 
 
-GEMINI_TRANSLATE_WORKERS = int(os.getenv("GEMINI_TRANSLATE_WORKERS", "4"))
+TRANSLATE_WORKERS = int(os.getenv("TRANSLATE_WORKERS", "3"))
 
 # The EN file is hosted at its own URL and must self-report that, not IPA-AR.json's URL.
 EN_SOURCE_URL = "https://ikiraplus.pages.dev/IPA-EN.json"
@@ -1014,10 +996,10 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
     All app metadata is copied from IPA-AR, except sourceURL, which is overridden
     to point at the English file's own hosted location. Existing English
     descriptions are kept when the corresponding Arabic description did not
-    change; this avoids wasting Gemini requests on every scheduled run. Apps that
-    do need translation are sent to Gemini concurrently (see
-    GEMINI_TRANSLATE_WORKERS) instead of one at a time, since each request is a
-    slow, mostly-idle network call.
+    change; this avoids re-translating on every scheduled run. Apps that do need
+    translation are sent to Google's free translate endpoint concurrently (see
+    TRANSLATE_WORKERS) instead of one at a time, since each request is a slow,
+    mostly-idle network call.
     """
     old_ar_apps = get_apps(old_ar_source)
     old_en_apps = get_apps(old_en_source)
@@ -1067,10 +1049,10 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
         pending.append((app, arabic_description))
 
     if pending:
-        print(f"🌐 Translating {len(pending)} app(s) using up to {GEMINI_TRANSLATE_WORKERS} workers")
-        with ThreadPoolExecutor(max_workers=min(GEMINI_TRANSLATE_WORKERS, len(pending))) as executor:
+        print(f"🌐 Translating {len(pending)} app(s) using up to {TRANSLATE_WORKERS} workers")
+        with ThreadPoolExecutor(max_workers=min(TRANSLATE_WORKERS, len(pending))) as executor:
             future_to_app = {
-                executor.submit(gemini_translate_to_english, arabic_description): app
+                executor.submit(translate_to_english, arabic_description): app
                 for app, arabic_description in pending
             }
             for future in as_completed(future_to_app):
@@ -1093,7 +1075,47 @@ def main():
     parser.add_argument("--target", default="target_repo/IPA-AR.json", help="Path to target IPA-AR.json source file")
     parser.add_argument("--target-en", default=None, help="Optional path to IPA-EN.json; generated from the Arabic output")
     parser.add_argument("--today", default=None, help="Override today's date as YYYY-MM-DD, useful for tests")
+    parser.add_argument(
+        "--translate-only",
+        action="store_true",
+        help=(
+            "Skip the source sync entirely and only (re)generate IPA-EN.json from an "
+            "already-existing IPA-AR.json (given via --target). Used to run AR->EN "
+            "translation as its own independent job, decoupled from the AR sync."
+        ),
+    )
+    parser.add_argument(
+        "--old-target",
+        default=None,
+        help=(
+            "Translate-only mode: path to the previous version of IPA-AR.json (e.g. from "
+            "git history), used to detect which descriptions actually changed so unchanged "
+            "ones can reuse their existing English translation instead of re-translating."
+        ),
+    )
     args = parser.parse_args()
+
+    if args.translate_only:
+        if not args.target_en:
+            raise SystemExit("--translate-only requires --target-en")
+
+        ar_source = load_json_file(args.target)
+        old_ar_source = load_json_file(args.old_target, required=False) if args.old_target else None
+        old_en_source = load_json_file(args.target_en, required=False)
+
+        english_source = build_english_source(
+            ar_source,
+            old_ar_source=old_ar_source,
+            old_en_source=old_en_source,
+        )
+        hard_write_json(args.target_en, english_source)
+
+        english_written = load_json_file(args.target_en)
+        if len(get_apps(english_written)) != len(get_apps(ar_source)):
+            raise ValueError("IPA-EN.json app count does not match IPA-AR.json")
+        print(f"✅ target synced: {args.target_en}")
+        print(f"✅ apps written: {len(get_apps(english_written))}")
+        return
 
     jom_source = load_json_file(args.source)
     target_source = load_json_file(args.target, required=False)
