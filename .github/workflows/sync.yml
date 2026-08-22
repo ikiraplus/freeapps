@@ -1,0 +1,92 @@
+name: Sync IPA-AR from iKiraPlus source
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */4 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-ipa-ar
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout freeapps
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download latest jom.json
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fsSL \
+            --retry 3 \
+            --retry-delay 2 \
+            'https://raw.githubusercontent.com/ikiraplus/ipastore/main/jom.json' \
+            -o source_jom.json
+
+          python - <<'PY'
+          import json
+          with open('source_jom.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+          apps = data.get('apps', [])
+          if not isinstance(apps, list) or not apps:
+              raise SystemExit('source jom.json has no apps')
+          print(f'✅ source apps downloaded: {len(apps)}')
+          PY
+
+      - name: Sync IPA-AR.json
+        run: |
+          set -euo pipefail
+          python sync_apps.py \
+            --source source_jom.json \
+            --target IPA-AR.json
+
+      - name: Show sync summary
+        run: |
+          python - <<'PY'
+          import json
+          with open('IPA-AR.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+
+          apps = [a for a in data.get('apps', []) if isinstance(a, dict)]
+          two_versions = sum(1 for a in apps if len(a.get('versions', [])) == 2)
+          one_version = sum(1 for a in apps if len(a.get('versions', [])) == 1)
+
+          print(f'✅ apps in IPA-AR.json: {len(apps)}')
+          print(f'✅ apps with 2 versions: {two_versions}')
+          print(f'✅ apps with 1 version: {one_version}')
+          print(f"✅ first app: {apps[0].get('name') if apps else 'NONE'}")
+          PY
+
+      - name: Commit only when IPA-AR.json changed
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          rm -f source_jom.json
+
+          if git diff --quiet -- IPA-AR.json; then
+            echo '✅ No changes in IPA-AR.json — nothing to commit.'
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add IPA-AR.json
+          git commit -m 'Auto sync IPA-AR source'
+          git push
