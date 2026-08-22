@@ -7,12 +7,20 @@
   "website": "https://t.me/iKiraPlus",
   "news": [
     {
-      "title": "iKiraPlus-كيرا بلس",
+      "title": "كيرا بلس",
       "identifier": "com.ikiraplus.card",
       "caption": "قناة كيرا بلس للتطبيقات والشهادات",
       "date": "2026-05-11",
-      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/ikiraplus.jpg",
+      "imageURL": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
       "url": "https://t.me/iKiraPlus"
+    },
+    {
+      "title": "شراء شهادة مدفوعة - @ikira18",
+      "identifier": "com.ikiraplus.certpaid",
+      "caption": "تتوفر لدينا ميزة شراء شهادات مدفوعة بأنسب سعر",
+      "date": "2026-08-22",
+      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert.JPEG",
+      "url": "https://t.me/ikira18"
     }
   ],
   "apps": [
@@ -21,7 +29,7 @@
       "name": "ريكرام",
       "bundleIdentifier": "com.ikiraplus.apps.app.57cde4b522",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773401165477.png",
-      "localizedDescription": "لتفعيل مميزات النسخة :\n- قم بتحويل لغة النسخة من الانكليزية الى العربية او بالعكس",
+      "localizedDescription": "لتفعيل مميزات التطبيق:\n- قم بتغيير لغة التطبيق من الإنكليزية إلى العربية أو العكس",
       "category": "تواصل",
       "versions": [
         {
@@ -48,7 +56,7 @@
       "name": "Snapchat root",
       "bundleIdentifier": "com.ikiraplus.apps.snapchat-root.e58c66d44e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/06/90/5f0690d1-64ae-7c67-8213-a99ce2f9a58c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "حسابك مسؤليتك .........\nنسخه سناب شات بلس معدلة ( لا تستخدمها مع حسابك الأساسي )\nطريقة التثبيت  :\n1- حول لغة جهازك للانكليزية\n2- ثبت النسخة وافتحها \n3- اضغط تسجيل او تسجيل دخول \n4- يطلب منك يوزر وباسورد اشتراك بالاداة استخدم هذي المعلومات \n\nاليوزر \nkanji\nالباسورد :\nisastupidnonce\n\nبعدها تكدر تسجل بحسابك طبيعي \nاكرر واعيد نسخة غيرر آمنة على حسابك الأساسي تسبب باند",
+      "localizedDescription": "استخدام هذا التطبيق على مسؤوليتك الخاصة\nهذا تطبيق سناب شات بلس المعدل، لا تستخدمه مع حسابك الأساسي\nطريقة التثبيت:\n1- غير لغة جهازك إلى الإنكليزية\n2- ثبت التطبيق وافتحه\n3- اضغط على تسجيل أو تسجيل الدخول\n4- سيطلب منك اسم مستخدم وكلمة مرور خاصين بالأداة، استخدم المعلومات التالية\n\nاسم المستخدم\nkanji\nكلمة المرور:\nisastupidnonce\n\nبعد ذلك يمكنك تسجيل الدخول بحسابك بشكل طبيعي\nالتطبيق غير آمن، وتسجيل الدخول به على حسابك الأساسي قد يعرضه للحظر",
       "category": "تواصل",
       "versions": [
         {
@@ -75,7 +83,7 @@
       "name": "WhatsApp Gold",
       "bundleIdentifier": "com.ikiraplus.apps.whatsapp-gold.bf7b28b1d5",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773436028095.png",
-      "localizedDescription": "سجل بالنسخة كجهاز مصاحب فقطططط\nمدمجة مع عدة إضافات مثلاً تغيير الموقع وتغيير الخط",
+      "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط\nيتضمن التطبيق عدة إضافات مثل تغيير الموقع الجغرافي وتغيير الخط",
       "category": "تواصل",
       "versions": [
         {
@@ -102,7 +110,7 @@
       "name": "Telegram Dark",
       "bundleIdentifier": "com.ikiraplus.apps.telegram-dark.08dbef3aa7",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773512283014.png",
-      "localizedDescription": "نسخة تدعم الاشعارات ( قم بتثبيتها مباشرة لا تكررها ولا تغير الباندل )\nمدمجة مع مميزات  Tgextra",
+      "localizedDescription": "هذا التطبيق يدعم الإشعارات، ثبته مباشرة ولا تكرر تثبيته ولا تغير معرف الباندل الخاص به\nيتضمن مميزات إضافة Tgextra",
       "category": "تواصل",
       "versions": [
         {
@@ -122,15 +130,14 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/teledark_12.9.2-1",
       "size": 79796633,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22",
-      "hidden": false
+      "updatedAt": "2026-08-22"
     },
     {
       "id": "app-1773402408531",
       "name": "instagram DL",
       "bundleIdentifier": "com.ikiraplus.apps.instagram-dl.3ee8a1721e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات النسخة : \n- اضغط على زر الـ Home ضغطة مطوله",
+      "localizedDescription": "لتفعيل مميزات التطبيق:\n- اضغط على زر Home ضغطة طويلة",
       "category": "تواصل",
       "versions": [
         {
@@ -183,7 +190,7 @@
       "name": "instagram IG",
       "bundleIdentifier": "com.ikiraplus.apps.instagram-ig.36e60ad0dc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات النسخة : \n- اضغط على زر الـبروفايل وستجيد ايقونة الريشه اضغط عليها وتفتح معك المميزات",
+      "localizedDescription": "لتفعيل مميزات التطبيق:\n- اضغط على زر الملف الشخصي، ستجد أيقونة الريشة، اضغط عليها لفتح المميزات",
       "category": "تواصل",
       "versions": [
         {
@@ -206,7 +213,7 @@
       "name": "Watusi",
       "bundleIdentifier": "com.ikiraplus.apps.watusi.7836a7efb2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b2/8a/e3b28a99-2fc5-641f-7b35-0a8094337b1a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "سجل بالنسخة كجهاز مصاحب فقطططط",
+      "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط",
       "category": "تواصل",
       "versions": [
         {
@@ -229,7 +236,7 @@
       "name": "WhatsApp Business - Gold",
       "bundleIdentifier": "com.ikiraplus.apps.whatsapp-business-gold.66e5f3d926",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773436028095.png",
-      "localizedDescription": "سجل بالنسخة كجهاز مصاحب فقطططط.",
+      "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط",
       "category": "تواصل",
       "versions": [
         {
@@ -256,7 +263,7 @@
       "name": "Swiftgram",
       "bundleIdentifier": "com.ikiraplus.apps.swiftgram.b384679494",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d5/fa/c1d5faba-f9f3-2b37-959b-4e69452bb301/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات النسخة اتبع التالي :\n- الاعدادات - انزل للاسفل - اضغط ضغطة مطوله على ايقونه (اسال سوالا )\nومبروك تم فتح المميزات",
+      "localizedDescription": "لتفعيل مميزات التطبيق اتبع الخطوات التالية:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على أيقونة (اسأل سؤالا)\nوبذلك يتم فتح المميزات",
       "category": "تواصل",
       "versions": [
         {
@@ -283,7 +290,7 @@
       "name": "ime",
       "bundleIdentifier": "com.ikiraplus.apps.ime.11c46b00db",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/4b/c4/5a4bc469-89db-25b2-5d65-5b9b0e57a296/iMe-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات النسخة مفعله تلقائيا\n- تم فتح جميع مميزات الذكاء الاصطناعي\n- تم فتح مميزات نسخه البريميوم الخاصه بـ ime\n- امكانيه حفظ ونسخ المحتوى المقيد في ( القنوات - القصص - الكروبات - الخاص )\n- امكانيه حفظ الصور المؤقته - القصص المقيده",
+      "localizedDescription": "مميزات التطبيق مفعلة تلقائيا\n- جميع مميزات الذكاء الاصطناعي مفتوحة\n- مميزات الاشتراك المميز (Premium) الخاصة بتطبيق ime مفتوحة\n- إمكانية حفظ ونسخ المحتوى المقيد في (القنوات، القصص، المجموعات، المحادثات الخاصة)\n- إمكانية حفظ الصور المؤقتة والقصص المقيدة",
       "category": "تواصل",
       "versions": [
         {
@@ -310,7 +317,7 @@
       "name": "Lingogram",
       "bundleIdentifier": "com.ikiraplus.apps.lingogram.e9f3ca2545",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/8b/1b/128b1b13-203c-9e59-712f-8f0e3dffd8f7/AppIconLLC-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات النسخة اتبع التالي :\n- الاعدادات - انزل للاسفل - اضغط ضغطة مطوله على ايقونه ( اسال سوالا )\nومبروك تم فتح المميزات",
+      "localizedDescription": "لتفعيل مميزات التطبيق اتبع الخطوات التالية:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على أيقونة (اسأل سؤالا)\nوبذلك يتم فتح المميزات",
       "category": "تواصل",
       "versions": [
         {
@@ -333,7 +340,7 @@
       "name": "Nicegram",
       "bundleIdentifier": "com.ikiraplus.apps.nicegram.9f0254f67d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/36/b8/6f36b88a-aab5-ea1d-6ba7-bed9a20e2b9f/AppIconLLC-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات النسخه:\nالاعدادات - انزل للاسفل - اضغط على خانة ( اسأل سوالا) ضغطه مطوله",
+      "localizedDescription": "لتفعيل مميزات التطبيق:\nالإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا)",
       "category": "تواصل",
       "versions": [
         {
@@ -356,7 +363,7 @@
       "name": "Turrit",
       "bundleIdentifier": "com.ikiraplus.apps.turrit.4db44782cd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/4f/43/d94f43ed-0cb5-d9a5-f50f-8480fb7e5304/Turrit-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات النسخة اتبع التالي :\n- الاعدادات - انزل للاسفل - اضغط ضغطة مطوله على ايقونه ( اسال سوالا )\nومبروك تم فتح المميزات",
+      "localizedDescription": "لتفعيل مميزات التطبيق اتبع الخطوات التالية:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على أيقونة (اسأل سؤالا)\nوبذلك يتم فتح المميزات",
       "category": "تواصل",
       "versions": [
         {
@@ -383,7 +390,7 @@
       "name": "Tiktok LRD",
       "bundleIdentifier": "com.ikiraplus.apps.tiktok-lrd.000be15856",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "اضفط على ايقونة Home  بقوة لفتح المميزات.",
+      "localizedDescription": "اضغط على أيقونة Home ضغطة طويلة لفتح المميزات",
       "category": "تواصل",
       "versions": [
         {
@@ -606,7 +613,7 @@
       "name": "Tellonym plus",
       "bundleIdentifier": "com.ikiraplus.apps.tellonym-plus.3d20ee1b9a",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/31/21/d73121bc-16bc-1f48-65a3-b5faaa7d9881/Default-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "تم فتح جميع مميزات البريميوم \nوتستطيع التسجيل بحسابك الاساسي",
+      "localizedDescription": "جميع مميزات البريميوم مفتوحة\nويمكنك تسجيل الدخول بحسابك الأساسي",
       "category": "تواصل",
       "versions": [
         {
@@ -730,7 +737,7 @@
       "name": "Instagram Theta",
       "bundleIdentifier": "com.ikiraplus.apps.instagram-theta.5916bfb089",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods\nلتفعيل المميزات اضغط على زر Home ضغطة مطولة",
+      "localizedDescription": "تطبيق معدل من iosgods\nلتفعيل المميزات اضغط على زر Home ضغطة طويلة",
       "category": "تواصل",
       "versions": [
         {
@@ -871,7 +878,7 @@
       "name": "Air movie",
       "bundleIdentifier": "com.ikiraplus.apps.air-movie.249469414c",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/air-movie.png",
-      "localizedDescription": "- يعمل على جميع الشبكات.\n- يدعم التحميل.\n- بدون اعلانات ",
+      "localizedDescription": "- يعمل على جميع الشبكات\n- يدعم التحميل\n- بدون إعلانات",
       "category": "ترفيه",
       "versions": [
         {
@@ -1008,7 +1015,7 @@
       "name": "Genral Pro",
       "bundleIdentifier": "com.ikiraplus.apps.genral-pro.f996812196",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773437364033.png",
-      "localizedDescription": "برنامج لمشاهدة القنوات المشفرة \nويحتوي قسم خاص للأفلام\nكود التفعيل : 5050",
+      "localizedDescription": "تطبيق لمشاهدة القنوات المشفرة\nويحتوي على قسم خاص بالأفلام\nكود التفعيل: 5050",
       "category": "ترفيه",
       "versions": [
         {
@@ -1131,7 +1138,7 @@
       "name": "Rodjo",
       "bundleIdentifier": "com.ikiraplus.apps.rodjo.2ce4878ef0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/76/1f/9d761f97-0595-d5ea-6e2e-688ea8dd3bf0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "برنامج لمشاهدة القنوات المشفرة \nويحتوي قسم خاص للأفلام\nكود التفعيل : 5129",
+      "localizedDescription": "تطبيق لمشاهدة القنوات المشفرة\nويحتوي على قسم خاص بالأفلام\nكود التفعيل: 5129",
       "category": "ترفيه",
       "versions": [
         {
@@ -1154,7 +1161,7 @@
       "name": "buz tv pro",
       "bundleIdentifier": "com.ikiraplus.apps.buz-tv-pro.cad8d1aad5",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/52/92/ca529249-60e0-b24e-717a-e962da3c35c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "برنامج لمشاهدة القنوات المشفرة \nويحتوي قسم خاص للأفلام\nكود التفعيل : 22455",
+      "localizedDescription": "تطبيق لمشاهدة القنوات المشفرة\nويحتوي على قسم خاص بالأفلام\nكود التفعيل: 22455",
       "category": "ترفيه",
       "versions": [
         {
@@ -1365,7 +1372,7 @@
       "name": "8ball-pool hack1",
       "bundleIdentifier": "com.ikiraplus.apps.8ball-pool-hack1.ef9e484d63",
       "iconURL": "https://appstore.nabzclan.vip/images/icon_69a0574490269.jpg",
-      "localizedDescription": "لا تستخدم حسابك الاساسي ......\nحسابك مسؤوليتك.. لا العب اللعبه ولا اضمنها ولا اعرف مطورها",
+      "localizedDescription": "لا تستخدم حسابك الأساسي\nاستخدام هذا التطبيق على مسؤوليتك الخاصة، ولا نضمن اللعبة ولا نعرف الجهة المطورة لها",
       "category": "ألعاب",
       "versions": [
         {
@@ -1392,7 +1399,7 @@
       "name": "Pubg gl hack",
       "bundleIdentifier": "com.ikiraplus.apps.pubg-gl-hack.22c6d435f7",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "حسابك مسؤوليتك ( لا اضمن النسخه ولا العبها ولا اعرف مطورها )\nكود التفعيل\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd\nمميزات النسخة :\n- كشف لاعبين ( رادار )\n- حذف قيست\n- ايم بوت\n- ثبات داخلي",
+      "localizedDescription": "استخدام هذا التطبيق على مسؤوليتك الخاصة، ولا نضمنه ولا نعرف الجهة المطورة له\nكود التفعيل\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd\nمميزات التطبيق:\n- كشف اللاعبين (رادار)\n- حذف قيست\n- تصويب تلقائي (Aim Bot)\n- ثبات داخلي",
       "category": "ألعاب",
       "versions": [
         {
@@ -1467,7 +1474,7 @@
       "name": "Call of duty hack",
       "bundleIdentifier": "com.ikiraplus.apps.call-of-duty-hack.7d736285d0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/f6/aa/73f6aa64-d3a4-4448-d36d-25b41582ec06/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "حسابك مسؤوليتك ( لا اضمن حساب ، لا العب اللعبة ، لا اعرف مطور النسخه ) قم بفك ضغط النسخه وثبت الipa\n\nمميزات الهاك :\n- نطاق سريع\n- رصاصة سحرية\n- تثبيت التصويب\n- اختراق الجدران\n- انعدام التشتت",
+      "localizedDescription": "استخدام هذا التطبيق على مسؤوليتك الخاصة، ولا نضمن الحساب ولا نعرف الجهة المطورة له، قم بفك ضغط الملف وتثبيت ملف الـ ipa\n\nمميزات الهاك:\n- مدى رمي سريع\n- رصاصة سحرية\n- ثبات التصويب\n- رؤية عبر الجدران\n- انعدام التشتت",
       "category": "ألعاب",
       "versions": [
         {
@@ -1512,7 +1519,7 @@
       "name": "Clash Royale - nulls royal",
       "bundleIdentifier": "com.ikiraplus.apps.clash-royale-nulls-royal.9f991d800f",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWtACUA9a2kjsLPUKu8ay4WPxRiror2E_4OH6V8IQUrQ&s=10",
-      "localizedDescription": "النسخة امنه وتستطيع حفظ تقدمك عن طريق تسجيل الدخول.",
+      "localizedDescription": "التطبيق آمن، ويمكنك حفظ تقدمك عن طريق تسجيل الدخول",
       "category": "ألعاب",
       "versions": [
         {
@@ -1535,7 +1542,7 @@
       "name": "Clash of Clans -nulls clash",
       "bundleIdentifier": "com.ikiraplus.apps.clash-of-clans-nulls-clash.619f983a99",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmsxYmyAQMFvmwgu-npkYt0Xpqtz7igPxLB-LAgMqCw&s",
-      "localizedDescription": "النسخة امنه وتستطيع حفظ تقدمك عن طريق تسجيل الدخول",
+      "localizedDescription": "التطبيق آمن، ويمكنك حفظ تقدمك عن طريق تسجيل الدخول",
       "category": "ألعاب",
       "versions": [
         {
@@ -1925,7 +1932,7 @@
       "name": "Minecraft",
       "bundleIdentifier": "com.ikiraplus.apps.minecraft.d33d94d1c1",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة وتدعم تسجيل دخول Xbox",
+      "localizedDescription": "تطبيق معدل، ويدعم تسجيل الدخول عبر حساب Xbox",
       "category": "ألعاب",
       "versions": [
         {
@@ -2178,7 +2185,7 @@
       "name": "Streameast no ads",
       "bundleIdentifier": "com.ikiraplus.apps.streameast-no-ads.d6676717a3",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773597157329.png",
-      "localizedDescription": "تطبيق يحتوي على جميع القنوات المشفرة مجاناً ( بين سبورت - الثامنة - الكأس - Mbc - شاهد )",
+      "localizedDescription": "تطبيق يحتوي على جميع القنوات المشفرة مجانا (بين سبورت، الثامنة، الكأس، MBC، شاهد)",
       "category": "ترفيه",
       "versions": [
         {
@@ -2319,7 +2326,7 @@
       "name": "Agar.io",
       "bundleIdentifier": "com.ikiraplus.apps.agar-io.3fb8f5fd25",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/25/cb/1125cbf9-3803-3d83-8517-f5787ba41c23/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2342,7 +2349,7 @@
       "name": "CarX Drift Racing 2",
       "bundleIdentifier": "com.ikiraplus.apps.carx-drift-racing-2.bfae59121b",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/9e/18/f79e181e-5321-711d-4fc9-9e08b9e19dcf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2365,7 +2372,7 @@
       "name": "Plants vs. Zombies 2",
       "bundleIdentifier": "com.ikiraplus.apps.plants-vs-zombies-2.7c2ebbac09",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/25/93/36259322-227a-487f-08d8-cd6d7d7d05ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2392,7 +2399,7 @@
       "name": "Among Us",
       "bundleIdentifier": "com.ikiraplus.apps.among-us.744ca51de3",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/61/68/0f6168ea-2688-7c34-80c7-56d45e893fcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2419,7 +2426,7 @@
       "name": "Dragon Ball Z Dokkan Battle",
       "bundleIdentifier": "com.ikiraplus.apps.dragon-ball-z-dokkan-battle.5cb4767408",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/df/8a/aadf8a17-afdb-c24c-f4a4-0ca72cff797f/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2442,7 +2449,7 @@
       "name": "Garena Free Fire",
       "bundleIdentifier": "com.ikiraplus.apps.garena-free-fire.9ea60b6ed3",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8d/ba/4b8dba37-a240-f450-9f99-c3a611c96536/AppIcon-1767797054-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2469,7 +2476,7 @@
       "name": "Asphalt Legends Unite",
       "bundleIdentifier": "com.ikiraplus.apps.asphalt-legends-unite.3acec76b42",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/5b/10/b45b1013-de40-8171-4421-780175c665bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2496,7 +2503,7 @@
       "name": "Need for Speed Most Wanted",
       "bundleIdentifier": "com.ikiraplus.apps.need-for-speed-most-wanted.b14852347c",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/57/20/c4572066-9a33-4820-687d-b53263993b60/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2519,7 +2526,7 @@
       "name": "Shadow Fight 3",
       "bundleIdentifier": "com.ikiraplus.apps.shadow-fight-3.1e325be368",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/8d/4c/6b8d4cb4-8768-01ea-9ac6-a8013b33c197/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2546,7 +2553,7 @@
       "name": "Mortal Kombat",
       "bundleIdentifier": "com.ikiraplus.apps.mortal-kombat.f04fe424ab",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/53/56/3d53561b-7500-1f3f-9a9b-129acfd74b0e/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2573,7 +2580,7 @@
       "name": "Hill Climb Racing 2",
       "bundleIdentifier": "com.ikiraplus.apps.hill-climb-racing-2.8da3b74a40",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/63/91/8b6391dd-b31a-070e-e1b5-6e025e32c695/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2600,7 +2607,7 @@
       "name": "Candy Crush Saga",
       "bundleIdentifier": "com.ikiraplus.apps.candy-crush-saga.a625716df0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/8c/80/3d8c80f1-43b4-b7d7-c365-c60742adbedf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2623,7 +2630,7 @@
       "name": "Garden scapes",
       "bundleIdentifier": "com.ikiraplus.apps.garden-scapes.bcdbea5cca",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/0e/33/d60e33a2-1fc7-bd22-aec5-d5bb19f14c17/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2650,7 +2657,7 @@
       "name": "Angry Birds 2",
       "bundleIdentifier": "com.ikiraplus.apps.angry-birds-2.c78531c19b",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f1/e7/e7f1e73a-f5ab-7b13-c710-aae081b3adb4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2677,7 +2684,7 @@
       "name": "Bullet Force",
       "bundleIdentifier": "com.ikiraplus.apps.bullet-force.922b16fe88",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/ce/26/1cce2647-f316-ac24-c9af-5ceb1ea057d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2700,7 +2707,7 @@
       "name": "Shadow Fight 2",
       "bundleIdentifier": "com.ikiraplus.apps.shadow-fight-2.9a162e379e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/30/ac/e230acde-3a75-67cb-0ef9-eb096af58d73/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2727,7 +2734,7 @@
       "name": "My Talking Tom 2",
       "bundleIdentifier": "com.ikiraplus.apps.my-talking-tom-2.6427c1438c",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/2a/00/572a00c6-c23d-2736-f431-088aabbdae14/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2750,7 +2757,7 @@
       "name": "Dazz Cam pro",
       "bundleIdentifier": "com.ikiraplus.apps.dazz-cam-pro.2daf7532c7",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/70/a8/fc70a86d-ea31-6ffb-6153-7685e883ddd7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "أدوات",
       "versions": [
         {
@@ -2773,7 +2780,7 @@
       "name": "Logo Maker - صانع الشعارات",
       "bundleIdentifier": "com.ikiraplus.apps.logo-maker.7708dfd04a",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/d5/b4/81d5b465-f959-0d0d-f769-556dff6e9ffb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "أدوات",
       "versions": [
         {
@@ -2796,7 +2803,7 @@
       "name": "djay - DJ App & AI Mixer",
       "bundleIdentifier": "com.ikiraplus.apps.djay-dj-app-ai-mixer.7d47f4350c",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/eb/f1/9bebf19f-98b7-7a74-228d-36d292ce2499/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "أدوات",
       "versions": [
         {
@@ -2823,7 +2830,7 @@
       "name": "CamScanner",
       "bundleIdentifier": "com.ikiraplus.apps.camscanner.a9cdb3367d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/2b/20/7a2b2005-16f7-8e45-c3ce-6f446785d98b/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgod",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "أدوات",
       "versions": [
         {
@@ -2872,7 +2879,7 @@
       "name": "Piano Tiles 2",
       "bundleIdentifier": "com.ikiraplus.apps.piano-tiles-2.36018823b2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/5b/d6/865bd6ea-fbe0-70ee-a3ce-4609f56ba649/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2895,7 +2902,7 @@
       "name": "Five Nights at Freddy's - Hack",
       "bundleIdentifier": "com.ikiraplus.apps.five-nights-at-freddys-hack.4f6f181811",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ae/4c/b5ae4c56-804f-1953-6fd5-eeabec3f759c/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -2918,7 +2925,7 @@
       "name": "Fonts",
       "bundleIdentifier": "com.ikiraplus.apps.fonts.b6491ec3bf",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/bb/1d/d5bb1d26-c506-77c8-6efe-ad49da4fcb36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "أدوات",
       "versions": [
         {
@@ -2941,7 +2948,7 @@
       "name": "Fortnite",
       "bundleIdentifier": "com.ikiraplus.apps.fortnite.1fb70b30a9",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/2e/d6/682ed612-d479-3387-c1a0-0f41247f8ff4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة تعمل بدون متجر - لا تتطلب جيلبريك",
+      "localizedDescription": "تطبيق يعمل بدون متجر تطبيقات، ولا يتطلب كسر الحماية (جيلبريك)",
       "category": "ألعاب",
       "versions": [
         {
@@ -2964,7 +2971,7 @@
       "name": "Brawl Stars hacks",
       "bundleIdentifier": "com.ikiraplus.apps.brawl-stars-hacks.0fcb838f2a",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/32/5c/70325cef-4285-1e25-d122-6623bc425e61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "هاك KamoHacks - نسخة مهكرة",
+      "localizedDescription": "هاك KamoHacks، تطبيق معدل",
       "category": "ألعاب",
       "versions": [
         {
@@ -2987,7 +2994,7 @@
       "name": "Spotify GS",
       "bundleIdentifier": "com.ikiraplus.apps.spotify-gs.435fcc739e",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-iosgods-eevee-spotify-4732.png",
-      "localizedDescription": "تفعيل Premium تلقائي",
+      "localizedDescription": "تفعيل ميزة Premium تلقائيا",
       "category": "ترفيه",
       "versions": [
         {
@@ -3014,7 +3021,7 @@
       "name": "Sniper 3D",
       "bundleIdentifier": "com.ikiraplus.apps.sniper-3d.8d57bc6723",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/91/f2/3791f28d-c252-3236-9553-f7d7484c78c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3037,7 +3044,7 @@
       "name": "Gangstar Vegas",
       "bundleIdentifier": "com.ikiraplus.apps.gangstar-vegas.97fa0bae4d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/13/36/cb133694-d890-e916-2bbc-0f0fbe15222f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3060,7 +3067,7 @@
       "name": "GTA: Vice City - Hack",
       "bundleIdentifier": "com.ikiraplus.apps.gta-vice-city-hack.1ec07fef48",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/f9/85/a2f98568-b585-479e-fcc7-db9c6291fd64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3083,7 +3090,7 @@
       "name": "Mob Control",
       "bundleIdentifier": "com.ikiraplus.apps.mob-control.afe73e5e23",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/50/f0/de50f033-80f4-6c62-98bb-bc84cb134c37/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3106,7 +3113,7 @@
       "name": "ibis Paint X",
       "bundleIdentifier": "com.ikiraplus.apps.ibis-paint-x.6a86b45570",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/db/bd/b1dbbda6-6919-dea9-7792-5eb896afdfaf/AppIconX-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "أدوات",
       "versions": [
         {
@@ -3129,7 +3136,7 @@
       "name": "Duolingo",
       "bundleIdentifier": "com.ikiraplus.apps.duolingo.ea9adea16e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/5d/4a/785d4a42-88aa-3c7c-5b2e-ba48816fdffe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "دراسة وذكاء اصطناعي",
       "versions": [
         {
@@ -3156,7 +3163,7 @@
       "name": "Temple Run 2",
       "bundleIdentifier": "com.ikiraplus.apps.temple-run-2.afece81600",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/6d/43/b96d43a3-bec3-a1ec-b9eb-703f433bb904/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3179,7 +3186,7 @@
       "name": "Sonic Dash",
       "bundleIdentifier": "com.ikiraplus.apps.sonic-dash.7f9e8e86a6",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/7f/e4/b27fe453-8646-687e-ad05-8b07e5265ee2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3202,7 +3209,7 @@
       "name": "Hunting Sniper: Showdown",
       "bundleIdentifier": "com.ikiraplus.apps.hunting-sniper-showdown.6a63f007e6",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/fd/28/85fd28f2-24c5-ba8f-f440-36b73661a296/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3225,7 +3232,7 @@
       "name": "Swamp Attack 2",
       "bundleIdentifier": "com.ikiraplus.apps.swamp-attack-2.f4ff9aea9c",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/d6/61/51d66197-123c-253b-9878-57cba24fe4a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3248,7 +3255,7 @@
       "name": "Zombie State: FPS Shooter",
       "bundleIdentifier": "com.ikiraplus.apps.zombie-state-fps-shooter.ec1fca94a5",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/c7/9c/9fc79c4b-463f-b342-afdd-41af49c663cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3271,7 +3278,7 @@
       "name": "Football Club Management 2025",
       "bundleIdentifier": "com.ikiraplus.apps.football-club-management-2025.b56aac137f",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d0/83/d6d08369-8113-60aa-9141-d024a507e705/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3294,7 +3301,7 @@
       "name": "Bloom City: Match",
       "bundleIdentifier": "com.ikiraplus.apps.bloom-city-match.3d7b39f890",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/b8/af/ebb8af8c-0480-edf5-c1d6-1c6848b541e6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3317,7 +3324,7 @@
       "name": "Gladiators: Survival in Rome",
       "bundleIdentifier": "com.ikiraplus.apps.gladiators-survival-in-rome.cc51f68863",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/04/71/270471f3-928b-43b6-5fe1-19167f40145b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3340,7 +3347,7 @@
       "name": "LEGO DUPLO: Peppa Pig",
       "bundleIdentifier": "com.ikiraplus.apps.lego-duplo-peppa-pig.496ef29014",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/d4/2c/54d42c5c-b956-4714-2596-8266dc938fcd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3363,7 +3370,7 @@
       "name": "My Supermarket Simulator 3D",
       "bundleIdentifier": "com.ikiraplus.apps.my-supermarket-simulator-3d.64046603bd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/34/0d/9d340de4-9853-fdad-b1b8-f33d8e7cadba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3386,7 +3393,7 @@
       "name": "شاشتي",
       "bundleIdentifier": "com.ikiraplus.apps.app.03d5e2db93",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/dc/7a/e2dc7a81-2596-f132-ba0a-bfd90a3d2831/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "localizedDescription": "يعمل مع انترنت ايرثلنك ومزوديها\n( عند تحميل الافلام لا تظهر الترجمه )",
+      "localizedDescription": "يعمل مع إنترنت Earthlink وشركات تزويده\n(عند تحميل الأفلام لا تظهر الترجمة)",
       "category": "ترفيه",
       "versions": [
         {
@@ -3409,7 +3416,7 @@
       "name": "Modern Strike Online: FPS",
       "bundleIdentifier": "com.ikiraplus.apps.modern-strike-online-fps.85cddae8df",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/33/8d/4e338d45-4b3f-4996-2788-09e8351d45ad/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة من iosgods",
+      "localizedDescription": "تطبيق معدل من iosgods",
       "category": "ألعاب",
       "versions": [
         {
@@ -3432,7 +3439,7 @@
       "name": "Movilx",
       "bundleIdentifier": "com.ikiraplus.apps.movilx.b36152d3ae",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/60/92/4060921f-a7ee-5c5c-3c30-6318e1d3f801/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "شبيه برنامج نتفلكس بدون اعلانات ويدعم الترجمة.",
+      "localizedDescription": "تطبيق مشابه لنتفليكس، بدون إعلانات ويدعم الترجمة",
       "category": "ترفيه",
       "versions": [
         {
@@ -3525,7 +3532,7 @@
       "name": "8ball-pool hack 2",
       "bundleIdentifier": "com.ikiraplus.apps.8ball-pool-hack-2.8bace4ceca",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/85/2f/ae852f5b-3d53-e3ae-4f9a-5f6a32b06403/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "حسابك مسؤوليتك... لا العب اللعبه ولا اضمنها ولا اعرف مطورها",
+      "localizedDescription": "استخدام هذا التطبيق على مسؤوليتك الخاصة، ولا نضمن اللعبة ولا نعرف الجهة المطورة لها",
       "category": "ألعاب",
       "versions": [
         {
@@ -3541,8 +3548,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool_56.25.1.-hacked",
       "size": 108317900,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22",
-      "hidden": false
+      "updatedAt": "2026-08-22"
     },
     {
       "id": "app-1774779575880",
@@ -3955,7 +3961,7 @@
       "name": "Pubg TW hack",
       "bundleIdentifier": "com.ikiraplus.apps.pubg-tw-hack.87514285c8",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة تايوانية - لا تستخدم حسابك الاساسي\nكود التفعيل\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd",
+      "localizedDescription": "تطبيق تايواني، لا تستخدم حسابك الأساسي\nكود التفعيل\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd",
       "category": "ألعاب",
       "versions": [
         {
@@ -4008,7 +4014,7 @@
       "name": "MadPlay",
       "bundleIdentifier": "com.ikiraplus.apps.madplay.0473e329e4",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777652894490.png",
-      "localizedDescription": "تطبيق لمشاهدة القنوات الرياضية المشفرة ( بين سبورت - الثامنة - شاهد الخ...)\nويحتوي قسم خاص بالافلام والمسلسلات \nبدووون اعلانات",
+      "localizedDescription": "تطبيق لمشاهدة القنوات الرياضية المشفرة (بين سبورت، الثامنة، شاهد، وغيرها)\nويحتوي على قسم خاص بالأفلام والمسلسلات\nبدون إعلانات",
       "category": "ترفيه",
       "versions": [
         {
@@ -4105,7 +4111,7 @@
       "name": "سينمانا القديمة",
       "bundleIdentifier": "com.ikiraplus.apps.app.fef62e1bf1",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1778255829394.png",
-      "localizedDescription": "تدعم التحميل وتدعم تسجيل الدخول",
+      "localizedDescription": "يدعم التحميل ويدعم تسجيل الدخول",
       "category": "ترفيه",
       "versions": [
         {
@@ -4334,7 +4340,7 @@
       "name": "efootball",
       "bundleIdentifier": "com.ikiraplus.apps.efootball.2b17517b2a",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b4/ef/9cb4ef93-ae27-244b-4c80-430d1195bd1a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة مهكرة تدعم الذكاء الاصطناعي",
+      "localizedDescription": "تطبيق معدل يدعم الذكاء الاصطناعي",
       "category": "ألعاب",
       "versions": [
         {
@@ -4383,7 +4389,7 @@
       "name": "Pubg KR Hack",
       "bundleIdentifier": "com.ikiraplus.apps.pubg-kr-hack.43b4967011",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFmyHs5ENejMyMXmdH4SrN1HSh9_DX3gj-w&s",
-      "localizedDescription": "ببجي كوريه هاك ( لا العبها ولا اعرف مطورها ولا تستخدم حسابك الاساسي )\nكود التفعيل\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd",
+      "localizedDescription": "تطبيق ببجي الكوري المعدل، لا نضمنه ولا نعرف الجهة المطورة له، لا تستخدم حسابك الأساسي\nكود التفعيل\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd",
       "category": "ألعاب",
       "versions": [
         {
@@ -4476,7 +4482,7 @@
       "name": "Pubg Hack VIT",
       "bundleIdentifier": "com.ikiraplus.apps.pubg-hack-vit.e7c7fa1e36",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/f1/42a0f10c-fde1-87ba-a22e-493304fd9c96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "ببجي فيتناميه مهكره ( لا تستخدم حسابك الاساسي)\nكود التفعيل\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd",
+      "localizedDescription": "تطبيق ببجي الفيتنامي المعدل، لا تستخدم حسابك الأساسي\nكود التفعيل\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd",
       "category": "ألعاب",
       "versions": [
         {
@@ -5076,7 +5082,7 @@
       "name": "SevenScore",
       "bundleIdentifier": "com.ikiraplus.apps.sevenscore.8860f8bc9c",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvF0yj_Y_-WcvEZW0frHik-U2KnfqVG7vtCJkvWep0jg&s=10",
-      "localizedDescription": "كود التفعيل : 22466",
+      "localizedDescription": "كود التفعيل: 22466",
       "category": "ترفيه",
       "versions": [
         {
@@ -6113,7 +6119,7 @@
       "name": "vaco tv",
       "bundleIdentifier": "com.ikiraplus.apps.vaco-tv.2715850d7f",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJEOMRbQ5W2r9wKnVYd_pDATtUcv_dKNbaxX1ibMde-0IuUzEhtaqWkw&s=10",
-      "localizedDescription": "برنامج لمشاهدة القنوات الرياضية \nكود التفعيل 22455",
+      "localizedDescription": "تطبيق لمشاهدة القنوات الرياضية\nكود التفعيل: 22455",
       "category": "ترفيه",
       "versions": [
         {
@@ -6821,8 +6827,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fasil-plus",
       "size": 7130316,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22",
-      "hidden": false
+      "updatedAt": "2026-08-22"
     },
     {
       "id": "app-1783541492552",
@@ -6844,8 +6849,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/qsa-ashq",
       "size": 1363148,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22",
-      "hidden": false
+      "updatedAt": "2026-08-22"
     },
     {
       "id": "app-1783610012436",
@@ -6930,7 +6934,6 @@
       "name": "TikTok Rust",
       "bundleIdentifier": "com.ikiraplus.apps.tiktok-rust.3e4f9da910",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": ".",
       "category": "تواصل",
       "versions": [
         {
@@ -6957,7 +6960,6 @@
       "name": "MoviaQuill",
       "bundleIdentifier": "com.ikiraplus.apps.moviaquill.274045f367",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1783945603082.png",
-      "localizedDescription": ".",
       "category": "ترفيه",
       "versions": [
         {
@@ -7050,7 +7052,7 @@
       "name": "WhiteGram Arabic",
       "bundleIdentifier": "com.ikiraplus.apps.whitegram-arabic.20941fca92",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784188165660.png",
-      "localizedDescription": "تطبيق \" وايتكرام \" أحد أفضل نسخة التيلكرام المعدلة !\n\nيمكنك تفعيل مميزات النسخة من خلال :\nالإعدادات = WhiteGram\n\nهناك مميزات إضافية أيضاً تتفعل من :\nالإعدادات = إضغط مطولاً على أيقونة ( أسأل سوالاً )",
+      "localizedDescription": "تطبيق \"وايت كرام\" أحد أفضل تطبيقات تيليجرام المعدلة\n\nيمكنك تفعيل مميزات التطبيق من خلال:\nالإعدادات > WhiteGram\n\nهناك مميزات إضافية تتفعل من:\nالإعدادات > اضغط ضغطة طويلة على أيقونة (اسأل سؤالا)",
       "category": "تواصل",
       "versions": [
         {
@@ -7077,7 +7079,7 @@
       "name": "Cinema box - سينما بوكس",
       "bundleIdentifier": "com.ikiraplus.apps.cinema-box.1e0b51fd4d",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784193262599.png",
-      "localizedDescription": "محذوف من الابستور \n- تم إزالة جميع الإعلانات منه",
+      "localizedDescription": "تطبيق محذوف من App Store\n- تمت إزالة جميع الإعلانات منه",
       "category": "ترفيه",
       "versions": [
         {
@@ -7197,8 +7199,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infinitok_46.2.0",
       "size": 448371097,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22",
-      "hidden": false
+      "updatedAt": "2026-08-22"
     },
     {
       "id": "app-1784821281301",
@@ -7231,7 +7232,7 @@
       "name": "PinaTv Pro",
       "bundleIdentifier": "com.ikiraplus.apps.pinatv-pro.03111f25dd",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784914075063.png",
-      "localizedDescription": "تطبيق PinaTv Pro الإصدار المحدث مع ابرز الإضافات والتعديلات :\n\n- فتح جميع مميزات الـvip.\n- منع كافة الإعلانات والتوقفات.\n- إضافة زر pip ( يمكنك الخروج من التطبيق أثناء المشاهدة وسيتفعل وضع pip او يمكنك ضغط على زر feedback او وضع pip )\n- إضافة زر حفظ غلاف الفلم.\n- تحميل ومشاهدة بدقة 1080.",
+      "localizedDescription": "تطبيق PinaTv Pro، الإصدار المحدث مع أبرز الإضافات والتعديلات:\n\n- فتح جميع مميزات VIP\n- منع جميع الإعلانات والتوقفات\n- إضافة زر PIP (يمكنك الخروج من التطبيق أثناء المشاهدة فيتفعل وضع PIP، أو يمكنك الضغط على زر Feedback لتفعيل وضع PIP)\n- إضافة زر لحفظ غلاف الفيلم\n- تحميل ومشاهدة بدقة 1080",
       "category": "ترفيه",
       "versions": [
         {
@@ -7332,7 +7333,7 @@
       "name": "Planet Of Lana",
       "bundleIdentifier": "com.ikiraplus.apps.planet-of-lana.a1cbb53e56",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/41/53/df4153af-3786-7dea-0117-80983f7a5476/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لعبة مدفوعة في الابستور",
+      "localizedDescription": "لعبة مدفوعة في App Store",
       "category": "ألعاب",
       "versions": [
         {
@@ -7495,7 +7496,7 @@
       "name": "iQ Tele",
       "bundleIdentifier": "com.ikiraplus.apps.iq-tele.01c6e58147",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/83/96/c183964f-32d7-16fe-57ab-8c66518f6625/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لا تكرر النسخة",
+      "localizedDescription": "لا تكرر تثبيت التطبيق",
       "category": "تواصل",
       "versions": [
         {
