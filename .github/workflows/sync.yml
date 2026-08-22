@@ -50,12 +50,12 @@ jobs:
 
       - name: Sync IPA-AR.json + IPA-EN.json
         env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GROQ_MODEL: llama-3.3-70b-versatile
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
         run: |
           set -euo pipefail
-          if [ -z "${GROQ_API_KEY:-}" ]; then
-            echo '❌ GROQ_API_KEY secret is missing.'
+          if [ -z "${GEMINI_API_KEY:-}" ]; then
+            echo '❌ GEMINI_API_KEY secret is missing.'
             exit 1
           fi
 
