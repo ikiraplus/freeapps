@@ -76,11 +76,6 @@ TRACKED_UPDATE_FIELDS = [
     "previousVersions",
 ]
 
-# Fields we never want in the output, no matter where they came from (raw
-# source, a previously-synced target file, etc.). Some (toolVersion,
-# recommended, hidden) are just dropped outright; note/icon are used as
-# one-time fallbacks elsewhere (note -> localizedDescription, icon ->
-# iconURL) and then dropped so they don't linger as duplicate/junk fields.
 FIELDS_TO_DROP = ("toolVersion", "recommended", "note", "icon", "hidden")
 
 
@@ -105,9 +100,16 @@ DEFAULT_SOURCE_META = {
             "identifier": "com.ikiraplus.card",
             "caption": "قناة كيرا بلس للتطبيقات والشهادات",
             "date": "2026-05-11",
-            "tintColor": "#7A7DFF",
             "imageURL": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
             "url": "https://t.me/iKiraPlus",
+        },
+        {
+            "title": "شراء شهادة مدفوعة - @ikira18",
+            "identifier": "com.ikiraplus.certpaid",
+            "caption": "تتوفر لدينا ميزة شراء شهادات مدفوعة بأنسب سعر",
+            "date": "2026-08-22",
+            "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert.JPEG",
+            "url": "https://t.me/ikira18",
         }
     ],
 }
@@ -143,12 +145,7 @@ def clean_text(value):
 
 
 def clean_text_keep_lines(value):
-    """Like clean_text, but preserves line breaks instead of flattening them.
 
-    Used for anything we're about to send to translation, so bullet-style
-    descriptions ("- point one\n- point two") keep their line structure in
-    the English output instead of collapsing into one run-on sentence.
-    """
     if value is None:
         return ""
     text = str(value)
@@ -242,7 +239,6 @@ def normalize_version_date(value):
 
 
 def build_versions(app):
-    """Build at most 2 AltSource-style versions: current + newest previous."""
     versions = []
 
     current_version = clean_text(app.get("version"))
@@ -411,11 +407,7 @@ def normalize_app(app, used_bundles, fallback_bundle=None):
 
 
 def strong_identity_keys(app, include_url=True):
-    """Return stable identity keys without using the display name.
 
-    Names are intentionally excluded here because the source can contain
-    different apps with the same name. We prefer id, bundle id, then URL.
-    """
     if not isinstance(app, dict):
         return []
 
@@ -442,11 +434,7 @@ def name_identity_key(app):
 
 
 def source_record_identity(app):
-    """Single dedupe key for source records.
 
-    This prevents true duplicate records while preserving separate apps that
-    merely share the same display name.
-    """
     keys = strong_identity_keys(app, include_url=True)
     for prefix in ("id:", "bundle:", "url:"):
         for key in keys:
@@ -474,7 +462,6 @@ def build_target_lookup(target_apps):
         if name_key:
             name_candidates.setdefault(name_key, []).append(index)
 
-    # Name matching is only safe when the name occurs exactly once in target.
     unique_name_lookup = {
         key: indexes[0]
         for key, indexes in name_candidates.items()
@@ -499,7 +486,6 @@ def find_matching_target_index(raw_app, fixed_app, target_lookup):
         if key in strong_lookup:
             return strong_lookup[key]
 
-    # Last-resort name match, but only when that name is unique in the target.
     for app in (raw_app, fixed_app):
         name_key = name_identity_key(app)
         if name_key and name_key in unique_name_lookup:
@@ -652,9 +638,6 @@ def prepare_source_records(jom_source, target_apps):
 
 
 def build_source_metadata(jom_source, target_source=None):
-    # Preserve the destination source metadata (name/icon/sourceURL/news/etc.)
-    # and only synchronize the apps array. Missing destination metadata falls
-    # back to jom.json, then to DEFAULT_SOURCE_META.
     clean_source = {}
 
     if isinstance(target_source, dict):
@@ -676,8 +659,7 @@ def build_source_metadata(jom_source, target_source=None):
     clean_source.setdefault("iconURL", DEFAULT_SOURCE_META["iconURL"])
     clean_source.setdefault("sourceIcon", clean_source.get("iconURL", DEFAULT_SOURCE_META["sourceIcon"]))
     clean_source.setdefault("website", DEFAULT_SOURCE_META["website"])
-    if not isinstance(clean_source.get("news"), list) or not clean_source.get("news"):
-        clean_source["news"] = copy.deepcopy(DEFAULT_SOURCE_META["news"])
+    clean_source["news"] = copy.deepcopy(DEFAULT_SOURCE_META["news"])
 
     return clean_source
 
@@ -885,24 +867,13 @@ def print_report(path, report, apps_count):
     print("✅ bundleIdentifier values are unique")
 
 
-
-# Free, unofficial Google Translate endpoint (the same one translate.google.com's
-# web page itself calls). No account, no API key, no billing. It's not an
-# officially documented/supported API, so we're deliberately conservative about
-# request rate to avoid tripping any abuse protection — see the rate limiter below.
 GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
 
-# Undocumented endpoint => no published quota to target. We pick a modest, safe
-# rate on purpose (tunable via env) rather than hammering it.
 TRANSLATE_MAX_REQUESTS_PER_MINUTE = int(os.getenv("TRANSLATE_MAX_RPM", "20"))
 
 
 class _SlidingWindowRateLimiter:
-    """Blocks callers so that at most `max_calls` happen in any rolling `period` window.
 
-    Shared across all translation threads so the *combined* request rate never
-    exceeds our self-imposed cap, no matter how many workers run concurrently.
-    """
 
     def __init__(self, max_calls, period=60.0):
         self.max_calls = max_calls
@@ -930,17 +901,6 @@ class _SlidingWindowRateLimiter:
 _translate_rate_limiter = _SlidingWindowRateLimiter(TRANSLATE_MAX_REQUESTS_PER_MINUTE)
 
 
-# ---------------------------------------------------------------------------
-# Glossary: domain terms that Google Translate frequently mistranslates
-# because it has no idea this is app-store / certificate / iOS-signing text.
-# Each Arabic term below is swapped for the given English term BEFORE the
-# text is sent to Google, so it never gets machine-guessed at all — it comes
-# back exactly as written here.
-#
-# To add or fix a term: just add/edit a line "arabic": "english" below.
-# No other code needs to change. Longer phrases are matched before shorter
-# ones automatically, so e.g. "كسر الحماية" won't get broken up by "كسر".
-# ---------------------------------------------------------------------------
 GLOSSARY = {
     "كيرا بلس": "iKiraPlus",
     "كسر الحماية": "jailbreak",
@@ -1000,12 +960,7 @@ _GLOSSARY_SORTED = sorted(GLOSSARY.items(), key=lambda kv: len(kv[0]), reverse=T
 
 
 def _protect_glossary_terms(text):
-    """Swap known Arabic terms for placeholders before translation.
 
-    Google leaves opaque all-caps tokens alone (same reason URLs and numbers
-    survive translation untouched), so whatever we put in tokens comes back
-    unchanged and gets swapped for our chosen English wording afterward.
-    """
     tokens = {}
     protected = text
     for index, (arabic_term, english_term) in enumerate(_GLOSSARY_SORTED):
@@ -1018,19 +973,13 @@ def _protect_glossary_terms(text):
 
 def _restore_glossary_terms(text, tokens):
     for placeholder, english_term in tokens.items():
-        # Be lenient about stray spaces Google sometimes inserts inside
-        # all-caps tokens (e.g. "QQ TERM0QQ").
         loose_pattern = r"\s*".join(re.escape(ch) for ch in placeholder)
         text = re.sub(loose_pattern, f" {english_term} ", text, flags=re.IGNORECASE)
     return re.sub(r" {2,}", " ", text).strip()
 
 
 def _parse_google_translate_response(raw_body):
-    """Parse the nested-array JSON that translate_a/single returns.
 
-    Google splits long text into multiple sentence chunks; each chunk's
-    translation is the first element of its own small array. We join them.
-    """
     data = json.loads(raw_body)
     segments = data[0] if data else None
     if not segments:
@@ -1040,7 +989,6 @@ def _parse_google_translate_response(raw_body):
 
 
 def _translate_line_to_english(text):
-    """Translate a single line/chunk of Arabic text via Google's free web-translate endpoint."""
     text = clean_text(text)
     if not text:
         return ""
@@ -1059,7 +1007,6 @@ def _translate_line_to_english(text):
     request = urllib.request.Request(
         f"{GOOGLE_TRANSLATE_URL}?{params}",
         headers={
-            # A normal browser User-Agent avoids being treated as an obvious bot.
             "User-Agent": (
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                 "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -1071,9 +1018,6 @@ def _translate_line_to_english(text):
     last_error = None
     max_attempts = 6
     for attempt in range(1, max_attempts + 1):
-        # Wait for a free slot in our own self-imposed quota window before every
-        # attempt, including retries, so transient blocks can't turn into a
-        # hammering loop.
         _translate_rate_limiter.acquire()
         try:
             with urllib.request.urlopen(request, timeout=30) as response:
@@ -1085,7 +1029,6 @@ def _translate_line_to_english(text):
         except urllib.error.HTTPError as exc:
             last_error = RuntimeError(f"Google Translate HTTP {exc.code}")
             if exc.code in {429, 403}:
-                # Likely a soft/temporary throttle. Back off generously.
                 delay = min(10 * attempt, 60)
                 print(f"⏳ Google Translate throttled, waiting {delay}s before retry ({attempt}/{max_attempts})")
                 time.sleep(delay)
@@ -1102,14 +1045,7 @@ def _translate_line_to_english(text):
 
 
 def translate_to_english(text):
-    """Translate Arabic text to English, preserving line breaks.
 
-    Google's translate_a/single endpoint tends to flatten multi-line input
-    (bullet lists, numbered steps) into one run-on sentence. To keep that
-    structure ("- point one" / "- point two") intact in English, each line
-    is translated on its own and the result is rejoined with the same line
-    breaks. Blank lines are preserved without spending a request on them.
-    """
     text = clean_text_keep_lines(text)
     if not text:
         return ""
@@ -1123,7 +1059,6 @@ def translate_to_english(text):
 
 
 def app_identity_for_translation(app):
-    """Stable identity used to match old AR/EN records across sync runs."""
     keys = strong_identity_keys(app, include_url=True)
     for prefix in ("id:", "bundle:", "url:"):
         for key in keys:
@@ -1134,30 +1069,14 @@ def app_identity_for_translation(app):
 
 TRANSLATE_WORKERS = int(os.getenv("TRANSLATE_WORKERS", "3"))
 
-# The EN file is hosted at its own URL and must self-report that, not IPA-AR.json's URL.
 EN_SOURCE_URL = "https://ikiraplus.pages.dev/IPA-EN.json"
 
 
-# Bump this whenever the translation logic changes in a way that makes
-# previously-saved English text stale (e.g. line-break handling, glossary
-# terms, category/caption translation being added). On the next run, any
-# existing IPA-EN.json stamped with an older version is treated as "nothing
-# to reuse" so everything gets retranslated once with the current logic —
-# after that, normal reuse-if-unchanged caching resumes as usual.
 TRANSLATION_FORMAT_VERSION = 3
 
 
 def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
-    """Create IPA-EN from IPA-AR, translating only descriptions that need work.
 
-    All app metadata is copied from IPA-AR, except sourceURL, which is overridden
-    to point at the English file's own hosted location. Existing English
-    descriptions are kept when the corresponding Arabic description did not
-    change; this avoids re-translating on every scheduled run. Apps that do need
-    translation are sent to Google's free translate endpoint concurrently (see
-    TRANSLATE_WORKERS) instead of one at a time, since each request is a slow,
-    mostly-idle network call.
-    """
     if not isinstance(old_en_source, dict) or old_en_source.get("translationFormatVersion") != TRANSLATION_FORMAT_VERSION:
         if isinstance(old_en_source, dict) and old_en_source.get("apps"):
             print("♻️ Translation logic changed since the last run — retranslating everything once.")
@@ -1182,7 +1101,7 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
     translated = 0
     reused = 0
     empty = 0
-    pending = []  # (app, arabic_description) pairs that need a fresh translation
+    pending = []  
 
     for app in output.get("apps", []):
         if not isinstance(app, dict):
@@ -1196,13 +1115,11 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
         old_ar_description = clean_text_keep_lines(old_ar.get("localizedDescription")) if old_ar else ""
         existing_english = clean_text_keep_lines(old_en.get("localizedDescription")) if old_en else ""
 
-        # No Arabic description: don't invent one.
         if not arabic_description:
             app["localizedDescription"] = ""
             empty += 1
             continue
 
-        # Reuse the previous English translation if the Arabic source text is unchanged.
         if existing_english and old_ar_description == arabic_description:
             app["localizedDescription"] = existing_english
             reused += 1
@@ -1237,12 +1154,7 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
 
 
 def translate_categories(output, old_ar_source=None, old_en_source=None):
-    """Translate each app's category (e.g. 'العاب' -> 'Games') for the EN file.
 
-    Each distinct Arabic category value is translated once and reused across
-    every app that shares it, and reused across runs when the app's category
-    text hasn't changed, instead of re-translating per app every time.
-    """
     old_ar_apps = get_apps(old_ar_source)
     old_en_apps = get_apps(old_en_source)
     old_ar_by_key = {}
@@ -1277,8 +1189,6 @@ def translate_categories(output, old_ar_source=None, old_en_source=None):
         else:
             pending_categories.add(category)
 
-    # A category already resolved via reuse for one app is known for all apps
-    # sharing that same Arabic text, so don't re-translate it.
     pending_categories -= set(category_map.keys())
 
     if pending_categories:
@@ -1301,12 +1211,7 @@ def translate_categories(output, old_ar_source=None, old_en_source=None):
 
 
 def translate_news_captions(output, old_ar_source=None, old_en_source=None):
-    """Translate news[].title and news[].caption for the EN file.
 
-    Brand-name titles like "كيرا بلس" translate safely to "iKiraPlus" via the
-    GLOSSARY protection in translate_to_english, so it's fine to translate
-    every title the same way rather than special-casing brand vs. non-brand.
-    """
     news_list = output.get("news")
     if not isinstance(news_list, list):
         return
@@ -1345,7 +1250,6 @@ def translate_news_captions(output, old_ar_source=None, old_en_source=None):
                 item[field] = existing_english
             else:
                 item[field] = translate_to_english(text)
-
 
 
 def main():
