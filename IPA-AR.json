@@ -28,6 +28,7 @@
       "id": "app-1773401165477",
       "name": "ريكرام",
       "bundleIdentifier": "com.ikiraplus.apps.app.57cde4b522",
+      "bundleId": "",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773401165477.png",
       "localizedDescription": "لتفعيل مميزات التطبيق:\n- قم بتغيير لغة التطبيق من الإنكليزية إلى العربية أو العكس",
       "category": "تواصل",
@@ -35,7 +36,7 @@
         {
           "version": "436.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram-435-regram5.1_patch",
-          "date": "2026-07-20",
+          "date": "2026-08-23",
           "size": 316565094
         },
         {
@@ -44,17 +45,18 @@
         }
       ],
       "version": "436.0.0",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram-435-regram5.1_patch",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instagram-435-regram5.1_patch",
       "size": 316565094,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
-      "id": "app-1773510581948",
+      "id": "com.toyopagroup.picabdd12",
       "name": "Snapchat root",
-      "bundleIdentifier": "com.ikiraplus.apps.snapchat-root.e58c66d44e",
+      "bundleIdentifier": "com.toyopagroup.picabdd12",
+      "bundleId": "com.toyopagroup.picabdd12",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/06/90/5f0690d1-64ae-7c67-8213-a99ce2f9a58c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "استخدام هذا التطبيق على مسؤوليتك الخاصة\nهذا تطبيق سناب شات بلس المعدل، لا تستخدمه مع حسابك الأساسي\nطريقة التثبيت:\n1- غير لغة جهازك إلى الإنكليزية\n2- ثبت التطبيق وافتحه\n3- اضغط على تسجيل أو تسجيل الدخول\n4- سيطلب منك اسم مستخدم وكلمة مرور خاصين بالأداة، استخدم المعلومات التالية\n\nاسم المستخدم\nkanji\nكلمة المرور:\nisastupidnonce\n\nبعد ذلك يمكنك تسجيل الدخول بحسابك بشكل طبيعي\nالتطبيق غير آمن، وتسجيل الدخول به على حسابك الأساسي قد يعرضه للحظر",
       "category": "تواصل",
@@ -62,7 +64,7 @@
         {
           "version": "14.17.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snapchatplus_14.17.1",
-          "date": "2026-08-19",
+          "date": "2026-08-23",
           "size": 163682713
         },
         {
@@ -71,17 +73,18 @@
         }
       ],
       "version": "14.17.1",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snapchatplus_14.17.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snapchatplus_14.17.1",
       "size": 163682713,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
-      "id": "app-1773436028095",
+      "id": "net.whatsapp.WhatsApp",
       "name": "WhatsApp Gold",
-      "bundleIdentifier": "com.ikiraplus.apps.whatsapp-gold.bf7b28b1d5",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "bundleId": "net.whatsapp.WhatsApp",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773436028095.png",
       "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط\nيتضمن التطبيق عدة إضافات مثل تغيير الموقع الجغرافي وتغيير الخط",
       "category": "تواصل",
@@ -89,7 +92,7 @@
         {
           "version": "26.32.75",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.32.75_wgoldplus",
-          "date": "2026-08-19",
+          "date": "2026-08-23",
           "size": 154664960
         },
         {
@@ -98,17 +101,18 @@
         }
       ],
       "version": "26.32.75",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.32.75_wgoldplus",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.32.75_wgoldplus",
       "size": 154664960,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1773512283014",
       "name": "Telegram Dark",
       "bundleIdentifier": "com.ikiraplus.apps.telegram-dark.08dbef3aa7",
+      "bundleId": "",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773512283014.png",
       "localizedDescription": "هذا التطبيق يدعم الإشعارات، ثبته مباشرة ولا تكرر تثبيته ولا تغير معرف الباندل الخاص به\nيتضمن مميزات إضافة Tgextra",
       "category": "تواصل",
@@ -116,7 +120,7 @@
         {
           "version": "12.9.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/teledark_12.9.2-1",
-          "date": "2026-08-02",
+          "date": "2026-08-23",
           "size": 79796633
         },
         {
@@ -125,12 +129,12 @@
         }
       ],
       "version": "12.9.2",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/teledark_12.9.2-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/teledark_12.9.2-1",
       "size": 79796633,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1773402408531",
@@ -160,16 +164,17 @@
       "updatedAt": "2026-08-22"
     },
     {
-      "id": "app-1773402346513",
+      "id": "com.burbn.instagram",
       "name": "بيكرام",
-      "bundleIdentifier": "com.ikiraplus.apps.app.b855e43896",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773402346513.png",
       "category": "تواصل",
       "versions": [
         {
           "version": "438.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_2.8",
-          "date": "2026-07-20",
+          "date": "2026-08-23",
           "size": 291608985
         },
         {
@@ -178,17 +183,18 @@
         }
       ],
       "version": "438.0.0",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_2.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram_2.8",
       "size": 291608985,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1773402450838",
       "name": "instagram IG",
       "bundleIdentifier": "com.ikiraplus.apps.instagram-ig.36e60ad0dc",
+      "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "localizedDescription": "لتفعيل مميزات التطبيق:\n- اضغط على زر الملف الشخصي، ستجد أيقونة الريشة، اضغط عليها لفتح المميزات",
       "category": "تواصل",
@@ -216,6 +222,7 @@
       "id": "app-1773436098791",
       "name": "Watusi",
       "bundleIdentifier": "com.ikiraplus.apps.watusi.7836a7efb2",
+      "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b2/8a/e3b28a99-2fc5-641f-7b35-0a8094337b1a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط",
       "category": "تواصل",
@@ -223,22 +230,23 @@
         {
           "version": "26.26.10",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc",
-          "date": "2026-07-09",
+          "date": "2026-08-23",
           "size": 148583219
         }
       ],
       "version": "26.26.10",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc",
       "size": 148583219,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
-      "id": "app-1773574523577",
+      "id": "net.whatsapp.WhatsAppSMB",
       "name": "WhatsApp Business - Gold",
-      "bundleIdentifier": "com.ikiraplus.apps.whatsapp-business-gold.66e5f3d926",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "bundleId": "net.whatsapp.WhatsAppSMB",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773436028095.png",
       "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط",
       "category": "تواصل",
@@ -246,7 +254,7 @@
         {
           "version": "26.32.75",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.32.75_wgoldplus",
-          "date": "2026-08-19",
+          "date": "2026-08-23",
           "size": 161690419
         },
         {
@@ -255,17 +263,18 @@
         }
       ],
       "version": "26.32.75",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.32.75_wgoldplus",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.32.75_wgoldplus",
       "size": 161690419,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1773497640216",
       "name": "Swiftgram",
       "bundleIdentifier": "com.ikiraplus.apps.swiftgram.b384679494",
+      "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d5/fa/c1d5faba-f9f3-2b37-959b-4e69452bb301/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "localizedDescription": "لتفعيل مميزات التطبيق اتبع الخطوات التالية:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على أيقونة (اسأل سؤالا)\nوبذلك يتم فتح المميزات",
       "category": "تواصل",
@@ -273,7 +282,7 @@
         {
           "version": "12.9.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram_12.9.2_lead_1.4.4",
-          "date": "2026-07-30",
+          "date": "2026-08-23",
           "size": 82313216
         },
         {
@@ -282,17 +291,18 @@
         }
       ],
       "version": "12.9.2",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram_12.9.2_lead_1.4.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swiftgram_12.9.2_lead_1.4.4",
       "size": 82313216,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1773498091935",
       "name": "ime",
       "bundleIdentifier": "com.ikiraplus.apps.ime.11c46b00db",
+      "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/4b/c4/5a4bc469-89db-25b2-5d65-5b9b0e57a296/iMe-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات التطبيق مفعلة تلقائيا\n- جميع مميزات الذكاء الاصطناعي مفتوحة\n- مميزات الاشتراك المميز (Premium) الخاصة بتطبيق ime مفتوحة\n- إمكانية حفظ ونسخ المحتوى المقيد في (القنوات، القصص، المجموعات، المحادثات الخاصة)\n- إمكانية حفظ الصور المؤقتة والقصص المقيدة",
       "category": "تواصل",
@@ -300,7 +310,7 @@
         {
           "version": "12.8.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ime-12.8.1-mxgram",
-          "date": "2026-08-17",
+          "date": "2026-08-23",
           "size": 148163788
         },
         {
@@ -309,12 +319,12 @@
         }
       ],
       "version": "12.8.1",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ime-12.8.1-mxgram",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ime-12.8.1-mxgram",
       "size": 148163788,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1773510353911",
@@ -343,6 +353,7 @@
       "id": "app-1773497492154",
       "name": "Nicegram",
       "bundleIdentifier": "com.ikiraplus.apps.nicegram.9f0254f67d",
+      "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/36/b8/6f36b88a-aab5-ea1d-6ba7-bed9a20e2b9f/AppIconLLC-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "لتفعيل مميزات التطبيق:\nالإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا)",
       "category": "تواصل",
@@ -350,22 +361,23 @@
         {
           "version": "12.8",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.5.3",
-          "date": "2026-06-12",
+          "date": "2026-08-23",
           "size": 132015718
         }
       ],
       "version": "12.8",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.5.3",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.5.3",
       "size": 132015718,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1773596873141",
       "name": "Turrit",
       "bundleIdentifier": "com.ikiraplus.apps.turrit.4db44782cd",
+      "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/4f/43/d94f43ed-0cb5-d9a5-f50f-8480fb7e5304/Turrit-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "localizedDescription": "لتفعيل مميزات التطبيق اتبع الخطوات التالية:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على أيقونة (اسأل سؤالا)\nوبذلك يتم فتح المميزات",
       "category": "تواصل",
@@ -373,7 +385,7 @@
         {
           "version": "1.5.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
-          "date": "2026-07-31",
+          "date": "2026-08-23",
           "size": 92903833
         },
         {
@@ -382,17 +394,18 @@
         }
       ],
       "version": "1.5.2",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
       "size": 92903833,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
-      "id": "app-1773435439784",
+      "id": "com.tiktoklrd.ikiraplus",
       "name": "Tiktok LRD",
-      "bundleIdentifier": "com.ikiraplus.apps.tiktok-lrd.000be15856",
+      "bundleIdentifier": "com.tiktoklrd.ikiraplus",
+      "bundleId": "com.tiktoklrd.ikiraplus",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "اضغط على أيقونة Home ضغطة طويلة لفتح المميزات",
       "category": "تواصل",
@@ -400,29 +413,30 @@
         {
           "version": "43.4.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok.lrd-1",
-          "date": "2026-03-14",
+          "date": "2026-08-23",
           "size": 361549004
         }
       ],
       "version": "43.4.1",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok.lrd-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok.lrd-1",
       "size": 361549004,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
-      "id": "app-1773435396085",
+      "id": "com.zhiliaoapp.musically",
       "name": "Tiktok DL",
-      "bundleIdentifier": "com.ikiraplus.apps.tiktok-dl.f09e57c24f",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "category": "تواصل",
       "versions": [
         {
           "version": "46.3.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.0",
-          "date": "2026-08-07",
+          "date": "2026-08-23",
           "size": 469657190
         },
         {
@@ -431,12 +445,12 @@
         }
       ],
       "version": "46.3.0",
-      "versionDate": "2026-08-22",
+      "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.0",
       "size": 469657190,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1773435499722",
