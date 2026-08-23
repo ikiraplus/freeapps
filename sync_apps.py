@@ -868,6 +868,8 @@ def print_report(path, report, apps_count):
 
 
 GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
+MYMEMORY_TRANSLATE_URL = "https://api.mymemory.translated.net/get"
+MYMEMORY_EMAIL = os.getenv("MYMEMORY_EMAIL", "").strip()
 
 TRANSLATE_MAX_REQUESTS_PER_MINUTE = int(os.getenv("TRANSLATE_MAX_RPM", "20"))
 
@@ -992,13 +994,48 @@ def _parse_google_translate_response(raw_body):
     return "".join(pieces)
 
 
-def _translate_line_to_english(text):
-    text = clean_text(text)
-    if not text:
-        return ""
+def _translate_via_mymemory(protected_text):
+    params = {
+        "q": protected_text,
+        "langpair": "ar|en",
+    }
+    if MYMEMORY_EMAIL:
+        params["de"] = MYMEMORY_EMAIL
 
-    protected_text, glossary_tokens = _protect_glossary_terms(text)
+    request = urllib.request.Request(
+        f"{MYMEMORY_TRANSLATE_URL}?{urllib.parse.urlencode(params)}",
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+            ),
+        },
+        method="GET",
+    )
 
+    last_error = None
+    max_attempts = 3
+    for attempt in range(1, max_attempts + 1):
+        _translate_rate_limiter.acquire()
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                raw_body = response.read().decode("utf-8")
+            payload = json.loads(raw_body)
+            if payload.get("responseStatus") not in (200, "200"):
+                raise RuntimeError(f"MyMemory responseStatus {payload.get('responseStatus')}: {payload.get('responseDetails')}")
+            result = clean_text(payload.get("responseData", {}).get("translatedText"))
+            if not result or "MYMEMORY WARNING" in result.upper():
+                raise RuntimeError("MyMemory returned an empty or invalid translation")
+            return result
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, json.JSONDecodeError, RuntimeError) as exc:
+            last_error = RuntimeError(f"MyMemory request failed: {exc}")
+            if attempt < max_attempts:
+                time.sleep(attempt * 2)
+
+    raise last_error or RuntimeError("MyMemory failed")
+
+
+def _translate_via_google(protected_text):
     params = urllib.parse.urlencode(
         {
             "client": "gtx",
@@ -1020,7 +1057,7 @@ def _translate_line_to_english(text):
     )
 
     last_error = None
-    max_attempts = 6
+    max_attempts = 4
     for attempt in range(1, max_attempts + 1):
         _translate_rate_limiter.acquire()
         try:
@@ -1029,11 +1066,11 @@ def _translate_line_to_english(text):
             result = clean_text(_parse_google_translate_response(raw_body))
             if not result:
                 raise RuntimeError("Google Translate returned an empty translation")
-            return _restore_glossary_terms(result, glossary_tokens)
+            return result
         except urllib.error.HTTPError as exc:
             last_error = RuntimeError(f"Google Translate HTTP {exc.code}")
             if exc.code in {429, 403}:
-                delay = min(10 * attempt, 60)
+                delay = min(10 * attempt, 30)
                 print(f"⏳ Google Translate throttled, waiting {delay}s before retry ({attempt}/{max_attempts})")
                 time.sleep(delay)
                 continue
@@ -1046,6 +1083,26 @@ def _translate_line_to_english(text):
             time.sleep(attempt * 2)
 
     raise last_error or RuntimeError("Google Translate failed")
+
+
+def _translate_line_to_english(text):
+    text = clean_text(text)
+    if not text:
+        return ""
+
+    protected_text, glossary_tokens = _protect_glossary_terms(text)
+
+    try:
+        result = _translate_via_mymemory(protected_text)
+    except Exception as mymemory_error:
+        try:
+            result = _translate_via_google(protected_text)
+        except Exception as google_error:
+            raise RuntimeError(
+                f"All translation providers failed — MyMemory: {mymemory_error} | Google: {google_error}"
+            )
+
+    return _restore_glossary_terms(result, glossary_tokens)
 
 
 def translate_to_english(text):
@@ -1129,24 +1186,36 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
             reused += 1
             continue
 
-        pending.append((app, arabic_description))
+        pending.append((app, arabic_description, existing_english))
 
+    failed = 0
     if pending:
         print(f"🌐 Translating {len(pending)} app(s) using up to {TRANSLATE_WORKERS} workers")
         with ThreadPoolExecutor(max_workers=min(TRANSLATE_WORKERS, len(pending))) as executor:
-            future_to_app = {
-                executor.submit(translate_to_english, arabic_description): app
-                for app, arabic_description in pending
+            future_to_item = {
+                executor.submit(translate_to_english, arabic_description): (app, arabic_description, fallback_english)
+                for app, arabic_description, fallback_english in pending
             }
-            for future in as_completed(future_to_app):
-                app = future_to_app[future]
+            for future in as_completed(future_to_item):
+                app, arabic_description, fallback_english = future_to_item[future]
                 app_label = clean_text(app.get("name") or app.get("id"))
-                app["localizedDescription"] = future.result()
-                translated += 1
-                print(f"🌐 Translated ({translated}/{len(pending)}): {app_label}")
+                try:
+                    app["localizedDescription"] = future.result()
+                    translated += 1
+                    print(f"🌐 Translated ({translated}/{len(pending)}): {app_label}")
+                except Exception as exc:
+                    failed += 1
+                    if fallback_english:
+                        app["localizedDescription"] = fallback_english
+                        print(f"⚠️ Translation failed for {app_label} ({exc}); kept previous English text")
+                    else:
+                        app["localizedDescription"] = ""
+                        print(f"⚠️ Translation failed for {app_label} ({exc}); no previous English text available, left empty")
 
     print(f"🌐 English descriptions translated: {translated}")
     print(f"♻️ English descriptions reused: {reused}")
+    if failed:
+        print(f"⚠️ English descriptions that failed to translate this run: {failed}")
     print(f"ℹ️ Apps without Arabic descriptions: {empty}")
 
     translate_categories(output, old_ar_source=old_ar_source, old_en_source=old_en_source)
@@ -1201,10 +1270,16 @@ def translate_categories(output, old_ar_source=None, old_en_source=None):
                 executor.submit(translate_to_english, category): category
                 for category in pending_categories
             }
+            failed_categories = 0
             for future in as_completed(future_to_category):
                 category = future_to_category[future]
-                category_map[category] = future.result()
-        print(f"🌐 Categories translated: {len(pending_categories)}")
+                try:
+                    category_map[category] = future.result()
+                except Exception as exc:
+                    failed_categories += 1
+                    category_map[category] = ""
+                    print(f"⚠️ Category translation failed for '{category}' ({exc}); left empty (no previous English text)")
+        print(f"🌐 Categories translated: {len(pending_categories) - failed_categories}")
 
     for app in output.get("apps", []):
         if not isinstance(app, dict):
@@ -1262,7 +1337,15 @@ def translate_news_captions(output, old_ar_source=None, old_en_source=None):
             if existing_english and old_ar_text == text:
                 item[field] = existing_english
             else:
-                item[field] = translate_to_english(text)
+                try:
+                    item[field] = translate_to_english(text)
+                except Exception as exc:
+                    if existing_english:
+                        item[field] = existing_english
+                        print(f"⚠️ News '{field}' translation failed for {identifier} ({exc}); kept previous English text")
+                    else:
+                        item[field] = ""
+                        print(f"⚠️ News '{field}' translation failed for {identifier} ({exc}); no previous English text available, left empty")
 
 
 def main():
