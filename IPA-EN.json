@@ -598,23 +598,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "2.58.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.58.1-locket-gold-patched",
-          "date": "2026-08-06",
-          "size": 264346009
+          "version": "2.61.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.0-locket-gold-patched",
+          "date": "2026-08-23",
+          "size": 113980211
         },
         {
-          "version": "2.56.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.56.0-locket-gold-patched"
+          "version": "2.58.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.58.1-locket-gold-patched"
         }
       ],
-      "version": "2.58.1",
-      "versionDate": "2026-08-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.58.1-locket-gold-patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.58.1-locket-gold-patched",
-      "size": 264346009,
+      "version": "2.61.0",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.0-locket-gold-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.0-locket-gold-patched",
+      "size": 113980211,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22",
+      "updatedAt": "2026-08-23",
       "localizedDescription": ""
     },
     {
@@ -3658,23 +3658,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "461.6.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_-_video_editor_v461.6.1_subscription_unlocked",
-          "date": "2026-07-30",
-          "size": 209715200
+          "version": "461.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.7.0_subscription_unlocked",
+          "date": "2026-08-23",
+          "size": 201326592
         },
         {
-          "version": "460.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_&_video_editor_v461_1_0_subscription_unlocked_blatant"
+          "version": "461.6.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_-_video_editor_v461.6.1_subscription_unlocked"
         }
       ],
-      "version": "461.6.1",
-      "versionDate": "2026-08-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_-_video_editor_v461.6.1_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_-_video_editor_v461.6.1_subscription_unlocked",
-      "size": 209715200,
+      "version": "461.7.0",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.7.0_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.7.0_subscription_unlocked",
+      "size": 201326592,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22",
+      "updatedAt": "2026-08-23",
       "localizedDescription": ""
     },
     {
@@ -7533,23 +7533,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "7.3.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.5",
-          "date": "2026-08-21",
-          "size": 80425779
+          "version": "7.3.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.6",
+          "date": "2026-08-23",
+          "size": 81684070
         },
         {
-          "version": "7.3.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.3.4"
+          "version": "7.3.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.5"
         }
       ],
-      "version": "7.3.5",
-      "versionDate": "2026-08-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.5",
-      "size": 80425779,
+      "version": "7.3.6",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.6",
+      "size": 81684070,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22",
+      "updatedAt": "2026-08-23",
       "localizedDescription": ""
     },
     {
@@ -12930,6 +12930,144 @@
       "size": 206464614,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1787456306246",
+      "name": "Across Calendar",
+      "bundleIdentifier": "com.ikiraplus.apps.across-calendar.09da38750a",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/0d/ca/540dcae7-3982-4c72-f177-02dacbcc0bd3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All Premium -Vip features unlocked",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "1.12.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/across-premium-v1.12.8",
+          "date": "2026-08-23",
+          "size": 9961472
+        }
+      ],
+      "version": "1.12.8",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/across-premium-v1.12.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/across-premium-v1.12.8",
+      "size": 9961472,
+      "addedAt": "2026-08-23",
+      "updatedAt": "2026-08-23"
+    },
+    {
+      "id": "app-1787456434325",
+      "name": "Hello Weather Vip",
+      "bundleIdentifier": "com.ikiraplus.apps.hello-weather-vip.47163d665b",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/01/29/7601290a-4e48-df1f-d768-b7e9dcf667d9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All Premium -Vip features unlocked",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "3.13.15",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hello-weather-vip-3.13.15",
+          "date": "2026-08-23",
+          "size": 10276044
+        }
+      ],
+      "version": "3.13.15",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hello-weather-vip-3.13.15",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hello-weather-vip-3.13.15",
+      "size": 10276044,
+      "addedAt": "2026-08-23",
+      "updatedAt": "2026-08-23"
+    },
+    {
+      "id": "app-1787456655981",
+      "name": "Hello Weather Forecast",
+      "bundleIdentifier": "com.ikiraplus.apps.hello-weather-forecast.1bbf8030cf",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1787456655981.png",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "3.13.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hello_weather_forecast_v3.13.7",
+          "date": "2026-08-23",
+          "size": 7549747
+        }
+      ],
+      "version": "3.13.7",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hello_weather_forecast_v3.13.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hello_weather_forecast_v3.13.7",
+      "size": 7549747,
+      "addedAt": "2026-08-23",
+      "updatedAt": "2026-08-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1787456687784",
+      "name": "Shapecraft",
+      "bundleIdentifier": "com.ikiraplus.apps.shapecraft.b0e7da8baa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/c2/5c/32c25cfe-aff4-3e7f-d40a-9143271f5f8a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shapecraft_v2.0.1",
+          "date": "2026-08-23",
+          "size": 43935334
+        }
+      ],
+      "version": "2.0.1",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shapecraft_v2.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shapecraft_v2.0.1",
+      "size": 43935334,
+      "addedAt": "2026-08-23",
+      "updatedAt": "2026-08-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1787456720220",
+      "name": "Snow AI",
+      "bundleIdentifier": "com.ikiraplus.apps.snow-ai.d5b0935ee1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/9d/6e/7d9d6eb9-3054-4ee8-e3ed-217d46f23eb1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "15.3.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snow-ai-15.3.8",
+          "date": "2026-08-23",
+          "size": 143654912
+        }
+      ],
+      "version": "15.3.8",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snow-ai-15.3.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snow-ai-15.3.8",
+      "size": 143654912,
+      "addedAt": "2026-08-23",
+      "updatedAt": "2026-08-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1787456749450",
+      "name": "Egg Inc",
+      "bundleIdentifier": "com.ikiraplus.apps.egg-inc.9307c6ddcc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/3d/e2/ce3de211-82e2-5ff1-0516-05369f963a93/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.37.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/egg-inc-v1.37.2",
+          "date": "2026-08-23",
+          "size": 53687091
+        }
+      ],
+      "version": "1.37.2",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/egg-inc-v1.37.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/egg-inc-v1.37.2",
+      "size": 53687091,
+      "addedAt": "2026-08-23",
+      "updatedAt": "2026-08-23",
       "localizedDescription": ""
     }
   ],
