@@ -12480,52 +12480,6 @@
       "updatedAt": "2026-08-22"
     },
     {
-      "id": "app-1787456306246",
-      "name": "Across Calendar",
-      "bundleIdentifier": "com.ikiraplus.apps.across-calendar.09da38750a",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/0d/ca/540dcae7-3982-4c72-f177-02dacbcc0bd3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "تم فتح جميع مميزات البريميوم -Vip",
-      "category": "أدوات",
-      "versions": [
-        {
-          "version": "1.12.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/across-premium-v1.12.8",
-          "date": "2026-08-23",
-          "size": 9961472
-        }
-      ],
-      "version": "1.12.8",
-      "versionDate": "2026-08-23",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/across-premium-v1.12.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/across-premium-v1.12.8",
-      "size": 9961472,
-      "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-23"
-    },
-    {
-      "id": "app-1787456434325",
-      "name": "Hello Weather Vip",
-      "bundleIdentifier": "com.ikiraplus.apps.hello-weather-vip.47163d665b",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/01/29/7601290a-4e48-df1f-d768-b7e9dcf667d9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "تم فتح جميع مميزات البريميوم -Vip",
-      "category": "أدوات",
-      "versions": [
-        {
-          "version": "3.13.15",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hello-weather-vip-3.13.15",
-          "date": "2026-08-23",
-          "size": 10276044
-        }
-      ],
-      "version": "3.13.15",
-      "versionDate": "2026-08-23",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hello-weather-vip-3.13.15",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hello-weather-vip-3.13.15",
-      "size": 10276044,
-      "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-23"
-    },
-    {
       "id": "app-1787456655981",
       "name": "Hello Weather Forecast",
       "bundleIdentifier": "com.ikiraplus.apps.hello-weather-forecast.1bbf8030cf",
@@ -12533,13 +12487,13 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "3.13.7",
+          "version": "3.13.15",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hello_weather_forecast_v3.13.7",
           "date": "2026-08-23",
           "size": 7549747
         }
       ],
-      "version": "3.13.7",
+      "version": "3.13.15",
       "versionDate": "2026-08-23",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hello_weather_forecast_v3.13.7",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hello_weather_forecast_v3.13.7",
