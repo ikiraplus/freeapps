@@ -194,19 +194,23 @@
       "category": "تواصل",
       "versions": [
         {
+          "version": "443.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0",
+          "date": "2026-08-23",
+          "size": 326107136
+        },
+        {
           "version": "435.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformatv2.4.0",
-          "date": "2026-07-01",
-          "size": 318662246
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformatv2.4.0"
         }
       ],
-      "version": "435.0.0",
-      "versionDate": "2026-08-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformatv2.4.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/igformatv2.4.0",
-      "size": 318662246,
+      "version": "443.1.0",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0",
+      "size": 326107136,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1773436098791",
@@ -3537,19 +3541,23 @@
       "category": "ألعاب",
       "versions": [
         {
-          "version": "56.25.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool_56.25.1.-hacked",
-          "date": "2026-08-19",
+          "version": "56.25.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool-hacked2",
+          "date": "2026-08-23",
           "size": 108317900
+        },
+        {
+          "version": "56.25.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool_56.25.1.-hacked"
         }
       ],
-      "version": "56.25.1",
-      "versionDate": "2026-08-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool_56.25.1.-hacked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool_56.25.1.-hacked",
+      "version": "56.25.2",
+      "versionDate": "2026-08-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool-hacked2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool-hacked2",
       "size": 108317900,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-23"
     },
     {
       "id": "app-1774779575880",
