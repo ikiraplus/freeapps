@@ -7,7 +7,7 @@ on:
   release:
     types: [created, published, edited, deleted, unpublished, prereleased, released]
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 */8 * * *"
   workflow_dispatch:
     inputs:
       force_verify:
