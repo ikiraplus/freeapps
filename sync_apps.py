@@ -306,19 +306,24 @@ def stable_hash(*parts):
 
 
 def make_bundle(app, used_bundles, fallback_bundle=None):
-    existing = first_non_empty(app.get("bundleIdentifier"), app.get("bundleId"))
+    """
+    Bundle rules:
+    1. If the source explicitly provides bundleIdentifier/bundleId, use it
+       exactly as provided. Duplicate bundle IDs are allowed.
+    2. If the source has no bundle, keep the existing target bundle exactly,
+       even if another app already uses the same bundle.
+    3. Generate a bundle only when neither source nor target has one.
+    """
+    source_bundle = first_non_empty(
+        app.get("bundleIdentifier"),
+        app.get("bundleId"),
+    )
+    if not is_empty(source_bundle):
+        return clean_text(source_bundle)
+
     fallback = clean_text(fallback_bundle)
-
-    if is_empty(existing) and fallback:
-        fallback_key = fallback.casefold()
-        if fallback_key not in used_bundles:
-            used_bundles.add(fallback_key)
-            return fallback
-
-    existing_key = clean_text(existing).casefold()
-    if existing_key and existing_key not in used_bundles:
-        used_bundles.add(existing_key)
-        return clean_text(existing)
+    if fallback:
+        return fallback
 
     base = (
         f"{BUNDLE_PREFIX}."
@@ -676,18 +681,20 @@ def build_source_from_regram(jom_source, target_source=None, today=None):
     new_apps = []
     removed_apps = []
 
-    if target_apps:
-        for target_index, existing_app in enumerate(target_apps):
-            if is_certificate_app(existing_app):
-                removed_apps.append(clean_text(existing_app.get("name") or existing_app.get("id")))
-                continue
+    # IMPORTANT:
+    # The source order is authoritative. This guarantees that the first
+    # output app is the first eligible app from jom.json (currently ريكرام),
+    # instead of preserving an old target order such as Snapchat root first.
+    for record in source_records:
+        match_index = record["match_index"]
 
-            record = matched_by_target_index.get(target_index)
-            if record is None:
-                removed_apps.append(clean_text(existing_app.get("name") or existing_app.get("id")))
-                continue
-
-            merged_app, changed_fields = merge_existing_app(existing_app, record["fixed"], today)
+        if match_index is not None and match_index < len(target_apps):
+            existing_app = target_apps[match_index]
+            merged_app, changed_fields = merge_existing_app(
+                existing_app,
+                record["fixed"],
+                today,
+            )
             output_apps.append(merged_app)
             used_record_ids.add(id(record))
 
@@ -699,14 +706,23 @@ def build_source_from_regram(jom_source, target_source=None, today=None):
                     }
                 )
             else:
-                unchanged_apps.append(clean_text(merged_app.get("name") or merged_app.get("id")))
+                unchanged_apps.append(
+                    clean_text(merged_app.get("name") or merged_app.get("id"))
+                )
+        else:
+            app = new_app_with_dates(record["fixed"], today)
+            output_apps.append(app)
+            new_apps.append(clean_text(app.get("name") or app.get("id")))
 
-    for record in source_records:
-        if id(record) in used_record_ids:
+    # Anything in the old target that was not matched by the source is
+    # removed, which preserves the existing sync behavior.
+    matched_target_indexes = set(matched_by_target_index.keys())
+    for target_index, existing_app in enumerate(target_apps):
+        if target_index in matched_target_indexes:
             continue
-        app = new_app_with_dates(record["fixed"], today)
-        output_apps.append(app)
-        new_apps.append(clean_text(app.get("name") or app.get("id")))
+        removed_apps.append(
+            clean_text(existing_app.get("name") or existing_app.get("id"))
+        )
 
     for app in output_apps:
         drop_removed_fields(app)
@@ -764,11 +780,6 @@ def validate_output(output_source, source_records, ignored_before_start):
     missing_bundles = [app.get("name") for app in output_apps if is_empty(app.get("bundleIdentifier"))]
     if missing_bundles:
         raise ValueError(f"Missing bundleIdentifier values: {missing_bundles[:20]}")
-
-    bundle_counts = Counter(clean_text(app.get("bundleIdentifier")).casefold() for app in output_apps if app.get("bundleIdentifier"))
-    duplicate_bundles = [bundle for bundle, count in bundle_counts.items() if count > 1]
-    if duplicate_bundles:
-        raise ValueError(f"Duplicate bundleIdentifier values: {duplicate_bundles[:20]}")
 
     id_counts = Counter(clean_text(app.get("id")).casefold() for app in output_apps if not is_empty(app.get("id")))
     duplicate_ids = [app_id for app_id, count in id_counts.items() if count > 1]
@@ -859,12 +870,12 @@ def print_report(path, report, apps_count):
         print(f"⚠️ target match collisions skipped: {len(report['target_match_collisions'])}")
 
     print(f"✅ apps written: {apps_count}")
-    print("✅ existing apps keep their same order")
+    print("✅ apps follow source jom.json order (starting at ريكرام)")
     print("✅ changed app info updates versionDate/updatedAt only, no second copy")
     print("✅ no شهادة مجانية apps in output")
     print("✅ size is bytes/int")
     print("✅ versionDate is never empty")
-    print("✅ bundleIdentifier values are unique")
+    print("✅ bundleIdentifier: source value wins; duplicate bundle IDs are allowed")
 
 
 GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
