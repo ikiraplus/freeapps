@@ -50,7 +50,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instagram-435-regram5.1_patch",
       "size": 316565094,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 3
     },
     {
       "id": "com.toyopagroup.picabdd12",
@@ -78,7 +79,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snapchatplus_14.17.1",
       "size": 163682713,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23"
+      "updatedAt": "2026-08-23",
+      "_rowKey": 4
     },
     {
       "id": "net.whatsapp.WhatsApp",
@@ -106,7 +108,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.32.75_wgoldplus",
       "size": 154664960,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23"
+      "updatedAt": "2026-08-23",
+      "_rowKey": 5
     },
     {
       "id": "app.teledark",
@@ -134,7 +137,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/teledark_12.9.2-1",
       "size": 79796633,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 6
     },
     {
       "id": "net.whatsapp.WhatsAppSMB",
@@ -162,7 +166,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.32.75_wgoldplus",
       "size": 161690419,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23"
+      "updatedAt": "2026-08-23",
+      "_rowKey": 11
     },
     {
       "id": "app.swiftgram.ios",
@@ -190,7 +195,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swiftgram_12.9.2_lead_1.4.4",
       "size": 82313216,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 12
     },
     {
       "id": "com.olcorporation.olai",
@@ -218,7 +224,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ime-12.8.1-mxgram",
       "size": 148163788,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 13
     },
     {
       "id": "app.intentchat",
@@ -242,7 +249,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lingogram-1",
       "size": 77699481,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 14
     },
     {
       "id": "app.nicegram",
@@ -266,7 +274,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.5.3",
       "size": 132015718,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 15
     },
     {
       "id": "com.seastar.turrit",
@@ -294,7 +303,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
       "size": 92903833,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 16
     },
     {
       "id": "com.tiktoklrd.ikiraplus",
@@ -318,7 +328,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok.lrd-1",
       "size": 361549004,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23"
+      "updatedAt": "2026-08-23",
+      "_rowKey": 17
     },
     {
       "id": "com.zhiliaoapp.musically",
@@ -346,6 +357,7 @@
       "size": 469657190,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-23",
+      "_rowKey": 18,
       "localizedDescription": ""
     },
     {
@@ -370,6 +382,7 @@
       "size": 353579827,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 19,
       "localizedDescription": ""
     },
     {
@@ -398,6 +411,7 @@
       "size": 472488345,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 20,
       "localizedDescription": ""
     },
     {
@@ -426,6 +440,7 @@
       "size": 225443840,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 22,
       "localizedDescription": ""
     },
     {
@@ -454,6 +469,7 @@
       "size": 172071321,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 23,
       "localizedDescription": ""
     },
     {
@@ -482,6 +498,7 @@
       "size": 111673344,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 24,
       "localizedDescription": ""
     },
     {
@@ -510,6 +527,7 @@
       "size": 113980211,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 25,
       "localizedDescription": ""
     },
     {
@@ -534,7 +552,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tellonym_3.173.1_1775308360-1",
       "size": 87556096,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 26
     },
     {
       "id": "com.burbn.barcelona",
@@ -545,23 +564,24 @@
       "category": "communication",
       "versions": [
         {
-          "version": "443.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_443.0.0_threadsaver",
-          "date": "2026-08-24",
-          "size": 105801318
+          "version": "444.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver",
+          "date": "2026-08-25",
+          "size": 104962457
         },
         {
-          "version": "442.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_442.0"
+          "version": "443.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_443.0.0_threadsaver"
         }
       ],
-      "version": "443.0.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_443.0.0_threadsaver",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads_443.0.0_threadsaver",
-      "size": 105801318,
+      "version": "444.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver",
+      "size": 104962457,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 27,
       "localizedDescription": ""
     },
     {
@@ -586,6 +606,7 @@
       "size": 120691097,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 28,
       "localizedDescription": ""
     },
     {
@@ -614,6 +635,7 @@
       "size": 228379852,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 30,
       "localizedDescription": ""
     },
     {
@@ -638,6 +660,7 @@
       "size": 138307174,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 33,
       "localizedDescription": ""
     },
     {
@@ -662,6 +685,7 @@
       "size": 93218406,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 34,
       "localizedDescription": ""
     },
     {
@@ -690,6 +714,7 @@
       "size": 136000307,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 35,
       "localizedDescription": ""
     },
     {
@@ -714,6 +739,7 @@
       "size": 46766489,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 36,
       "localizedDescription": ""
     },
     {
@@ -738,7 +764,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/air.movie._.kira-1",
       "size": 44040192,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 37
     },
     {
       "id": "com.bigwinepot.nwdn.international",
@@ -762,6 +789,7 @@
       "size": 113246208,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 38,
       "localizedDescription": ""
     },
     {
@@ -790,6 +818,7 @@
       "size": 17196646,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 39,
       "localizedDescription": ""
     },
     {
@@ -814,6 +843,7 @@
       "size": 32925286,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 40,
       "localizedDescription": ""
     },
     {
@@ -838,6 +868,7 @@
       "size": 17825792,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 41,
       "localizedDescription": ""
     },
     {
@@ -862,6 +893,7 @@
       "size": 2883269427,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 42,
       "localizedDescription": ""
     },
     {
@@ -886,7 +918,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/genral-pro-v1.4",
       "size": 10066329,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 43
     },
     {
       "id": "net.quochuywdm.collanote496",
@@ -897,19 +930,24 @@
       "category": "Study and artificial intelligence",
       "versions": [
         {
+          "version": "4.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched",
+          "date": "2026-08-25",
+          "size": 128240844
+        },
+        {
           "version": "4.0.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_&_pdf_markup_v4_1_2_pro_unlocked_blatant_patched",
-          "date": "2026-08-24",
-          "size": 123731968
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_&_pdf_markup_v4_1_2_pro_unlocked_blatant_patched"
         }
       ],
-      "version": "4.0.6",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_&_pdf_markup_v4_1_2_pro_unlocked_blatant_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_&_pdf_markup_v4_1_2_pro_unlocked_blatant_patched",
-      "size": 123731968,
+      "version": "4.3.1",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched",
+      "size": 128240844,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 44,
       "localizedDescription": ""
     },
     {
@@ -938,6 +976,7 @@
       "size": 112721920,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 45,
       "localizedDescription": ""
     },
     {
@@ -966,6 +1005,7 @@
       "size": 544210944,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 46,
       "localizedDescription": ""
     },
     {
@@ -994,6 +1034,7 @@
       "size": 143969484,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 47,
       "localizedDescription": ""
     },
     {
@@ -1018,7 +1059,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rodjo-1",
       "size": 14575206,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 48
     },
     {
       "id": "com.buztv.player",
@@ -1042,7 +1084,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/buz.tv_1.2.11-1",
       "size": 17196646,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 49
     },
     {
       "id": "com.animecloud.rm",
@@ -1066,6 +1109,7 @@
       "size": 6710886,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 50,
       "localizedDescription": ""
     },
     {
@@ -1090,6 +1134,7 @@
       "size": 19293798,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 51,
       "localizedDescription": ""
     },
     {
@@ -1114,6 +1159,7 @@
       "size": 18874368,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 52,
       "localizedDescription": ""
     },
     {
@@ -1138,6 +1184,7 @@
       "size": 10800332,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 53,
       "localizedDescription": ""
     },
     {
@@ -1149,23 +1196,24 @@
       "category": "tools",
       "versions": [
         {
-          "version": "1.274.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.274.0_subscription_unlocked",
-          "date": "2026-08-24",
-          "size": 174692761
+          "version": "1.275.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked",
+          "date": "2026-08-25",
+          "size": 162948710
         },
         {
-          "version": "1.273.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.273.1_subscription_unlocked"
+          "version": "1.274.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.274.0_subscription_unlocked"
         }
       ],
-      "version": "1.274.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.274.0_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.274.0_subscription_unlocked",
-      "size": 174692761,
+      "version": "1.275.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked",
+      "size": 162948710,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 54,
       "localizedDescription": ""
     },
     {
@@ -1177,23 +1225,24 @@
       "category": "Study and artificial intelligence",
       "versions": [
         {
-          "version": "16.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.9_pro_unlocked_patched",
-          "date": "2026-08-24",
-          "size": 253021388
+          "version": "16.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched",
+          "date": "2026-08-25",
+          "size": 254803968
         },
         {
-          "version": "16.8.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.8.1_pro_unlocked__patched"
+          "version": "16.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.9_pro_unlocked_patched"
         }
       ],
-      "version": "16.9",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.9_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.9_pro_unlocked_patched",
-      "size": 253021388,
+      "version": "16.10",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched",
+      "size": 254803968,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 55,
       "localizedDescription": ""
     },
     {
@@ -1222,6 +1271,7 @@
       "size": 129079705,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 56,
       "localizedDescription": ""
     },
     {
@@ -1246,6 +1296,7 @@
       "size": 264450867,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 57,
       "localizedDescription": ""
     },
     {
@@ -1274,7 +1325,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hack-v56.27.0",
       "size": 105381888,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 58
     },
     {
       "id": "app-1774774281798",
@@ -1302,7 +1354,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-gl-v1.4.5",
       "size": 3766694707,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 59
     },
     {
       "id": "com.camerasideas.InstaShot",
@@ -1330,6 +1383,7 @@
       "size": 150365798,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 60,
       "localizedDescription": ""
     },
     {
@@ -1353,6 +1407,7 @@
       "size": 746271539,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-22",
+      "_rowKey": 61,
       "localizedDescription": ""
     },
     {
@@ -1377,7 +1432,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/call-of-duty-hack_1.0.54_1774227663",
       "size": 2894069760,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 62
     },
     {
       "id": "app-1773546824423",
@@ -1401,6 +1457,7 @@
       "size": 1916692070,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 63,
       "localizedDescription": ""
     },
     {
@@ -1425,7 +1482,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/clash-royale-hack",
       "size": 765145907,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 64
     },
     {
       "id": "com.supercell.magic",
@@ -1449,7 +1507,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/clash-of-clans-hack",
       "size": 418906112,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 65
     },
     {
       "id": "com.fingersoft.hillclimbracing",
@@ -1477,6 +1536,7 @@
       "size": 129918566,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 66,
       "localizedDescription": ""
     },
     {
@@ -1501,6 +1561,7 @@
       "size": 1782579200,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 67,
       "localizedDescription": ""
     },
     {
@@ -1525,6 +1586,7 @@
       "size": 1517604044,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 69,
       "localizedDescription": ""
     },
     {
@@ -1549,6 +1611,7 @@
       "size": 1867828428,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 70,
       "localizedDescription": ""
     },
     {
@@ -1573,6 +1636,7 @@
       "size": 21181235,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 71,
       "localizedDescription": ""
     },
     {
@@ -1597,6 +1661,7 @@
       "size": 91435827,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 72,
       "localizedDescription": ""
     },
     {
@@ -1621,6 +1686,7 @@
       "size": 107059609,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 73,
       "localizedDescription": ""
     },
     {
@@ -1645,6 +1711,7 @@
       "size": 51485081,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 74,
       "localizedDescription": ""
     },
     {
@@ -1669,6 +1736,7 @@
       "size": 143340339,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 75,
       "localizedDescription": ""
     },
     {
@@ -1697,6 +1765,7 @@
       "size": 120166809,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 76,
       "localizedDescription": ""
     },
     {
@@ -1721,7 +1790,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/happychick-2",
       "size": 118908518,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 77
     },
     {
       "id": "com.abishkking.sixpack",
@@ -1745,6 +1815,7 @@
       "size": 398563737,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 78,
       "localizedDescription": ""
     },
     {
@@ -1769,6 +1840,7 @@
       "size": 479408947,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 79,
       "localizedDescription": ""
     },
     {
@@ -1793,6 +1865,7 @@
       "size": 13631488,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 80,
       "localizedDescription": ""
     },
     {
@@ -1821,6 +1894,7 @@
       "size": 145018060,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 81,
       "localizedDescription": ""
     },
     {
@@ -1849,7 +1923,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/minecraft_withlogin_1.26.50",
       "size": 713555968,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 82
     },
     {
       "id": "nt.nb.ios",
@@ -1873,6 +1948,7 @@
       "size": 1044696268,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 83,
       "localizedDescription": ""
     },
     {
@@ -1897,6 +1973,7 @@
       "size": 109156761,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 84,
       "localizedDescription": ""
     },
     {
@@ -1921,6 +1998,7 @@
       "size": 6081740,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 85,
       "localizedDescription": ""
     },
     {
@@ -1949,6 +2027,7 @@
       "size": 71617740,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 86,
       "localizedDescription": ""
     },
     {
@@ -1973,6 +2052,7 @@
       "size": 117125939,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 87,
       "localizedDescription": ""
     },
     {
@@ -1997,6 +2077,7 @@
       "size": 65745715,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 88,
       "localizedDescription": ""
     },
     {
@@ -2021,6 +2102,7 @@
       "size": 221773824,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 89,
       "localizedDescription": ""
     },
     {
@@ -2045,6 +2127,7 @@
       "size": 105381888,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 90,
       "localizedDescription": ""
     },
     {
@@ -2069,6 +2152,7 @@
       "size": 38273024,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 91,
       "localizedDescription": ""
     },
     {
@@ -2093,6 +2177,7 @@
       "size": 44249907,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 92,
       "localizedDescription": ""
     },
     {
@@ -2117,7 +2202,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/streameast.1.1.1-1",
       "size": 39636172,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 93
     },
     {
       "id": "com.sfun.snapedit",
@@ -2145,6 +2231,7 @@
       "size": 103599308,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 94,
       "localizedDescription": ""
     },
     {
@@ -2169,6 +2256,7 @@
       "size": 42152755,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 95,
       "localizedDescription": ""
     },
     {
@@ -2193,6 +2281,7 @@
       "size": 300626739,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 96,
       "localizedDescription": ""
     },
     {
@@ -2217,6 +2306,7 @@
       "size": 239494758,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 97,
       "localizedDescription": ""
     },
     {
@@ -2245,6 +2335,7 @@
       "size": 247778508,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 98,
       "localizedDescription": ""
     },
     {
@@ -2269,7 +2360,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/agario-shark",
       "size": 104857600,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 99
     },
     {
       "id": "com.carx-tech.carxdr2",
@@ -2293,7 +2385,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carx-drift-racing-2-v1.42.1",
       "size": 1258291200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 100
     },
     {
       "id": "com.popcap.ios.PvZ2",
@@ -2321,7 +2414,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pvz-2.998",
       "size": 142711193,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 101
     },
     {
       "id": "com.innersloth.amongus",
@@ -2349,7 +2443,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/among-us-2026.6.5",
       "size": 766299340,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 102
     },
     {
       "id": "jp.co.bandainamcogames.BNGI0221",
@@ -2373,7 +2468,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragon-ball-pro",
       "size": 943718400,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 103
     },
     {
       "id": "com.dts.freefiremaxs",
@@ -2401,7 +2497,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/free-fire-hack-v1.130",
       "size": 1051407155,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 104
     },
     {
       "id": "com.gameloft.asphalt9",
@@ -2429,7 +2526,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asphalt-52.0.8",
       "size": 3576483020,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 105
     },
     {
       "id": "com.ea.nfs13.inc",
@@ -2453,7 +2551,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/need-for-speed-most-wanted-hack-8hzmi6jrpm-1",
       "size": 1258291200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 106
     },
     {
       "id": "com.nekki.shadowfight3",
@@ -2481,7 +2580,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow-fight-3.1.45.4",
       "size": 201850880,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 107
     },
     {
       "id": "com.wb.MK.Brawler2015",
@@ -2509,7 +2609,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.3.0",
       "size": 1940075315,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 108
     },
     {
       "id": "com.fingersoft.hillclimbracing2",
@@ -2537,7 +2638,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.73.6",
       "size": 222402969,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 109
     },
     {
       "id": "com.midasplayer.apps.candycrushsaga",
@@ -2561,7 +2663,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/candy-crush-saga-1",
       "size": 120271667,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 110
     },
     {
       "id": "com.playrix.gardenscapes-m3-ios",
@@ -2589,7 +2692,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gardenscapes-9.8.0",
       "size": 213385216,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 111
     },
     {
       "id": "com.rovio.baba",
@@ -2617,7 +2721,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2.26.4.2",
       "size": 562875596,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 112
     },
     {
       "id": "com.blayzegames.iosfps",
@@ -2641,7 +2746,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bullet-force-1.113",
       "size": 758120448,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 113
     },
     {
       "id": "com.nekki.shadowfight",
@@ -2669,7 +2775,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow-fight-2.2.46.0",
       "size": 152882380,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 114
     },
     {
       "id": "com.outfit7.mytalkingtomfriends",
@@ -2693,7 +2800,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-talking-tom",
       "size": 253021388,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 115
     },
     {
       "id": "dazz.camera.vintagecamera",
@@ -2717,7 +2825,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dazz-cam---vintage-camera-v2.17-dazz-pro-",
       "size": 115972505,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 116
     },
     {
       "id": "com.protools.Watermark",
@@ -2741,7 +2850,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/logo-maker-&-generator",
       "size": 67213721,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 117
     },
     {
       "id": "com.algoriddim.djay-iphone-free",
@@ -2769,7 +2879,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-v5.6.8",
       "size": 194196275,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 118
     },
     {
       "id": "com.intsig.CamScannerLite",
@@ -2797,7 +2908,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.23.5_vip_unlocked_patched",
       "size": 212022067,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 119
     },
     {
       "id": "com.xd.mbp31",
@@ -2821,6 +2933,7 @@
       "size": 68157440,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 120,
       "localizedDescription": ""
     },
     {
@@ -2845,7 +2958,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/piano-tiles-2-1",
       "size": 66899148,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 121
     },
     {
       "id": "fontskeyboard.fonts",
@@ -2869,7 +2983,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fonts-yfalfudaak-1",
       "size": 73400320,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 123
     },
     {
       "id": "app-dropbox-fortnite-3940",
@@ -2893,7 +3008,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fortnite",
       "size": 2550765977,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 124
     },
     {
       "id": "app-dropbox-brawl-stars-63265",
@@ -2917,7 +3033,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/brawl-stars-kamohacks-63.265-2",
       "size": 472907776,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 125
     },
     {
       "id": "com.spotify.client",
@@ -2929,23 +3046,24 @@
       "category": "Entertainment",
       "versions": [
         {
-          "version": "9.1.76",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs",
-          "date": "2026-08-24",
-          "size": 130233139
+          "version": "9.1.78",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
+          "date": "2026-08-25",
+          "size": 134532300
         },
         {
-          "version": "9.1.74",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-gt_9.1.74"
+          "version": "9.1.76",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs"
         }
       ],
-      "version": "9.1.76",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs",
-      "size": 130233139,
+      "version": "9.1.78",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
+      "size": 134532300,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 126
     },
     {
       "id": "com.fungames.sniper3d",
@@ -2969,7 +3087,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sniper-3d-gun-shooting-games-hack",
       "size": 425721856,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 127
     },
     {
       "id": "com.gameloft.gangstar4",
@@ -2993,7 +3112,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gangstar-vegas-iv-9.8.0",
       "size": 2581069824,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 128
     },
     {
       "id": "app-iosgods-gta-vice-city-1081",
@@ -3017,7 +3137,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grand-theft-auto-vice-city-hack-aggyp077xq-1",
       "size": 1782579200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 129
     },
     {
       "id": "com.vincentb.MobControl",
@@ -3041,7 +3162,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mob-control-hack",
       "size": 209715200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 130
     },
     {
       "id": "jp.ne.ibis.ibisPaintX",
@@ -3065,7 +3187,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ibispaint-x-13.1.13",
       "size": 55259955,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 131
     },
     {
       "id": "com.duolingo.DuolingoMobile",
@@ -3077,23 +3200,24 @@
       "category": "Study and artificial intelligence",
       "versions": [
         {
-          "version": "7.135.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.1_duolingo_max_unlocked",
-          "date": "2026-08-24",
-          "size": 211497779
+          "version": "2.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+          "date": "2026-08-25",
+          "size": 152358092
         },
         {
-          "version": "7.135.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.0_duolingo_max_unlocked"
+          "version": "7.135.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.1_duolingo_max_unlocked"
         }
       ],
-      "version": "7.135.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.1_duolingo_max_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.1_duolingo_max_unlocked",
-      "size": 211497779,
+      "version": "2.8.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+      "size": 152358092,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 132
     },
     {
       "id": "com.imangi.templerun2",
@@ -3117,7 +3241,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/temple-run-2",
       "size": 149631795,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 133
     },
     {
       "id": "com.sega.sonicdash",
@@ -3141,7 +3266,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sonic-dash-hack",
       "size": 353370112,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 134
     },
     {
       "id": "com.europe.huntingsniper",
@@ -3165,7 +3291,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hunting-sniper-showdown-hack-t9mrwhqcxx-1",
       "size": 943718400,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 135
     },
     {
       "id": "com.outfit7.movingeye.swampattack",
@@ -3189,7 +3316,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swamp-attack-hack",
       "size": 314572800,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 136
     },
     {
       "id": "games.my.zombie.shooter",
@@ -3213,7 +3341,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zombie-state-hack",
       "size": 367001600,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 137
     },
     {
       "id": "com.GoPlayGames.FCM25",
@@ -3237,7 +3366,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football-club-management-2025-hack-mek4a3boqo-1",
       "size": 209715200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 138
     },
     {
       "id": "com.rovio.bloom",
@@ -3261,7 +3391,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bloom-city-match-hack-xpztqgvicz-1",
       "size": 262144000,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 139
     },
     {
       "id": "com.colossi.survival.gladiators",
@@ -3285,7 +3416,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gladiators-hack",
       "size": 629145600,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 140
     },
     {
       "id": "com.storytoys.lego.duplo.peppa.pig.ios",
@@ -3309,7 +3441,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lego-duplo-peppa-pig-hack",
       "size": 173015040,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 141
     },
     {
       "id": "com.playspare.store",
@@ -3333,7 +3466,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-supermarket-simulator-3d",
       "size": 272629760,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 142
     },
     {
       "id": "net.halasat.tv",
@@ -3357,7 +3491,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shashety-شاشتي-7.0.21",
       "size": 16777216,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 143
     },
     {
       "id": "app-iosgods-modern-strike-online-4592",
@@ -3381,7 +3516,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tactical-ops",
       "size": 744488960,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 144
     },
     {
       "id": "dev-movlix.player",
@@ -3405,7 +3541,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/movlix_1.1_1774767312-1",
       "size": 4299161,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 145
     },
     {
       "id": "ali.Bawa",
@@ -3433,6 +3570,7 @@
       "size": 5452595,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 146,
       "localizedDescription": ""
     },
     {
@@ -3457,6 +3595,7 @@
       "size": 4299161,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 147,
       "localizedDescription": ""
     },
     {
@@ -3481,6 +3620,7 @@
       "size": 101607014,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 148,
       "localizedDescription": ""
     },
     {
@@ -3509,7 +3649,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool-hacked2",
       "size": 108317900,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 149
     },
     {
       "id": "com.adobe.lrmobilephone",
@@ -3537,6 +3678,7 @@
       "size": 216635801,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 150,
       "localizedDescription": ""
     },
     {
@@ -3565,6 +3707,7 @@
       "size": 201326592,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 151,
       "localizedDescription": ""
     },
     {
@@ -3589,6 +3732,7 @@
       "size": 650851123,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 152,
       "localizedDescription": ""
     },
     {
@@ -3617,6 +3761,7 @@
       "size": 1099431936,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 153,
       "localizedDescription": ""
     },
     {
@@ -3645,6 +3790,7 @@
       "size": 151414374,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 154,
       "localizedDescription": ""
     },
     {
@@ -3673,6 +3819,7 @@
       "size": 111463628,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 155,
       "localizedDescription": ""
     },
     {
@@ -3697,6 +3844,7 @@
       "size": 1949722214,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 156,
       "localizedDescription": ""
     },
     {
@@ -3721,6 +3869,7 @@
       "size": 120376524,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 157,
       "localizedDescription": ""
     },
     {
@@ -3745,6 +3894,7 @@
       "size": 265080012,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 158,
       "localizedDescription": ""
     },
     {
@@ -3773,6 +3923,7 @@
       "size": 369308467,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 159,
       "localizedDescription": ""
     },
     {
@@ -3797,6 +3948,7 @@
       "size": 1931686707,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 160,
       "localizedDescription": ""
     },
     {
@@ -3821,6 +3973,7 @@
       "size": 3013187993,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 161,
       "localizedDescription": ""
     },
     {
@@ -3849,6 +4002,7 @@
       "size": 121739673,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 165,
       "localizedDescription": ""
     },
     {
@@ -3873,6 +4027,7 @@
       "size": 116077363,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 166,
       "localizedDescription": ""
     },
     {
@@ -3901,7 +4056,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-tw-v2.4.5",
       "size": 3763339264,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 167
     },
     {
       "id": "com.anime.animeRiftApp",
@@ -3929,6 +4085,7 @@
       "size": 72561459,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 168,
       "localizedDescription": ""
     },
     {
@@ -3953,7 +4110,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/madplay-noads",
       "size": 7025459,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 169
     },
     {
       "id": "com.yalla-shoot.Yalla",
@@ -3977,6 +4135,7 @@
       "size": 32925286,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 170,
       "localizedDescription": ""
     },
     {
@@ -4005,6 +4164,7 @@
       "size": 463156019,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 171,
       "localizedDescription": ""
     },
     {
@@ -4016,23 +4176,24 @@
       "category": "tools",
       "versions": [
         {
-          "version": "5.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.10_pro_unlocked_patched",
-          "date": "2026-08-24",
+          "version": "5.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched",
+          "date": "2026-08-25",
           "size": 120061952
         },
         {
-          "version": "5.9.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.9.1_pro_unlocked__patched"
+          "version": "5.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.10_pro_unlocked_patched"
         }
       ],
-      "version": "5.10",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.10_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.10_pro_unlocked_patched",
+      "version": "5.11",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched",
       "size": 120061952,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 172,
       "localizedDescription": ""
     },
     {
@@ -4057,7 +4218,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinemana-old3.4.2",
       "size": 38482739,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 173
     },
     {
       "id": "com.nekki.shadowfightarena",
@@ -4085,6 +4247,7 @@
       "size": 193671987,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 174,
       "localizedDescription": ""
     },
     {
@@ -4113,6 +4276,7 @@
       "size": 753192140,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 177,
       "localizedDescription": ""
     },
     {
@@ -4137,6 +4301,7 @@
       "size": 2665899622,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 178,
       "localizedDescription": ""
     },
     {
@@ -4161,6 +4326,7 @@
       "size": 26004684,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 179,
       "localizedDescription": ""
     },
     {
@@ -4185,6 +4351,7 @@
       "size": 2584739840,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 180,
       "localizedDescription": ""
     },
     {
@@ -4209,6 +4376,7 @@
       "size": 1083598438,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 181,
       "localizedDescription": ""
     },
     {
@@ -4233,6 +4401,7 @@
       "size": 173539328,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 182,
       "localizedDescription": ""
     },
     {
@@ -4261,7 +4430,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/efootball-11.0.0",
       "size": 3229718937,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 183
     },
     {
       "id": "com.hutchgames.rebelracing",
@@ -4285,6 +4455,7 @@
       "size": 753821286,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 184,
       "localizedDescription": ""
     },
     {
@@ -4313,7 +4484,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-kr-v3.4.5",
       "size": 3784625356,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 185
     },
     {
       "id": "com.aloula",
@@ -4337,6 +4509,7 @@
       "size": 23488102,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 186,
       "localizedDescription": ""
     },
     {
@@ -4361,6 +4534,7 @@
       "size": 591921152,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 187,
       "localizedDescription": ""
     },
     {
@@ -4384,6 +4558,7 @@
       "size": 3611295744,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-22",
+      "_rowKey": 188,
       "localizedDescription": ""
     },
     {
@@ -4412,7 +4587,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-vng-v2.4.5",
       "size": 3765331558,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 189
     },
     {
       "id": "com.minichat",
@@ -4436,6 +4612,7 @@
       "size": 105591603,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 190,
       "localizedDescription": ""
     },
     {
@@ -4460,6 +4637,7 @@
       "size": 184968806,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 191,
       "localizedDescription": ""
     },
     {
@@ -4488,30 +4666,36 @@
       "size": 321493401,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 192,
       "localizedDescription": ""
     },
     {
       "id": "com.carxtech.sr",
-      "name": "Car X street",
+      "name": "CarX street",
       "bundleIdentifier": "com.carxtech.sr",
       "bundleId": "com.carxtech.sr",
       "iconURL": "https://img.utdstc.com/icon/bba/977/bba977e0d57fa56795386b9f901bda565b8c73a9ce1ec3ebf86083ccee87d179:600",
       "category": "games",
       "versions": [
         {
-          "version": "1.16.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.16.1",
-          "date": "2026-08-24",
-          "size": 1372585984
+          "version": "1.21.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.21.0",
+          "date": "2026-08-25",
+          "size": 5737598156
+        },
+        {
+          "version": "1.20.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx_street-1.20.0"
         }
       ],
-      "version": "1.16.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.16.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.16.1",
-      "size": 1372585984,
+      "version": "1.21.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.21.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.21.0",
+      "size": 5737598156,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 193,
       "localizedDescription": ""
     },
     {
@@ -4539,6 +4723,7 @@
       "size": 0,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 194,
       "localizedDescription": ""
     },
     {
@@ -4563,6 +4748,7 @@
       "size": 1180486860,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 196,
       "localizedDescription": ""
     },
     {
@@ -4586,6 +4772,7 @@
       "size": 3867358003,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-22",
+      "_rowKey": 197,
       "localizedDescription": ""
     },
     {
@@ -4610,6 +4797,7 @@
       "size": 1157942476,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 198,
       "localizedDescription": ""
     },
     {
@@ -4634,6 +4822,7 @@
       "size": 361968435,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 199,
       "localizedDescription": ""
     },
     {
@@ -4658,6 +4847,7 @@
       "size": 14260633,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 200,
       "localizedDescription": ""
     },
     {
@@ -4686,6 +4876,7 @@
       "size": 216845516,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 201,
       "localizedDescription": ""
     },
     {
@@ -4710,6 +4901,7 @@
       "size": 501848473,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 202,
       "localizedDescription": ""
     },
     {
@@ -4734,6 +4926,7 @@
       "size": 402548326,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 203,
       "localizedDescription": ""
     },
     {
@@ -4758,6 +4951,7 @@
       "size": 7025459,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 204,
       "localizedDescription": ""
     },
     {
@@ -4782,6 +4976,7 @@
       "size": 14889779,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 205,
       "localizedDescription": ""
     },
     {
@@ -4806,6 +5001,7 @@
       "size": 597688320,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 207,
       "localizedDescription": ""
     },
     {
@@ -4830,6 +5026,7 @@
       "size": 545259520,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 208,
       "localizedDescription": ""
     },
     {
@@ -4854,6 +5051,7 @@
       "size": 482344960,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 209,
       "localizedDescription": ""
     },
     {
@@ -4878,6 +5076,7 @@
       "size": 1063256064,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 210,
       "localizedDescription": ""
     },
     {
@@ -4889,23 +5088,24 @@
       "category": "tools",
       "versions": [
         {
-          "version": "2026.34.02",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.02",
-          "date": "2026-08-24",
-          "size": 130862284
+          "version": "2026.35.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01",
+          "date": "2026-08-25",
+          "size": 241487052
         },
         {
-          "version": "2026.34.01",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.01"
+          "version": "2026.34.02",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.02"
         }
       ],
-      "version": "2026.34.02",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.02",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.02",
-      "size": 130862284,
+      "version": "2026.35.01",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01",
+      "size": 241487052,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 211,
       "localizedDescription": ""
     },
     {
@@ -4930,6 +5130,7 @@
       "size": 564343603,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 212,
       "localizedDescription": ""
     },
     {
@@ -4954,6 +5155,7 @@
       "size": 1659895808,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 214,
       "localizedDescription": ""
     },
     {
@@ -4978,7 +5180,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sevenscore",
       "size": 16252928,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 215
     },
     {
       "id": "com.dreamgames.royalmatch",
@@ -5002,6 +5205,7 @@
       "size": 220305817,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 216,
       "localizedDescription": ""
     },
     {
@@ -5026,6 +5230,7 @@
       "size": 203423744,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 217,
       "localizedDescription": ""
     },
     {
@@ -5054,6 +5259,7 @@
       "size": 315516518,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 218,
       "localizedDescription": ""
     },
     {
@@ -5078,6 +5284,7 @@
       "size": 1162556211,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 220,
       "localizedDescription": ""
     },
     {
@@ -5102,6 +5309,7 @@
       "size": 621805568,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 221,
       "localizedDescription": ""
     },
     {
@@ -5126,6 +5334,7 @@
       "size": 212651212,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 222,
       "localizedDescription": ""
     },
     {
@@ -5150,6 +5359,7 @@
       "size": 186331955,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 223,
       "localizedDescription": ""
     },
     {
@@ -5174,6 +5384,7 @@
       "size": 395418009,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 224,
       "localizedDescription": ""
     },
     {
@@ -5198,6 +5409,7 @@
       "size": 432327884,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 225,
       "localizedDescription": ""
     },
     {
@@ -5222,6 +5434,7 @@
       "size": 84829798,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 226,
       "localizedDescription": ""
     },
     {
@@ -5246,6 +5459,7 @@
       "size": 261305139,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 227,
       "localizedDescription": ""
     },
     {
@@ -5270,6 +5484,7 @@
       "size": 193042841,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 228,
       "localizedDescription": ""
     },
     {
@@ -5298,6 +5513,7 @@
       "size": 366162739,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 229,
       "localizedDescription": ""
     },
     {
@@ -5322,6 +5538,7 @@
       "size": 156447539,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 231,
       "localizedDescription": ""
     },
     {
@@ -5346,6 +5563,7 @@
       "size": 177209344,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 232,
       "localizedDescription": ""
     },
     {
@@ -5370,6 +5588,7 @@
       "size": 84620083,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 234,
       "localizedDescription": ""
     },
     {
@@ -5394,6 +5613,7 @@
       "size": 84934656,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 235,
       "localizedDescription": ""
     },
     {
@@ -5418,6 +5638,7 @@
       "size": 227855564,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 236,
       "localizedDescription": ""
     },
     {
@@ -5442,6 +5663,7 @@
       "size": 250504806,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 237,
       "localizedDescription": ""
     },
     {
@@ -5470,6 +5692,7 @@
       "size": 271371468,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 238,
       "localizedDescription": ""
     },
     {
@@ -5494,6 +5717,7 @@
       "size": 302828748,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 239,
       "localizedDescription": ""
     },
     {
@@ -5518,6 +5742,7 @@
       "size": 586992844,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 240,
       "localizedDescription": ""
     },
     {
@@ -5542,6 +5767,7 @@
       "size": 1442630860,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 241,
       "localizedDescription": ""
     },
     {
@@ -5566,6 +5792,7 @@
       "size": 1577477734,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 243,
       "localizedDescription": ""
     },
     {
@@ -5590,6 +5817,7 @@
       "size": 11429478,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 244,
       "localizedDescription": ""
     },
     {
@@ -5614,6 +5842,7 @@
       "size": 513487667,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 245,
       "localizedDescription": ""
     },
     {
@@ -5638,6 +5867,7 @@
       "size": 442603929,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 246,
       "localizedDescription": ""
     },
     {
@@ -5662,6 +5892,7 @@
       "size": 1349936742,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 247,
       "localizedDescription": ""
     },
     {
@@ -5686,6 +5917,7 @@
       "size": 3081764864,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 248,
       "localizedDescription": ""
     },
     {
@@ -5710,6 +5942,7 @@
       "size": 1550109900,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 249,
       "localizedDescription": ""
     },
     {
@@ -5721,23 +5954,24 @@
       "category": "tools",
       "versions": [
         {
-          "version": "2.7.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.7.0_premium_unlocked_patched",
-          "date": "2026-08-24",
-          "size": 147010355
+          "version": "2.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+          "date": "2026-08-25",
+          "size": 152358092
         },
         {
-          "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish-ai-photo-editor"
+          "version": "2.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.7.0_premium_unlocked_patched"
         }
       ],
-      "version": "2.7.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.7.0_premium_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.7.0_premium_unlocked_patched",
-      "size": 147010355,
+      "version": "2.8.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+      "size": 152358092,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 250,
       "localizedDescription": ""
     },
     {
@@ -5749,19 +5983,24 @@
       "category": "tools",
       "versions": [
         {
+          "version": "8.15.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-ai-captions-and-shorts-v8.15.0",
+          "date": "2026-08-25",
+          "size": 158544691
+        },
+        {
           "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-shorts-ai-videos",
-          "date": "2026-08-24",
-          "size": 156342681
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-shorts-ai-videos"
         }
       ],
-      "version": "last version",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-shorts-ai-videos",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/veed-shorts-ai-videos",
-      "size": 156342681,
+      "version": "8.15.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-ai-captions-and-shorts-v8.15.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/veed-ai-captions-and-shorts-v8.15.0",
+      "size": 158544691,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 251,
       "localizedDescription": ""
     },
     {
@@ -5786,6 +6025,7 @@
       "size": 1011141836,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 252,
       "localizedDescription": ""
     },
     {
@@ -5810,6 +6050,7 @@
       "size": 1448817459,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 253,
       "localizedDescription": ""
     },
     {
@@ -5834,6 +6075,7 @@
       "size": 126143692,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 254,
       "localizedDescription": ""
     },
     {
@@ -5858,6 +6100,7 @@
       "size": 2942513971,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 255,
       "localizedDescription": ""
     },
     {
@@ -5881,6 +6124,7 @@
       "size": 2543845376,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-22",
+      "_rowKey": 256,
       "localizedDescription": ""
     },
     {
@@ -5905,6 +6149,7 @@
       "size": 301780172,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 257,
       "localizedDescription": ""
     },
     {
@@ -5929,6 +6174,7 @@
       "size": 32925286,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 258,
       "localizedDescription": ""
     },
     {
@@ -5957,6 +6203,7 @@
       "size": 107269324,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 259,
       "localizedDescription": ""
     },
     {
@@ -5981,7 +6228,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vaco-tv-videos",
       "size": 21810380,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 260
     },
     {
       "id": "com.poopapps.animex",
@@ -6005,6 +6253,7 @@
       "size": 28101836,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 261,
       "localizedDescription": ""
     },
     {
@@ -6029,6 +6278,7 @@
       "size": 159488409,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 262,
       "localizedDescription": ""
     },
     {
@@ -6053,6 +6303,7 @@
       "size": 1761712537,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 263,
       "localizedDescription": ""
     },
     {
@@ -6076,6 +6327,7 @@
       "size": 151099801,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-22",
+      "_rowKey": 264,
       "localizedDescription": ""
     },
     {
@@ -6100,6 +6352,7 @@
       "size": 247673651,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 265,
       "localizedDescription": ""
     },
     {
@@ -6124,6 +6377,7 @@
       "size": 18979225,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 266,
       "localizedDescription": ""
     },
     {
@@ -6152,6 +6406,7 @@
       "size": 138621747,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 267,
       "localizedDescription": ""
     },
     {
@@ -6180,6 +6435,7 @@
       "size": 68576870,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 268,
       "localizedDescription": ""
     },
     {
@@ -6204,6 +6460,7 @@
       "size": 343618355,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 270,
       "localizedDescription": ""
     },
     {
@@ -6228,6 +6485,7 @@
       "size": 208352051,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 271,
       "localizedDescription": ""
     },
     {
@@ -6252,6 +6510,7 @@
       "size": 604608921,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 272,
       "localizedDescription": ""
     },
     {
@@ -6276,6 +6535,7 @@
       "size": 352321536,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 273,
       "localizedDescription": ""
     },
     {
@@ -6304,6 +6564,7 @@
       "size": 923585740,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 274,
       "localizedDescription": ""
     },
     {
@@ -6332,6 +6593,7 @@
       "size": 68891443,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 275,
       "localizedDescription": ""
     },
     {
@@ -6356,6 +6618,7 @@
       "size": 257425408,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 276,
       "localizedDescription": ""
     },
     {
@@ -6380,6 +6643,7 @@
       "size": 193881702,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 278,
       "localizedDescription": ""
     },
     {
@@ -6408,6 +6672,7 @@
       "size": 399192883,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 279,
       "localizedDescription": ""
     },
     {
@@ -6432,6 +6697,7 @@
       "size": 9961472,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 280,
       "localizedDescription": ""
     },
     {
@@ -6456,6 +6722,7 @@
       "size": 1076572979,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 281,
       "localizedDescription": ""
     },
     {
@@ -6480,6 +6747,7 @@
       "size": 46871347,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 283,
       "localizedDescription": ""
     },
     {
@@ -6504,6 +6772,7 @@
       "size": 2516582,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 284,
       "localizedDescription": ""
     },
     {
@@ -6528,6 +6797,7 @@
       "size": 5872025,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 285,
       "localizedDescription": ""
     },
     {
@@ -6552,6 +6822,7 @@
       "size": 17930649,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 286,
       "localizedDescription": ""
     },
     {
@@ -6580,6 +6851,7 @@
       "size": 210554060,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 287,
       "localizedDescription": ""
     },
     {
@@ -6604,6 +6876,7 @@
       "size": 11953766,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 289,
       "localizedDescription": ""
     },
     {
@@ -6628,6 +6901,7 @@
       "size": 7130316,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 290,
       "localizedDescription": ""
     },
     {
@@ -6652,6 +6926,7 @@
       "size": 1363148,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 291,
       "localizedDescription": ""
     },
     {
@@ -6680,6 +6955,7 @@
       "size": 215062937,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 294,
       "localizedDescription": ""
     },
     {
@@ -6704,6 +6980,7 @@
       "size": 27158118,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 296,
       "localizedDescription": ""
     },
     {
@@ -6728,6 +7005,7 @@
       "size": 25899827,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 298,
       "localizedDescription": ""
     },
     {
@@ -6756,6 +7034,7 @@
       "size": 24746393,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 299,
       "localizedDescription": ""
     },
     {
@@ -6784,7 +7063,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2",
       "size": 178572492,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 300
     },
     {
       "id": "co.albox.cinema",
@@ -6808,7 +7088,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
       "size": 28626124,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 301
     },
     {
       "id": "com.adobe.premiere.ios",
@@ -6836,6 +7117,7 @@
       "size": 104962457,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 303,
       "localizedDescription": ""
     },
     {
@@ -6864,6 +7146,7 @@
       "size": 128450560,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 306,
       "localizedDescription": ""
     },
     {
@@ -6892,7 +7175,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6",
       "size": 22334668,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 307
     },
     {
       "id": "com.pandagaming.armada",
@@ -6916,6 +7200,7 @@
       "size": 493669580,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 309,
       "localizedDescription": ""
     },
     {
@@ -6944,6 +7229,7 @@
       "size": 81684070,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 310,
       "localizedDescription": ""
     },
     {
@@ -6968,7 +7254,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/planet-of-lana",
       "size": 1862900121,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 311
     },
     {
       "id": "com.freenotes.freenotes",
@@ -6992,6 +7279,7 @@
       "size": 199229440,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 312,
       "localizedDescription": ""
     },
     {
@@ -7016,6 +7304,7 @@
       "size": 26109542,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 313,
       "localizedDescription": ""
     },
     {
@@ -7040,6 +7329,7 @@
       "size": 118698803,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 314,
       "localizedDescription": ""
     },
     {
@@ -7068,6 +7358,7 @@
       "size": 109051904,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 315,
       "localizedDescription": ""
     },
     {
@@ -7092,6 +7383,7 @@
       "size": 67528294,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 316,
       "localizedDescription": ""
     },
     {
@@ -7120,6 +7412,7 @@
       "size": 493774438,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 317,
       "localizedDescription": ""
     },
     {
@@ -7144,7 +7437,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtele_12.9.2",
       "size": 76231475,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 318
     },
     {
       "id": "co.detail.duo",
@@ -7172,6 +7466,7 @@
       "size": 242116198,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 320,
       "localizedDescription": ""
     },
     {
@@ -7200,6 +7495,7 @@
       "size": 120691097,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 321,
       "localizedDescription": ""
     },
     {
@@ -7224,6 +7520,7 @@
       "size": 489370419,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 322,
       "localizedDescription": ""
     },
     {
@@ -7252,6 +7549,7 @@
       "size": 285212672,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 323,
       "localizedDescription": ""
     },
     {
@@ -7276,6 +7574,7 @@
       "size": 216216371,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 324,
       "localizedDescription": ""
     },
     {
@@ -7300,6 +7599,7 @@
       "size": 460324864,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 325,
       "localizedDescription": ""
     },
     {
@@ -7324,6 +7624,7 @@
       "size": 226806988,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 326,
       "localizedDescription": ""
     },
     {
@@ -7348,6 +7649,7 @@
       "size": 189897113,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 327,
       "localizedDescription": ""
     },
     {
@@ -7372,6 +7674,7 @@
       "size": 1101004800,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 328,
       "localizedDescription": ""
     },
     {
@@ -7400,6 +7703,7 @@
       "size": 108003328,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 329,
       "localizedDescription": ""
     },
     {
@@ -7424,6 +7728,7 @@
       "size": 2365797171,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 330,
       "localizedDescription": ""
     },
     {
@@ -7448,6 +7753,7 @@
       "size": 722259148,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 331,
       "localizedDescription": ""
     },
     {
@@ -7472,6 +7778,7 @@
       "size": 170183884,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 332,
       "localizedDescription": ""
     },
     {
@@ -7496,6 +7803,7 @@
       "size": 195244851,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 333,
       "localizedDescription": ""
     },
     {
@@ -7520,6 +7828,7 @@
       "size": 438304768,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 334,
       "localizedDescription": ""
     },
     {
@@ -7544,6 +7853,7 @@
       "size": 538443776,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 335,
       "localizedDescription": ""
     },
     {
@@ -7572,6 +7882,7 @@
       "size": 88499814,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 336,
       "localizedDescription": ""
     },
     {
@@ -7596,6 +7907,7 @@
       "size": 186646528,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 337,
       "localizedDescription": ""
     },
     {
@@ -7624,6 +7936,7 @@
       "size": 77804339,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 338,
       "localizedDescription": ""
     },
     {
@@ -7648,6 +7961,7 @@
       "size": 161061273,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 339,
       "localizedDescription": ""
     },
     {
@@ -7676,6 +7990,7 @@
       "size": 150680371,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 340,
       "localizedDescription": ""
     },
     {
@@ -7704,6 +8019,7 @@
       "size": 98985574,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 341,
       "localizedDescription": ""
     },
     {
@@ -7731,6 +8047,7 @@
       "size": 0,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 342,
       "localizedDescription": ""
     },
     {
@@ -7755,6 +8072,7 @@
       "size": 32820428,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 344,
       "localizedDescription": ""
     },
     {
@@ -7779,6 +8097,7 @@
       "size": 1495164518,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 345,
       "localizedDescription": ""
     },
     {
@@ -7803,6 +8122,7 @@
       "size": 48968499,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 348,
       "localizedDescription": ""
     },
     {
@@ -7827,6 +8147,7 @@
       "size": 391223705,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 349,
       "localizedDescription": ""
     },
     {
@@ -7851,6 +8172,7 @@
       "size": 739560652,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 352,
       "localizedDescription": ""
     },
     {
@@ -7879,6 +8201,7 @@
       "size": 512229376,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 353,
       "localizedDescription": ""
     },
     {
@@ -7903,6 +8226,7 @@
       "size": 255328256,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 354,
       "localizedDescription": ""
     },
     {
@@ -7927,6 +8251,7 @@
       "size": 160327270,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 355,
       "localizedDescription": ""
     },
     {
@@ -7951,6 +8276,7 @@
       "size": 1125122048,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 356,
       "localizedDescription": ""
     },
     {
@@ -7975,6 +8301,7 @@
       "size": 52114227,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 357,
       "localizedDescription": ""
     },
     {
@@ -7999,6 +8326,7 @@
       "size": 231630438,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 358,
       "localizedDescription": ""
     },
     {
@@ -8023,6 +8351,7 @@
       "size": 111778201,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 359,
       "localizedDescription": ""
     },
     {
@@ -8047,6 +8376,7 @@
       "size": 102445875,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 360,
       "localizedDescription": ""
     },
     {
@@ -8071,6 +8401,7 @@
       "size": 116601651,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 361,
       "localizedDescription": ""
     },
     {
@@ -8095,6 +8426,7 @@
       "size": 86088089,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 362,
       "localizedDescription": ""
     },
     {
@@ -8119,6 +8451,7 @@
       "size": 111358771,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 363,
       "localizedDescription": ""
     },
     {
@@ -8143,6 +8476,7 @@
       "size": 292867276,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 364,
       "localizedDescription": ""
     },
     {
@@ -8167,6 +8501,7 @@
       "size": 246100787,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 365,
       "localizedDescription": ""
     },
     {
@@ -8191,6 +8526,7 @@
       "size": 195873996,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 366,
       "localizedDescription": ""
     },
     {
@@ -8215,6 +8551,7 @@
       "size": 174168473,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 367,
       "localizedDescription": ""
     },
     {
@@ -8239,6 +8576,7 @@
       "size": 1409495859,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 368,
       "localizedDescription": ""
     },
     {
@@ -8263,6 +8601,7 @@
       "size": 158754406,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 369,
       "localizedDescription": ""
     },
     {
@@ -8274,23 +8613,24 @@
       "category": "communication",
       "versions": [
         {
-          "version": "2026.33.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit_2026.33.0",
-          "date": "2026-08-24",
-          "size": 133798297
+          "version": "2026.34.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-fluter_2026.34.0_fl",
+          "date": "2026-08-25",
+          "size": 136419737
         },
         {
-          "version": "2026.32.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-filter_2026.32.0_fl"
+          "version": "2026.33.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit_2026.33.0"
         }
       ],
-      "version": "2026.33.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit_2026.33.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reddit_2026.33.0",
-      "size": 133798297,
+      "version": "2026.34.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-fluter_2026.34.0_fl",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reddit-fluter_2026.34.0_fl",
+      "size": 136419737,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 371,
       "localizedDescription": ""
     },
     {
@@ -8315,6 +8655,7 @@
       "size": 37853593,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 372,
       "localizedDescription": ""
     },
     {
@@ -8339,6 +8680,7 @@
       "size": 21705523,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 373,
       "localizedDescription": ""
     },
     {
@@ -8363,6 +8705,7 @@
       "size": 30198988,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 374,
       "localizedDescription": ""
     },
     {
@@ -8374,19 +8717,24 @@
       "category": "tools",
       "versions": [
         {
-          "version": "3.0.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.8_subscription_unlocked",
-          "date": "2026-08-24",
+          "version": "3.0.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked",
+          "date": "2026-08-25",
           "size": 116496793
+        },
+        {
+          "version": "3.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.8_subscription_unlocked"
         }
       ],
-      "version": "3.0.8",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.8_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.8_subscription_unlocked",
+      "version": "3.0.9",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked",
       "size": 116496793,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 375,
       "localizedDescription": ""
     },
     {
@@ -8411,6 +8759,7 @@
       "size": 173644185,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 376,
       "localizedDescription": ""
     },
     {
@@ -8435,6 +8784,7 @@
       "size": 134008012,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 377,
       "localizedDescription": ""
     },
     {
@@ -8459,6 +8809,7 @@
       "size": 950953574,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 378,
       "localizedDescription": ""
     },
     {
@@ -8483,6 +8834,7 @@
       "size": 414082662,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 379,
       "localizedDescription": ""
     },
     {
@@ -8507,6 +8859,7 @@
       "size": 2779145830,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 380,
       "localizedDescription": ""
     },
     {
@@ -8531,6 +8884,7 @@
       "size": 1992294,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 381,
       "localizedDescription": ""
     },
     {
@@ -8555,6 +8909,7 @@
       "size": 838860,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 382,
       "localizedDescription": ""
     },
     {
@@ -8579,6 +8934,7 @@
       "size": 838860,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 383,
       "localizedDescription": ""
     },
     {
@@ -8603,6 +8959,7 @@
       "size": 32400998,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 384,
       "localizedDescription": ""
     },
     {
@@ -8627,6 +8984,7 @@
       "size": 53477376,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 385,
       "localizedDescription": ""
     },
     {
@@ -8651,6 +9009,7 @@
       "size": 130128281,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 386,
       "localizedDescription": ""
     },
     {
@@ -8675,6 +9034,7 @@
       "size": 161900134,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 387,
       "localizedDescription": ""
     },
     {
@@ -8699,6 +9059,7 @@
       "size": 20656947,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 389,
       "localizedDescription": ""
     },
     {
@@ -8710,19 +9071,24 @@
       "category": "tools",
       "versions": [
         {
+          "version": "9.10.87",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked",
+          "date": "2026-08-25",
+          "size": 158334976
+        },
+        {
           "version": "9.10.86",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.86_subscription_unlocked",
-          "date": "2026-08-24",
-          "size": 158125260
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.86_subscription_unlocked"
         }
       ],
-      "version": "9.10.86",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.86_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.86_subscription_unlocked",
-      "size": 158125260,
+      "version": "9.10.87",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked",
+      "size": 158334976,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 390,
       "localizedDescription": ""
     },
     {
@@ -8747,6 +9113,7 @@
       "size": 36071014,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 391,
       "localizedDescription": ""
     },
     {
@@ -8771,6 +9138,7 @@
       "size": 140928614,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 392,
       "localizedDescription": ""
     },
     {
@@ -8795,6 +9163,7 @@
       "size": 151624089,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 393,
       "localizedDescription": ""
     },
     {
@@ -8819,6 +9188,7 @@
       "size": 264660582,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 394,
       "localizedDescription": ""
     },
     {
@@ -8843,6 +9213,7 @@
       "size": 87556096,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 395,
       "localizedDescription": ""
     },
     {
@@ -8867,6 +9238,7 @@
       "size": 176160768,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 396,
       "localizedDescription": ""
     },
     {
@@ -8891,6 +9263,7 @@
       "size": 128765132,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 397,
       "localizedDescription": ""
     },
     {
@@ -8915,6 +9288,7 @@
       "size": 68052582,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 398,
       "localizedDescription": ""
     },
     {
@@ -8939,6 +9313,7 @@
       "size": 115553075,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 399,
       "localizedDescription": ""
     },
     {
@@ -8963,6 +9338,7 @@
       "size": 138936320,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 400,
       "localizedDescription": ""
     },
     {
@@ -8987,6 +9363,7 @@
       "size": 93218406,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 401,
       "localizedDescription": ""
     },
     {
@@ -9011,6 +9388,7 @@
       "size": 652633702,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 402,
       "localizedDescription": ""
     },
     {
@@ -9035,6 +9413,7 @@
       "size": 1059900620,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 403,
       "localizedDescription": ""
     },
     {
@@ -9059,6 +9438,7 @@
       "size": 186436812,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 404,
       "localizedDescription": ""
     },
     {
@@ -9083,6 +9463,7 @@
       "size": 664063180,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 405,
       "localizedDescription": ""
     },
     {
@@ -9107,6 +9488,7 @@
       "size": 830472192,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 406,
       "localizedDescription": ""
     },
     {
@@ -9131,6 +9513,7 @@
       "size": 106220748,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 407,
       "localizedDescription": ""
     },
     {
@@ -9155,6 +9538,7 @@
       "size": 318137958,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 409,
       "localizedDescription": ""
     },
     {
@@ -9179,6 +9563,7 @@
       "size": 870842368,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 411,
       "localizedDescription": ""
     },
     {
@@ -9203,6 +9588,7 @@
       "size": 193986560,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 412,
       "localizedDescription": ""
     },
     {
@@ -9227,6 +9613,7 @@
       "size": 216216371,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 414,
       "localizedDescription": ""
     },
     {
@@ -9251,6 +9638,7 @@
       "size": 112197632,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 415,
       "localizedDescription": ""
     },
     {
@@ -9275,6 +9663,7 @@
       "size": 245471641,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 416,
       "localizedDescription": ""
     },
     {
@@ -9299,6 +9688,7 @@
       "size": 165675008,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 417,
       "localizedDescription": ""
     },
     {
@@ -9323,6 +9713,7 @@
       "size": 527748300,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 418,
       "localizedDescription": ""
     },
     {
@@ -9347,6 +9738,7 @@
       "size": 409888358,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 419,
       "localizedDescription": ""
     },
     {
@@ -9371,6 +9763,7 @@
       "size": 667313766,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 420,
       "localizedDescription": ""
     },
     {
@@ -9395,6 +9788,7 @@
       "size": 269798604,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 421,
       "localizedDescription": ""
     },
     {
@@ -9419,6 +9813,7 @@
       "size": 48968499,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 422,
       "localizedDescription": ""
     },
     {
@@ -9443,6 +9838,7 @@
       "size": 47710208,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 423,
       "localizedDescription": ""
     },
     {
@@ -9467,6 +9863,7 @@
       "size": 1133510656,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 424,
       "localizedDescription": ""
     },
     {
@@ -9491,6 +9888,7 @@
       "size": 83256934,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 425,
       "localizedDescription": ""
     },
     {
@@ -9515,6 +9913,7 @@
       "size": 115238502,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 426,
       "localizedDescription": ""
     },
     {
@@ -9539,6 +9938,7 @@
       "size": 1361366220,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 427,
       "localizedDescription": ""
     },
     {
@@ -9563,6 +9963,7 @@
       "size": 476997222,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 428,
       "localizedDescription": ""
     },
     {
@@ -9587,6 +9988,7 @@
       "size": 318557388,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 429,
       "localizedDescription": ""
     },
     {
@@ -9611,6 +10013,7 @@
       "size": 97202995,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 430,
       "localizedDescription": ""
     },
     {
@@ -9635,6 +10038,7 @@
       "size": 110729625,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 431,
       "localizedDescription": ""
     },
     {
@@ -9659,6 +10063,7 @@
       "size": 384932249,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 432,
       "localizedDescription": ""
     },
     {
@@ -9683,6 +10088,7 @@
       "size": 247254220,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 433,
       "localizedDescription": ""
     },
     {
@@ -9707,6 +10113,7 @@
       "size": 9227468,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 434,
       "localizedDescription": ""
     },
     {
@@ -9731,6 +10138,7 @@
       "size": 108527616,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 435,
       "localizedDescription": ""
     },
     {
@@ -9755,6 +10163,7 @@
       "size": 457598566,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 436,
       "localizedDescription": ""
     },
     {
@@ -9779,6 +10188,7 @@
       "size": 158859264,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 437,
       "localizedDescription": ""
     },
     {
@@ -9803,6 +10213,7 @@
       "size": 354838118,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 438,
       "localizedDescription": ""
     },
     {
@@ -9827,6 +10238,7 @@
       "size": 123627110,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 439,
       "localizedDescription": ""
     },
     {
@@ -9851,6 +10263,7 @@
       "size": 857210880,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 440,
       "localizedDescription": ""
     },
     {
@@ -9875,6 +10288,7 @@
       "size": 335544320,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 441,
       "localizedDescription": ""
     },
     {
@@ -9899,6 +10313,7 @@
       "size": 79796633,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 442,
       "localizedDescription": ""
     },
     {
@@ -9923,6 +10338,7 @@
       "size": 1542560153,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 443,
       "localizedDescription": ""
     },
     {
@@ -9947,6 +10363,7 @@
       "size": 111463628,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 444,
       "localizedDescription": ""
     },
     {
@@ -9971,6 +10388,7 @@
       "size": 587831705,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 446,
       "localizedDescription": ""
     },
     {
@@ -9995,6 +10413,7 @@
       "size": 95734988,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 447,
       "localizedDescription": ""
     },
     {
@@ -10019,6 +10438,7 @@
       "size": 162529280,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 448,
       "localizedDescription": ""
     },
     {
@@ -10043,6 +10463,7 @@
       "size": 603560345,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 449,
       "localizedDescription": ""
     },
     {
@@ -10067,6 +10488,7 @@
       "size": 1234698240,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 450,
       "localizedDescription": ""
     },
     {
@@ -10091,6 +10513,7 @@
       "size": 135685734,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 451,
       "localizedDescription": ""
     },
     {
@@ -10115,6 +10538,7 @@
       "size": 463260876,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 452,
       "localizedDescription": ""
     },
     {
@@ -10139,6 +10563,7 @@
       "size": 333027737,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 453,
       "localizedDescription": ""
     },
     {
@@ -10163,6 +10588,7 @@
       "size": 253231104,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 454,
       "localizedDescription": ""
     },
     {
@@ -10187,6 +10613,7 @@
       "size": 143025766,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 455,
       "localizedDescription": ""
     },
     {
@@ -10211,6 +10638,7 @@
       "size": 231945011,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 456,
       "localizedDescription": ""
     },
     {
@@ -10235,6 +10663,7 @@
       "size": 81893785,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 457,
       "localizedDescription": ""
     },
     {
@@ -10259,6 +10688,7 @@
       "size": 114294784,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 458,
       "localizedDescription": ""
     },
     {
@@ -10283,6 +10713,7 @@
       "size": 341416345,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 459,
       "localizedDescription": ""
     },
     {
@@ -10307,6 +10738,7 @@
       "size": 924739174,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 460,
       "localizedDescription": ""
     },
     {
@@ -10331,6 +10763,7 @@
       "size": 680735539,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 461,
       "localizedDescription": ""
     },
     {
@@ -10355,6 +10788,7 @@
       "size": 321283686,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 462,
       "localizedDescription": ""
     },
     {
@@ -10379,6 +10813,7 @@
       "size": 363121868,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 463,
       "localizedDescription": ""
     },
     {
@@ -10403,6 +10838,7 @@
       "size": 146066636,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 464,
       "localizedDescription": ""
     },
     {
@@ -10427,6 +10863,7 @@
       "size": 142920908,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 465,
       "localizedDescription": ""
     },
     {
@@ -10451,6 +10888,7 @@
       "size": 753192140,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 466,
       "localizedDescription": ""
     },
     {
@@ -10475,6 +10913,7 @@
       "size": 258788556,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 467,
       "localizedDescription": ""
     },
     {
@@ -10499,6 +10938,7 @@
       "size": 283115520,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 468,
       "localizedDescription": ""
     },
     {
@@ -10523,6 +10963,7 @@
       "size": 575668224,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 469,
       "localizedDescription": ""
     },
     {
@@ -10547,6 +10988,7 @@
       "size": 321388544,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 470,
       "localizedDescription": ""
     },
     {
@@ -10571,6 +11013,7 @@
       "size": 116287078,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 471,
       "localizedDescription": ""
     },
     {
@@ -10595,6 +11038,7 @@
       "size": 588775424,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 472,
       "localizedDescription": ""
     },
     {
@@ -10619,6 +11063,7 @@
       "size": 560463872,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 473,
       "localizedDescription": ""
     },
     {
@@ -10643,6 +11088,7 @@
       "size": 141557760,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 474,
       "localizedDescription": ""
     },
     {
@@ -10667,6 +11113,7 @@
       "size": 150890086,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 475,
       "localizedDescription": ""
     },
     {
@@ -10691,6 +11138,7 @@
       "size": 3246601011,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 476,
       "localizedDescription": ""
     },
     {
@@ -10715,6 +11163,7 @@
       "size": 11953766,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 477,
       "localizedDescription": ""
     },
     {
@@ -10739,6 +11188,7 @@
       "size": 17930649,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 478,
       "localizedDescription": ""
     },
     {
@@ -10763,6 +11213,7 @@
       "size": 141662617,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 479,
       "localizedDescription": ""
     },
     {
@@ -10787,6 +11238,7 @@
       "size": 240753049,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 480,
       "localizedDescription": ""
     },
     {
@@ -10811,6 +11263,7 @@
       "size": 877867827,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 481,
       "localizedDescription": ""
     },
     {
@@ -10835,6 +11288,7 @@
       "size": 49387929,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 482,
       "localizedDescription": ""
     },
     {
@@ -10859,6 +11313,7 @@
       "size": 44564480,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 483,
       "localizedDescription": ""
     },
     {
@@ -10883,6 +11338,7 @@
       "size": 26004684,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 484,
       "localizedDescription": ""
     },
     {
@@ -10907,6 +11363,7 @@
       "size": 248302796,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 485,
       "localizedDescription": ""
     },
     {
@@ -10931,6 +11388,7 @@
       "size": 1411173580,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 486,
       "localizedDescription": ""
     },
     {
@@ -10955,6 +11413,7 @@
       "size": 94476697,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 487,
       "localizedDescription": ""
     },
     {
@@ -10979,6 +11438,7 @@
       "size": 81054924,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 488,
       "localizedDescription": ""
     },
     {
@@ -11003,6 +11463,7 @@
       "size": 39950745,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 489,
       "localizedDescription": ""
     },
     {
@@ -11027,6 +11488,7 @@
       "size": 304401612,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 490,
       "localizedDescription": ""
     },
     {
@@ -11051,6 +11513,7 @@
       "size": 136629452,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 491,
       "localizedDescription": ""
     },
     {
@@ -11075,6 +11538,7 @@
       "size": 95839846,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 493,
       "localizedDescription": ""
     },
     {
@@ -11099,6 +11563,7 @@
       "size": 9437184,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 494,
       "localizedDescription": ""
     },
     {
@@ -11123,6 +11588,7 @@
       "size": 33973862,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 495,
       "localizedDescription": ""
     },
     {
@@ -11147,6 +11613,7 @@
       "size": 18035507,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 496,
       "localizedDescription": ""
     },
     {
@@ -11171,6 +11638,7 @@
       "size": 35127296,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 497,
       "localizedDescription": ""
     },
     {
@@ -11195,6 +11663,7 @@
       "size": 108108185,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 498,
       "localizedDescription": ""
     },
     {
@@ -11219,6 +11688,7 @@
       "size": 230791577,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 499,
       "localizedDescription": ""
     },
     {
@@ -11243,6 +11713,7 @@
       "size": 146171494,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 500,
       "localizedDescription": ""
     },
     {
@@ -11267,6 +11738,7 @@
       "size": 923166310,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 501,
       "localizedDescription": ""
     },
     {
@@ -11291,6 +11763,7 @@
       "size": 239075328,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 502,
       "localizedDescription": ""
     },
     {
@@ -11315,6 +11788,7 @@
       "size": 204367462,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 504,
       "localizedDescription": ""
     },
     {
@@ -11343,6 +11817,7 @@
       "size": 267596595,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 505,
       "localizedDescription": ""
     },
     {
@@ -11367,6 +11842,7 @@
       "size": 656723148,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 506,
       "localizedDescription": ""
     },
     {
@@ -11391,6 +11867,7 @@
       "size": 169135308,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 507,
       "localizedDescription": ""
     },
     {
@@ -11415,6 +11892,7 @@
       "size": 123731968,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 508,
       "localizedDescription": ""
     },
     {
@@ -11439,6 +11917,7 @@
       "size": 235405312,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 509,
       "localizedDescription": ""
     },
     {
@@ -11463,6 +11942,7 @@
       "size": 2097152,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 510,
       "localizedDescription": ""
     },
     {
@@ -11487,6 +11967,7 @@
       "size": 1619525632,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 511,
       "localizedDescription": ""
     },
     {
@@ -11511,6 +11992,7 @@
       "size": 704433356,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 512,
       "localizedDescription": ""
     },
     {
@@ -11535,6 +12017,7 @@
       "size": 149841510,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 513,
       "localizedDescription": ""
     },
     {
@@ -11559,6 +12042,7 @@
       "size": 175951052,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 514,
       "localizedDescription": ""
     },
     {
@@ -11583,6 +12067,7 @@
       "size": 506042777,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 515,
       "localizedDescription": ""
     },
     {
@@ -11607,6 +12092,7 @@
       "size": 1033895936,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 516,
       "localizedDescription": ""
     },
     {
@@ -11631,6 +12117,7 @@
       "size": 97936998,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 517,
       "localizedDescription": ""
     },
     {
@@ -11655,6 +12142,7 @@
       "size": 539806924,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 518,
       "localizedDescription": ""
     },
     {
@@ -11679,6 +12167,7 @@
       "size": 495242444,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 519,
       "localizedDescription": ""
     },
     {
@@ -11702,6 +12191,7 @@
       "size": 2492150579,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-22",
+      "_rowKey": 520,
       "localizedDescription": ""
     },
     {
@@ -11726,6 +12216,7 @@
       "size": 181403648,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 521,
       "localizedDescription": ""
     },
     {
@@ -11750,6 +12241,7 @@
       "size": 1607781580,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 522,
       "localizedDescription": ""
     },
     {
@@ -11774,6 +12266,7 @@
       "size": 119852236,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 523,
       "localizedDescription": ""
     },
     {
@@ -11798,6 +12291,7 @@
       "size": 831835340,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 524,
       "localizedDescription": ""
     },
     {
@@ -11822,6 +12316,7 @@
       "size": 220830105,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 525,
       "localizedDescription": ""
     },
     {
@@ -11846,6 +12341,7 @@
       "size": 215482368,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 526,
       "localizedDescription": ""
     },
     {
@@ -11870,6 +12366,7 @@
       "size": 373607628,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 527,
       "localizedDescription": ""
     },
     {
@@ -11894,6 +12391,7 @@
       "size": 929457766,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 528,
       "localizedDescription": ""
     },
     {
@@ -11918,6 +12416,7 @@
       "size": 675702374,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 529,
       "localizedDescription": ""
     },
     {
@@ -11942,6 +12441,7 @@
       "size": 176580198,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 530,
       "localizedDescription": ""
     },
     {
@@ -11966,6 +12466,7 @@
       "size": 898000486,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 531,
       "localizedDescription": ""
     },
     {
@@ -11990,6 +12491,7 @@
       "size": 651060838,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 532,
       "localizedDescription": ""
     },
     {
@@ -12014,6 +12516,7 @@
       "size": 101816729,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 533,
       "localizedDescription": ""
     },
     {
@@ -12038,6 +12541,7 @@
       "size": 425826713,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 534,
       "localizedDescription": ""
     },
     {
@@ -12062,6 +12566,7 @@
       "size": 509503078,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 535,
       "localizedDescription": ""
     },
     {
@@ -12086,6 +12591,7 @@
       "size": 83466649,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 536,
       "localizedDescription": ""
     },
     {
@@ -12110,6 +12616,7 @@
       "size": 955881881,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 537,
       "localizedDescription": ""
     },
     {
@@ -12134,6 +12641,7 @@
       "size": 188114534,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 539,
       "localizedDescription": ""
     },
     {
@@ -12157,6 +12665,7 @@
       "size": 98775859,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-22",
+      "_rowKey": 540,
       "localizedDescription": ""
     },
     {
@@ -12181,6 +12690,7 @@
       "size": 206464614,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
+      "_rowKey": 541,
       "localizedDescription": ""
     },
     {
@@ -12205,6 +12715,7 @@
       "size": 7549747,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 542,
       "localizedDescription": ""
     },
     {
@@ -12229,6 +12740,7 @@
       "size": 43935334,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 543,
       "localizedDescription": ""
     },
     {
@@ -12253,6 +12765,7 @@
       "size": 143654912,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 544,
       "localizedDescription": ""
     },
     {
@@ -12277,6 +12790,7 @@
       "size": 53687091,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 545,
       "localizedDescription": ""
     },
     {
@@ -12301,6 +12815,7 @@
       "size": 816840704,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 546,
       "localizedDescription": ""
     },
     {
@@ -12325,6 +12840,7 @@
       "size": 226597273,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 547,
       "localizedDescription": ""
     },
     {
@@ -12349,6 +12865,7 @@
       "size": 187065958,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 548,
       "localizedDescription": ""
     },
     {
@@ -12373,6 +12890,7 @@
       "size": 153406668,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 549,
       "localizedDescription": ""
     },
     {
@@ -12397,6 +12915,7 @@
       "size": 590872576,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 550,
       "localizedDescription": ""
     },
     {
@@ -12421,6 +12940,7 @@
       "size": 356830412,
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
+      "_rowKey": 551,
       "localizedDescription": ""
     },
     {
@@ -12444,6 +12964,7 @@
       "size": 3055131033,
       "addedAt": "2026-08-24",
       "updatedAt": "2026-08-24",
+      "_rowKey": 553,
       "localizedDescription": ""
     },
     {
@@ -12468,6 +12989,55 @@
       "size": 1289014476,
       "addedAt": "2026-08-24",
       "updatedAt": "2026-08-24",
+      "_rowKey": 554,
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1787643296723",
+      "name": "Simply Guitar Learn Guitar",
+      "bundleIdentifier": "com.ikiraplus.apps.simply-guitar-learn-guitar.90f09e583a",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/d4/58/fad45806-3b4f-96f0-f0a1-03c7391dc84d/AppIconIOS26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "10.28",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked",
+          "date": "2026-08-25",
+          "size": 144179200
+        }
+      ],
+      "version": "10.28",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked",
+      "size": 144179200,
+      "addedAt": "2026-08-25",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 555,
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1787643356839",
+      "name": "My Perfect Hotel",
+      "bundleIdentifier": "com.ikiraplus.apps.my-perfect-hotel.7fe4eb6a81",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/3e/e3/e93ee38f-e9f6-a95b-ff7b-5f7de185db5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.36.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-perfect-hotel-v1.36.6",
+          "date": "2026-08-25",
+          "size": 198600294
+        }
+      ],
+      "version": "1.36.6",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-perfect-hotel-v1.36.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-perfect-hotel-v1.36.6",
+      "size": 198600294,
+      "addedAt": "2026-08-25",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 556,
       "localizedDescription": ""
     }
   ],

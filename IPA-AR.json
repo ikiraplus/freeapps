@@ -50,7 +50,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instagram-435-regram5.1_patch",
       "size": 316565094,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 3
     },
     {
       "id": "com.toyopagroup.picabdd12",
@@ -78,7 +79,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snapchatplus_14.17.1",
       "size": 163682713,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23"
+      "updatedAt": "2026-08-23",
+      "_rowKey": 4
     },
     {
       "id": "net.whatsapp.WhatsApp",
@@ -106,7 +108,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.32.75_wgoldplus",
       "size": 154664960,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23"
+      "updatedAt": "2026-08-23",
+      "_rowKey": 5
     },
     {
       "id": "app.teledark",
@@ -134,7 +137,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/teledark_12.9.2-1",
       "size": 79796633,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 6
     },
     {
       "id": "net.whatsapp.WhatsAppSMB",
@@ -162,7 +166,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.32.75_wgoldplus",
       "size": 161690419,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23"
+      "updatedAt": "2026-08-23",
+      "_rowKey": 11
     },
     {
       "id": "app.swiftgram.ios",
@@ -190,7 +195,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swiftgram_12.9.2_lead_1.4.4",
       "size": 82313216,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 12
     },
     {
       "id": "com.olcorporation.olai",
@@ -218,7 +224,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ime-12.8.1-mxgram",
       "size": 148163788,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 13
     },
     {
       "id": "app.intentchat",
@@ -242,7 +249,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lingogram-1",
       "size": 77699481,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 14
     },
     {
       "id": "app.nicegram",
@@ -266,7 +274,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.5.3",
       "size": 132015718,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 15
     },
     {
       "id": "com.seastar.turrit",
@@ -294,7 +303,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
       "size": 92903833,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 16
     },
     {
       "id": "com.tiktoklrd.ikiraplus",
@@ -318,7 +328,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok.lrd-1",
       "size": 361549004,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23"
+      "updatedAt": "2026-08-23",
+      "_rowKey": 17
     },
     {
       "id": "com.zhiliaoapp.musically",
@@ -345,7 +356,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.0",
       "size": 469657190,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23"
+      "updatedAt": "2026-08-23",
+      "_rowKey": 18
     },
     {
       "id": "com.tiktokdx.ikiraplus",
@@ -368,7 +380,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok.dx-1",
       "size": 353579827,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 19
     },
     {
       "id": "com.ss.iphone.ugc.Ame",
@@ -395,7 +408,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vibetokv1.75",
       "size": 472488345,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 20
     },
     {
       "id": "app-1773436350178",
@@ -422,7 +436,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/facebookglow_574.0.0",
       "size": 225443840,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 22
     },
     {
       "id": "com.facebook.Facebook",
@@ -449,7 +464,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/facebook-wolf-511.0.0",
       "size": 172071321,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 23
     },
     {
       "id": "com.facebook.Messenger",
@@ -476,7 +492,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/messenger-flow_574.0.0",
       "size": 111673344,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 24
     },
     {
       "id": "com.locket.Locket",
@@ -503,7 +520,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.0-locket-gold-patched",
       "size": 113980211,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 25
     },
     {
       "id": "de.tellonym.app",
@@ -527,7 +545,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tellonym_3.173.1_1775308360-1",
       "size": 87556096,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 26
     },
     {
       "id": "com.burbn.barcelona",
@@ -538,23 +557,24 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "443.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_443.0.0_threadsaver",
-          "date": "2026-08-24",
-          "size": 105801318
+          "version": "444.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver",
+          "date": "2026-08-25",
+          "size": 104962457
         },
         {
-          "version": "442.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_442.0"
+          "version": "443.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_443.0.0_threadsaver"
         }
       ],
-      "version": "443.0.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_443.0.0_threadsaver",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads_443.0.0_threadsaver",
-      "size": 105801318,
+      "version": "444.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver",
+      "size": 104962457,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 27
     },
     {
       "id": "com.atebits.Tweetie2",
@@ -577,7 +597,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bhtwitter-login_10.16",
       "size": 120691097,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 28
     },
     {
       "id": "app-1773546960824",
@@ -604,7 +625,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x_12.9_neofreebird_liquidglass",
       "size": 228379852,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 30
     },
     {
       "id": "sh.weme.wemesh",
@@ -627,7 +649,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rave-(8.1.2)",
       "size": 138307174,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 33
     },
     {
       "id": "com.hammerandchisel.discord",
@@ -650,7 +673,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/discord-kr-332.0",
       "size": 93218406,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 34
     },
     {
       "id": "com.google.ios.youtube",
@@ -677,7 +701,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube_21.30_ytkillerplus_5.23-patched",
       "size": 136000307,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 35
     },
     {
       "id": "com.kira.cinemanaa.fixed",
@@ -700,7 +725,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinemana-kira",
       "size": 46766489,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 36
     },
     {
       "id": "com.airmovie.ikiraplus",
@@ -724,7 +750,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/air.movie._.kira-1",
       "size": 44040192,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 37
     },
     {
       "id": "com.bigwinepot.nwdn.international",
@@ -747,7 +774,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
       "size": 113246208,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 38
     },
     {
       "id": "com.loktv.ikiraplus",
@@ -774,7 +802,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/loktv_new_2.1",
       "size": 17196646,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 39
     },
     {
       "id": "com.chengzu.book",
@@ -797,7 +826,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/netflix-kira",
       "size": 32925286,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 40
     },
     {
       "id": "com.microblink.PhotoMath",
@@ -820,7 +850,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.46.0-subscription-unlocked",
       "size": 17825792,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 41
     },
     {
       "id": "com.rockstargames.rdr",
@@ -843,7 +874,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
       "size": 2883269427,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 42
     },
     {
       "id": "com.genral.ikiraplus",
@@ -867,7 +899,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/genral-pro-v1.4",
       "size": 10066329,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 43
     },
     {
       "id": "net.quochuywdm.collanote496",
@@ -878,19 +911,24 @@
       "category": "دراسة وذكاء اصطناعي",
       "versions": [
         {
+          "version": "4.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched",
+          "date": "2026-08-25",
+          "size": 128240844
+        },
+        {
           "version": "4.0.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_&_pdf_markup_v4_1_2_pro_unlocked_blatant_patched",
-          "date": "2026-08-24",
-          "size": 123731968
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_&_pdf_markup_v4_1_2_pro_unlocked_blatant_patched"
         }
       ],
-      "version": "4.0.6",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_&_pdf_markup_v4_1_2_pro_unlocked_blatant_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_&_pdf_markup_v4_1_2_pro_unlocked_blatant_patched",
-      "size": 123731968,
+      "version": "4.3.1",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched",
+      "size": 128240844,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 44
     },
     {
       "id": "com.picsart.studio",
@@ -917,7 +955,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor-_video_v30.6.2_subscription_unlocked",
       "size": 112721920,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 45
     },
     {
       "id": "com.frontierdesign.videostar",
@@ -944,7 +983,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/videostar_pro",
       "size": 544210944,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 46
     },
     {
       "id": "com.pinterest.background.experiments-refresh",
@@ -971,7 +1011,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinterest-v14.31",
       "size": 143969484,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 47
     },
     {
       "id": "Rodjo-BlackRodjo-BlackRodjo-Black.Rodjo-Black",
@@ -995,7 +1036,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rodjo-1",
       "size": 14575206,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 48
     },
     {
       "id": "com.buztv.player",
@@ -1019,7 +1061,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/buz.tv_1.2.11-1",
       "size": 17196646,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 49
     },
     {
       "id": "com.animecloud.rm",
@@ -1042,7 +1085,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-cloud_6.5.1",
       "size": 6710886,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 50
     },
     {
       "id": "com.ideploy-storage.25a6a8",
@@ -1065,7 +1109,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gbox-4",
       "size": 19293798,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 51
     },
     {
       "id": "p3.xyz.yyyue.esign",
@@ -1088,7 +1133,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/esign-1",
       "size": 18874368,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 52
     },
     {
       "id": "nya.asami.ksign",
@@ -1111,7 +1157,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ksign-1",
       "size": 10800332,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 53
     },
     {
       "id": "archery.storify",
@@ -1122,23 +1169,24 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "1.274.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.274.0_subscription_unlocked",
-          "date": "2026-08-24",
-          "size": 174692761
+          "version": "1.275.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked",
+          "date": "2026-08-25",
+          "size": 162948710
         },
         {
-          "version": "1.273.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.273.1_subscription_unlocked"
+          "version": "1.274.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.274.0_subscription_unlocked"
         }
       ],
-      "version": "1.274.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.274.0_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.274.0_subscription_unlocked",
-      "size": 174692761,
+      "version": "1.275.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked",
+      "size": 162948710,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 54
     },
     {
       "id": "com.gingerlabs.Notability",
@@ -1149,23 +1197,24 @@
       "category": "دراسة وذكاء اصطناعي",
       "versions": [
         {
-          "version": "16.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.9_pro_unlocked_patched",
-          "date": "2026-08-24",
-          "size": 253021388
+          "version": "16.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched",
+          "date": "2026-08-25",
+          "size": 254803968
         },
         {
-          "version": "16.8.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.8.1_pro_unlocked__patched"
+          "version": "16.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.9_pro_unlocked_patched"
         }
       ],
-      "version": "16.9",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.9_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.9_pro_unlocked_patched",
-      "size": 253021388,
+      "version": "16.10",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched",
+      "size": 254803968,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 55
     },
     {
       "id": "com.alightcreative.motion",
@@ -1192,7 +1241,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alight-motion-v6.2.58-subscription-unlocked-patched",
       "size": 129079705,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 56
     },
     {
       "id": "com.adobe.photoshop.ios",
@@ -1215,7 +1265,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe.photoshop.pro.7.4-1",
       "size": 264450867,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 57
     },
     {
       "id": "com.miniclip.8ballpoolmult",
@@ -1243,7 +1294,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hack-v56.27.0",
       "size": 105381888,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 58
     },
     {
       "id": "app-1774774281798",
@@ -1271,7 +1323,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-gl-v1.4.5",
       "size": 3766694707,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 59
     },
     {
       "id": "com.camerasideas.InstaShot",
@@ -1298,7 +1351,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/inshot-1.98.2",
       "size": 150365798,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 60
     },
     {
       "id": "app-1773546801873",
@@ -1320,7 +1374,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/human-anatomy-atlas-2026_v2026019",
       "size": 746271539,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-22",
+      "_rowKey": 61
     },
     {
       "id": "com.activision.callofduty.shooter",
@@ -1344,7 +1399,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/call-of-duty-hack_1.0.54_1774227663",
       "size": 2894069760,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 62
     },
     {
       "id": "app-1773546824423",
@@ -1367,7 +1423,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grand-theft-auto-san-andreas_v2221-1",
       "size": 1916692070,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 63
     },
     {
       "id": "com.supercell.scroll",
@@ -1391,7 +1448,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/clash-royale-hack",
       "size": 765145907,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 64
     },
     {
       "id": "com.supercell.magic",
@@ -1415,7 +1473,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/clash-of-clans-hack",
       "size": 418906112,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 65
     },
     {
       "id": "com.fingersoft.hillclimbracing",
@@ -1442,7 +1501,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hill-climb-racing-v1.71.1",
       "size": 129918566,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 66
     },
     {
       "id": "app-1773546829399",
@@ -1465,7 +1525,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grand-theft-auto-vice-city_v18-1",
       "size": 1782579200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 67
     },
     {
       "id": "store.ipa.gta3.de",
@@ -1488,7 +1549,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gta-3-definitive-edition",
       "size": 1517604044,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 69
     },
     {
       "id": "com.rockstargames.bully",
@@ -1511,7 +1573,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bully-anniversary-edition-v1.1",
       "size": 1867828428,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 70
     },
     {
       "id": "org.ppsspp.ppsspp-goldlu5",
@@ -1534,7 +1597,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ppsspp-gold-3",
       "size": 21181235,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 71
     },
     {
       "id": "com.truesoftware.TrueCallerOther",
@@ -1557,7 +1621,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/truecaller_premium_caller_id_v26_19_gold_unlocked",
       "size": 91435827,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 72
     },
     {
       "id": "com.aichatbot.assistant",
@@ -1580,7 +1645,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai.chatbot.2.31-1",
       "size": 107059609,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 73
     },
     {
       "id": "com.talgat.AIChat",
@@ -1603,7 +1669,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-chatbot-ai-chat-assistant-v3.48",
       "size": 51485081,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 74
     },
     {
       "id": "com.lemon.lvoversealu",
@@ -1626,7 +1693,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/capcut-hack",
       "size": 143340339,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 75
     },
     {
       "id": "com.kinemaster.kios",
@@ -1653,7 +1721,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kinemaster_video_editor_v8.1.18_pro_unlocked",
       "size": 120166809,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 76
     },
     {
       "id": "com.xiaoji.gamecenter",
@@ -1677,7 +1746,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/happychick-2",
       "size": 118908518,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 77
     },
     {
       "id": "com.abishkking.sixpack",
@@ -1700,7 +1770,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/six-pack-in-30-days-6-pack-hacked_v1460-1",
       "size": 398563737,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 78
     },
     {
       "id": "com.adobe.ailogo",
@@ -1723,7 +1794,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe-illustrator-graphic-art-hacked_v3010-1",
       "size": 479408947,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 79
     },
     {
       "id": "com.virtualapplications.play",
@@ -1746,7 +1818,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/play_v058-8-g70a126e3-1",
       "size": 13631488,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 80
     },
     {
       "id": "com.gloop.deltamobile",
@@ -1773,7 +1846,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/roblox-2.733.988",
       "size": 145018060,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 81
     },
     {
       "id": "com.mojang.minecraftpreview",
@@ -1801,7 +1875,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/minecraft_withlogin_1.26.50",
       "size": 713555968,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 82
     },
     {
       "id": "nt.nb.ios",
@@ -1824,7 +1899,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/null's-brawl-66.293",
       "size": 1044696268,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 83
     },
     {
       "id": "com.scottgames.fivenights",
@@ -1847,7 +1923,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys_v205-1",
       "size": 109156761,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 84
     },
     {
       "id": "com.codebysms",
@@ -1870,7 +1947,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/codebysms_v10-1",
       "size": 6081740,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 85
     },
     {
       "id": "com.AppChief.ArabicArt",
@@ -1897,7 +1975,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.5_pro_unlocked_patched",
       "size": 71617740,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 86
     },
     {
       "id": "com.scottgames.fnaf2",
@@ -1920,7 +1999,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys-2_v205-1",
       "size": 117125939,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 87
     },
     {
       "id": "com.scottgames.fivenights3",
@@ -1943,7 +2023,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys-3_v203-1",
       "size": 65745715,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 88
     },
     {
       "id": "com.vivacut.videoeditor",
@@ -1966,7 +2047,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vivacut-ai-video-editor",
       "size": 221773824,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 89
     },
     {
       "id": "com.smallpdf.app.ios",
@@ -1989,7 +2071,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/smallpdf_v15360-1",
       "size": 105381888,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 90
     },
     {
       "id": "com.youthhr.Phonto",
@@ -2012,7 +2095,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/phonto.pro.4.9.43-1",
       "size": 38273024,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 91
     },
     {
       "id": "com.scottgames.fnaf4",
@@ -2035,7 +2119,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys-4_v202-1",
       "size": 44249907,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 92
     },
     {
       "id": "com.dreamora",
@@ -2059,7 +2144,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/streameast.1.1.1-1",
       "size": 39636172,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 93
     },
     {
       "id": "com.sfun.snapedit",
@@ -2086,7 +2172,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snapedit_photo_editor_ai_v6.25.1_pro_unlocked_patched",
       "size": 103599308,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 94
     },
     {
       "id": "com.vodu.ikiraplus",
@@ -2109,7 +2196,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vodu-kira_2.1.2-last",
       "size": 42152755,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 95
     },
     {
       "id": "com.squareenix.tombraider1classic",
@@ -2132,7 +2220,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tomb-raider-i_v104-1",
       "size": 300626739,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 96
     },
     {
       "id": "com.squareenix.tombraider2classic",
@@ -2155,7 +2244,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tomb-raider-ii_v103-1",
       "size": 239494758,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 97
     },
     {
       "id": "com.kiloo.subwaysurfers",
@@ -2182,7 +2272,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.67.3",
       "size": 247778508,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 98
     },
     {
       "id": "com.miniclip.agar.io.shark",
@@ -2206,7 +2297,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/agario-shark",
       "size": 104857600,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 99
     },
     {
       "id": "com.carx-tech.carxdr2",
@@ -2230,7 +2322,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carx-drift-racing-2-v1.42.1",
       "size": 1258291200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 100
     },
     {
       "id": "com.popcap.ios.PvZ2",
@@ -2258,7 +2351,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pvz-2.998",
       "size": 142711193,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 101
     },
     {
       "id": "com.innersloth.amongus",
@@ -2286,7 +2380,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/among-us-2026.6.5",
       "size": 766299340,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 102
     },
     {
       "id": "jp.co.bandainamcogames.BNGI0221",
@@ -2310,7 +2405,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragon-ball-pro",
       "size": 943718400,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 103
     },
     {
       "id": "com.dts.freefiremaxs",
@@ -2338,7 +2434,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/free-fire-hack-v1.130",
       "size": 1051407155,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 104
     },
     {
       "id": "com.gameloft.asphalt9",
@@ -2366,7 +2463,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asphalt-52.0.8",
       "size": 3576483020,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 105
     },
     {
       "id": "com.ea.nfs13.inc",
@@ -2390,7 +2488,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/need-for-speed-most-wanted-hack-8hzmi6jrpm-1",
       "size": 1258291200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 106
     },
     {
       "id": "com.nekki.shadowfight3",
@@ -2418,7 +2517,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow-fight-3.1.45.4",
       "size": 201850880,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 107
     },
     {
       "id": "com.wb.MK.Brawler2015",
@@ -2446,7 +2546,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.3.0",
       "size": 1940075315,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 108
     },
     {
       "id": "com.fingersoft.hillclimbracing2",
@@ -2474,7 +2575,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.73.6",
       "size": 222402969,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 109
     },
     {
       "id": "com.midasplayer.apps.candycrushsaga",
@@ -2498,7 +2600,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/candy-crush-saga-1",
       "size": 120271667,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 110
     },
     {
       "id": "com.playrix.gardenscapes-m3-ios",
@@ -2526,7 +2629,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gardenscapes-9.8.0",
       "size": 213385216,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 111
     },
     {
       "id": "com.rovio.baba",
@@ -2554,7 +2658,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2.26.4.2",
       "size": 562875596,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 112
     },
     {
       "id": "com.blayzegames.iosfps",
@@ -2578,7 +2683,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bullet-force-1.113",
       "size": 758120448,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 113
     },
     {
       "id": "com.nekki.shadowfight",
@@ -2606,7 +2712,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow-fight-2.2.46.0",
       "size": 152882380,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 114
     },
     {
       "id": "com.outfit7.mytalkingtomfriends",
@@ -2630,7 +2737,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-talking-tom",
       "size": 253021388,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 115
     },
     {
       "id": "dazz.camera.vintagecamera",
@@ -2654,7 +2762,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dazz-cam---vintage-camera-v2.17-dazz-pro-",
       "size": 115972505,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 116
     },
     {
       "id": "com.protools.Watermark",
@@ -2678,7 +2787,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/logo-maker-&-generator",
       "size": 67213721,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 117
     },
     {
       "id": "com.algoriddim.djay-iphone-free",
@@ -2706,7 +2816,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-v5.6.8",
       "size": 194196275,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 118
     },
     {
       "id": "com.intsig.CamScannerLite",
@@ -2734,7 +2845,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.23.5_vip_unlocked_patched",
       "size": 212022067,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 119
     },
     {
       "id": "com.xd.mbp31",
@@ -2757,7 +2869,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/movieboxpro_15.5-1",
       "size": 68157440,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 120
     },
     {
       "id": "com.kooapps.pianotiles2arcade",
@@ -2781,7 +2894,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/piano-tiles-2-1",
       "size": 66899148,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 121
     },
     {
       "id": "fontskeyboard.fonts",
@@ -2805,7 +2919,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fonts-yfalfudaak-1",
       "size": 73400320,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 123
     },
     {
       "id": "app-dropbox-fortnite-3940",
@@ -2829,7 +2944,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fortnite",
       "size": 2550765977,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 124
     },
     {
       "id": "app-dropbox-brawl-stars-63265",
@@ -2853,7 +2969,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/brawl-stars-kamohacks-63.265-2",
       "size": 472907776,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 125
     },
     {
       "id": "com.spotify.client",
@@ -2865,23 +2982,24 @@
       "category": "ترفيه",
       "versions": [
         {
-          "version": "9.1.76",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs",
-          "date": "2026-08-24",
-          "size": 130233139
+          "version": "9.1.78",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
+          "date": "2026-08-25",
+          "size": 134532300
         },
         {
-          "version": "9.1.74",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-gt_9.1.74"
+          "version": "9.1.76",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs"
         }
       ],
-      "version": "9.1.76",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs",
-      "size": 130233139,
+      "version": "9.1.78",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
+      "size": 134532300,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 126
     },
     {
       "id": "com.fungames.sniper3d",
@@ -2905,7 +3023,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sniper-3d-gun-shooting-games-hack",
       "size": 425721856,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 127
     },
     {
       "id": "com.gameloft.gangstar4",
@@ -2929,7 +3048,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gangstar-vegas-iv-9.8.0",
       "size": 2581069824,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 128
     },
     {
       "id": "app-iosgods-gta-vice-city-1081",
@@ -2953,7 +3073,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grand-theft-auto-vice-city-hack-aggyp077xq-1",
       "size": 1782579200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 129
     },
     {
       "id": "com.vincentb.MobControl",
@@ -2977,7 +3098,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mob-control-hack",
       "size": 209715200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 130
     },
     {
       "id": "jp.ne.ibis.ibisPaintX",
@@ -3001,7 +3123,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ibispaint-x-13.1.13",
       "size": 55259955,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 131
     },
     {
       "id": "com.duolingo.DuolingoMobile",
@@ -3013,23 +3136,24 @@
       "category": "دراسة وذكاء اصطناعي",
       "versions": [
         {
-          "version": "7.135.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.1_duolingo_max_unlocked",
-          "date": "2026-08-24",
-          "size": 211497779
+          "version": "2.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+          "date": "2026-08-25",
+          "size": 152358092
         },
         {
-          "version": "7.135.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.0_duolingo_max_unlocked"
+          "version": "7.135.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.1_duolingo_max_unlocked"
         }
       ],
-      "version": "7.135.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.1_duolingo_max_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.1_duolingo_max_unlocked",
-      "size": 211497779,
+      "version": "2.8.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+      "size": 152358092,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 132
     },
     {
       "id": "com.imangi.templerun2",
@@ -3053,7 +3177,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/temple-run-2",
       "size": 149631795,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 133
     },
     {
       "id": "com.sega.sonicdash",
@@ -3077,7 +3202,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sonic-dash-hack",
       "size": 353370112,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 134
     },
     {
       "id": "com.europe.huntingsniper",
@@ -3101,7 +3227,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hunting-sniper-showdown-hack-t9mrwhqcxx-1",
       "size": 943718400,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 135
     },
     {
       "id": "com.outfit7.movingeye.swampattack",
@@ -3125,7 +3252,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swamp-attack-hack",
       "size": 314572800,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 136
     },
     {
       "id": "games.my.zombie.shooter",
@@ -3149,7 +3277,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zombie-state-hack",
       "size": 367001600,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 137
     },
     {
       "id": "com.GoPlayGames.FCM25",
@@ -3173,7 +3302,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football-club-management-2025-hack-mek4a3boqo-1",
       "size": 209715200,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 138
     },
     {
       "id": "com.rovio.bloom",
@@ -3197,7 +3327,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bloom-city-match-hack-xpztqgvicz-1",
       "size": 262144000,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 139
     },
     {
       "id": "com.colossi.survival.gladiators",
@@ -3221,7 +3352,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gladiators-hack",
       "size": 629145600,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 140
     },
     {
       "id": "com.storytoys.lego.duplo.peppa.pig.ios",
@@ -3245,7 +3377,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lego-duplo-peppa-pig-hack",
       "size": 173015040,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 141
     },
     {
       "id": "com.playspare.store",
@@ -3269,7 +3402,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-supermarket-simulator-3d",
       "size": 272629760,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 142
     },
     {
       "id": "net.halasat.tv",
@@ -3293,7 +3427,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shashety-شاشتي-7.0.21",
       "size": 16777216,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 143
     },
     {
       "id": "app-iosgods-modern-strike-online-4592",
@@ -3317,7 +3452,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tactical-ops",
       "size": 744488960,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 144
     },
     {
       "id": "dev-movlix.player",
@@ -3341,7 +3477,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/movlix_1.1_1774767312-1",
       "size": 4299161,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 145
     },
     {
       "id": "ali.Bawa",
@@ -3368,7 +3505,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bawa_1.4.6",
       "size": 5452595,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 146
     },
     {
       "id": "com.forfun.MovieBox-TV",
@@ -3391,7 +3529,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moviebox.tv_1.0_1774777428-1",
       "size": 4299161,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 147
     },
     {
       "id": "joker.app",
@@ -3414,7 +3553,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/joker-sport-mod2",
       "size": 101607014,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 148
     },
     {
       "id": "com.fiksu",
@@ -3442,7 +3582,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool-hacked2",
       "size": 108317900,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 149
     },
     {
       "id": "com.adobe.lrmobilephone",
@@ -3469,7 +3610,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5_subscription_unlocked_patched",
       "size": 216635801,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 150
     },
     {
       "id": "co.visualsupply.cam",
@@ -3496,7 +3638,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.7.0_subscription_unlocked",
       "size": 201326592,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 151
     },
     {
       "id": "com.squareenixmontreal.hitmansniper",
@@ -3519,7 +3662,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitman-sniper",
       "size": 650851123,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 152
     },
     {
       "id": "zombie.survival.craft.z",
@@ -3546,7 +3690,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.51.1",
       "size": 1099431936,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 153
     },
     {
       "id": "com.linecorp.b612",
@@ -3573,7 +3718,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/b612_ai_photo-video_editor_v15.3.5_subscription_unlocked",
       "size": 151414374,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 154
     },
     {
       "id": "boomer.Smart-Video",
@@ -3600,7 +3746,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/captions_ai_edits_your_video_v13.31.0_scale_subscription_unlocked",
       "size": 111463628,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 155
     },
     {
       "id": "com.naturalmotion.customstreetracer2",
@@ -3623,7 +3770,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/csr-racing2-6.5.1",
       "size": 1949722214,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 156
     },
     {
       "id": "com.topfreegames.bikeracefree",
@@ -3646,7 +3794,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bike-race-[8.15.0]",
       "size": 120376524,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 157
     },
     {
       "id": "com.gameinsight.airportcity",
@@ -3669,7 +3818,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/airport-city-[8.47.03]",
       "size": 265080012,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 158
     },
     {
       "id": "fantasy.survival.game.rpg",
@@ -3696,7 +3846,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.3.1",
       "size": 369308467,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 159
     },
     {
       "id": "com.aidana.cardriving.ios",
@@ -3719,7 +3870,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-parking-[4.9.8]",
       "size": 1931686707,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 160
     },
     {
       "id": "com.gameloft.asphalt8",
@@ -3742,7 +3894,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asphalt-8-[8.8.1]",
       "size": 3013187993,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 161
     },
     {
       "id": "com.soundcloud.TouchApp",
@@ -3769,7 +3922,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.73.0-noads",
       "size": 121739673,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 165
     },
     {
       "id": "fun.ask",
@@ -3792,7 +3946,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ngl-ask-me-anything-2",
       "size": 116077363,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 166
     },
     {
       "id": "app-1777652492142",
@@ -3820,7 +3975,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-tw-v2.4.5",
       "size": 3763339264,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 167
     },
     {
       "id": "com.anime.animeRiftApp",
@@ -3847,7 +4003,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-land_3.13.17",
       "size": 72561459,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 168
     },
     {
       "id": "com.madplay.ikiraplus",
@@ -3871,7 +4028,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/madplay-noads",
       "size": 7025459,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 169
     },
     {
       "id": "com.yalla-shoot.Yalla",
@@ -3894,7 +4052,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/yalla-shoot-noads",
       "size": 32925286,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 170
     },
     {
       "id": "com.frontrow.vlog",
@@ -3921,7 +4080,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.18.0_subscription_unlocked_patched",
       "size": 463156019,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 171
     },
     {
       "id": "com.hassantaleb.mockup",
@@ -3932,23 +4092,24 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "5.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.10_pro_unlocked_patched",
-          "date": "2026-08-24",
+          "version": "5.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched",
+          "date": "2026-08-25",
           "size": 120061952
         },
         {
-          "version": "5.9.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.9.1_pro_unlocked__patched"
+          "version": "5.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.10_pro_unlocked_patched"
         }
       ],
-      "version": "5.10",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.10_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.10_pro_unlocked_patched",
+      "version": "5.11",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched",
       "size": 120061952,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 172
     },
     {
       "id": "com.ikiraplus.cinemana",
@@ -3972,7 +4133,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinemana-old3.4.2",
       "size": 38482739,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 173
     },
     {
       "id": "com.nekki.shadowfightarena",
@@ -3999,7 +4161,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow-fight-4.1.9.83-1",
       "size": 193671987,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 174
     },
     {
       "id": "com.dualcarbon.bigrigstruckadventure",
@@ -4026,7 +4189,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/truck-simulator-big-rigs-1.6.3",
       "size": 753192140,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 177
     },
     {
       "id": "com.miHoYo.bh3global",
@@ -4049,7 +4213,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/honkai-impact-3rd[8.8.0]",
       "size": 2665899622,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 178
     },
     {
       "id": "com.Semicolon.Maraya",
@@ -4072,7 +4237,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/maraya_11.1",
       "size": 26004684,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 179
     },
     {
       "id": "com.cornfox.oceanhorn2",
@@ -4095,7 +4261,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/oceanhorn2",
       "size": 2584739840,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 180
     },
     {
       "id": "com.googleusercontent.apps.24327066530-ks0rlpm37gffpbtpq5gkpmp8ba2h2okr",
@@ -4118,7 +4285,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bus-simulatorevo[4.30.32]",
       "size": 1083598438,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 181
     },
     {
       "id": "com.thp021.stickman.survivor.epic.idle.rpg",
@@ -4141,7 +4309,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/stickman-survivor[0.0.162]",
       "size": 173539328,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 182
     },
     {
       "id": "jp.konami.pesactionmobile",
@@ -4169,7 +4338,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/efootball-11.0.0",
       "size": 3229718937,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 183
     },
     {
       "id": "com.hutchgames.rebelracing",
@@ -4192,7 +4362,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rebel-racing[27.03.19281]",
       "size": 753821286,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 184
     },
     {
       "id": "app-1778257564894",
@@ -4220,7 +4391,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-kr-v3.4.5",
       "size": 3784625356,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 185
     },
     {
       "id": "com.aloula",
@@ -4243,7 +4415,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aloula_2.1.2",
       "size": 23488102,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 186
     },
     {
       "id": "com.ares.twd",
@@ -4266,7 +4439,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-0.8.1",
       "size": 591921152,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 187
     },
     {
       "id": "app-1778258191181",
@@ -4288,7 +4462,8 @@
       "ipaUrl": "https://cold2.gofile.io/download/web/854e9513-7fb2-447a-8ead-0b9e87c16326/Oceanhorn_3_(v1.1.1_Univ_64bit_os150_ok26)-user_hidden.bfi2.ipa",
       "size": 3611295744,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-22",
+      "_rowKey": 188
     },
     {
       "id": "app-1779129418604",
@@ -4316,7 +4491,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-vng-v2.4.5",
       "size": 3765331558,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 189
     },
     {
       "id": "com.minichat",
@@ -4339,7 +4515,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/minichat-5.379",
       "size": 105591603,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 190
     },
     {
       "id": "com.boundlessdrop.jawaker",
@@ -4362,7 +4539,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jawaker-28.2.92",
       "size": 184968806,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 191
     },
     {
       "id": "com.kingsoft.office.g.wpsoffice",
@@ -4389,30 +4567,36 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wps_office_ai_doc-_pdf-_sheet_v26.7.1_pro-ai_unlocked_patched",
       "size": 321493401,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 192
     },
     {
       "id": "com.carxtech.sr",
-      "name": "Car X street",
+      "name": "CarX street",
       "bundleIdentifier": "com.carxtech.sr",
       "bundleId": "com.carxtech.sr",
       "iconURL": "https://img.utdstc.com/icon/bba/977/bba977e0d57fa56795386b9f901bda565b8c73a9ce1ec3ebf86083ccee87d179:600",
       "category": "ألعاب",
       "versions": [
         {
-          "version": "1.16.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.16.1",
-          "date": "2026-08-24",
-          "size": 1372585984
+          "version": "1.21.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.21.0",
+          "date": "2026-08-25",
+          "size": 5737598156
+        },
+        {
+          "version": "1.20.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx_street-1.20.0"
         }
       ],
-      "version": "1.16.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.16.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.16.1",
-      "size": 1372585984,
+      "version": "1.21.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.21.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carx-street-1.21.0",
+      "size": 5737598156,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 193
     },
     {
       "id": "app-1779560772086",
@@ -4438,7 +4622,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/redditdeluxes_2026.32.2",
       "size": 0,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 194
     },
     {
       "id": "jp.co.capcom.VillageUSios",
@@ -4461,7 +4646,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/resident-evil-village",
       "size": 1180486860,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 196
     },
     {
       "id": "app-1780340674753",
@@ -4483,7 +4669,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/assassins-creedmirage-1.1.5-dev",
       "size": 3867358003,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-22",
+      "_rowKey": 197
     },
     {
       "id": "com.AlfaBravo.WorldWarLegion",
@@ -4506,7 +4693,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.3.31",
       "size": 1157942476,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 198
     },
     {
       "id": "com.wejoy.weplay.us",
@@ -4529,7 +4717,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/weplay-cracked-6.6.0",
       "size": 361968435,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 199
     },
     {
       "id": "thewonderofyou.Feather",
@@ -4552,7 +4741,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/feather_v2.8.2",
       "size": 14260633,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 200
     },
     {
       "id": "com.playrix.township-ios",
@@ -4579,7 +4769,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/township-38.0.1",
       "size": 216845516,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 201
     },
     {
       "id": "com.gamedevltd.infinityops",
@@ -4602,7 +4793,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infinity-ops-1.13.7",
       "size": 501848473,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 202
     },
     {
       "id": "com.pusugames.streetpro",
@@ -4625,7 +4817,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/street-pro-racing-hack",
       "size": 402548326,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 203
     },
     {
       "id": "com.scarlet.app",
@@ -4648,7 +4841,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scarlet",
       "size": 7025459,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 204
     },
     {
       "id": "com.almutafoq.iq.app",
@@ -4671,7 +4865,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/almtfooq1.0.71",
       "size": 14889779,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 205
     },
     {
       "id": "jp.co.capcom.RE2US",
@@ -4694,7 +4889,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/resident-evil-2",
       "size": 597688320,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 207
     },
     {
       "id": "jp.co.capcom.RE3US",
@@ -4717,7 +4913,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/resident-evil-3",
       "size": 545259520,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 208
     },
     {
       "id": "jp.co.capcom.RE4US",
@@ -4740,7 +4937,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/resident-evil-4",
       "size": 482344960,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 209
     },
     {
       "id": "jp.co.capcom.RE7US",
@@ -4763,7 +4961,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/resident-evil-7-biohazard",
       "size": 1063256064,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 210
     },
     {
       "id": "com.dr1ven.eraser",
@@ -4774,23 +4973,24 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "2026.34.02",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.02",
-          "date": "2026-08-24",
-          "size": 130862284
+          "version": "2026.35.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01",
+          "date": "2026-08-25",
+          "size": 241487052
         },
         {
-          "version": "2026.34.01",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.01"
+          "version": "2026.34.02",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.02"
         }
       ],
-      "version": "2026.34.02",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.02",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.02",
-      "size": 130862284,
+      "version": "2026.35.01",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01",
+      "size": 241487052,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 211
     },
     {
       "id": "co.vulcanlabs.moodtracker",
@@ -4813,7 +5013,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-chatsmith-5.0.8",
       "size": 564343603,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 212
     },
     {
       "id": "com.carx-tech.carxdr3",
@@ -4836,7 +5037,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carx-drift-racing3-1.13.0",
       "size": 1659895808,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 214
     },
     {
       "id": "com.example.sevenscore",
@@ -4860,7 +5062,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sevenscore",
       "size": 16252928,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 215
     },
     {
       "id": "com.dreamgames.royalmatch",
@@ -4883,7 +5086,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/royal-match-37281",
       "size": 220305817,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 216
     },
     {
       "id": "com.soccer.football.score.ios",
@@ -4906,7 +5110,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soccer-super-hero_0.36.3",
       "size": 203423744,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 217
     },
     {
       "id": "archery.clash.game",
@@ -4933,7 +5138,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/archery_clash",
       "size": 315516518,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 218
     },
     {
       "id": "com.rockstargames.maxpayne",
@@ -4956,7 +5162,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/max-payne-v2.0",
       "size": 1162556211,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 220
     },
     {
       "id": "com.leosfortune.arcade",
@@ -4979,7 +5186,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/leo-s-fortune-last",
       "size": 621805568,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 221
     },
     {
       "id": "com.rovio.abm3",
@@ -5002,7 +5210,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-match",
       "size": 212651212,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 222
     },
     {
       "id": "com.darkmatter.abfam",
@@ -5025,7 +5234,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry_birds_rush-1",
       "size": 186331955,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 223
     },
     {
       "id": "com.rovio.abreloaded",
@@ -5048,7 +5258,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-reloaded-2",
       "size": 395418009,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 224
     },
     {
       "id": "com.rovio.ab-bounce",
@@ -5071,7 +5282,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry_birds_bounce-1",
       "size": 432327884,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 225
     },
     {
       "id": "com.rovio.angrybirdsstarwarsii",
@@ -5094,7 +5306,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-star-wars-1",
       "size": 84829798,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 226
     },
     {
       "id": "com.rovio.angrybirdsgo",
@@ -5117,7 +5330,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-go-1",
       "size": 261305139,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 227
     },
     {
       "id": "com.rovio.dream",
@@ -5140,7 +5354,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-dream",
       "size": 193042841,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 228
     },
     {
       "id": "com.rovio.angrybirdstransformers",
@@ -5167,7 +5382,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2.41.0",
       "size": 366162739,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 229
     },
     {
       "id": "com.rovio.abcasual",
@@ -5190,7 +5406,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-journey-v3.8.4",
       "size": 156447539,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 231
     },
     {
       "id": "com.rovio.angrybirdsfriends",
@@ -5213,7 +5430,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-friends-1",
       "size": 177209344,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 232
     },
     {
       "id": "com.imangi.templerun",
@@ -5236,7 +5454,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/templerun-hack",
       "size": 84620083,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 234
     },
     {
       "id": "com.skgames.racer",
@@ -5259,7 +5478,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/traffic-racer-hack",
       "size": 84934656,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 235
     },
     {
       "id": "com.firsttouch.story",
@@ -5282,7 +5502,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/score-hero",
       "size": 227855564,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 236
     },
     {
       "id": "com.dnddream.headsoccer",
@@ -5305,7 +5526,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/head-soccer",
       "size": 250504806,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 237
     },
     {
       "id": "com.amanotes.magictiles",
@@ -5332,7 +5554,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/magic_tiles_3_piano_game",
       "size": 271371468,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 238
     },
     {
       "id": "com.halfbrick.FruitNinjaLite",
@@ -5355,7 +5578,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fruit-ninja",
       "size": 302828748,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 239
     },
     {
       "id": "com.halfbrick.fruitninjax",
@@ -5378,7 +5602,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fruit-ninja-2",
       "size": 586992844,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 240
     },
     {
       "id": "com.pikpok.dr2.iosstore",
@@ -5401,7 +5626,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/intothedead-1",
       "size": 1442630860,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 241
     },
     {
       "id": "com.axlebolt.standoff2",
@@ -5424,7 +5650,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/standoff2-v0.22.2",
       "size": 1577477734,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 243
     },
     {
       "id": "com.ansangha.drdriving",
@@ -5447,7 +5674,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/drdriving",
       "size": 11429478,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 244
     },
     {
       "id": "com.gameloft.Bullet",
@@ -5470,7 +5698,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/six-guns-gang-showdown-hack",
       "size": 513487667,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 245
     },
     {
       "id": "com.dnddream.headbasketball",
@@ -5493,7 +5722,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/head-basketball",
       "size": 442603929,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 246
     },
     {
       "id": "com.ea.ios.fifaworld",
@@ -5516,7 +5746,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fifa-16-ultimate-team",
       "size": 1349936742,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 247
     },
     {
       "id": "app-1781429646338",
@@ -5539,7 +5770,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nba-2k20-.com_1.99840.106159_",
       "size": 3081764864,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 248
     },
     {
       "id": "com.ea.sims3deluxe.ipad.inc",
@@ -5562,7 +5794,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sims-freeplay",
       "size": 1550109900,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 249
     },
     {
       "id": "com.photoeditor.polish",
@@ -5573,23 +5806,24 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "2.7.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.7.0_premium_unlocked_patched",
-          "date": "2026-08-24",
-          "size": 147010355
+          "version": "2.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+          "date": "2026-08-25",
+          "size": 152358092
         },
         {
-          "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish-ai-photo-editor"
+          "version": "2.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.7.0_premium_unlocked_patched"
         }
       ],
-      "version": "2.7.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.7.0_premium_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.7.0_premium_unlocked_patched",
-      "size": 147010355,
+      "version": "2.8.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
+      "size": 152358092,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 250
     },
     {
       "id": "io.veed.appstore",
@@ -5600,19 +5834,24 @@
       "category": "أدوات",
       "versions": [
         {
+          "version": "8.15.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-ai-captions-and-shorts-v8.15.0",
+          "date": "2026-08-25",
+          "size": 158544691
+        },
+        {
           "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-shorts-ai-videos",
-          "date": "2026-08-24",
-          "size": 156342681
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-shorts-ai-videos"
         }
       ],
-      "version": "last version",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-shorts-ai-videos",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/veed-shorts-ai-videos",
-      "size": 156342681,
+      "version": "8.15.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-ai-captions-and-shorts-v8.15.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/veed-ai-captions-and-shorts-v8.15.0",
+      "size": 158544691,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 251
     },
     {
       "id": "au.com.savageinteractive.procreate",
@@ -5635,7 +5874,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/procreate-5.4.9",
       "size": 1011141836,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 252
     },
     {
       "id": "com.tinybuildgames.helloneighbor",
@@ -5658,7 +5898,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hello-neighbor-2.3.8",
       "size": 1448817459,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 253
     },
     {
       "id": "net.Foddy.GettingOverIt",
@@ -5681,7 +5922,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/getting-over-it-v1.14",
       "size": 126143692,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 254
     },
     {
       "id": "com.feralinteractive.rome-ios",
@@ -5704,7 +5946,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rome_total_war_v1.10.5",
       "size": 2942513971,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 255
     },
     {
       "id": "app-1781646541963",
@@ -5726,7 +5969,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rome_total_war_alexander_v1.13",
       "size": 2543845376,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-22",
+      "_rowKey": 256
     },
     {
       "id": "ai.verba.ios",
@@ -5749,7 +5993,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/verba-auto-captions-for-video",
       "size": 301780172,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 257
     },
     {
       "id": "localhost.lunar",
@@ -5772,7 +6017,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lunar-proxy-for-minecraft-pe-1",
       "size": 32925286,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 258
     },
     {
       "id": "co.bazaart.app",
@@ -5799,7 +6045,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v26.4.0_premium_unlocked",
       "size": 107269324,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 259
     },
     {
       "id": "com.vacotv.app",
@@ -5823,7 +6070,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vaco-tv-videos",
       "size": 21810380,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 260
     },
     {
       "id": "com.poopapps.animex",
@@ -5846,7 +6094,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animex",
       "size": 28101836,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 261
     },
     {
       "id": "com.miniclip.drone1",
@@ -5869,7 +6118,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/war-drone-3d-shooting",
       "size": 159488409,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 262
     },
     {
       "id": "com.coffeestain.goatsimulator3.multiverse",
@@ -5892,7 +6142,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-3-multiverse",
       "size": 1761712537,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 263
     },
     {
       "id": "app-1781881692351",
@@ -5914,7 +6165,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polarr_photo_filters_&_editor",
       "size": 151099801,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-22",
+      "_rowKey": 264
     },
     {
       "id": "com.avcr.Funimate",
@@ -5937,7 +6189,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/funimate-video-editor-pro",
       "size": 247673651,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 265
     },
     {
       "id": "it.beatcode.clipboardpro",
@@ -5960,7 +6213,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/clipboard-pro",
       "size": 18979225,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 266
     },
     {
       "id": "com.ilovepdf.www",
@@ -5987,7 +6241,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ilovepdf_pdf_editor_-_scan_v4.0.4_premium_unlocked_patched",
       "size": 138621747,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 267
     },
     {
       "id": "com.mobivio.cutecutpro",
@@ -6014,7 +6269,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cute-cut-pro-v2.4.4",
       "size": 68576870,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 268
     },
     {
       "id": "com.dvloper.grannychaptertwo",
@@ -6037,7 +6293,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/granny-chapter-two-1.1.14",
       "size": 343618355,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 270
     },
     {
       "id": "com.vizor-apps.Road-Trip",
@@ -6060,7 +6317,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/road-trip-2604.0.2",
       "size": 208352051,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 271
     },
     {
       "id": "games.war.strategy.dragon.clash.aaw.hourgames",
@@ -6083,7 +6341,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alliance-at-war-2.1.3",
       "size": 604608921,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 272
     },
     {
       "id": "com.halfbrick.aeroracer",
@@ -6106,7 +6365,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jj-racing-1.1.4",
       "size": 352321536,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 273
     },
     {
       "id": "com.battlecreek.nolimit2",
@@ -6133,7 +6393,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/no-limit2.2.23.1",
       "size": 923585740,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 274
     },
     {
       "id": "com.troll.GuardianHunter",
@@ -6160,7 +6421,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/guardianhunter-16.1.9",
       "size": 68891443,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 275
     },
     {
       "id": "com.nintendo.zara",
@@ -6183,7 +6445,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mario-run-3.4.2",
       "size": 257425408,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 276
     },
     {
       "id": "com.abishkking.maleworkout",
@@ -6206,7 +6469,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/home-workout-no-equipments",
       "size": 193881702,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 278
     },
     {
       "id": "com.lightricks.Enlight-Video",
@@ -6233,7 +6497,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.85_subscription_unlocked__patched",
       "size": 399192883,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 279
     },
     {
       "id": "com.hathiphuonglinh.clickerapp",
@@ -6256,7 +6521,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/auto-clicker",
       "size": 9961472,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 280
     },
     {
       "id": "com.billionairegames.serares",
@@ -6279,7 +6545,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/legend-of-avatar",
       "size": 1076572979,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 281
     },
     {
       "id": "com.kira.cinemanaa.x",
@@ -6302,7 +6569,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinemana-x",
       "size": 46871347,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 283
     },
     {
       "id": "com.cer.buzz",
@@ -6325,7 +6593,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cee_1.0",
       "size": 2516582,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 284
     },
     {
       "id": "com.flow.tube",
@@ -6348,7 +6617,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vanced-tube_1.0.2",
       "size": 5872025,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 285
     },
     {
       "id": "com.lastsoult.aanime",
@@ -6371,7 +6641,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-slayer",
       "size": 17930649,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 286
     },
     {
       "id": "net.peakgames.kammelna",
@@ -6398,7 +6669,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kammelna_asd_v3.0",
       "size": 210554060,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 287
     },
     {
       "id": "com.hitv.ikiraplus",
@@ -6421,7 +6693,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitv-pro_1.1",
       "size": 11953766,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 289
     },
     {
       "id": "com.fasilplus.ikiraplus",
@@ -6444,7 +6717,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fasil-plus",
       "size": 7130316,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 290
     },
     {
       "id": "com.qissateshqplus.ikiraplus",
@@ -6467,7 +6741,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/qsa-ashq",
       "size": 1363148,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 291
     },
     {
       "id": "com.playrix.gardenscapes-sweethome",
@@ -6494,7 +6769,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/homescapes-9.0.602",
       "size": 215062937,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 294
     },
     {
       "id": "com.cinee.trend",
@@ -6517,7 +6793,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moviaquill-noads",
       "size": 27158118,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 296
     },
     {
       "id": "com.rumaisahassan.CineMap",
@@ -6540,7 +6817,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aflame-tv-noads",
       "size": 25899827,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 298
     },
     {
       "id": "com.pinebox.app",
@@ -6567,7 +6845,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinebox-premium_1.2",
       "size": 24746393,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 299
     },
     {
       "id": "ph.telegra.Telegraph2",
@@ -6595,7 +6874,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2",
       "size": 178572492,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 300
     },
     {
       "id": "co.albox.cinema",
@@ -6619,7 +6899,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
       "size": 28626124,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 301
     },
     {
       "id": "com.adobe.premiere.ios",
@@ -6646,7 +6927,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.18.0_subscription_unlocked",
       "size": 104962457,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 303
     },
     {
       "id": "com.google.ios.youtubeee",
@@ -6673,7 +6955,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wolftube_21.33.5",
       "size": 128450560,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 306
     },
     {
       "id": "com.kevin.pinatv",
@@ -6701,7 +6984,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6",
       "size": 22334668,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 307
     },
     {
       "id": "com.pandagaming.armada",
@@ -6724,7 +7008,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/armada-3.9.0",
       "size": 493669580,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 309
     },
     {
       "id": "com.blockpuzzle.us.ios",
@@ -6751,7 +7036,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.6",
       "size": 81684070,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 310
     },
     {
       "id": "com.playdigious.planetoflana",
@@ -6775,7 +7061,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/planet-of-lana",
       "size": 1862900121,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 311
     },
     {
       "id": "com.freenotes.freenotes",
@@ -6798,7 +7085,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/freenotes-pro",
       "size": 199229440,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 312
     },
     {
       "id": "com.rahiazathar.animequest",
@@ -6821,7 +7109,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-slayer-neo_4.2",
       "size": 26109542,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 313
     },
     {
       "id": "com.meitu.wink",
@@ -6844,7 +7133,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wink_3.7.0",
       "size": 118698803,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 314
     },
     {
       "id": "com.JindoBlu.OfflineGamesIOS",
@@ -6871,7 +7161,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/offline-games-no-wifi-games-v3.14.1",
       "size": 109051904,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 315
     },
     {
       "id": "com.littlebigplay.games.wordgamespro",
@@ -6894,7 +7185,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/word-games-pro-101-v9.0",
       "size": 67528294,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 316
     },
     {
       "id": "com.blayzegames.newfps",
@@ -6921,7 +7213,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fwd-assault-1.2083.1",
       "size": 493774438,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 317
     },
     {
       "id": "ph.telegra.Telegraph",
@@ -6945,7 +7238,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtele_12.9.2",
       "size": 76231475,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 318
     },
     {
       "id": "co.detail.duo",
@@ -6972,7 +7266,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/detail_ai_video_editor_v5.7.1_subscription_unlocked_patched",
       "size": 242116198,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 320
     },
     {
       "id": "com.mobile-softing.coinmaster",
@@ -6999,7 +7294,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2651",
       "size": 120691097,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 321
     },
     {
       "id": "com.GoPlayGames.FCM26",
@@ -7022,7 +7318,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fcm26.1.1.7",
       "size": 489370419,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 322
     },
     {
       "id": "com.alohabrowser.alohabrowser",
@@ -7049,7 +7346,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aloha_browser_-_private_vpn_v8.9.0_subscription_unlocked",
       "size": 285212672,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 323
     },
     {
       "id": "com.earlymorningstudio.vampiresfall2",
@@ -7072,7 +7370,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vampire-s-fall-origins-1.18.123",
       "size": 216216371,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 324
     },
     {
       "id": "com.gamee.godslayer.rpg.rougelike",
@@ -7095,7 +7394,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/god-rivals-1.1.15",
       "size": 460324864,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 325
     },
     {
       "id": "com.td.uswatcherofrealms",
@@ -7118,7 +7418,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/watcher-of-realms-1.6.22-1",
       "size": 226806988,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 326
     },
     {
       "id": "com.GentleManiac.HorizonWalkerApple",
@@ -7141,7 +7442,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/horizonwalkerapple-1.50.0-1",
       "size": 189897113,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 327
     },
     {
       "id": "com.oppanagames.car.simulator",
@@ -7164,7 +7466,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-simulator-2.1.63.2-1",
       "size": 1101004800,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 328
     },
     {
       "id": "com.google.ios.youtubemusic",
@@ -7191,7 +7494,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube-music_9.33.3",
       "size": 108003328,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 329
     },
     {
       "id": "com.tgc.sky.ios",
@@ -7214,7 +7518,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sky-children-of-the-light-0.34.1",
       "size": 2365797171,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 330
     },
     {
       "id": "com.heliogames.a1",
@@ -7237,7 +7542,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/westland-survival-12.0.1",
       "size": 722259148,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 331
     },
     {
       "id": "com.autumn.skullgirls",
@@ -7260,7 +7566,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/skullgirls-8.9.0",
       "size": 170183884,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 332
     },
     {
       "id": "com.daerigame.elemental",
@@ -7283,7 +7590,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elemental-195",
       "size": 195244851,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 333
     },
     {
       "id": "com.superpixel.undyinghero",
@@ -7306,7 +7614,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/undying-hero-1.0.20",
       "size": 438304768,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 334
     },
     {
       "id": "com.shibamaru.shibawars",
@@ -7329,7 +7638,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shiba-wars-2.2.05",
       "size": 538443776,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 335
     },
     {
       "id": "com.365scores.365scroesapp",
@@ -7356,7 +7666,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/365scores-live-scores-news-v6.6.4",
       "size": 88499814,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 336
     },
     {
       "id": "com.lightricks.Enlight-Phoenix",
@@ -7379,7 +7690,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/motionleap_3d_photo_animator_v1.9.38_subscription_unlocked",
       "size": 186646528,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 337
     },
     {
       "id": "com.dopedevelopment.Panels",
@@ -7406,7 +7718,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.49_subscription_unlocked_patched",
       "size": 77804339,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 338
     },
     {
       "id": "com.pixite.pigment",
@@ -7429,7 +7742,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adult_coloring_book_pigment_v3.14_premium_unlocked_patched",
       "size": 161061273,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 339
     },
     {
       "id": "tv.twitch.beta",
@@ -7456,7 +7770,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twitch-cracked_30.8_tw",
       "size": 150680371,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 340
     },
     {
       "id": "com.SofaScore.iOS",
@@ -7483,7 +7798,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sofascore-live-sports-scores-v26.08.10",
       "size": 98985574,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 341
     },
     {
       "id": "app-1785999708915",
@@ -7509,7 +7825,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pdf_expert_editor_-_converter_v7.25.11_premium_unlocked",
       "size": 0,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 342
     },
     {
       "id": "com.hitvneo.ikiraplus",
@@ -7532,7 +7849,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4",
       "size": 32820428,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 344
     },
     {
       "id": "com.pikpok.hrc.iosstore",
@@ -7555,7 +7873,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/horse-racing-1.75",
       "size": 1495164518,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 345
     },
     {
       "id": "com.moox.app",
@@ -7578,7 +7897,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
       "size": 48968499,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 348
     },
     {
       "id": "com.photo.beautytuneapp",
@@ -7601,7 +7921,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/facelab_face_-_body_editor_v2.94_subscription_unlocked_patched",
       "size": 391223705,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 349
     },
     {
       "id": "com.madfingergames.deadtrigger2",
@@ -7624,7 +7945,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dead-trigger2.3.1.5",
       "size": 739560652,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 352
     },
     {
       "id": "com.phs.global.ios",
@@ -7651,7 +7973,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.59",
       "size": 512229376,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 353
     },
     {
       "id": "com.vectorunit.cobalt",
@@ -7674,7 +7997,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bb-racing2.2026.07.31",
       "size": 255328256,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 354
     },
     {
       "id": "com.dreamplay.legendofwitch.apple",
@@ -7697,7 +8021,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/legend-of-witch-1.05",
       "size": 160327270,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 355
     },
     {
       "id": "com.ovilex.truckerzoneamericanroadways",
@@ -7720,7 +8045,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/truck-simulator-drive-usa-v1.2.13",
       "size": 1125122048,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 356
     },
     {
       "id": "com.bbauman.Scripty",
@@ -7743,7 +8069,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coconote-ai-note-taker-v2.48-pro-unlocked",
       "size": 52114227,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 357
     },
     {
       "id": "com.chess.iphone",
@@ -7766,7 +8093,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chessassistant-4.10.22",
       "size": 231630438,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 358
     },
     {
       "id": "com.offlinemusic",
@@ -7789,7 +8117,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/offline-music-player-v3.9.2-pro-unlocked",
       "size": 111778201,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 359
     },
     {
       "id": "com.firecore.infuse",
@@ -7812,7 +8141,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.1-infuse-plus-v2.5",
       "size": 102445875,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 360
     },
     {
       "id": "com.joytunes.Draw",
@@ -7835,7 +8165,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.3_subscription_unlocked",
       "size": 116601651,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 361
     },
     {
       "id": "com.rainystaion.app",
@@ -7858,7 +8189,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rainy-station_v1.0.1",
       "size": 86088089,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 362
     },
     {
       "id": "com.plusminusone.math.hero.answer.scanner.solver",
@@ -7881,7 +8213,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/math-ai-problem-solver-helper-v4.7.11",
       "size": 111358771,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 363
     },
     {
       "id": "com.longgammagames.elementra.journy",
@@ -7904,7 +8237,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boy-s-adventure-65",
       "size": 292867276,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 364
     },
     {
       "id": "jp.co.bandainamcoent.BNEI0447",
@@ -7927,7 +8261,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soulterra-0.5.5",
       "size": 246100787,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 365
     },
     {
       "id": "es.socialpoint.dragoncity",
@@ -7950,7 +8285,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragoncity-26.10.4",
       "size": 195873996,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 366
     },
     {
       "id": "com.tensquaregames.letsfish2",
@@ -7973,7 +8309,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fishing-clash-1.0.485",
       "size": 174168473,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 367
     },
     {
       "id": "com.gdv.subway2055",
@@ -7996,7 +8333,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/metro-2055-survival-rpg-0.0.064",
       "size": 1409495859,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 368
     },
     {
       "id": "net.gameduo.vg",
@@ -8019,7 +8357,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/super-heavy-iron-tank-1.1.16",
       "size": 158754406,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 369
     },
     {
       "id": "com.reddit.Reddit",
@@ -8030,23 +8369,24 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "2026.33.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit_2026.33.0",
-          "date": "2026-08-24",
-          "size": 133798297
+          "version": "2026.34.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-fluter_2026.34.0_fl",
+          "date": "2026-08-25",
+          "size": 136419737
         },
         {
-          "version": "2026.32.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-filter_2026.32.0_fl"
+          "version": "2026.33.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit_2026.33.0"
         }
       ],
-      "version": "2026.33.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit_2026.33.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reddit_2026.33.0",
-      "size": 133798297,
+      "version": "2026.34.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-fluter_2026.34.0_fl",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reddit-fluter_2026.34.0_fl",
+      "size": 136419737,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 371
     },
     {
       "id": "com.recordtoolvideo.camera",
@@ -8069,7 +8409,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cocamera_v2.3.3",
       "size": 37853593,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 372
     },
     {
       "id": "night.ntv1.iQTv",
@@ -8092,7 +8433,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtv",
       "size": 21705523,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 373
     },
     {
       "id": "com.financeillustrated.TradingGame",
@@ -8115,7 +8457,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/trading-game-stock-simulator-v4.82",
       "size": 30198988,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 374
     },
     {
       "id": "com.joytunes.Sing",
@@ -8126,19 +8469,24 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "3.0.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.8_subscription_unlocked",
-          "date": "2026-08-24",
+          "version": "3.0.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked",
+          "date": "2026-08-25",
           "size": 116496793
+        },
+        {
+          "version": "3.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.8_subscription_unlocked"
         }
       ],
-      "version": "3.0.8",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.8_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.8_subscription_unlocked",
+      "version": "3.0.9",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked",
       "size": 116496793,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 375
     },
     {
       "id": "com.ea.ios.pvzn3xt",
@@ -8161,7 +8509,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pvz3-v30.4.9",
       "size": 173644185,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 376
     },
     {
       "id": "com.ea.pvzfree.bv",
@@ -8184,7 +8533,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pvz-3.17.0",
       "size": 134008012,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 377
     },
     {
       "id": "com.JESoftware.LastHopeSniper3",
@@ -8207,7 +8557,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zombie-sniper-war-3.2.1",
       "size": 950953574,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 378
     },
     {
       "id": "com.FirstPickStudios.Endless-Wander",
@@ -8230,7 +8581,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/endless-wander-4.1.1",
       "size": 414082662,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 379
     },
     {
       "id": "com.gameloft.disneyspeedstorm",
@@ -8253,7 +8605,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/speedstorm-1.20.1",
       "size": 2779145830,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 380
     },
     {
       "id": "arab.ipaarab.com",
@@ -8276,7 +8629,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinejoy-1.0",
       "size": 1992294,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 381
     },
     {
       "id": "krmzi.dfms.free",
@@ -8299,7 +8653,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/qurmzi",
       "size": 838860,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 382
     },
     {
       "id": "alooytv.dfms.free",
@@ -8322,7 +8677,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alooytv",
       "size": 838860,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 383
     },
     {
       "id": "com.man.kuuflix.app",
@@ -8345,7 +8701,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kumoflix_2.2",
       "size": 32400998,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 384
     },
     {
       "id": "com.djitlabs.pixelcolor",
@@ -8368,7 +8725,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.00.01_subscription_unlocked_",
       "size": 53477376,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 385
     },
     {
       "id": "com.footballaddicts.livescoreaddicts",
@@ -8391,7 +8749,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/forza-football-live-scores-v7.0.11",
       "size": 130128281,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 386
     },
     {
       "id": "com.youssef.developer.Full-Browser",
@@ -8414,7 +8773,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion_-_vpn_v12.0_subscription_unlocked",
       "size": 161900134,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 387
     },
     {
       "id": "com.huami.LoadController",
@@ -8437,7 +8797,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lcsign-1.2.7",
       "size": 20656947,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 389
     },
     {
       "id": "com.joytunes.asla",
@@ -8448,19 +8809,24 @@
       "category": "أدوات",
       "versions": [
         {
+          "version": "9.10.87",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked",
+          "date": "2026-08-25",
+          "size": 158334976
+        },
+        {
           "version": "9.10.86",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.86_subscription_unlocked",
-          "date": "2026-08-24",
-          "size": 158125260
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.86_subscription_unlocked"
         }
       ],
-      "version": "9.10.86",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.86_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.86_subscription_unlocked",
-      "size": 158125260,
+      "version": "9.10.87",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked",
+      "size": 158334976,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-25",
+      "_rowKey": 390
     },
     {
       "id": "com.bareed-kuw.mkhmkh-ha",
@@ -8483,7 +8849,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/torabaa",
       "size": 36071014,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 391
     },
     {
       "id": "com.games2win.ultimatebusdriver",
@@ -8506,7 +8873,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bus-simulator-coach-driver",
       "size": 140928614,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 392
     },
     {
       "id": "com.wild.dino.hunt.animal.hunt",
@@ -8529,7 +8897,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animal-shooting-2024-gun-games",
       "size": 151624089,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 393
     },
     {
       "id": "com.dmg.prison.escape.simulator",
@@ -8552,7 +8921,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/prison-escape-simulator-3d",
       "size": 264660582,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 394
     },
     {
       "id": "com.battlecreek.proseries",
@@ -8575,7 +8945,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pro-series-drag-racing",
       "size": 87556096,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 395
     },
     {
       "id": "com.modern.battlefield.worldwar.rules.fps.shooting",
@@ -8598,7 +8969,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rules-of-battlefield-3d-fps",
       "size": 176160768,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 396
     },
     {
       "id": "com.utincomputer.hyperovertake",
@@ -8621,7 +8993,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rush-hour-3d-car-game",
       "size": 128765132,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 397
     },
     {
       "id": "com.madfingergames.Samurai2",
@@ -8644,7 +9017,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/samurai-2-vengeance",
       "size": 68052582,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 398
     },
     {
       "id": "com.frigate.grannyeyes",
@@ -8667,7 +9041,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scary-grandma-escape-challenge",
       "size": 115553075,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 399
     },
     {
       "id": "com.escape.adventure.scary2",
@@ -8690,7 +9065,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scary-horror-2-escape-room",
       "size": 138936320,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 400
     },
     {
       "id": "com.aaa.adventures.scary.horror",
@@ -8713,7 +9089,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scary-horror-escape-room-game",
       "size": 93218406,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 401
     },
     {
       "id": "com.edkongames.tops",
@@ -8736,7 +9113,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tactical-ops-modern-strike",
       "size": 652633702,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 402
     },
     {
       "id": "com.panzerdog.tacticool",
@@ -8759,7 +9137,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tacticool-5v5-tactical-shooter",
       "size": 1059900620,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 403
     },
     {
       "id": "com.sega.ron",
@@ -8782,7 +9161,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/yakuza-online-japan",
       "size": 186436812,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 404
     },
     {
       "id": "com.edkongames.ww2",
@@ -8805,7 +9185,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/world-war-2-army-fps-shooter",
       "size": 664063180,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 405
     },
     {
       "id": "com.thegamekitchen.blasphemous",
@@ -8828,7 +9209,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blasphemous-hack",
       "size": 830472192,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 406
     },
     {
       "id": "com.amelosinteractive.snake",
@@ -8851,7 +9233,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snake-io-hack",
       "size": 106220748,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 407
     },
     {
       "id": "com.venturesis.lastwave",
@@ -8874,7 +9257,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-wave-shooting-game-hack",
       "size": 318137958,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 409
     },
     {
       "id": "com.gameloft.gangstar3",
@@ -8897,7 +9281,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gangstar-rio-city-of-saints-hack",
       "size": 870842368,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 411
     },
     {
       "id": "com.kolka.tdgame",
@@ -8920,7 +9305,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-king-survival-hack",
       "size": 193986560,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 412
     },
     {
       "id": "com.zombie.gun.shooter",
@@ -8943,7 +9329,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zombie-hunt-apocalypse-games-hack",
       "size": 216216371,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 414
     },
     {
       "id": "jet.fighter.games",
@@ -8966,7 +9353,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jet-fighter-airplane-racing-hack",
       "size": 112197632,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 415
     },
     {
       "id": "com.sniper3d.game",
@@ -8989,7 +9377,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sniper-ops-covert-missions-hack",
       "size": 245471641,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 416
     },
     {
       "id": "com.codigames.idle.supermarket.tycoon",
@@ -9012,7 +9401,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-supermarket-hack",
       "size": 165675008,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 417
     },
     {
       "id": "com.squareenixmontreal.hitmango",
@@ -9035,7 +9425,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitmango-hack",
       "size": 527748300,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 418
     },
     {
       "id": "com.inspectorstudios.ultimateflightsimulatorpro",
@@ -9058,7 +9449,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ultimate_flight_simulator_pro_hack",
       "size": 409888358,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 419
     },
     {
       "id": "com.playdeadgames.inside.ios",
@@ -9081,7 +9473,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/playdead-hack",
       "size": 667313766,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 420
     },
     {
       "id": "com.avecreation.drivingzoneoffroadlite",
@@ -9104,7 +9497,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/driving-zone-offroad-lite-hack",
       "size": 269798604,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 421
     },
     {
       "id": "com.sega.streetsofrage2",
@@ -9127,7 +9521,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/streets-of-rage-2-hack",
       "size": 48968499,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 422
     },
     {
       "id": "com.sega.StreetsOfRage",
@@ -9150,7 +9545,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/streets-of-rage-hack",
       "size": 47710208,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 423
     },
     {
       "id": "com.505games.brothers",
@@ -9173,7 +9569,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/brothers_1.7.2-hack",
       "size": 1133510656,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 424
     },
     {
       "id": "com.atomicplayapps.swordhero",
@@ -9196,7 +9593,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sword_hero_survivor_hack",
       "size": 83256934,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 425
     },
     {
       "id": "com.mobirix.fishinghook2",
@@ -9219,7 +9617,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fishing-hook2-hack",
       "size": 115238502,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 426
     },
     {
       "id": "com.joycity.resu",
@@ -9242,7 +9641,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/resident-evil-hack",
       "size": 1361366220,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 427
     },
     {
       "id": "com.sensusgames.powerzone",
@@ -9265,7 +9665,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/power_zone_battle_royale_hack",
       "size": 476997222,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 428
     },
     {
       "id": "com.realdrift.sipon",
@@ -9288,7 +9689,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/real-drift-car-racing-hack",
       "size": 318557388,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 429
     },
     {
       "id": "com.hegi.scaregame",
@@ -9311,7 +9713,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/slender-rising-paomtk-hack",
       "size": 97202995,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 430
     },
     {
       "id": "com.hegi.scaregame2",
@@ -9334,7 +9737,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/slender2-hack",
       "size": 110729625,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 431
     },
     {
       "id": "com.Vince.Alamobile",
@@ -9357,7 +9761,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ala-mobile-hack",
       "size": 384932249,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 432
     },
     {
       "id": "com.mattel163.uno2",
@@ -9380,7 +9785,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/uno_wonder_hack",
       "size": 247254220,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 433
     },
     {
       "id": "xyz.cypwn.sm64ios-60fps",
@@ -9403,7 +9809,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/supermario64.60fps-hack",
       "size": 9227468,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 434
     },
     {
       "id": "io.supercent.beachamp2",
@@ -9426,7 +9833,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gangster_universe_hack",
       "size": 108527616,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 435
     },
     {
       "id": "com.football.soccer.league",
@@ -9449,7 +9857,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football-2026-hack",
       "size": 457598566,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 436
     },
     {
       "id": "com.nekki.vector.iphone.free",
@@ -9472,7 +9881,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vector-parkour-run-hack",
       "size": 158859264,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 437
     },
     {
       "id": "com.nfg.lod.survival",
@@ -9495,7 +9905,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/live-or-die-1-hack",
       "size": 354838118,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 438
     },
     {
       "id": "sk.inlogic.footballministars",
@@ -9518,7 +9929,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football-mini-stars-24",
       "size": 123627110,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 439
     },
     {
       "id": "com.tegra.magic.craft.survival",
@@ -9541,7 +9953,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tegra_zombie_survival_island",
       "size": 857210880,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 440
     },
     {
       "id": "com.ondi.shadow.rival",
@@ -9564,7 +9977,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow_rival_action_war_game",
       "size": 335544320,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 441
     },
     {
       "id": "com.ftt.boxingstar.match3.ios",
@@ -9587,7 +10001,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/boxing_star-pvp_match_3",
       "size": 79796633,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 442
     },
     {
       "id": "com.com2us.smon.normal.freefull.apple.kr.ios.universal",
@@ -9610,7 +10025,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/summoners-war",
       "size": 1542560153,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 443
     },
     {
       "id": "com.ftxgames.bb",
@@ -9633,7 +10049,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/breaking-bad-criminal-elements",
       "size": 111463628,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 444
     },
     {
       "id": "com.strategy.world.war.tactics.games",
@@ -9656,7 +10073,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/world_war_2_ww2_strategy_games",
       "size": 587831705,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 446
     },
     {
       "id": "com.nostellar.ghostslayer2",
@@ -9679,7 +10097,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ghost-slayer-1.52",
       "size": 95734988,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 447
     },
     {
       "id": "com.bc23.traffic.car.driving.city.game3D",
@@ -9702,7 +10121,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/traffic-driving-1.2.0",
       "size": 162529280,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 448
     },
     {
       "id": "com.starkom.DriftLegends2",
@@ -9725,7 +10145,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/drift-legends-2.1.4.1",
       "size": 603560345,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 449
     },
     {
       "id": "com.gameinsight.gobios",
@@ -9748,7 +10169,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/guns-of-boom",
       "size": 1234698240,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 450
     },
     {
       "id": "com.ninjakiwi.sasza4",
@@ -9771,7 +10193,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sas-zombie-assault.4.1.9.1",
       "size": 135685734,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 451
     },
     {
       "id": "com.genetic.realcarparking2",
@@ -9794,7 +10217,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/real-car-parking-2-v6.1.0",
       "size": 463260876,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 452
     },
     {
       "id": "com.IronEqual.GunshipOperator3D",
@@ -9817,7 +10241,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gunship-operator-3d",
       "size": 333027737,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 453
     },
     {
       "id": "com.niklas.fpsdefense",
@@ -9840,7 +10265,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infantry-attack",
       "size": 253231104,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 454
     },
     {
       "id": "com.ubisoft.invincible.guardians.globe.idle.superhero.rpg.battle.afk",
@@ -9863,7 +10289,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/invincible",
       "size": 143025766,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 455
     },
     {
       "id": "io.monumental.cardclash",
@@ -9886,7 +10313,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nickelodeon_card_clash",
       "size": 231945011,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 456
     },
     {
       "id": "com.zeptolab.ctrexperiments",
@@ -9909,7 +10337,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cut_the_rope_experiments_gold-v1.13.0",
       "size": 81893785,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 457
     },
     {
       "id": "com.kingsofgames.chessuniverseplus",
@@ -9932,7 +10361,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chess_universe-v1.21.5",
       "size": 114294784,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 458
     },
     {
       "id": "com.zeptolab.ctr3",
@@ -9955,7 +10385,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cut_the_rope_3",
       "size": 341416345,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 459
     },
     {
       "id": "adventure.party.real.life",
@@ -9978,7 +10409,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sunday-city_sim-life",
       "size": 924739174,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 460
     },
     {
       "id": "com.marmalade.monopoly",
@@ -10001,7 +10433,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monopoly-the-board-game",
       "size": 680735539,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 461
     },
     {
       "id": "com.halfbrick.jetpack",
@@ -10024,7 +10457,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jetpack-joyride",
       "size": 321283686,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 462
     },
     {
       "id": "com.glu.flcn",
@@ -10047,7 +10481,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/d-day",
       "size": 363121868,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 463
     },
     {
       "id": "com.ilyondynamics.bubbleShooterClassic",
@@ -10070,7 +10505,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bubble-shooter-pop-blast",
       "size": 146066636,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 464
     },
     {
       "id": "com.hipsterwhale.crossy",
@@ -10093,7 +10529,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/crossy-road",
       "size": 142920908,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 465
     },
     {
       "id": "com.direlight.grimvalor",
@@ -10116,7 +10553,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grimvalor-v1.2.4-paid",
       "size": 753192140,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 466
     },
     {
       "id": "com.ustwo.monumentvalley",
@@ -10139,7 +10577,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monument-valley-v3.3.202",
       "size": 258788556,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 467
     },
     {
       "id": "com.ustwo.monumentvalley2",
@@ -10162,7 +10601,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monument-valley-2",
       "size": 283115520,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 468
     },
     {
       "id": "com.square-enix.FinalFantasy4Arcade",
@@ -10185,7 +10625,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/final-fantasy-iv",
       "size": 575668224,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 469
     },
     {
       "id": "com.FireproofStudios.TheRoom2",
@@ -10208,7 +10649,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-room-two",
       "size": 321388544,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 470
     },
     {
       "id": "com.playdeadgames.limbo.ios",
@@ -10231,7 +10673,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/playdeadis-limbo",
       "size": 116287078,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 471
     },
     {
       "id": "com.FireproofStudios.TheRoom3",
@@ -10254,7 +10697,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-room-three",
       "size": 588775424,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 472
     },
     {
       "id": "com.square-enix.chronotrigger",
@@ -10277,7 +10721,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chrono-trigger",
       "size": 560463872,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 473
     },
     {
       "id": "com.fluffyfairygames.idleminertycoon",
@@ -10300,7 +10745,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-miner-tycoon-v5.61.1",
       "size": 141557760,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 474
     },
     {
       "id": "com.theonegames.gunshipbattle",
@@ -10323,7 +10769,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gunship-battle-3d-v2.6.60",
       "size": 150890086,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 475
     },
     {
       "id": "jp.co.bandainamcoent.BNEI0431",
@@ -10346,7 +10793,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ultimate-ninja-storm-1.1.1",
       "size": 3246601011,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 476
     },
     {
       "id": "com.countdown.for.all.app",
@@ -10369,7 +10817,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-invitation-maker-countdown",
       "size": 11953766,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 477
     },
     {
       "id": "com.alik472.ai-aging-app",
@@ -10392,7 +10841,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-aging-app",
       "size": 17930649,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 478
     },
     {
       "id": "com.muscleandmotion.Anatomy",
@@ -10415,7 +10865,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anatomy-learning-3d-atlas",
       "size": 141662617,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 479
     },
     {
       "id": "com.gabrielvicente.anatomy",
@@ -10438,7 +10889,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/muscle-trigger-points",
       "size": 240753049,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 480
     },
     {
       "id": "com.limepresso.logomaker",
@@ -10461,7 +10913,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/boon-ai-logo-maker-design",
       "size": 877867827,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 481
     },
     {
       "id": "com.algotwist.profilepicturemaker",
@@ -10484,7 +10937,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/profile-picture-maker-new-pfp",
       "size": 49387929,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 482
     },
     {
       "id": "com.gplexdb.musicplayeriphone",
@@ -10507,7 +10961,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rocket-video-cast",
       "size": 44564480,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 483
     },
     {
       "id": "com.inasser.salaty",
@@ -10530,7 +10985,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/salaty-athkari",
       "size": 26004684,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 484
     },
     {
       "id": "com.HSSN.VisAnatomy",
@@ -10553,7 +11009,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/visual-anatomy",
       "size": 248302796,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 485
     },
     {
       "id": "AB.iOsteology",
@@ -10576,7 +11033,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/easy_anatomy_3d_atlas",
       "size": 1411173580,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 486
     },
     {
       "id": "org.skydomain.foodcamera",
@@ -10599,7 +11057,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/presets_-_filters_koloro",
       "size": 94476697,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 487
     },
     {
       "id": "com.minerva-medical.fullcode",
@@ -10622,7 +11081,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/full-code",
       "size": 81054924,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 488
     },
     {
       "id": "Wallpapers.iPad",
@@ -10645,7 +11105,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wallpapers",
       "size": 39950745,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 489
     },
     {
       "id": "Alluhaybi.Hammel",
@@ -10668,7 +11129,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idara-malafat",
       "size": 304401612,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 490
     },
     {
       "id": "com.hssn.anatomy3d",
@@ -10691,7 +11153,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/3d-anatomy",
       "size": 136629452,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 491
     },
     {
       "id": "com.markodevcic.python-code-pad",
@@ -10714,7 +11177,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/python-codepad",
       "size": 95839846,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 493
     },
     {
       "id": "com.Turbo.vpn",
@@ -10737,7 +11201,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadowx",
       "size": 9437184,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 494
     },
     {
       "id": "com.fau.sshterminal",
@@ -10760,7 +11225,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/termux",
       "size": 33973862,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 495
     },
     {
       "id": "com.myonlyislam.scanhalalfood",
@@ -10783,7 +11249,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/taghalal-food",
       "size": 18035507,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 496
     },
     {
       "id": "com.gearup.booster",
@@ -10806,7 +11273,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gearup_game_booster_lower_lag-v3.28.1",
       "size": 35127296,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 497
     },
     {
       "id": "com.crystalnix.ServerAuditor",
@@ -10829,7 +11297,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/termius_terminal_ssh_client-v5.9.5",
       "size": 108108185,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 498
     },
     {
       "id": "com.zilliongames.collectionidle",
@@ -10852,7 +11321,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/switching-heroes-5.20",
       "size": 230791577,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 499
     },
     {
       "id": "es.socialpoint.MonsterCity",
@@ -10875,7 +11345,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monsters-20.2",
       "size": 146171494,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 500
     },
     {
       "id": "com.farlightgames.igame.ios",
@@ -10898,7 +11369,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/afk-journey-1.7.31",
       "size": 923166310,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 501
     },
     {
       "id": "com.zombie.slasher",
@@ -10921,7 +11393,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zombie-slasher-1.13.7",
       "size": 239075328,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 502
     },
     {
       "id": "com.notdoppler.earntodierogue",
@@ -10944,7 +11417,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/earn-to-die-rogue-1.28.251",
       "size": 204367462,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 504
     },
     {
       "id": "com.jds.bnr",
@@ -10971,7 +11445,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bendy-run-2.0.2",
       "size": 267596595,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 505
     },
     {
       "id": "com.sozap.badmen",
@@ -10994,7 +11469,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/armed-heist",
       "size": 656723148,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 506
     },
     {
       "id": "com.skgames.motor",
@@ -11017,7 +11493,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/traffic_rider",
       "size": 169135308,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 507
     },
     {
       "id": "com.trueaxis.skate",
@@ -11040,7 +11517,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/true-skate",
       "size": 123731968,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 508
     },
     {
       "id": "com.spaceapegames.carsuperstar",
@@ -11063,7 +11541,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chrome_valley_customs",
       "size": 235405312,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 509
     },
     {
       "id": "org.brandonplank.flappybird",
@@ -11086,7 +11565,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/flappybird",
       "size": 2097152,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 510
     },
     {
       "id": "com.wb.Injustice.Brawler2017",
@@ -11109,7 +11589,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/injustice-2",
       "size": 1619525632,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 511
     },
     {
       "id": "leyi.westgamepro",
@@ -11132,7 +11613,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/west_game_ii",
       "size": 704433356,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 512
     },
     {
       "id": "com.redfalcon.basketballgoat.ios",
@@ -11155,7 +11637,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/basketball-goat",
       "size": 149841510,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 513
     },
     {
       "id": "com.linegames.hkfm",
@@ -11178,7 +11661,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hello_kitty_friends_match",
       "size": 175951052,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 514
     },
     {
       "id": "jp.co.applibot.HelloKittyMerchMatch",
@@ -11201,7 +11685,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hello_kitty_merch_match",
       "size": 506042777,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 515
     },
     {
       "id": "com.stratospheregames.The.Kingdom.Medieval.Tales.Strategy.Building.Games",
@@ -11224,7 +11709,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the_kingdom_medieval_tales",
       "size": 1033895936,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 516
     },
     {
       "id": "com.spaceshooter.fighterforce",
@@ -11247,7 +11733,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/air_force_airplane_games",
       "size": 97936998,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 517
     },
     {
       "id": "com.zymobile.merge.holiday.ios",
@@ -11270,7 +11757,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/annas_holiday_merge",
       "size": 539806924,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 518
     },
     {
       "id": "com.megaloot.survivalist",
@@ -11293,7 +11781,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/survivalist_hack",
       "size": 495242444,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 519
     },
     {
       "id": "app-1787381674746",
@@ -11315,7 +11804,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/deadbydaylight",
       "size": 2492150579,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-22",
+      "_rowKey": 520
     },
     {
       "id": "net.peakgames.toonblast",
@@ -11338,7 +11828,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/toonblast",
       "size": 181403648,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 521
     },
     {
       "id": "com.vqw.aelh",
@@ -11361,7 +11852,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/awakening-of-dragon",
       "size": 1607781580,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 522
     },
     {
       "id": "com.touch2goal.soccer",
@@ -11384,7 +11876,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mini_soccer_star",
       "size": 119852236,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 523
     },
     {
       "id": "com.midnightgames.mudness2",
@@ -11407,7 +11900,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mudness-2-offroad-car",
       "size": 831835340,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 524
     },
     {
       "id": "com.ohbibi.fps",
@@ -11430,7 +11924,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/frag",
       "size": 220830105,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 525
     },
     {
       "id": "com.fungames.battleroyale",
@@ -11453,7 +11948,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zooba_zoo",
       "size": 215482368,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 526
     },
     {
       "id": "com.tapblaze.pizzabusiness",
@@ -11476,7 +11972,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/good_pizza_great_pizza",
       "size": 373607628,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 527
     },
     {
       "id": "com.tiltingpoint.sbadventures",
@@ -11499,7 +11996,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spongebob_adventures_in_a_jam",
       "size": 929457766,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 528
     },
     {
       "id": "com.RoadburnGames.Gumball",
@@ -11522,7 +12020,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gumball-3000_world-tour-race",
       "size": 675702374,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 529
     },
     {
       "id": "com.zhangyue.wc4",
@@ -11545,7 +12044,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/world-conqueror-4",
       "size": 176580198,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 530
     },
     {
       "id": "com.WandaSoftware.TruckersofEurope3",
@@ -11568,7 +12068,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/truckers_of_europe_3",
       "size": 898000486,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 531
     },
     {
       "id": "com.3d4medical.EssentialAnatomyiPad",
@@ -11591,7 +12092,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/essentialanatomy5",
       "size": 651060838,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 532
     },
     {
       "id": "com.cardify.tinder",
@@ -11614,7 +12116,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tinder",
       "size": 101816729,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 533
     },
     {
       "id": "com.mytonallc.cookingdiary",
@@ -11637,7 +12140,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cookingdiary-v2.56.1",
       "size": 425826713,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 534
     },
     {
       "id": "com.playdigious.slimerancher",
@@ -11660,7 +12164,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/slime-rancher-v1.0.5",
       "size": 509503078,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 535
     },
     {
       "id": "com.hhimhira.magicka",
@@ -11683,7 +12188,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/magicka-v1.3.2",
       "size": 83466649,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 536
     },
     {
       "id": "com.dogbytegames.OtrNext",
@@ -11706,7 +12212,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/otr2-v1.2.1",
       "size": 955881881,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 537
     },
     {
       "id": "com.oxvgames.dicelords",
@@ -11729,7 +12236,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dice_lords",
       "size": 188114534,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 539
     },
     {
       "id": "app-1787384066087",
@@ -11751,7 +12259,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/catquest",
       "size": 98775859,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-22"
+      "updatedAt": "2026-08-22",
+      "_rowKey": 540
     },
     {
       "id": "com.firsttouch.dls7",
@@ -11774,7 +12283,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dreamleague",
       "size": 206464614,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 541
     },
     {
       "id": "com.apple.compilers.llvm.clang.1_0",
@@ -11797,7 +12307,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hello_weather_forecast_v3.13.7",
       "size": 7549747,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 542
     },
     {
       "id": "com.gamezaur.shapecraft",
@@ -11820,7 +12331,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shapecraft_v2.0.1",
       "size": 43935334,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 543
     },
     {
       "id": "com.campmobile.snow",
@@ -11843,7 +12355,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snow-ai-15.3.8",
       "size": 143654912,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 544
     },
     {
       "id": "com.auxbrain.egginc",
@@ -11866,7 +12379,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/egg-inc-v1.37.2",
       "size": 53687091,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 545
     },
     {
       "id": "com.tocaboca.tocalifeworld",
@@ -11889,7 +12403,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/toca-world-1.137.1",
       "size": 816840704,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 546
     },
     {
       "id": "com.deviloper.car.empire.idle.tycoon",
@@ -11912,7 +12427,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-car-empire-0.0.85",
       "size": 226597273,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 547
     },
     {
       "id": "com.badbeans.legendofmarmot",
@@ -11935,7 +12451,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/marmot-survivor-1.3.3",
       "size": 187065958,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 548
     },
     {
       "id": "com.cloverdy.cat",
@@ -11958,7 +12475,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-0.9.12",
       "size": 153406668,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 549
     },
     {
       "id": "com.snapbreak.discounty",
@@ -11981,7 +12499,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/discounty-1.2.3",
       "size": 590872576,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 550
     },
     {
       "id": "com.everbytestudio.interactive.story.moonvale",
@@ -12004,7 +12523,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moonvale-1.3.9",
       "size": 356830412,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 551
     },
     {
       "id": "app-1787549882966",
@@ -12026,7 +12546,8 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/oniro-arpg",
       "size": 3055131033,
       "addedAt": "2026-08-24",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 553
     },
     {
       "id": "com.ExiliumGames.Anima",
@@ -12049,7 +12570,54 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anima_arpg",
       "size": 1289014476,
       "addedAt": "2026-08-24",
-      "updatedAt": "2026-08-24"
+      "updatedAt": "2026-08-24",
+      "_rowKey": 554
+    },
+    {
+      "id": "app-1787643296723",
+      "name": "Simply Guitar Learn Guitar",
+      "bundleIdentifier": "com.ikiraplus.apps.simply-guitar-learn-guitar.90f09e583a",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/d4/58/fad45806-3b4f-96f0-f0a1-03c7391dc84d/AppIconIOS26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "10.28",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked",
+          "date": "2026-08-25",
+          "size": 144179200
+        }
+      ],
+      "version": "10.28",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked",
+      "size": 144179200,
+      "addedAt": "2026-08-25",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 555
+    },
+    {
+      "id": "app-1787643356839",
+      "name": "My Perfect Hotel",
+      "bundleIdentifier": "com.ikiraplus.apps.my-perfect-hotel.7fe4eb6a81",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/3e/e3/e93ee38f-e9f6-a95b-ff7b-5f7de185db5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.36.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-perfect-hotel-v1.36.6",
+          "date": "2026-08-25",
+          "size": 198600294
+        }
+      ],
+      "version": "1.36.6",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-perfect-hotel-v1.36.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-perfect-hotel-v1.36.6",
+      "size": 198600294,
+      "addedAt": "2026-08-25",
+      "updatedAt": "2026-08-25",
+      "_rowKey": 556
     }
   ]
 }
