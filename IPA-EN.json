@@ -1309,23 +1309,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "56.27.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hack-v56.27.0",
-          "date": "2026-08-24",
-          "size": 105381888
+          "version": "56.28.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.0-hack",
+          "date": "2026-08-25",
+          "size": 107583897
         },
         {
-          "version": "56.27.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-lasthacksigned"
+          "version": "56.27.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hack-v56.27.0"
         }
       ],
-      "version": "56.27.2",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hack-v56.27.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hack-v56.27.0",
-      "size": 105381888,
+      "version": "56.28.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.0-hack",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.0-hack",
+      "size": 107583897,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
       "_rowKey": 58
     },
     {
@@ -13329,6 +13329,7 @@
       "size": 448266240,
       "addedAt": "2026-08-25",
       "updatedAt": "2026-08-25",
+      "_rowKey": 1,
       "localizedDescription": ""
     }
   ],
