@@ -510,23 +510,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "2.61.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.0-locket-gold-patched",
-          "date": "2026-08-24",
-          "size": 113980211
+          "version": "2.61.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.1-locket-gold-patched",
+          "date": "2026-08-26",
+          "size": 158544691
         },
         {
-          "version": "2.58.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.58.1-locket-gold-patched"
+          "version": "2.61.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.0-locket-gold-patched"
         }
       ],
-      "version": "2.61.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.0-locket-gold-patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.0-locket-gold-patched",
-      "size": 113980211,
+      "version": "2.61.1",
+      "versionDate": "2026-08-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.1-locket-gold-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.61.1-locket-gold-patched",
+      "size": 158544691,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-26",
       "_rowKey": 25,
       "localizedDescription": ""
     },
@@ -1877,23 +1877,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "2.733.988",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/roblox-2.733.988",
-          "date": "2026-08-24",
-          "size": 145018060
+          "version": "2.735.1135",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/roblox-2.735.1135",
+          "date": "2026-08-26",
+          "size": 144388915
         },
         {
-          "version": "2.729.838",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/roblox-2.729.838"
+          "version": "2.733.988",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/roblox-2.733.988"
         }
       ],
-      "version": "2.733.988",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/roblox-2.733.988",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/roblox-2.733.988",
-      "size": 145018060,
+      "version": "2.735.1135",
+      "versionDate": "2026-08-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/roblox-2.735.1135",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/roblox-2.735.1135",
+      "size": 144388915,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-26",
       "_rowKey": 81,
       "localizedDescription": ""
     },
@@ -2010,23 +2010,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "10.0.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.5_pro_unlocked_patched",
-          "date": "2026-08-24",
-          "size": 71617740
+          "version": "10.0.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.7_pro_unlocked__patched",
+          "date": "2026-08-26",
+          "size": 72351744
         },
         {
-          "version": "10.0.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.3_pro_unlocked_patched"
+          "version": "10.0.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.5_pro_unlocked_patched"
         }
       ],
-      "version": "10.0.5",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.5_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.5_pro_unlocked_patched",
-      "size": 71617740,
+      "version": "10.0.7",
+      "versionDate": "2026-08-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.7_pro_unlocked__patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.7_pro_unlocked__patched",
+      "size": 72351744,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-26",
       "_rowKey": 86,
       "localizedDescription": ""
     },
@@ -3661,23 +3661,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "11.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5_subscription_unlocked_patched",
-          "date": "2026-08-24",
-          "size": 216635801
+          "version": "11.5.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.10_subscription_unlocked",
+          "date": "2026-08-26",
+          "size": 217264947
         },
         {
-          "version": "11.4.20",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.4.20_subscription_unlocked_"
+          "version": "11.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5_subscription_unlocked_patched"
         }
       ],
-      "version": "11.5",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5_subscription_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5_subscription_unlocked_patched",
-      "size": 216635801,
+      "version": "11.5.10",
+      "versionDate": "2026-08-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.10_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.10_subscription_unlocked",
+      "size": 217264947,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-26",
       "_rowKey": 150,
       "localizedDescription": ""
     },
@@ -7100,23 +7100,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "26.18.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.18.0_subscription_unlocked",
-          "date": "2026-08-24",
+          "version": "26.18.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.18.1_subscription_unlocked",
+          "date": "2026-08-26",
           "size": 104962457
         },
         {
-          "version": "26.17.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.17.1_subscription_unlocked"
+          "version": "26.18.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.18.0_subscription_unlocked"
         }
       ],
-      "version": "26.18.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.18.0_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.18.0_subscription_unlocked",
+      "version": "26.18.1",
+      "versionDate": "2026-08-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.18.1_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.18.1_subscription_unlocked",
       "size": 104962457,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-26",
       "_rowKey": 303,
       "localizedDescription": ""
     },
@@ -9075,23 +9075,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "9.10.87",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked",
-          "date": "2026-08-25",
-          "size": 158334976
+          "version": "9.10.88",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.88_subscription_unlocked",
+          "date": "2026-08-26",
+          "size": 158439833
         },
         {
-          "version": "9.10.86",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.86_subscription_unlocked"
+          "version": "9.10.87",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked"
         }
       ],
-      "version": "9.10.87",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked",
-      "size": 158334976,
+      "version": "9.10.88",
+      "versionDate": "2026-08-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.88_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.88_subscription_unlocked",
+      "size": 158439833,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-08-26",
       "_rowKey": 390,
       "localizedDescription": ""
     },
