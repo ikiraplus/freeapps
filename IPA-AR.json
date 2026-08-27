@@ -13215,6 +13215,535 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/draw-it-v1.0.2",
       "size": 124151398,
       "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 1
+    },
+    {
+      "id": "app-1787851275903",
+      "name": "Jelly Run 2048 Number Games",
+      "bundleIdentifier": "com.ikiraplus.apps.jelly-run-2048-number-games.f8e7065372",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/ef/ca/c2efcaf1-70c7-24d4-274c-8fe49aea5a5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.59.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jelly-run-2048-number-games",
+          "date": "2026-08-27",
+          "size": 112407347
+        }
+      ],
+      "version": "1.59.1",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jelly-run-2048-number-games",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jelly-run-2048-number-games",
+      "size": 112407347,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 67
+    },
+    {
+      "id": "app-1787851330410",
+      "name": "Jigsaw Stories For Kids",
+      "bundleIdentifier": "com.ikiraplus.apps.jigsaw-stories-for-kids.dbfe4c3adf",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/e6/6a/47e66a0a-b79e-db7c-ad0a-fad2785d4399/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.31",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jigsaw-stories-for-kids",
+          "date": "2026-08-27",
+          "size": 36700160
+        }
+      ],
+      "version": "1.31",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jigsaw-stories-for-kids",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jigsaw-stories-for-kids",
+      "size": 36700160,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 1
+    },
+    {
+      "id": "app-1787851418392",
+      "name": "Joe Danger",
+      "bundleIdentifier": "com.ikiraplus.apps.joe-danger.d1668158df",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/f3/31/20f331e9-5c94-5422-83d8-3978cdc8b8b0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joe-danger",
+          "date": "2026-08-27",
+          "size": 100663296
+        }
+      ],
+      "version": "1.4",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joe-danger",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/joe-danger",
+      "size": 100663296,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 67
+    },
+    {
+      "id": "app-1787851458757",
+      "name": "King Of Defense Premium",
+      "bundleIdentifier": "com.ikiraplus.apps.king-of-defense-premium.5793e52686",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/88/91/318891f6-2daa-8f54-98b3-1d14d82e1416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.8.104",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/king-of-defense-premium",
+          "date": "2026-08-27",
+          "size": 131072000
+        }
+      ],
+      "version": "1.8.104",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/king-of-defense-premium",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/king-of-defense-premium",
+      "size": 131072000,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 68
+    },
+    {
+      "id": "app-1787851503580",
+      "name": "Kungfu School",
+      "bundleIdentifier": "com.ikiraplus.apps.kungfu-school.edc86637ab",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/17/96/5017961e-4ca2-d754-6d97-b52ec162e588/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kungfu-school",
+          "date": "2026-08-27",
+          "size": 185388236
+        }
+      ],
+      "version": "1.0.3",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kungfu-school",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kungfu-school",
+      "size": 185388236,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 69
+    },
+    {
+      "id": "app-1787851545737",
+      "name": "Layton Curious Village In Hd",
+      "bundleIdentifier": "com.ikiraplus.apps.layton-curious-village-in-hd.4d723b704a",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/e3/62/85e362dc-1b0d-63b6-7e2a-05f702b5273e/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/layton-curious-village-in-hd",
+          "date": "2026-08-27",
+          "size": 616248115
+        }
+      ],
+      "version": "1.0.5",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/layton-curious-village-in-hd",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/layton-curious-village-in-hd",
+      "size": 616248115,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 70
+    },
+    {
+      "id": "app-1787851583893",
+      "name": "Lazy Jump 3d",
+      "bundleIdentifier": "com.ikiraplus.apps.lazy-jump-3d.520d365b21",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/69/68/47696813-cea1-ca5a-41db-9b533d220526/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.10.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lazy-jump-3d",
+          "date": "2026-08-27",
+          "size": 286680678
+        }
+      ],
+      "version": "1.10.3",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lazy-jump-3d",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lazy-jump-3d",
+      "size": 286680678,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 1
+    },
+    {
+      "id": "app-1787851985490",
+      "name": "Leap On",
+      "bundleIdentifier": "com.ikiraplus.apps.leap-on.9e5de01677",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ad/aa/34/adaa3467-e95a-9c6a-0f29-69597a4d807d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leap-on",
+          "date": "2026-08-27",
+          "size": 42257612
+        }
+      ],
+      "version": "2.0.8",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leap-on",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/leap-on",
+      "size": 42257612,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 67
+    },
+    {
+      "id": "app-1787852042224",
+      "name": "Legends Of Andor",
+      "bundleIdentifier": "com.ikiraplus.apps.legends-of-andor.61f61d60a3",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/76/e7/1676e76d-b375-363a-b1c8-e0e836d8af2c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/legends-of-andor",
+          "date": "2026-08-27",
+          "size": 151728947
+        }
+      ],
+      "version": "1.2.0",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/legends-of-andor",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/legends-of-andor",
+      "size": 151728947,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 68
+    },
+    {
+      "id": "app-1787852313961",
+      "name": "Legend Of The Skyfish 2",
+      "bundleIdentifier": "com.ikiraplus.apps.legend-of-the-skyfish-2.8081f53eb0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/3d/4a/d13d4a24-11f5-17ca-36c1-88ad309e8ae3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/legend-of-the-skyfish-2",
+          "date": "2026-08-27",
+          "size": 469447475
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/legend-of-the-skyfish-2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/legend-of-the-skyfish-2",
+      "size": 469447475,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 69
+    },
+    {
+      "id": "app-1787852396962",
+      "name": "Woods Shop Mod",
+      "bundleIdentifier": "com.ikiraplus.apps.woods-shop-mod.cb69892329",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/9d/bf/489dbf92-c81b-717b-56d6-659c19f2e389/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.12.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/woodshop_enjoy",
+          "date": "2026-08-27",
+          "size": 109366476
+        }
+      ],
+      "version": "3.12.0",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/woodshop_enjoy",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/woodshop_enjoy",
+      "size": 109366476,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 70
+    },
+    {
+      "id": "app-1787852433870",
+      "name": "Loco Looper",
+      "bundleIdentifier": "com.ikiraplus.apps.loco-looper.f670c4f805",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/8b/82/fd8b8272-e4f7-b3fa-bfc2-8c3a3bfa68c4/AppIcon-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/loco-looper",
+          "date": "2026-08-27",
+          "size": 36700160
+        }
+      ],
+      "version": "1.0.8",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/loco-looper",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/loco-looper",
+      "size": 36700160,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 71
+    },
+    {
+      "id": "app-1787852493852",
+      "name": "Loopables",
+      "bundleIdentifier": "com.ikiraplus.apps.loopables.2f2a405719",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/bc/22/a1bc222a-dfb4-c64d-b590-8c5c9d2dc757/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/loopables",
+          "date": "2026-08-27",
+          "size": 21181235
+        }
+      ],
+      "version": "2.4",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/loopables",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/loopables",
+      "size": 21181235,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 72
+    },
+    {
+      "id": "app-1787852537428",
+      "name": "Lost In Fantaland",
+      "bundleIdentifier": "com.ikiraplus.apps.lost-in-fantaland.754a4ce0e2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/e9/96/7fe9967c-17aa-a8f1-86a2-4f30068881ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lost-in-fantaland",
+          "date": "2026-08-27",
+          "size": 177943347
+        }
+      ],
+      "version": "1.0.2",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lost-in-fantaland",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lost-in-fantaland",
+      "size": 177943347,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 73
+    },
+    {
+      "id": "app-1787852589079",
+      "name": "Lost Treasure 2",
+      "bundleIdentifier": "com.ikiraplus.apps.lost-treasure-2.fc1467d33e",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/e2/66/6ce26677-6a57-218f-a619-dcadd3fd40da/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lost-treasure-2",
+          "date": "2026-08-27",
+          "size": 230686720
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lost-treasure-2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lost-treasure-2",
+      "size": 230686720,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 74
+    },
+    {
+      "id": "app-1787852620635",
+      "name": "Marvel Strike Force Squad Rpg",
+      "bundleIdentifier": "com.ikiraplus.apps.marvel-strike-force-squad-rpg.36522a8def",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/84/c9/8c84c999-a8d4-7e1d-5567-a8759b9c9de5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "10.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/marvel-strike-force-squad-rpg",
+          "date": "2026-08-27",
+          "size": 221249536
+        }
+      ],
+      "version": "10.2.1",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/marvel-strike-force-squad-rpg",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/marvel-strike-force-squad-rpg",
+      "size": 221249536,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 75
+    },
+    {
+      "id": "app-1787852651038",
+      "name": "Marvel Color Your Own",
+      "bundleIdentifier": "com.ikiraplus.apps.marvel-color-your-own.5dfdd97e9a",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/a7/8f/99a78f34-1899-667f-6712-9cef2b3c57b3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.3.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/marvel-color-your-own",
+          "date": "2026-08-27",
+          "size": 109156761
+        }
+      ],
+      "version": "1.3.10",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/marvel-color-your-own",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/marvel-color-your-own",
+      "size": 109156761,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 76
+    },
+    {
+      "id": "app-1787852681269",
+      "name": "Math Games Pro 16 In 1",
+      "bundleIdentifier": "com.ikiraplus.apps.math-games-pro-16-in-1.06a5b179a8",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/b6/18/87b618c5-2811-65ce-6b3f-eeef33894d06/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/math-games-pro-16-in-1",
+          "date": "2026-08-27",
+          "size": 15623782
+        }
+      ],
+      "version": "3.0.0",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/math-games-pro-16-in-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/math-games-pro-16-in-1",
+      "size": 15623782,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 77
+    },
+    {
+      "id": "app-1787852714357",
+      "name": "Medieval Battle Europe",
+      "bundleIdentifier": "com.ikiraplus.apps.medieval-battle-europe.1dd9433251",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/cf/94/dbcf94ac-a775-2aa9-ac83-90c195813bea/AppIconMBEurope-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/medieval-battle-europe",
+          "date": "2026-08-27",
+          "size": 571369062
+        }
+      ],
+      "version": "3.1.1",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/medieval-battle-europe",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/medieval-battle-europe",
+      "size": 571369062,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 78
+    },
+    {
+      "id": "app-1787852750476",
+      "name": "Monster Numbers Mental Math",
+      "bundleIdentifier": "com.ikiraplus.apps.monster-numbers-mental-math.ec6ed047e8",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/e9/9d/d1e99d26-7a4b-8eeb-87b7-c813b6d3c8e3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "23.11.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monster-numbers-mental-math",
+          "date": "2026-08-27",
+          "size": 40789606
+        }
+      ],
+      "version": "23.11.0",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monster-numbers-mental-math",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monster-numbers-mental-math",
+      "size": 40789606,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 79
+    },
+    {
+      "id": "app-1787852778034",
+      "name": "Mr Meat 2 Prison Break",
+      "bundleIdentifier": "com.ikiraplus.apps.mr-meat-2-prison-break.8c866b2cde",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/ff/89/d0ff8930-2a0a-4c79-848b-9508072e6d21/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mr-meat-2-prison-break",
+          "date": "2026-08-27",
+          "size": 205625753
+        }
+      ],
+      "version": "1.1.4",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mr-meat-2-prison-break",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mr-meat-2-prison-break",
+      "size": 205625753,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 80
+    },
+    {
+      "id": "app-1787852809219",
+      "name": "Mr Meat Horror Escape Room",
+      "bundleIdentifier": "com.ikiraplus.apps.mr-meat-horror-escape-room.65f49a6b7b",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/6c/2f/f06c2faf-2eec-1c4c-09ef-7368b15be869/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.0.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mr-meat-horror-escape-room",
+          "date": "2026-08-27",
+          "size": 162843852
+        }
+      ],
+      "version": "2.0.4",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mr-meat-horror-escape-room",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mr-meat-horror-escape-room",
+      "size": 162843852,
+      "addedAt": "2026-08-27",
+      "updatedAt": "2026-08-27",
+      "_rowKey": 81
+    },
+    {
+      "id": "app-1787852892340",
+      "name": "ASJ TikTok",
+      "bundleIdentifier": "com.ikiraplus.apps.asj-tiktok.b968654146",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/95/3c/f4953cfb-b350-6763-a0b4-ceed8cef74ed/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "46.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asj-tik-tok-46.5.0-v1.1.9",
+          "date": "2026-08-27",
+          "size": 461688012
+        }
+      ],
+      "version": "46.5.0",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asj-tik-tok-46.5.0-v1.1.9",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asj-tik-tok-46.5.0-v1.1.9",
+      "size": 461688012,
+      "addedAt": "2026-08-27",
       "updatedAt": "2026-08-27"
     }
   ]
