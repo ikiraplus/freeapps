@@ -1278,23 +1278,23 @@
       "category": "ألعاب",
       "versions": [
         {
-          "version": "56.28.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.0-hack",
-          "date": "2026-08-25",
+          "version": "56.28.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.1-hack",
+          "date": "2026-08-27",
           "size": 107583897
         },
         {
-          "version": "56.27.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hack-v56.27.0"
+          "version": "56.28.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.0-hack"
         }
       ],
-      "version": "56.28.0",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.0-hack",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.0-hack",
+      "version": "56.28.1",
+      "versionDate": "2026-08-28",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.1-hack",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.1-hack",
       "size": 107583897,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-08-28",
       "_rowKey": 58
     },
     {
@@ -13744,7 +13744,31 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asj-tik-tok-46.5.0-v1.1.9",
       "size": 461688012,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-08-27"
+      "updatedAt": "2026-08-27",
+      "_rowKey": 1
+    },
+    {
+      "id": "app-1787854008777",
+      "name": "Scarlett Mysteries",
+      "bundleIdentifier": "com.ikiraplus.apps.scarlett-mysteries.895660e079",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/88/e0/20/88e020c8-934c-d2d9-d17d-f0008ec87652/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scarlett-mysteries",
+          "date": "2026-08-27",
+          "size": 1182164582
+        }
+      ],
+      "version": "2.1.0",
+      "versionDate": "2026-08-28",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scarlett-mysteries",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scarlett-mysteries",
+      "size": 1182164582,
+      "addedAt": "2026-08-28",
+      "updatedAt": "2026-08-28",
+      "_rowKey": 1
     }
   ]
 }
