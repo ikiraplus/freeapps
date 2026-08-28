@@ -609,23 +609,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "12.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x_12.9_neofreebird_liquidglass",
-          "date": "2026-07-20",
-          "size": 228379852
+          "version": "12.21",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.21-nfb",
+          "date": "2026-08-28",
+          "size": 249246515
         },
         {
-          "version": "11.65",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-twitter-neofreebird_v1165-1"
+          "version": "12.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x_12.9_neofreebird_liquidglass"
         }
       ],
-      "version": "12.9",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x_12.9_neofreebird_liquidglass",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x_12.9_neofreebird_liquidglass",
-      "size": 228379852,
+      "version": "12.21",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.21-nfb",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-12.21-nfb",
+      "size": 249246515,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-29",
       "_rowKey": 30
     },
     {
@@ -911,23 +911,23 @@
       "category": "دراسة وذكاء اصطناعي",
       "versions": [
         {
-          "version": "4.3.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched",
-          "date": "2026-08-25",
-          "size": 128240844
+          "version": "4.3.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.3_pro_unlocked_patched",
+          "date": "2026-08-28",
+          "size": 115657932
         },
         {
-          "version": "4.0.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_&_pdf_markup_v4_1_2_pro_unlocked_blatant_patched"
+          "version": "4.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched"
         }
       ],
-      "version": "4.3.1",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.1_pro_unlocked_patched",
-      "size": 128240844,
+      "version": "4.3.3",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.3_pro_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_-_pdf_markup_v4.3.3_pro_unlocked_patched",
+      "size": 115657932,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-08-29",
       "_rowKey": 44
     },
     {
@@ -6858,23 +6858,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "12.9.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2",
-          "date": "2026-08-24",
-          "size": 178572492
+          "version": "12.9.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.3",
+          "date": "2026-08-28",
+          "size": 188953395
         },
         {
-          "version": "12.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.8"
+          "version": "12.9.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2"
         }
       ],
-      "version": "12.9.2",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2",
-      "size": 178572492,
+      "version": "12.9.3",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.3",
+      "size": 188953395,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-29",
       "_rowKey": 300
     },
     {
@@ -8133,23 +8133,23 @@
       "category": "ترفيه",
       "versions": [
         {
-          "version": "8.5.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.2-infuse-plus-v2.5-patched",
-          "date": "2026-08-27",
+          "version": "8.5.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.3-infuse-plus-v2.5-patched",
+          "date": "2026-08-28",
           "size": 102445875
         },
         {
-          "version": "8.5.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.1-infuse-plus-v2.5"
+          "version": "8.5.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.2-infuse-plus-v2.5-patched"
         }
       ],
-      "version": "8.5.2",
-      "versionDate": "2026-08-27",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.2-infuse-plus-v2.5-patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.2-infuse-plus-v2.5-patched",
+      "version": "8.5.3",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.3-infuse-plus-v2.5-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.3-infuse-plus-v2.5-patched",
       "size": 102445875,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-27",
+      "updatedAt": "2026-08-29",
       "_rowKey": 360
     },
     {
@@ -8737,19 +8737,23 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "6.00.01",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.00.01_subscription_unlocked_",
-          "date": "2026-08-24",
+          "version": "6.01.00",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.00_subscription_unlocked",
+          "date": "2026-08-28",
           "size": 53477376
+        },
+        {
+          "version": "6.00.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.00.01_subscription_unlocked_"
         }
       ],
-      "version": "6.00.01",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.00.01_subscription_unlocked_",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.00.01_subscription_unlocked_",
+      "version": "6.01.00",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.00_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.00_subscription_unlocked",
       "size": 53477376,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-29",
       "_rowKey": 385
     },
     {
@@ -8785,19 +8789,23 @@
       "category": "أدوات",
       "versions": [
         {
+          "version": "12.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion-vpn_v12.1_subscription_unlocked",
+          "date": "2026-08-28",
+          "size": 45088768
+        },
+        {
           "version": "12.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion_-_vpn_v12.0_subscription_unlocked",
-          "date": "2026-08-24",
-          "size": 161900134
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion_-_vpn_v12.0_subscription_unlocked"
         }
       ],
-      "version": "12.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion_-_vpn_v12.0_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion_-_vpn_v12.0_subscription_unlocked",
-      "size": 161900134,
+      "version": "12.1",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion-vpn_v12.1_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion-vpn_v12.1_subscription_unlocked",
+      "size": 45088768,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-29",
       "_rowKey": 387
     },
     {
@@ -13795,25 +13803,29 @@
     },
     {
       "id": "app-1787927819370",
-      "name": "Farming Simulator 18",
+      "name": "Farming Simulator 26",
       "bundleIdentifier": "com.ikiraplus.apps.farming-simulator-18.aa10e6a6c5",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/37/89/363789dc-2d58-7911-42b4-802e92a2d16a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "category": "ألعاب",
       "versions": [
         {
-          "version": "1.3.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/farming-simulator-18",
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/farming-simulator-26-v1.4.0",
           "date": "2026-08-28",
-          "size": 195454566
+          "size": 1967757721
+        },
+        {
+          "version": "1.3.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/farming-simulator-18"
         }
       ],
-      "version": "1.3.10",
-      "versionDate": "2026-08-28",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/farming-simulator-18",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/farming-simulator-18",
-      "size": 195454566,
+      "version": "1.4.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/farming-simulator-26-v1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/farming-simulator-26-v1.4.0",
+      "size": 1967757721,
       "addedAt": "2026-08-28",
-      "updatedAt": "2026-08-28",
+      "updatedAt": "2026-08-29",
       "_rowKey": 67
     },
     {
@@ -14619,6 +14631,28 @@
       "size": 114294784,
       "addedAt": "2026-08-28",
       "updatedAt": "2026-08-28"
+    },
+    {
+      "id": "app-1787936010338",
+      "name": "Very Little Nightmares",
+      "bundleIdentifier": "com.ikiraplus.apps.very-little-nightmares.42e311ae8d",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d3/14/27/d31427c5-5fa2-b234-43dc-f47ffc9ada8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/very-little-nightmares-v1.3.1",
+          "date": "2026-08-28",
+          "size": 755813580
+        }
+      ],
+      "version": "1.3.1",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/very-little-nightmares-v1.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/very-little-nightmares-v1.3.1",
+      "size": 755813580,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     }
   ]
 }
