@@ -455,7 +455,11 @@ def strong_identity_keys(app, include_url=True):
         # separate identities instead of being collapsed into one.
         keys.append(f"id:{clean_text(app_id).casefold()}:{name_norm}")
     if not is_empty(bundle):
-        keys.append(f"bundle:{clean_text(bundle).casefold()}")
+        # Same problem applies to bundleId/bundleIdentifier: jom.json sets it
+        # to the *original* app's bundle id for every mod of that app, so it
+        # is shared across otherwise-distinct apps (e.g. all Instagram mods
+        # carry bundleId com.burbn.instagram). Disambiguate with the name too.
+        keys.append(f"bundle:{clean_text(bundle).casefold()}:{name_norm}")
     if include_url and not is_empty(url):
         keys.append(f"url:{clean_text(url).casefold()}")
 
