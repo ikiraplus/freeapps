@@ -141,6 +141,113 @@
       "_rowKey": 6
     },
     {
+      "id": "com.burbn.instagram-b2f5240885",
+      "name": "instagram DL",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لتفعيل مميزات التطبيق:\n- اضغط على زر Home ضغطة طويلة",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "441.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram-dl_441.0.0",
+          "date": "2026-08-24",
+          "size": 319920537
+        },
+        {
+          "version": "432.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram-dl-432.0"
+        }
+      ],
+      "version": "441.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram-dl_441.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instagram-dl_441.0.0",
+      "size": 319920537,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.burbn.instagram-caa21be61e",
+      "name": "بيكرام",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773402346513.png",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "444.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_444.0.0-v3.1",
+          "date": "2026-08-29",
+          "size": 287414681
+        },
+        {
+          "version": "438.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_2.8"
+        }
+      ],
+      "version": "444.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_444.0.0-v3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram_444.0.0-v3.1",
+      "size": 287414681,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.burbn.instagram-4c4aebfad3",
+      "name": "instagram IG",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لتفعيل مميزات التطبيق:\n- اضغط على زر الملف الشخصي، ستجد أيقونة الريشة، اضغط عليها لفتح المميزات",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "443.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0",
+          "date": "2026-08-24",
+          "size": 326107136
+        },
+        {
+          "version": "435.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformatv2.4.0"
+        }
+      ],
+      "version": "443.1.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0",
+      "size": 326107136,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "net.whatsapp.WhatsApp-6147e09551",
+      "name": "Watusi",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "bundleId": "net.whatsapp.WhatsApp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b2/8a/e3b28a99-2fc5-641f-7b35-0a8094337b1a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "26.26.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc",
+          "date": "2026-08-24",
+          "size": 148583219
+        }
+      ],
+      "version": "26.26.10",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc",
+      "size": 148583219,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "net.whatsapp.WhatsAppSMB",
       "name": "WhatsApp Business - Gold",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
@@ -412,6 +519,29 @@
       "_rowKey": 20
     },
     {
+      "id": "com.zhiliaoapp.musically-2970e8c6c8",
+      "name": "+TikTok - tiktokBH",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/95/3c/f4953cfb-b350-6763-a0b4-ceed8cef74ed/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "45.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_45.6.0_bhtt+_1.2.1",
+          "date": "2026-08-24",
+          "size": 410517504
+        }
+      ],
+      "version": "45.6.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_45.6.0_bhtt+_1.2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok_45.6.0_bhtt+_1.2.1",
+      "size": 410517504,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "app-1773436350178",
       "name": "Facebook Glow",
       "bundleIdentifier": "com.facebook.Facebook",
@@ -601,6 +731,33 @@
       "_rowKey": 28
     },
     {
+      "id": "com.atebits.Tweetie2-aa0b6bc6ec",
+      "name": "X - Twitter - TWIGalaxy",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "bundleId": "com.atebits.Tweetie2",
+      "iconURL": "https://appstore.nabzclan.vip/images/icon_690aa6dcd1f26.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "12.14",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twigalaxyv1.14",
+          "date": "2026-08-24",
+          "size": 238026752
+        },
+        {
+          "version": "12.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x_12.9_dltwitter_2.17_twigalaxy"
+        }
+      ],
+      "version": "12.14",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twigalaxyv1.14",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twigalaxyv1.14",
+      "size": 238026752,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "app-1773546960824",
       "name": "X - Twitter (NeoFreeBird)",
       "bundleIdentifier": "com.atebits.Tweetie2",
@@ -627,6 +784,57 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-29",
       "_rowKey": 30
+    },
+    {
+      "id": "com.burbn.instagram-c7d48de218",
+      "name": "Instagram Theta",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "تطبيق معدل من iosgods\nلتفعيل المميزات اضغط على زر Home ضغطة طويلة",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "433.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/theta_v433.0.0-cracked",
+          "date": "2026-08-24",
+          "size": 291189555
+        }
+      ],
+      "version": "433.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/theta_v433.0.0-cracked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/theta_v433.0.0-cracked",
+      "size": 291189555,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.burbn.instagram-1e9304e3f3",
+      "name": "RyukGram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/ef/ec/eeefec6f-582d-90c7-ac6c-ea2ed8fd269a/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "444.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryukgram-444.0.0-v1.3.3",
+          "date": "2026-08-25",
+          "size": 321073971
+        },
+        {
+          "version": "439.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryukgram-sideload-439.0.0"
+        }
+      ],
+      "version": "444.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryukgram-444.0.0-v1.3.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ryukgram-444.0.0-v1.3.3",
+      "size": 321073971,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "sh.weme.wemesh",
@@ -1527,6 +1735,33 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 67
+    },
+    {
+      "id": "com.adobe.photoshop.ios-3bc554fbad",
+      "name": "Photoshop Express - (Hacked)",
+      "bundleIdentifier": "com.adobe.photoshop.ios",
+      "bundleId": "com.adobe.photoshop.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/cf/3f/c0cf3f9f-f11a-54fd-2820-bb8b6c8358b1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "26.34.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoshop_express_photo_editor_v26.34.1_subscription_unlocked",
+          "date": "2026-08-26",
+          "size": 173119897
+        },
+        {
+          "version": "7.3.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoshop-express-hacked_v733-1"
+        }
+      ],
+      "version": "26.34.1",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoshop_express_photo_editor_v26.34.1_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoshop_express_photo_editor_v26.34.1_subscription_unlocked",
+      "size": 173119897,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "store.ipa.gta3.de",
@@ -2898,6 +3133,30 @@
       "_rowKey": 121
     },
     {
+      "id": "com.scottgames.fivenights-ff0f075522",
+      "name": "Five Nights at Freddy's - Hack",
+      "bundleIdentifier": "com.scottgames.fivenights",
+      "bundleId": "com.scottgames.fivenights",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ae/4c/b5ae4c56-804f-1953-6fd5-eeabec3f759c/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "تطبيق معدل من iosgods",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.0.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys-wre7pm0ach-1",
+          "date": "2026-08-24",
+          "size": 109051904
+        }
+      ],
+      "version": "2.0.5",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys-wre7pm0ach-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys-wre7pm0ach-1",
+      "size": 109051904,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "fontskeyboard.fonts",
       "name": "Fonts",
       "bundleIdentifier": "fontskeyboard.fonts",
@@ -3898,6 +4157,79 @@
       "_rowKey": 161
     },
     {
+      "id": "com.google.ios.youtube-2fb595b8d6",
+      "name": "Youtube OLED",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777315108415.png",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "20.49.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-oled-20.49.5",
+          "date": "2026-08-24",
+          "size": 128974848
+        }
+      ],
+      "version": "20.49.5",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-oled-20.49.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube-oled-20.49.5",
+      "size": 128974848,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.google.ios.youtube-2723275319",
+      "name": "Youtube DL",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777315159741.png",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "21.31.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-dl_21.31.3",
+          "date": "2026-08-24",
+          "size": 146800640
+        },
+        {
+          "version": "21.22.05",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-dl-21.22.05"
+        }
+      ],
+      "version": "21.31.3",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-dl_21.31.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube-dl_21.31.3",
+      "size": 146800640,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.google.ios.youtube-5de5de552c",
+      "name": "Youtube LRD",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777315219858.png",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "20.50.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-lrd-20.50.9-",
+          "date": "2026-08-24",
+          "size": 130128281
+        }
+      ],
+      "version": "20.50.9",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-lrd-20.50.9-",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube-lrd-20.50.9-",
+      "size": 130128281,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.soundcloud.TouchApp",
       "name": "sound cloud",
       "bundleIdentifier": "com.soundcloud.TouchApp",
@@ -4163,6 +4495,52 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 174
+    },
+    {
+      "id": "com.zhiliaoapp.musically-d23009685c",
+      "name": "TikTok AC",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/4f/22/e24f22d8-3570-89bd-8acb-4ff7be733411/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "45.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/actiktok-45.0.0",
+          "date": "2026-08-24",
+          "size": 417123532
+        }
+      ],
+      "version": "45.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/actiktok-45.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/actiktok-45.0.0",
+      "size": 417123532,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.zhiliaoapp.musically-b7b39637e7",
+      "name": "TikTok RX",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/4f/22/e24f22d8-3570-89bd-8acb-4ff7be733411/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "43.9.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rxtiktok-43.9.0",
+          "date": "2026-08-24",
+          "size": 361444147
+        }
+      ],
+      "version": "43.9.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rxtiktok-43.9.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rxtiktok-43.9.0",
+      "size": 361444147,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.dualcarbon.bigrigstruckadventure",
@@ -4626,6 +5004,33 @@
       "_rowKey": 194
     },
     {
+      "id": "com.facebook.Messenger-afafe64396",
+      "name": "messenger plus x",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "bundleId": "com.facebook.Messenger",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemnhxz7XnQ1BiDuwUlmdQoYO9Wyko5-uOGQ&s",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "574.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_574.0.0",
+          "date": "2026-08-24",
+          "size": 111568486
+        },
+        {
+          "version": "571.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger_571.0.0_msgplusx_1.1"
+        }
+      ],
+      "version": "574.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_574.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_574.0.0",
+      "size": 111568486,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "jp.co.capcom.VillageUSios",
       "name": "resident evil village",
       "bundleIdentifier": "jp.co.capcom.VillageUSios",
@@ -4869,6 +5274,33 @@
       "_rowKey": 205
     },
     {
+      "id": "com.atebits.Tweetie2-14fd3fed92",
+      "name": "X DL",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "bundleId": "com.atebits.Tweetie2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/c5/9e/5fc59ee6-26bd-f9e2-66f4-67fda4f4c91a/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "12.15",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-dl_12.15",
+          "date": "2026-08-24",
+          "size": 245261926
+        },
+        {
+          "version": "11.96",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-(twitter)-dl-11.96"
+        }
+      ],
+      "version": "12.15",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-dl_12.15",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-dl_12.15",
+      "size": 245261926,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "jp.co.capcom.RE2US",
       "name": "Resident evil 2",
       "bundleIdentifier": "jp.co.capcom.RE2US",
@@ -5017,6 +5449,29 @@
       "_rowKey": 212
     },
     {
+      "id": "com.zhiliaoapp.musically-6dfa9aa7b5",
+      "name": "TikTok Al-asd",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "45.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_v45.8.0_asdtiktok_v1.2",
+          "date": "2026-08-24",
+          "size": 466092032
+        }
+      ],
+      "version": "45.8.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_v45.8.0_asdtiktok_v1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok_v45.8.0_asdtiktok_v1.2",
+      "size": 466092032,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.carx-tech.carxdr3",
       "name": "car x drift racing 3",
       "bundleIdentifier": "com.carx-tech.carxdr3",
@@ -5140,6 +5595,29 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 218
+    },
+    {
+      "id": "com.google.ios.youtube-347e7c12ff",
+      "name": "YouTube Al-Asd",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://thumbs.dreamstime.com/b/red-button-player-social-media-networks-multimedia-symbol-application-movie-video-eps-stock-vector-160216832.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "21.22.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube_asd_v21.22.4",
+          "date": "2026-08-24",
+          "size": 141033472
+        }
+      ],
+      "version": "21.22.4",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube_asd_v21.22.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube_asd_v21.22.4",
+      "size": 141033472,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.rockstargames.maxpayne",
@@ -5628,6 +6106,33 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 241
+    },
+    {
+      "id": "com.pikpok.dr2.iosstore-15ff3d74ba",
+      "name": "into the dead 2",
+      "bundleIdentifier": "com.pikpok.dr2.iosstore",
+      "bundleId": "com.pikpok.dr2.iosstore",
+      "iconURL": "https://play-lh.googleusercontent.com/KJzppbod8tdh0r8Jbh2BheG7zsYzByjlzfjbcvHz4_R-fhDQzBTcJnKgqdlKWDogEQ",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.86.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/into-the-dead2.1.86.1",
+          "date": "2026-08-24",
+          "size": 1835427430
+        },
+        {
+          "version": "1.85",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/into-the-dead-2"
+        }
+      ],
+      "version": "1.86.1",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/into-the-dead2.1.86.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/into-the-dead2.1.86.1",
+      "size": 1835427430,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.axlebolt.standoff2",
@@ -6273,6 +6778,29 @@
       "_rowKey": 268
     },
     {
+      "id": "com.hammerandchisel.discord-af8e2de208",
+      "name": "discord Al-Asd",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "bundleId": "com.hammerandchisel.discord",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFANoGT3f1gbelunDdQcakC4bresVKb4LPIFx2-T4_Q&s",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "335.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/discord_asd_335.0_v1.0",
+          "date": "2026-08-24",
+          "size": 115343360
+        }
+      ],
+      "version": "335.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/discord_asd_335.0_v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/discord_asd_335.0_v1.0",
+      "size": 115343360,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.dvloper.grannychaptertwo",
       "name": "Granny: Chapter Two",
       "bundleIdentifier": "com.dvloper.grannychaptertwo",
@@ -6449,6 +6977,33 @@
       "_rowKey": 276
     },
     {
+      "id": "com.atebits.Tweetie2-2e180bfed5",
+      "name": "X twitter - NFB-TWIgalaxy",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "bundleId": "com.atebits.Tweetie2",
+      "iconURL": "https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "12.21",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.21-nfb-twi",
+          "date": "2026-08-28",
+          "size": 249875660
+        },
+        {
+          "version": "12.17",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.17-nfb-twi"
+        }
+      ],
+      "version": "12.21",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.21-nfb-twi",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-12.21-nfb-twi",
+      "size": 249875660,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.abishkking.maleworkout",
       "name": "Home Workout - No Equipment",
       "bundleIdentifier": "com.abishkking.maleworkout",
@@ -6547,6 +7102,29 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 281
+    },
+    {
+      "id": "com.zhiliaoapp.musically-f75f3f9f80",
+      "name": "Tiktok Na",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783131285163.png",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "45.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-na9.45.8.0",
+          "date": "2026-08-24",
+          "size": 466406604
+        }
+      ],
+      "version": "45.8.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-na9.45.8.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok-na9.45.8.0",
+      "size": 466406604,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.kira.cinemanaa.x",
@@ -6673,6 +7251,33 @@
       "_rowKey": 287
     },
     {
+      "id": "com.zhiliaoapp.musically-9317cc2c72",
+      "name": "TikTok R3",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "46.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/r3tok_46.4.0-v2.1",
+          "date": "2026-08-24",
+          "size": 454033408
+        },
+        {
+          "version": "46.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/r3tok_46.2.0"
+        }
+      ],
+      "version": "46.4.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/r3tok_46.4.0-v2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/r3tok_46.4.0-v2.1",
+      "size": 454033408,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.hitv.ikiraplus",
       "name": "Hitv pro",
       "bundleIdentifier": "com.hitv.ikiraplus",
@@ -6745,6 +7350,60 @@
       "_rowKey": 291
     },
     {
+      "id": "com.zhiliaoapp.musically-56a651d839",
+      "name": "Tiktok GT",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "46.3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-v46.2.0-dyilb1.7",
+          "date": "2026-08-24",
+          "size": 419849830
+        },
+        {
+          "version": "46.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.2.0-v1.6"
+        }
+      ],
+      "version": "46.3.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-v46.2.0-dyilb1.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-v46.2.0-dyilb1.7",
+      "size": 419849830,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.burbn.instagram-6e30fa6f3c",
+      "name": "instagram sparkle",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "444.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-ig-444.0.0",
+          "date": "2026-08-29",
+          "size": 313209651
+        },
+        {
+          "version": "441.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle_ig_v441.0.0-v1.2.0"
+        }
+      ],
+      "version": "444.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-ig-444.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sparkle-ig-444.0.0",
+      "size": 313209651,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.playrix.gardenscapes-sweethome",
       "name": "homescapes",
       "bundleIdentifier": "com.playrix.gardenscapes-sweethome",
@@ -6773,6 +7432,33 @@
       "_rowKey": 294
     },
     {
+      "id": "com.ss.iphone.ugc.Ame-a64c263ebc",
+      "name": "TikTok Rust",
+      "bundleIdentifier": "com.ss.iphone.ugc.Ame",
+      "bundleId": "com.ss.iphone.ugc.Ame",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "46.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_46.4.0",
+          "date": "2026-08-24",
+          "size": 442708787
+        },
+        {
+          "version": "46.3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_v46.3.0-dyilb4.0"
+        }
+      ],
+      "version": "46.4.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_46.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_46.4.0",
+      "size": 442708787,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.cinee.trend",
       "name": "MoviaQuill",
       "bundleIdentifier": "com.cinee.trend",
@@ -6795,6 +7481,29 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 296
+    },
+    {
+      "id": "com.zhiliaoapp.musically-72b7487ece",
+      "name": "TikTok dog",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/d2/fe/38d2fe12-2dcb-7639-e032-2c395e8017b2/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "45.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tikdog_b~1-1",
+          "date": "2026-08-24",
+          "size": 423414988
+        }
+      ],
+      "version": "45.8.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tikdog_b~1-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tikdog_b~1-1",
+      "size": 423414988,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.rumaisahassan.CineMap",
@@ -6903,6 +7612,33 @@
       "_rowKey": 301
     },
     {
+      "id": "com.burbn.instagram-c74989d6eb",
+      "name": "RVX instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/4d/56/fd4d5647-b299-0ca9-67cd-a256af840bc4/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "441.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rvxinsta-441.0.0",
+          "date": "2026-08-29",
+          "size": 342464921
+        },
+        {
+          "version": "439.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rvxinsta-v439.1.0"
+        }
+      ],
+      "version": "441.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rvxinsta-441.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rvxinsta-441.0.0",
+      "size": 342464921,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.adobe.premiere.ios",
       "name": "Adobe Premiere AI Video Editor",
       "bundleIdentifier": "com.adobe.premiere.ios",
@@ -6929,6 +7665,60 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-26",
       "_rowKey": 303
+    },
+    {
+      "id": "com.burbn.instagram-2c76c795f8",
+      "name": "Instagram IQ",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/ef/4c/deef4c28-359a-c51d-2585-f7f186cf28b1/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "440.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqgram_v440.0.0-a1.1",
+          "date": "2026-08-24",
+          "size": 347812659
+        },
+        {
+          "version": "438.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqgram_1.0"
+        }
+      ],
+      "version": "440.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqgram_v440.0.0-a1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqgram_v440.0.0-a1.1",
+      "size": 347812659,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.zhiliaoapp.musically-6bda5e2c5e",
+      "name": "InfiniTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/2f/ee/bd2fee5f-b778-03d7-5a98-872587cb0bda/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "46.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-46.6.0-infinitok",
+          "date": "2026-08-25",
+          "size": 465253171
+        },
+        {
+          "version": "46.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infinitok_46.2.0"
+        }
+      ],
+      "version": "46.6.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-46.6.0-infinitok",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok-46.6.0-infinitok",
+      "size": 465253171,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.google.ios.youtubeee",
@@ -6986,6 +7776,33 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 307
+    },
+    {
+      "id": "com.google.ios.youtube-9462dde4a0",
+      "name": "Youpro",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "21.29",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youpro_1.3.1",
+          "date": "2026-08-24",
+          "size": 144179200
+        },
+        {
+          "version": "21.28",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youpro_1.3"
+        }
+      ],
+      "version": "21.29",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youpro_1.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youpro_1.3.1",
+      "size": 144179200,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.pandagaming.armada",
@@ -7240,6 +8057,33 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 318
+    },
+    {
+      "id": "com.atebits.Tweetie2-b02d4aaa0f",
+      "name": "X XEnhancer",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "bundleId": "com.atebits.Tweetie2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/95/b6/b895b6df-6440-133f-362e-aef78053c26f/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "12.15",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.15-xe-1.0.0",
+          "date": "2026-08-24",
+          "size": 224919552
+        },
+        {
+          "version": "12.13",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.13-xe-1.0.0"
+        }
+      ],
+      "version": "12.15",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.15-xe-1.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-12.15-xe-1.0.0",
+      "size": 224919552,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "co.detail.duo",
@@ -7829,6 +8673,29 @@
       "_rowKey": 342
     },
     {
+      "id": "com.burbn.instagram-18e1bae9a9",
+      "name": "Instagram Rocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/be/de/4cbedeca-02d7-e15c-9e14-b0ac165eeb5a/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "437.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram_v437.2.0_rocket_v4.3.3_patch",
+          "date": "2026-08-24",
+          "size": 241696768
+        }
+      ],
+      "version": "437.2.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram_v437.2.0_rocket_v4.3.3_patch",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instagram_v437.2.0_rocket_v4.3.3_patch",
+      "size": 241696768,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.hitvneo.ikiraplus",
       "name": "Hitv Kira",
       "bundleIdentifier": "com.hitvneo.ikiraplus",
@@ -7877,6 +8744,56 @@
       "_rowKey": 345
     },
     {
+      "id": "com.google.ios.youtube-37d717bc90",
+      "name": "YouTube Kace",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "21.34.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube_kace-21.34.3",
+          "date": "2026-08-29",
+          "size": 133798297
+        },
+        {
+          "version": "21.33.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube_21.33.5-ytkace_0.8.5"
+        }
+      ],
+      "version": "21.34.3",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube_kace-21.34.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube_kace-21.34.3",
+      "size": 133798297,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.google.ios.youtube-1fc0a5877a",
+      "name": "YouTube IQ",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "21.31.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtube_v21.31.3-v1.0",
+          "date": "2026-08-24",
+          "size": 141557760
+        }
+      ],
+      "version": "21.31.3",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtube_v21.31.3-v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtube_v21.31.3-v1.0",
+      "size": 141557760,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.moox.app",
       "name": "Moox TV Premium",
       "bundleIdentifier": "com.moox.app",
@@ -7923,6 +8840,60 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 349
+    },
+    {
+      "id": "com.soundcloud.TouchApp-4f905b4ab8",
+      "name": "Soundcloud Nexa",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "bundleId": "com.soundcloud.TouchApp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f9/36/22f936bd-f61d-d1e1-8227-7352688e9367/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "ترفيه",
+      "versions": [
+        {
+          "version": "8.74.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.74.0-nexasc",
+          "date": "2026-08-24",
+          "size": 118489088
+        },
+        {
+          "version": "8.71.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-nexa_8.71.0"
+        }
+      ],
+      "version": "8.74.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.74.0-nexasc",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.74.0-nexasc",
+      "size": 118489088,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "com.spotify.client-6066f1c4ff",
+      "name": "Spotify Eevee",
+      "bundleIdentifier": "com.spotify.client",
+      "bundleId": "com.spotify.client",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/74/07/42740742-a513-c1f3-ae00-b4b0a7d56ba5/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "ترفيه",
+      "versions": [
+        {
+          "version": "9.1.76",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_es",
+          "date": "2026-08-24",
+          "size": 132959436
+        },
+        {
+          "version": "9.1.74",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-eavee_9.1.74"
+        }
+      ],
+      "version": "9.1.76",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_es",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_es",
+      "size": 132959436,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.madfingergames.deadtrigger2",
@@ -8381,6 +9352,29 @@
       "_rowKey": 369
     },
     {
+      "id": "tv.twitch.beta-abd34212e5",
+      "name": "Twitch Control",
+      "bundleIdentifier": "tv.twitch.beta",
+      "bundleId": "tv.twitch.beta",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/82/7f/d9827f07-1d10-0186-70f2-1218df91066e/TwitchAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "30.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-control_30.8_tc",
+          "date": "2026-08-24",
+          "size": 139670323
+        }
+      ],
+      "version": "30.8",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-control_30.8_tc",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twitch-control_30.8_tc",
+      "size": 139670323,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.reddit.Reddit",
       "name": "Reddit Filter",
       "bundleIdentifier": "com.reddit.Reddit",
@@ -8807,6 +9801,33 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-29",
       "_rowKey": 387
+    },
+    {
+      "id": "ph.telegra.Telegraph-66a5a0f6f9",
+      "name": "Whitegram original",
+      "bundleIdentifier": "ph.telegra.Telegraph",
+      "bundleId": "ph.telegra.Telegraph",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784188165660.png",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "12.9.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.3-tweak-6.0.2",
+          "date": "2026-08-28",
+          "size": 176370483
+        },
+        {
+          "version": "6.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-6.0.2-sideload"
+        }
+      ],
+      "version": "12.9.3",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.3-tweak-6.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.3-tweak-6.0.2",
+      "size": 176370483,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.huami.LoadController",
@@ -9273,6 +10294,29 @@
       "_rowKey": 407
     },
     {
+      "id": "com.gamedevltd.infinityops-c9d629503f",
+      "name": "Infinity Ops Sci Fi Fps",
+      "bundleIdentifier": "com.gamedevltd.infinityops",
+      "bundleId": "com.gamedevltd.infinityops",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/dd/e9/bddde945-c83e-6e82-abb6-5883fc91d400/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.13.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infinity-ops-sci-fi-fps-hack",
+          "date": "2026-08-24",
+          "size": 487273267
+        }
+      ],
+      "version": "1.13.7",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infinity-ops-sci-fi-fps-hack",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infinity-ops-sci-fi-fps-hack",
+      "size": 487273267,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.venturesis.lastwave",
       "name": "Last Wave Shooting Game",
       "bundleIdentifier": "com.venturesis.lastwave",
@@ -9343,6 +10387,29 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 412
+    },
+    {
+      "id": "com.GoPlayGames.FCM26-44b0d10130",
+      "name": "Football Club Management 2026",
+      "bundleIdentifier": "com.GoPlayGames.FCM26",
+      "bundleId": "com.GoPlayGames.FCM26",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c1/97/84c19766-699a-2631-e5e4-a713f3c1b35c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football-club-management-2026-hack",
+          "date": "2026-08-24",
+          "size": 470810624
+        }
+      ],
+      "version": "1.1.7",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football-club-management-2026-hack",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football-club-management-2026-hack",
+      "size": 470810624,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.zombie.gun.shooter",
@@ -10087,6 +11154,29 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 444
+    },
+    {
+      "id": "com.carx-tech.carxdr3-5d55491765",
+      "name": "Carx Drift Racing 3",
+      "bundleIdentifier": "com.carx-tech.carxdr3",
+      "bundleId": "com.carx-tech.carxdr3",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/08/5d/ba085d25-6300-4827-da18-bc39e6639b32/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.15.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-drift-racing-3",
+          "date": "2026-08-24",
+          "size": 982515712
+        }
+      ],
+      "version": "1.15.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carx-drift-racing-3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carx-drift-racing-3",
+      "size": 982515712,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.strategy.world.war.tactics.games",
@@ -11197,6 +12287,29 @@
       "_rowKey": 491
     },
     {
+      "id": "com.protools.Watermark-5e5ef827c9",
+      "name": "Logo Maker generator",
+      "bundleIdentifier": "com.protools.Watermark",
+      "bundleId": "com.protools.Watermark",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/a0/52/1aa05285-5398-e7b9-7b3d-101a13fecef3/AppIconFree-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "3.7.57",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/logo-maker",
+          "date": "2026-08-24",
+          "size": 70674022
+        }
+      ],
+      "version": "3.7.57",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/logo-maker",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/logo-maker",
+      "size": 70674022,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.markodevcic.python-code-pad",
       "name": "Python Coding editor IDE",
       "bundleIdentifier": "com.markodevcic.python-code-pad",
@@ -11435,6 +12548,29 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 502
+    },
+    {
+      "id": "com.football.soccer.league-fcd0c8a8c6",
+      "name": "Football League 26",
+      "bundleIdentifier": "com.football.soccer.league",
+      "bundleId": "com.football.soccer.league",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/50/c9/a450c92d-17c9-6223-3368-a27f408742c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "0.2.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football-league26-v0.2.11",
+          "date": "2026-08-24",
+          "size": 462946304
+        }
+      ],
+      "version": "0.2.11",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football-league26-v0.2.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football-league26-v0.2.11",
+      "size": 462946304,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "com.notdoppler.earntodierogue",
@@ -12256,6 +13392,29 @@
       "_rowKey": 537
     },
     {
+      "id": "com.frontierdesign.videostar-a8ea5dea63",
+      "name": "Video star Hacked 2",
+      "bundleIdentifier": "com.frontierdesign.videostar",
+      "bundleId": "com.frontierdesign.videostar",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/55/6d/64556ddd-7c34-10cd-9cad-3306757da564/AppIconVS-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "15.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videostar-15.1.1",
+          "date": "2026-08-24",
+          "size": 551341260
+        }
+      ],
+      "version": "15.1.1",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videostar-15.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/videostar-15.1.1",
+      "size": 551341260,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
+    },
+    {
       "id": "com.oxvgames.dicelords",
       "name": "Dice Lords",
       "bundleIdentifier": "com.oxvgames.dicelords",
@@ -12565,6 +13724,33 @@
       "addedAt": "2026-08-23",
       "updatedAt": "2026-08-24",
       "_rowKey": 551
+    },
+    {
+      "id": "com.google.ios.youtube-227eaa38be",
+      "name": "Youmod",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "21.34.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youmod_21.34.3_v2.0",
+          "date": "2026-08-25",
+          "size": 128555417
+        },
+        {
+          "version": "21.33.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youmod_21.33.6_v2.0.0"
+        }
+      ],
+      "version": "21.34.3",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youmod_21.34.3_v2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youmod_21.34.3_v2.0",
+      "size": 128555417,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29"
     },
     {
       "id": "app-1787549882966",
