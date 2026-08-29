@@ -16112,6 +16112,29 @@
       "addedAt": "2026-08-29",
       "updatedAt": "2026-08-29",
       "localizedDescription": ""
+    },
+    {
+      "id": "app-1788034975110",
+      "name": "iQFace",
+      "bundleIdentifier": "com.ikiraplus.apps.iqface.21a00e7acf",
+      "iconURL": "https://store-images.s-microsoft.com/image/apps.30645.9007199266245907.cb06f1f9-9154-408e-b4ef-d19f2325893b.ac3b465e-4384-42a8-9142-901c0405e1bc",
+      "category": "communication",
+      "versions": [
+        {
+          "version": "577.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqface_577.0.0-v1.0",
+          "date": "2026-08-29",
+          "size": 227331276
+        }
+      ],
+      "version": "577.0.0",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqface_577.0.0-v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqface_577.0.0-v1.0",
+      "size": 227331276,
+      "addedAt": "2026-08-29",
+      "updatedAt": "2026-08-29",
+      "localizedDescription": ""
     }
   ],
   "translationFormatVersion": 3
