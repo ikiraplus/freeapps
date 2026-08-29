@@ -377,7 +377,30 @@ def find_start_index(apps):
     raise ValueError(f"Start app '{START_APP_NAME}' was not found. First apps: {names_preview}")
 
 
-def normalize_app(app, used_bundles, fallback_bundle=None):
+def make_unique_id(app, used_ids):
+    """
+    Some source apps reuse the same underlying "id" for multiple distinct
+    mods (e.g. ريكرام/بيكرام both ship as com.burbn.instagram, YouTube Kace
+    reuses com.google.ios.youtube). The output format requires every app's
+    "id" to be unique, so disambiguate collisions deterministically (based on
+    id+name) instead of dropping the later app entirely.
+    """
+    base = first_non_empty(app.get("id"))
+    if is_empty(base):
+        return app.get("id")
+
+    base = clean_text(base)
+    key = base.casefold()
+    if key not in used_ids:
+        used_ids.add(key)
+        return base
+
+    candidate = f"{base}-{stable_hash(app.get('id'), app.get('name'))}"
+    used_ids.add(candidate.casefold())
+    return candidate
+
+
+def normalize_app(app, used_bundles, fallback_bundle=None, used_ids=None):
     fixed = copy.deepcopy(app)
 
     if "name" in fixed:
@@ -407,6 +430,8 @@ def normalize_app(app, used_bundles, fallback_bundle=None):
     fixed.pop("previousVersions", None)
 
     fixed["bundleIdentifier"] = make_bundle(fixed, used_bundles, fallback_bundle=fallback_bundle)
+    if used_ids is not None:
+        fixed["id"] = make_unique_id(fixed, used_ids)
     drop_removed_fields(fixed)
     return order_dict(fixed, APP_FIELD_ORDER)
 
@@ -420,9 +445,15 @@ def strong_identity_keys(app, include_url=True):
     app_id = first_non_empty(app.get("id"))
     bundle = first_non_empty(app.get("bundleIdentifier"), app.get("bundleId"))
     url = first_non_empty(app.get("downloadURL"), app.get("ipaUrl"))
+    name_norm = normalize_arabic(app.get("name"))
 
     if not is_empty(app_id):
-        keys.append(f"id:{clean_text(app_id).casefold()}")
+        # Some source apps reuse the same underlying "id" (e.g. the original
+        # app's bundle id) for multiple distinct mods (e.g. ريكرام/بيكرام both
+        # use com.burbn.instagram, YouTube Kace reuses com.google.ios.youtube).
+        # Combine id with the (normalized) name so these are treated as
+        # separate identities instead of being collapsed into one.
+        keys.append(f"id:{clean_text(app_id).casefold()}:{name_norm}")
     if not is_empty(bundle):
         keys.append(f"bundle:{clean_text(bundle).casefold()}")
     if include_url and not is_empty(url):
@@ -578,6 +609,7 @@ def prepare_source_records(jom_source, target_apps):
     target_lookup, duplicate_target_keys = build_target_lookup(target_apps)
 
     used_bundles = set()
+    used_ids = set()
     seen_source_keys = set()
     source_records = []
     skipped_certificates = []
@@ -597,7 +629,7 @@ def prepare_source_records(jom_source, target_apps):
                 target_apps[preliminary_match].get("bundleId"),
             )
 
-        fixed_app = normalize_app(raw_app, used_bundles, fallback_bundle=fallback_bundle)
+        fixed_app = normalize_app(raw_app, used_bundles, fallback_bundle=fallback_bundle, used_ids=used_ids)
         if is_certificate_app(fixed_app):
             skipped_certificates.append(clean_text(fixed_app.get("name") or fixed_app.get("id")))
             continue
