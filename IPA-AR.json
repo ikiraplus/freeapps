@@ -14030,95 +14030,99 @@
       "_rowKey": 72
     },
     {
-      "id": "app-1787654369143",
+      "id": "com.livintis.chatty",
       "name": "AI Chat Chatty AI Chatbot",
-      "bundleIdentifier": "com.ikiraplus.apps.ai-chat-chatty-ai-chatbot.62c7ad9798",
+      "bundleIdentifier": "com.livintis.chatty",
+      "bundleId": "com.livintis.chatty",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5c/ee/cf5cee40-70b6-7230-1b71-fe126be7f9e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "دراسة وذكاء اصطناعي",
       "versions": [
         {
           "version": "2.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-chat-chatty.ai-chatbot-v2.0",
-          "date": "2026-08-25",
+          "date": "2026-08-30",
           "size": 52638515
         }
       ],
       "version": "2.0",
-      "versionDate": "2026-08-25",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-chat-chatty.ai-chatbot-v2.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-chat-chatty.ai-chatbot-v2.0",
       "size": 52638515,
       "addedAt": "2026-08-25",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-08-30",
       "_rowKey": 73
     },
     {
-      "id": "app-1787655541169",
+      "id": "com.hammerandchisel.discord-84dae0c09a",
       "name": "Discord unbound",
-      "bundleIdentifier": "com.ikiraplus.apps.discord-unbound.74a87e6ff0",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "bundleId": "com.hammerandchisel.discord",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/54/bf/e954bfcc-dbe3-7531-99d9-1696ab804e46/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "category": "تواصل",
       "versions": [
         {
           "version": "342.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/discord-342.0-unbound-2.5.1",
-          "date": "2026-08-25",
+          "date": "2026-08-30",
           "size": 114504499
         }
       ],
       "version": "342.0",
-      "versionDate": "2026-08-25",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/discord-342.0-unbound-2.5.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/discord-342.0-unbound-2.5.1",
       "size": 114504499,
       "addedAt": "2026-08-25",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-08-30",
       "_rowKey": 66
     },
     {
-      "id": "app-1787655711998",
+      "id": "app.scenebox.SceneBox",
       "name": "Scenebox",
-      "bundleIdentifier": "com.ikiraplus.apps.scenebox.c7aea37097",
+      "bundleIdentifier": "app.scenebox.SceneBox",
+      "bundleId": "app.scenebox.SceneBox",
       "iconURL": "https://m.media-amazon.com/images/I/51cNmo949NL.png",
       "category": "ترفيه",
       "versions": [
         {
           "version": "1.0.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scenebox-1.0.2",
-          "date": "2026-08-25",
+          "date": "2026-08-30",
           "size": 30303846
         }
       ],
       "version": "1.0.2",
-      "versionDate": "2026-08-25",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scenebox-1.0.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scenebox-1.0.2",
       "size": 30303846,
       "addedAt": "2026-08-25",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-08-30",
       "_rowKey": 67
     },
     {
-      "id": "app-1787655854190",
+      "id": "com.zhiliaoapp.musically-f6e925ac2f",
       "name": "SadaTik",
-      "bundleIdentifier": "com.ikiraplus.apps.sadatik.763133491a",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/f6/9e/b4f69e23-a20c-784c-7f41-400fd8ab3d1c/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "category": "تواصل",
       "versions": [
         {
           "version": "46.6.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_v46.6.0-sadatik",
-          "date": "2026-08-25",
+          "date": "2026-08-30",
           "size": 448266240
         }
       ],
       "version": "46.6.0",
-      "versionDate": "2026-08-25",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_v46.6.0-sadatik",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok_v46.6.0-sadatik",
       "size": 448266240,
       "addedAt": "2026-08-25",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-08-30",
       "_rowKey": 1
     },
     {
@@ -14329,26 +14333,27 @@
       "_rowKey": 1
     },
     {
-      "id": "app-1787848953766",
+      "id": "com.soundcloud.TouchApp-3dc6e17a0b",
       "name": "Sound Cloud GT",
-      "bundleIdentifier": "com.ikiraplus.apps.sound-cloud-gt.402e240116",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "bundleId": "com.soundcloud.TouchApp",
       "iconURL": "https://play-lh.googleusercontent.com/rfmCNUApzYntPTdAVmor5vpaOGxIUJWNlpED2pwKcDuCTUaf_2vJlOALNzX1PiejSgZIuAT8k0F5xIBU58JG3g",
       "category": "ترفيه",
       "versions": [
         {
           "version": "8.74.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt-v8.74.0",
-          "date": "2026-08-27",
+          "date": "2026-08-30",
           "size": 115133644
         }
       ],
       "version": "8.74.0",
-      "versionDate": "2026-08-27",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt-v8.74.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt-v8.74.0",
       "size": 115133644,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-08-27",
+      "updatedAt": "2026-08-30",
       "_rowKey": 67
     },
     {
@@ -14375,26 +14380,27 @@
       "_rowKey": 68
     },
     {
-      "id": "app-1787849028318",
+      "id": "com.hammerandchisel.discord-ffa04d9e82",
       "name": "Discord Rain",
-      "bundleIdentifier": "com.ikiraplus.apps.discord-rain.71545e2904",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "bundleId": "com.hammerandchisel.discord",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/54/bf/e954bfcc-dbe3-7531-99d9-1696ab804e46/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "category": "تواصل",
       "versions": [
         {
           "version": "334.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/discord-rain-334.0",
-          "date": "2026-08-27",
+          "date": "2026-08-30",
           "size": 107479040
         }
       ],
       "version": "334.0",
-      "versionDate": "2026-08-27",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/discord-rain-334.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/discord-rain-334.0",
       "size": 107479040,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-08-27",
+      "updatedAt": "2026-08-30",
       "_rowKey": 69
     },
     {
@@ -14927,26 +14933,27 @@
       "_rowKey": 81
     },
     {
-      "id": "app-1787852892340",
+      "id": "com.zhiliaoapp.musically-32dc26a8e1",
       "name": "ASJ TikTok",
-      "bundleIdentifier": "com.ikiraplus.apps.asj-tiktok.b968654146",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/95/3c/f4953cfb-b350-6763-a0b4-ceed8cef74ed/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "category": "تواصل",
       "versions": [
         {
           "version": "46.5.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asj-tik-tok-46.5.0-v1.1.9",
-          "date": "2026-08-27",
+          "date": "2026-08-30",
           "size": 461688012
         }
       ],
       "version": "46.5.0",
-      "versionDate": "2026-08-27",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asj-tik-tok-46.5.0-v1.1.9",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asj-tik-tok-46.5.0-v1.1.9",
       "size": 461688012,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-08-27",
+      "updatedAt": "2026-08-30",
       "_rowKey": 1
     },
     {
@@ -16447,9 +16454,10 @@
       "updatedAt": "2026-08-29"
     },
     {
-      "id": "app-1788011928172",
+      "id": "com.geniecalc.app.en",
       "name": "GenieCalc",
-      "bundleIdentifier": "com.ikiraplus.apps.geniecalc.2c807a6398",
+      "bundleIdentifier": "com.geniecalc.app.en",
+      "bundleId": "com.geniecalc.app.en",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/df/f0/7cdff054-909f-5979-5a1c-8f9dc2ad06d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
       "category": "دراسة وذكاء اصطناعي",
@@ -16457,17 +16465,17 @@
         {
           "version": "1.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/geniecalc_v1.0",
-          "date": "2026-08-29",
+          "date": "2026-08-30",
           "size": 3984588
         }
       ],
       "version": "1.0",
-      "versionDate": "2026-08-29",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/geniecalc_v1.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/geniecalc_v1.0",
       "size": 3984588,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-08-29"
+      "updatedAt": "2026-08-30"
     },
     {
       "id": "app-1788012010499",
@@ -16493,9 +16501,10 @@
       "updatedAt": "2026-08-29"
     },
     {
-      "id": "app-1788012079729",
+      "id": "com.pisheru.Offline-AI-Pisheru",
       "name": "Offline AI On Device",
-      "bundleIdentifier": "com.ikiraplus.apps.offline-ai-on-device.c467d206f4",
+      "bundleIdentifier": "com.pisheru.Offline-AI-Pisheru",
+      "bundleId": "com.pisheru.Offline-AI-Pisheru",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/db/6c/f8db6ce4-9153-e913-2a10-219f46b8da41/icon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
       "category": "دراسة وذكاء اصطناعي",
@@ -16503,17 +16512,17 @@
         {
           "version": "1.1.6",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/offline-ai-om-device-1.1.6",
-          "date": "2026-08-29",
+          "date": "2026-08-30",
           "size": 4508876
         }
       ],
       "version": "1.1.6",
-      "versionDate": "2026-08-29",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/offline-ai-om-device-1.1.6",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/offline-ai-om-device-1.1.6",
       "size": 4508876,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-08-29"
+      "updatedAt": "2026-08-30"
     },
     {
       "id": "app-1788012102779",
@@ -16562,9 +16571,10 @@
       "updatedAt": "2026-08-29"
     },
     {
-      "id": "app-1788012182549",
+      "id": "com.ethan.ego",
       "name": "Ego Chat",
-      "bundleIdentifier": "com.ikiraplus.apps.ego-chat.53f3d4379d",
+      "bundleIdentifier": "com.ethan.ego",
+      "bundleId": "com.ethan.ego",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/9c/03/b69c03e5-c3f4-0c9a-acc9-760e2f16086d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
       "category": "دراسة وذكاء اصطناعي",
@@ -16572,17 +16582,17 @@
         {
           "version": "1.0.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ego-chat_v1.0.2",
-          "date": "2026-08-29",
+          "date": "2026-08-30",
           "size": 14470348
         }
       ],
       "version": "1.0.2",
-      "versionDate": "2026-08-29",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ego-chat_v1.0.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ego-chat_v1.0.2",
       "size": 14470348,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-08-29"
+      "updatedAt": "2026-08-30"
     },
     {
       "id": "app-1788012340255",
@@ -16608,9 +16618,10 @@
       "updatedAt": "2026-08-29"
     },
     {
-      "id": "app-1788012418129",
+      "id": "NPLLC.SciCalcPro",
       "name": "SciCalc Pro",
-      "bundleIdentifier": "com.ikiraplus.apps.scicalc-pro.69a82c64cb",
+      "bundleIdentifier": "NPLLC.SciCalcPro",
+      "bundleId": "NPLLC.SciCalcPro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/e7/bf/5ee7bfff-11b7-304b-717c-2c95476da503/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
       "category": "دراسة وذكاء اصطناعي",
@@ -16618,17 +16629,17 @@
         {
           "version": "1.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scicalcpro-1.0",
-          "date": "2026-08-29",
+          "date": "2026-08-30",
           "size": 1258291
         }
       ],
       "version": "1.0",
-      "versionDate": "2026-08-29",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scicalcpro-1.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scicalcpro-1.0",
       "size": 1258291,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-08-29"
+      "updatedAt": "2026-08-30"
     },
     {
       "id": "app-1788012476435",
@@ -16763,31 +16774,33 @@
       "updatedAt": "2026-08-29"
     },
     {
-      "id": "app-1788034975110",
+      "id": "com.facebook.Facebook-1718c3f155",
       "name": "iQFace",
-      "bundleIdentifier": "com.ikiraplus.apps.iqface.21a00e7acf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "bundleId": "com.facebook.Facebook",
       "iconURL": "https://store-images.s-microsoft.com/image/apps.30645.9007199266245907.cb06f1f9-9154-408e-b4ef-d19f2325893b.ac3b465e-4384-42a8-9142-901c0405e1bc",
       "category": "تواصل",
       "versions": [
         {
           "version": "577.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqface_577.0.0-v1.0",
-          "date": "2026-08-29",
+          "date": "2026-08-30",
           "size": 227331276
         }
       ],
       "version": "577.0.0",
-      "versionDate": "2026-08-29",
+      "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqface_577.0.0-v1.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqface_577.0.0-v1.0",
       "size": 227331276,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-08-29"
+      "updatedAt": "2026-08-30"
     },
     {
-      "id": "app-1788077338735",
+      "id": "ryuk2.anoxclan.com",
       "name": "RyukSign",
-      "bundleIdentifier": "com.ikiraplus.apps.ryuksign.aa82987454",
+      "bundleIdentifier": "ryuk2.anoxclan.com",
+      "bundleId": "ryuk2.anoxclan.com",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788077338735.png",
       "category": "أخرى",
       "versions": [
@@ -16795,14 +16808,14 @@
           "version": "3.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0",
           "date": "2026-08-30",
-          "size": 18035507
+          "size": 17930649
         }
       ],
       "version": "3.0",
       "versionDate": "2026-08-30",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0",
-      "size": 18035507,
+      "size": 17930649,
       "addedAt": "2026-08-30",
       "updatedAt": "2026-08-30"
     },
@@ -17142,9 +17155,10 @@
       "updatedAt": "2026-08-30"
     },
     {
-      "id": "app-1788080651572",
+      "id": "com.codigames.idle.prison.empire.manager.tycoon",
       "name": "Prison Empire",
-      "bundleIdentifier": "com.ikiraplus.apps.prison-empire.aef9c43d52",
+      "bundleIdentifier": "com.codigames.idle.prison.empire.manager.tycoon",
+      "bundleId": "com.codigames.idle.prison.empire.manager.tycoon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/de/00/b2de002b-e23d-375e-e235-ad31f45b9a84/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "ألعاب",
       "versions": [
@@ -17164,9 +17178,10 @@
       "updatedAt": "2026-08-30"
     },
     {
-      "id": "app-1788080726545",
+      "id": "com.tinyco.potter",
       "name": "Harry Potter: Hogwarts Mystery",
-      "bundleIdentifier": "com.ikiraplus.apps.harry-potter-hogwarts-mystery.5c03858588",
+      "bundleIdentifier": "com.tinyco.potter",
+      "bundleId": "com.tinyco.potter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/14/66/d21466b0-738f-a514-c537-c582f6eefdfd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "ألعاب",
       "versions": [
