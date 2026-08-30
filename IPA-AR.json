@@ -1507,31 +1507,31 @@
     },
     {
       "id": "app-1774774281798",
-      "name": "Pubg gl hack",
+      "name": "Pubg GL Hack",
       "bundleIdentifier": "com.tencent.ig",
       "bundleId": "com.tencent.ig",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "استخدام هذا التطبيق على مسؤوليتك الخاصة، ولا نضمنه ولا نعرف الجهة المطورة له\nكود التفعيل\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd\nمميزات التطبيق:\n- كشف اللاعبين (رادار)\n- حذف قيست\n- تصويب تلقائي (Aim Bot)\n- ثبات داخلي",
+      "localizedDescription": "استخدام هذا التطبيق على مسؤوليتك الخاصة، ولا نضمنه ولا نعرف الجهة المطورة له\nمميزات التطبيق:\n- كشف اللاعبين (رادار)\n- حذف قيست\n- تصويب تلقائي (Aim Bot)\n- ثبات داخلي",
       "category": "ألعاب",
       "versions": [
         {
-          "version": "1.4.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-gl-v1.4.5",
-          "date": "2026-07-20",
-          "size": 3766694707
+          "version": "4.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-gl-4.5.0",
+          "date": "2026-08-30",
+          "size": 3762605260
         },
         {
-          "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg_gl_440_kingmod_update_05"
+          "version": "1.4.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-gl-v1.4.5"
         }
       ],
-      "version": "1.4.5",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-gl-v1.4.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-gl-v1.4.5",
-      "size": 3766694707,
+      "version": "4.5.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-gl-4.5.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-gl-4.5.0",
+      "size": 3762605260,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-30",
       "_rowKey": 59
     },
     {
@@ -7036,23 +7036,23 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "2.85",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.85_subscription_unlocked__patched",
-          "date": "2026-08-24",
-          "size": 399192883
+          "version": "2.86",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.86_subscription_unlocked_patched",
+          "date": "2026-08-30",
+          "size": 402338611
         },
         {
-          "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap"
+          "version": "2.85",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.85_subscription_unlocked__patched"
         }
       ],
-      "version": "2.85",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.85_subscription_unlocked__patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.85_subscription_unlocked__patched",
-      "size": 399192883,
+      "version": "2.86",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.86_subscription_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.86_subscription_unlocked_patched",
+      "size": 402338611,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-30",
       "_rowKey": 279
     },
     {
@@ -16783,6 +16783,407 @@
       "size": 227331276,
       "addedAt": "2026-08-29",
       "updatedAt": "2026-08-29"
+    },
+    {
+      "id": "app-1788077338735",
+      "name": "RyukSign",
+      "bundleIdentifier": "com.ikiraplus.apps.ryuksign.aa82987454",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788077338735.png",
+      "category": "أخرى",
+      "versions": [
+        {
+          "version": "3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0",
+          "date": "2026-08-30",
+          "size": 18035507
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0",
+      "size": 18035507,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788078526271",
+      "name": "Stow Player",
+      "bundleIdentifier": "com.ikiraplus.apps.stow-player.6d123c8d6c",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/0d/3f/e90d3f3d-468b-bde3-6334-d514c56df108/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stow-player_v1.0",
+          "date": "2026-08-30",
+          "size": 3250585
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stow-player_v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/stow-player_v1.0",
+      "size": 3250585,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788078560503",
+      "name": "PersoPhoto",
+      "bundleIdentifier": "com.ikiraplus.apps.persophoto.d198b526e7",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/01/d5/cd01d591-2480-c7c3-05d3-e2a6f3fd4b75/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "2.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/persophoto_v2.0.1",
+          "date": "2026-08-30",
+          "size": 20342374
+        }
+      ],
+      "version": "2.0.1",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/persophoto_v2.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/persophoto_v2.0.1",
+      "size": 20342374,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788078621655",
+      "name": "MiruMado Focus Browse",
+      "bundleIdentifier": "com.ikiraplus.apps.mirumado-focus-browse.67497941f7",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/8b/0b/158b0b07-5807-ee83-c85e-83e104055b0c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mirumado-focus-v1.0.4",
+          "date": "2026-08-30",
+          "size": 3145728
+        }
+      ],
+      "version": "1.0.4",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mirumado-focus-v1.0.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mirumado-focus-v1.0.4",
+      "size": 3145728,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788078663548",
+      "name": "HiddenChat",
+      "bundleIdentifier": "com.ikiraplus.apps.hiddenchat.57507b5e33",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/0f/84/1a0f84b2-6117-b63a-2787-d788e2fc79e7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
+      "category": "دراسة وذكاء اصطناعي",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hiddenchat_v1.0.0",
+          "date": "2026-08-30",
+          "size": 737044070
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hiddenchat_v1.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hiddenchat_v1.0.0",
+      "size": 737044070,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788078722220",
+      "name": "Private Voice Notes",
+      "bundleIdentifier": "com.ikiraplus.apps.private-voice-notes.c69be50404",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/1b/94/441b9417-163f-98fc-4f06-391acfa1b3d0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/private-voice-notes-v1.0",
+          "date": "2026-08-30",
+          "size": 1468006
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/private-voice-notes-v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/private-voice-notes-v1.0",
+      "size": 1468006,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788079126313",
+      "name": "Combat Master Mobile",
+      "bundleIdentifier": "com.ikiraplus.apps.combat-master-mobile.aa25867bdd",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/45/40/3b45408f-5640-7da5-caf7-c67f4ba43938/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "0.29.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/combat-master-mobile-v0.29.2",
+          "date": "2026-08-30",
+          "size": 1887856230
+        }
+      ],
+      "version": "0.29.2",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/combat-master-mobile-v0.29.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/combat-master-mobile-v0.29.2",
+      "size": 1887856230,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788079147784",
+      "name": "Rally Fury Extreme Racing",
+      "bundleIdentifier": "com.ikiraplus.apps.rally-fury-extreme-racing.5c38c62e0d",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/0d/7e/8b0d7eb8-05c3-b23e-df7c-71844d707da3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.77",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rally-fury-extreme-racing-v1.0.77",
+          "date": "2026-08-30",
+          "size": 186122240
+        }
+      ],
+      "version": "1.0.77",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rally-fury-extreme-racing-v1.0.77",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rally-fury-extreme-racing-v1.0.77",
+      "size": 186122240,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788079167746",
+      "name": "Meridian 157 Chapter 1",
+      "bundleIdentifier": "com.ikiraplus.apps.meridian-157-chapter-1.c2b1bc9ff0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/02/76/07027604-903b-28a8-ff39-6972c96529ef/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/meridian-157-chapter-1-v1.1.7",
+          "date": "2026-08-30",
+          "size": 195349708
+        }
+      ],
+      "version": "1.1.7",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/meridian-157-chapter-1-v1.1.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/meridian-157-chapter-1-v1.1.7",
+      "size": 195349708,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788079184136",
+      "name": "Meridian 157 Chapter 2",
+      "bundleIdentifier": "com.ikiraplus.apps.meridian-157-chapter-2.35e910d6aa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/9b/e7/e69be737-0fcb-a37b-414d-f14692eb61fc/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/meridian-157-chapter-2-v1.1.5",
+          "date": "2026-08-30",
+          "size": 320654540
+        }
+      ],
+      "version": "1.1.5",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/meridian-157-chapter-2-v1.1.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/meridian-157-chapter-2-v1.1.5",
+      "size": 320654540,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788080526174",
+      "name": "Meridian 157 Chapter 3",
+      "bundleIdentifier": "com.ikiraplus.apps.meridian-157-chapter-3.be50c9dcad",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/77/6b/d7776bcb-f61d-51a9-9e2f-d99fc9644c0a/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/meridian-157-chapter-3-v1.1.0",
+          "date": "2026-08-30",
+          "size": 753192140
+        }
+      ],
+      "version": "1.1.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/meridian-157-chapter-3-v1.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/meridian-157-chapter-3-v1.1.0",
+      "size": 753192140,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788080540558",
+      "name": "Dungeon Survivor",
+      "bundleIdentifier": "com.ikiraplus.apps.dungeon-survivor.e4a2afb5c2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/17/05/0b1705c5-a35a-0498-ca21-45f541e6573d/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.9.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dungeon-survivor-v2.9.9",
+          "date": "2026-08-30",
+          "size": 40684748
+        }
+      ],
+      "version": "2.9.9",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dungeon-survivor-v2.9.9",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dungeon-survivor-v2.9.9",
+      "size": 40684748,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788080553991",
+      "name": "Dragons Rise Of Berk",
+      "bundleIdentifier": "com.ikiraplus.apps.dragons-rise-of-berk.119439dabc",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/d2/c3/40d2c38b-3667-e47f-bf3d-358c3b531c05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.106.13",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragons-rise-of-berk-v1.106.13",
+          "date": "2026-08-30",
+          "size": 713241395
+        }
+      ],
+      "version": "1.106.13",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragons-rise-of-berk-v1.106.13",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragons-rise-of-berk-v1.106.13",
+      "size": 713241395,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788080567524",
+      "name": "Raid Shadow Legends",
+      "bundleIdentifier": "com.ikiraplus.apps.raid-shadow-legends.674e5e1baa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/5b/1a/1b5b1a9b-2a2b-f0a7-2988-1024e8fbc30d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "10.50.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/raid-shadow-legends-v10.50.0",
+          "date": "2026-08-30",
+          "size": 140928614
+        }
+      ],
+      "version": "10.50.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/raid-shadow-legends-v10.50.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/raid-shadow-legends-v10.50.0",
+      "size": 140928614,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788080601495",
+      "name": "Gods Wars I Lost Angela",
+      "bundleIdentifier": "com.ikiraplus.apps.gods-wars-i-lost-angela.fd7ce59497",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/12/e4/fb12e420-99ef-4669-13fa-dcda9c30bbd1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gods-wars-i-lost-angela-v2.0",
+          "date": "2026-08-30",
+          "size": 38482739
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gods-wars-i-lost-angela-v2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gods-wars-i-lost-angela-v2.0",
+      "size": 38482739,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788080625402",
+      "name": "Shadow Of Death Fighting Game",
+      "bundleIdentifier": "com.ikiraplus.apps.shadow-of-death-fighting-game.8a02b06ced",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/9d/81/4c9d81b0-09de-4317-2404-c2d617a8e19b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "100.112.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shadow-of-death-fighting-game-v100.112.0",
+          "date": "2026-08-30",
+          "size": 177628774
+        }
+      ],
+      "version": "100.112.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shadow-of-death-fighting-game-v100.112.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow-of-death-fighting-game-v100.112.0",
+      "size": 177628774,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788080651572",
+      "name": "Prison Empire",
+      "bundleIdentifier": "com.ikiraplus.apps.prison-empire.aef9c43d52",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/de/00/b2de002b-e23d-375e-e235-ad31f45b9a84/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.800",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/prison-empire-2.800",
+          "date": "2026-08-30",
+          "size": 246100787
+        }
+      ],
+      "version": "2.800",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/prison-empire-2.800",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/prison-empire-2.800",
+      "size": 246100787,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "app-1788080726545",
+      "name": "Harry Potter: Hogwarts Mystery",
+      "bundleIdentifier": "com.ikiraplus.apps.harry-potter-hogwarts-mystery.5c03858588",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/14/66/d21466b0-738f-a514-c537-c582f6eefdfd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "5.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/harry-potter-5.7.0",
+          "date": "2026-08-30",
+          "size": 149526937
+        }
+      ],
+      "version": "5.7.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/harry-potter-5.7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/harry-potter-5.7.0",
+      "size": 149526937,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
     }
   ]
 }
