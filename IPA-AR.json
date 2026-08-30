@@ -3933,23 +3933,23 @@
       "category": "ألعاب",
       "versions": [
         {
-          "version": "1.51.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.51.1",
-          "date": "2026-08-24",
-          "size": 1099431936
+          "version": "1.51.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.51.6",
+          "date": "2026-08-30",
+          "size": 1096286208
         },
         {
-          "version": "1.50.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.50.5"
+          "version": "1.51.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.51.1"
         }
       ],
-      "version": "1.51.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.51.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.51.1",
-      "size": 1099431936,
+      "version": "1.51.6",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.51.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.51.6",
+      "size": 1096286208,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-30",
       "_rowKey": 153
     },
     {
@@ -4017,19 +4017,23 @@
       "category": "ألعاب",
       "versions": [
         {
+          "version": "6.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr-racing-2.6.7.0",
+          "date": "2026-08-30",
+          "size": 1343645286
+        },
+        {
           "version": "6.5.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr-racing2-6.5.1",
-          "date": "2026-08-24",
-          "size": 1949722214
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr-racing2-6.5.1"
         }
       ],
-      "version": "6.5.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr-racing2-6.5.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/csr-racing2-6.5.1",
-      "size": 1949722214,
+      "version": "6.7.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr-racing-2.6.7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/csr-racing-2.6.7.0",
+      "size": 1343645286,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-30",
       "_rowKey": 156
     },
     {
@@ -6905,23 +6909,23 @@
       "category": "ألعاب",
       "versions": [
         {
-          "version": "2.23.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit2.2.23.1",
-          "date": "2026-08-24",
-          "size": 923585740
+          "version": "2.26.12",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit-2-v2.26.12",
+          "date": "2026-08-30",
+          "size": 940153241
         },
         {
-          "version": "2.22.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit-2.2.22.4"
+          "version": "2.23.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit2.2.23.1"
         }
       ],
-      "version": "2.23.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit2.2.23.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/no-limit2.2.23.1",
-      "size": 923585740,
+      "version": "2.26.12",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit-2-v2.26.12",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/no-limit-2-v2.26.12",
+      "size": 940153241,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-30",
       "_rowKey": 274
     },
     {
@@ -8779,19 +8783,23 @@
       "category": "تواصل",
       "versions": [
         {
+          "version": "21.34.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtube_21.34.3-v1.2",
+          "date": "2026-08-30",
+          "size": 143130624
+        },
+        {
           "version": "21.31.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtube_v21.31.3-v1.0",
-          "date": "2026-08-24",
-          "size": 141557760
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtube_v21.31.3-v1.0"
         }
       ],
-      "version": "21.31.3",
-      "versionDate": "2026-08-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtube_v21.31.3-v1.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtube_v21.31.3-v1.0",
-      "size": 141557760,
+      "version": "21.34.3",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtube_21.34.3-v1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtube_21.34.3-v1.2",
+      "size": 143130624,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-08-29"
+      "updatedAt": "2026-08-30"
     },
     {
       "id": "com.moox.app",
@@ -8928,23 +8936,23 @@
       "category": "ألعاب",
       "versions": [
         {
-          "version": "1.0.59",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.59",
-          "date": "2026-08-24",
-          "size": 512229376
+          "version": "1.0.60",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.60",
+          "date": "2026-08-30",
+          "size": 512334233
         },
         {
-          "version": "1.0.55",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.55"
+          "version": "1.0.59",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.59"
         }
       ],
-      "version": "1.0.59",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.59",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.59",
-      "size": 512229376,
+      "version": "1.0.60",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.60",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.60",
+      "size": 512334233,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-30",
       "_rowKey": 353
     },
     {
@@ -9483,23 +9491,23 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "3.0.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked",
-          "date": "2026-08-25",
-          "size": 116496793
+          "version": "3.0.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.10_subscription_unlocked",
+          "date": "2026-08-30",
+          "size": 116601651
         },
         {
-          "version": "3.0.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.8_subscription_unlocked"
+          "version": "3.0.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked"
         }
       ],
-      "version": "3.0.9",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.9_subscription_unlocked",
-      "size": 116496793,
+      "version": "3.0.10",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.10_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_sing_my_singing_app_v3.0.10_subscription_unlocked",
+      "size": 116601651,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-08-30",
       "_rowKey": 375
     },
     {
@@ -9511,19 +9519,23 @@
       "category": "ألعاب",
       "versions": [
         {
+          "version": "32.0.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v32.0.10",
+          "date": "2026-08-30",
+          "size": 168611020
+        },
+        {
           "version": "30.4.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz3-v30.4.9",
-          "date": "2026-08-24",
-          "size": 173644185
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz3-v30.4.9"
         }
       ],
-      "version": "30.4.9",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz3-v30.4.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pvz3-v30.4.9",
-      "size": 173644185,
+      "version": "32.0.10",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v32.0.10",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v32.0.10",
+      "size": 168611020,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-30",
       "_rowKey": 376
     },
     {
@@ -9866,23 +9878,23 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "9.10.88",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.88_subscription_unlocked",
-          "date": "2026-08-26",
+          "version": "9.10.89",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.89_subscription_unlocked",
+          "date": "2026-08-30",
           "size": 158439833
         },
         {
-          "version": "9.10.87",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.87_subscription_unlocked"
+          "version": "9.10.88",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.88_subscription_unlocked"
         }
       ],
-      "version": "9.10.88",
-      "versionDate": "2026-08-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.88_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.88_subscription_unlocked",
+      "version": "9.10.89",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.89_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.89_subscription_unlocked",
       "size": 158439833,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-26",
+      "updatedAt": "2026-08-30",
       "_rowKey": 390
     },
     {
@@ -10339,6 +10351,33 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
       "_rowKey": 409
+    },
+    {
+      "id": "com.ares.twd-f36eab7208",
+      "name": "The Walking Dead AfterMath",
+      "bundleIdentifier": "com.ares.twd",
+      "bundleId": "com.ares.twd",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKmldMKimAo-62YgNy63w3Q6_P_wU2JEQ2QUflB8oCoRGRHiWFOfK3UuV&s=10",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.3.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-1.3.2",
+          "date": "2026-08-30",
+          "size": 627258163
+        },
+        {
+          "version": "1.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-1.3.1"
+        }
+      ],
+      "version": "1.3.2",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-1.3.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-1.3.2",
+      "size": 627258163,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
     },
     {
       "id": "com.gameloft.gangstar3",
@@ -13800,26 +13839,31 @@
       "_rowKey": 554
     },
     {
-      "id": "app-1787643296723",
+      "id": "com.joytunes.SimplyGuitar",
       "name": "Simply Guitar Learn Guitar",
-      "bundleIdentifier": "com.ikiraplus.apps.simply-guitar-learn-guitar.90f09e583a",
+      "bundleIdentifier": "com.joytunes.SimplyGuitar",
+      "bundleId": "com.joytunes.SimplyGuitar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/d4/58/fad45806-3b4f-96f0-f0a1-03c7391dc84d/AppIconIOS26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "category": "أدوات",
       "versions": [
         {
+          "version": "10.29",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.29_subscription_unlocked",
+          "date": "2026-08-30",
+          "size": 173539328
+        },
+        {
           "version": "10.28",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked",
-          "date": "2026-08-25",
-          "size": 144179200
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked"
         }
       ],
-      "version": "10.28",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.28_subscription_unlocked",
-      "size": 144179200,
+      "version": "10.29",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.29_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_guitar_learn_guitar_v10.29_subscription_unlocked",
+      "size": 173539328,
       "addedAt": "2026-08-25",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-08-30",
       "_rowKey": 555
     },
     {
@@ -17197,6 +17241,98 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/harry-potter-5.7.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/harry-potter-5.7.0",
       "size": 149526937,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "com.jds.batim",
+      "name": "Bendy And The Ink Machine",
+      "bundleIdentifier": "com.jds.batim",
+      "bundleId": "com.jds.batim",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/19/97/e31997d2-a073-bbc8-179f-c7ef2019a322/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bendy-and-the-ink-machine-v1.2.0",
+          "date": "2026-08-30",
+          "size": 494718156
+        }
+      ],
+      "version": "1.2.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bendy-and-the-ink-machine-v1.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bendy-and-the-ink-machine-v1.2.0",
+      "size": 494718156,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "jp.co.bandainamcoent.BNEI0334",
+      "name": "Dragon Ball Legends",
+      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0334",
+      "bundleId": "jp.co.bandainamcoent.BNEI0334",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/37/64/e33764fb-d375-1bf6-87b2-a1f46550b3a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "6.27.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/db-legends-6.27.0",
+          "date": "2026-08-30",
+          "size": 169869312
+        }
+      ],
+      "version": "6.27.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/db-legends-6.27.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/db-legends-6.27.0",
+      "size": 169869312,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "com.MinimolGames.CaseSolved",
+      "name": "Case Solved: The London Files",
+      "bundleIdentifier": "com.MinimolGames.CaseSolved",
+      "bundleId": "com.MinimolGames.CaseSolved",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/13/16/ce131607-cab6-b24b-7961-bd88c772b695/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/case-solved-1.1.0",
+          "date": "2026-08-30",
+          "size": 308491059
+        }
+      ],
+      "version": "1.1.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/case-solved-1.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/case-solved-1.1.0",
+      "size": 308491059,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "com.creativemobile.nno",
+      "name": "Nitro Nation: Drag Racing",
+      "bundleIdentifier": "com.creativemobile.nno",
+      "bundleId": "com.creativemobile.nno",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/4e/9f/3c4e9fd1-14f4-dfd5-691c-a5d7a96c4503/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "8.7.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nitro-nation-8.7.1",
+          "date": "2026-08-30",
+          "size": 827011891
+        }
+      ],
+      "version": "8.7.1",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nitro-nation-8.7.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nitro-nation-8.7.1",
+      "size": 827011891,
       "addedAt": "2026-08-30",
       "updatedAt": "2026-08-30"
     }
