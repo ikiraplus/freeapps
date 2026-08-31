@@ -18252,6 +18252,54 @@
       "addedAt": "2026-08-31",
       "updatedAt": "2026-08-31",
       "localizedDescription": ""
+    },
+    {
+      "id": "com.blackpanther.ninjaarashi2",
+      "name": "Ninja Arashi",
+      "bundleIdentifier": "com.blackpanther.ninjaarashi2",
+      "bundleId": "com.blackpanther.ninjaarashi2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/83/47/25/834725da-354e-b69b-fd6e-e40d26125ccc/AppIcon-1x_U007emarketing-0-9-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ninja-arashi-2.1.0-hack",
+          "date": "2026-08-31",
+          "size": 140509184
+        }
+      ],
+      "version": "2.1.0",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ninja-arashi-2.1.0-hack",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ninja-arashi-2.1.0-hack",
+      "size": 140509184,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.go-tellm.tellm",
+      "name": "Jodel Plus",
+      "bundleIdentifier": "com.go-tellm.tellm",
+      "bundleId": "com.go-tellm.tellm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ae/57/c6ae5790-94e9-3b13-8167-51546b892e5e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "category": "communication",
+      "versions": [
+        {
+          "version": "7.168",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jodel-plus-7.168-neo",
+          "date": "2026-08-31",
+          "size": 147324928
+        }
+      ],
+      "version": "7.168",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jodel-plus-7.168-neo",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jodel-plus-7.168-neo",
+      "size": 147324928,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
     }
   ],
   "translationFormatVersion": 3
