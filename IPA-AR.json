@@ -18526,6 +18526,29 @@
       "size": 923376025,
       "addedAt": "2026-09-01",
       "updatedAt": "2026-09-01"
+    },
+    {
+      "id": "us.kr.baseballnine",
+      "name": "Baseball",
+      "bundleIdentifier": "us.kr.baseballnine",
+      "bundleId": "us.kr.baseballnine",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/b7/ef/52b7ef1b-b25b-9dd0-87a3-613dbf842783/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "9.392",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/baseball-9.392",
+          "date": "2026-09-01",
+          "size": 412509798
+        }
+      ],
+      "version": "9.392",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/baseball-9.392",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/baseball-9.392",
+      "size": 412509798,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01"
     }
   ]
 }
