@@ -5966,19 +5966,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "2.0.2",
+          "version": "2.7.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-dream",
-          "date": "2026-08-24",
-          "size": 193042841
+          "date": "2026-09-01",
+          "size": 208981196
+        },
+        {
+          "version": "2.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-dream"
         }
       ],
-      "version": "2.0.2",
-      "versionDate": "2026-08-24",
+      "version": "2.7.0",
+      "versionDate": "2026-09-01",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-dream",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-dream",
-      "size": 193042841,
+      "size": 208981196,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-09-01",
       "_rowKey": 228,
       "localizedDescription": ""
     },
@@ -10386,19 +10390,19 @@
       "category": "games",
       "versions": [
         {
-          "version": "1.5.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/samurai-2-vengeance",
-          "date": "2026-08-24",
-          "size": 68052582
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/samurai-2-vengeance-v1.4.0",
+          "date": "2026-09-01",
+          "size": 67528294
         }
       ],
-      "version": "1.5.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/samurai-2-vengeance",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/samurai-2-vengeance",
-      "size": 68052582,
+      "version": "1.4.0",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/samurai-2-vengeance-v1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/samurai-2-vengeance-v1.4.0",
+      "size": 67528294,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-09-01",
       "_rowKey": 398,
       "localizedDescription": ""
     },
@@ -18568,6 +18572,606 @@
       "addedAt": "2026-09-01",
       "updatedAt": "2026-09-01",
       "localizedDescription": ""
+    },
+    {
+      "id": "com.healthAI.baithek",
+      "name": "Chatbot AI Healthcare",
+      "bundleIdentifier": "com.healthAI.baithek",
+      "bundleId": "com.healthAI.baithek",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/ee/8e/1bee8ea7-c9b2-f7fe-a744-b79fc533e9b6/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+      "category": "Study and artificial intelligence",
+      "versions": [
+        {
+          "version": "3.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chatbot-ai-healthcare",
+          "date": "2026-09-01",
+          "size": 23173529
+        }
+      ],
+      "version": "3.4",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chatbot-ai-healthcare",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chatbot-ai-healthcare",
+      "size": 23173529,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.asmodee-digital.scytheios",
+      "name": "Scythe Digital Edition",
+      "bundleIdentifier": "com.asmodee-digital.scytheios",
+      "bundleId": "com.asmodee-digital.scytheios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/51/02/565102c9-2504-d8ab-033b-d3cade0068e6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.1.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scythe-digital-edition-v2.1.4",
+          "date": "2026-09-01",
+          "size": 239494758
+        }
+      ],
+      "version": "2.1.4",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scythe-digital-edition-v2.1.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scythe-digital-edition-v2.1.4",
+      "size": 239494758,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "Vblank.Retro-City-Rampage-DX-iOS",
+      "name": "Retro City Rampage Dx",
+      "bundleIdentifier": "Vblank.Retro-City-Rampage-DX-iOS",
+      "bundleId": "Vblank.Retro-City-Rampage-DX-iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/f0/28/d3f028f1-48cd-c876-3356-8179bd4293ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/retro-city-rampage-dx-v2.1.1",
+          "date": "2026-09-01",
+          "size": 10380902
+        }
+      ],
+      "version": "2.1.1",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/retro-city-rampage-dx-v2.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/retro-city-rampage-dx-v2.1.1",
+      "size": 10380902,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.marmalade.gol2",
+      "name": "The Game Of Life 2",
+      "bundleIdentifier": "com.marmalade.gol2",
+      "bundleId": "com.marmalade.gol2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/6b/3f/346b3fa2-96e3-4338-f0be-bd70c3c50ffc/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-game-of-life-2-v1.0.0",
+          "date": "2026-09-01",
+          "size": 788738867
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-game-of-life-2-v1.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-game-of-life-2-v1.0.0",
+      "size": 788738867,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.gameloft.baseballrivals",
+      "name": "Ballistic Baseball",
+      "bundleIdentifier": "com.gameloft.baseballrivals",
+      "bundleId": "com.gameloft.baseballrivals",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ff/79/1f/ff791f18-3a52-b0cc-0218-2747fa570523/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.12.15",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ballistic_baseball_v1.12.15",
+          "date": "2026-09-01",
+          "size": 786012569
+        }
+      ],
+      "version": "1.12.15",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ballistic_baseball_v1.12.15",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ballistic_baseball_v1.12.15",
+      "size": 786012569,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.tresebrothers.games.heroesofsteelelite",
+      "name": "Heroes Of Steel Rpg Elite",
+      "bundleIdentifier": "com.tresebrothers.games.heroesofsteelelite",
+      "bundleId": "com.tresebrothers.games.heroesofsteelelite",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/91/54/d7915400-5eab-c690-9230-d632545e5ba4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "5.1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heroes_of_steel_rpg_elite_v5.1.5",
+          "date": "2026-09-01",
+          "size": 92169830
+        }
+      ],
+      "version": "5.1.5",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heroes_of_steel_rpg_elite_v5.1.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/heroes_of_steel_rpg_elite_v5.1.5",
+      "size": 92169830,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.blackpants.LoveAndHateHD",
+      "name": "About Love And Hate",
+      "bundleIdentifier": "com.blackpants.LoveAndHateHD",
+      "bundleId": "com.blackpants.LoveAndHateHD",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7c/e2/f87ce21d-c2e3-201e-65c9-4ee06f06307f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.0.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/about-love-and-hate-v2.0.3",
+          "date": "2026-09-01",
+          "size": 53896806
+        }
+      ],
+      "version": "2.0.3",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/about-love-and-hate-v2.0.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/about-love-and-hate-v2.0.3",
+      "size": 53896806,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.blackpants.loveandhate2",
+      "name": "About Love And Hate 2",
+      "bundleIdentifier": "com.blackpants.loveandhate2",
+      "bundleId": "com.blackpants.loveandhate2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/bf/0b/46bf0b51-96de-39d9-a8ee-7b4ddb7736c5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.1.12",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/about_love_and_hate_2_v1.1.12",
+          "date": "2026-09-01",
+          "size": 155084390
+        }
+      ],
+      "version": "1.1.12",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/about_love_and_hate_2_v1.1.12",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/about_love_and_hate_2_v1.1.12",
+      "size": 155084390,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "de.application-systems.lamplightCityiOS",
+      "name": "Lamplight City Mobile",
+      "bundleIdentifier": "de.application-systems.lamplightCityiOS",
+      "bundleId": "de.application-systems.lamplightCityiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/d0/b0/2ad0b0c0-d2da-2f30-811b-9fc101d35713/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lamplight-city-mobile-v1.2.1",
+          "date": "2026-09-01",
+          "size": 2125148979
+        }
+      ],
+      "version": "1.2.1",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lamplight-city-mobile-v1.2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lamplight-city-mobile-v1.2.1",
+      "size": 2125148979,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.2ksports.nba2k23arcade",
+      "name": "Nba 2k23 Arcade Edition",
+      "bundleIdentifier": "com.2ksports.nba2k23arcade",
+      "bundleId": "com.2ksports.nba2k23arcade",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.2ksports.nba2k23arcade.png",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.40",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nba-2k23-arcade-edition-v1.40",
+          "date": "2026-09-01",
+          "size": 1809108172
+        }
+      ],
+      "version": "1.40",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nba-2k23-arcade-edition-v1.40",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nba-2k23-arcade-edition-v1.40",
+      "size": 1809108172,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.agaming.mentalhospitalivhd",
+      "name": "Mental Hospital iv",
+      "bundleIdentifier": "com.agaming.mentalhospitalivhd",
+      "bundleId": "com.agaming.mentalhospitalivhd",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.agaming.mentalhospitalivhd.png",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mental-hospital-v1.01",
+          "date": "2026-09-01",
+          "size": 345400934
+        }
+      ],
+      "version": "1.01",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mental-hospital-v1.01",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mental-hospital-v1.01",
+      "size": 345400934,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "brownmonster.app.game.RushRallyRemastered",
+      "name": "Rush Rally Origins",
+      "bundleIdentifier": "brownmonster.app.game.RushRallyRemastered",
+      "bundleId": "brownmonster.app.game.RushRallyRemastered",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/1b/7a/661b7a41-6045-1681-1b33-507be1929e2a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.67",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rush-rally-origins-v1.67",
+          "date": "2026-09-01",
+          "size": 84934656
+        }
+      ],
+      "version": "1.67",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rush-rally-origins-v1.67",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rush-rally-origins-v1.67",
+      "size": 84934656,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.elladagames.niffelheim",
+      "name": "Niffelheim",
+      "bundleIdentifier": "com.elladagames.niffelheim",
+      "bundleId": "com.elladagames.niffelheim",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/53/39/7f53396a-9c04-892a-1c89-d5dcc79b54ca/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.6.161",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/niffelheim-v1.6.161",
+          "date": "2026-09-01",
+          "size": 260256563
+        }
+      ],
+      "version": "1.6.161",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/niffelheim-v1.6.161",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/niffelheim-v1.6.161",
+      "size": 260256563,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.snkplaymore.samsho2",
+      "name": "Samurai Shodown Ii",
+      "bundleIdentifier": "com.snkplaymore.samsho2",
+      "bundleId": "com.snkplaymore.samsho2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6c/e1/b0/6ce1b0d4-5656-9ab7-369b-8ea0d8e79728/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/samurai-shodown-ii-v1.2.1",
+          "date": "2026-09-01",
+          "size": 67842867
+        }
+      ],
+      "version": "1.2.1",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/samurai-shodown-ii-v1.2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/samurai-shodown-ii-v1.2.1",
+      "size": 67842867,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.ultimatestudio.hotlapleague",
+      "name": "Hot Lap League",
+      "bundleIdentifier": "com.ultimatestudio.hotlapleague",
+      "bundleId": "com.ultimatestudio.hotlapleague",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/17/93/6d179391-2388-2d4a-bfb8-aacffcd6a74b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.11053",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hot-lap-league-v1.00.11053",
+          "date": "2026-09-01",
+          "size": 440821350
+        }
+      ],
+      "version": "1.11053",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hot-lap-league-v1.00.11053",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hot-lap-league-v1.00.11053",
+      "size": 440821350,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.ios",
+      "name": "20 Minutes Till Dawn",
+      "bundleIdentifier": "com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.ios",
+      "bundleId": "com.flanne.erabit.20minutes.tilldawn.shooting.roguelike.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/97/26/b69726d1-d835-2a7d-f7c6-795d2c12807a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/20-minutes-till-dawn-premium-v6.0b691",
+          "date": "2026-09-01",
+          "size": 53791948
+        }
+      ],
+      "version": "6.0",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/20-minutes-till-dawn-premium-v6.0b691",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/20-minutes-till-dawn-premium-v6.0b691",
+      "size": 53791948,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.frozenfrog.DungeonSurvival2",
+      "name": "Dungeon Survival 2",
+      "bundleIdentifier": "com.frozenfrog.DungeonSurvival2",
+      "bundleId": "com.frozenfrog.DungeonSurvival2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/60/86/e360865a-f146-1dcd-3376-b1cb4584fd03/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.1.17",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dungeon-survival-2-v1.1.17",
+          "date": "2026-09-01",
+          "size": 299578163
+        }
+      ],
+      "version": "1.1.17",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dungeon-survival-2-v1.1.17",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dungeon-survival-2-v1.1.17",
+      "size": 299578163,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.10tons.DYSMANTLE",
+      "name": "Dysmantle",
+      "bundleIdentifier": "com.10tons.DYSMANTLE",
+      "bundleId": "com.10tons.DYSMANTLE",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/20/b6/2120b607-615b-cfe7-753d-5f5acc61e666/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dysmantle-v1.4.1",
+          "date": "2026-09-01",
+          "size": 659868876
+        }
+      ],
+      "version": "1.4.1",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dysmantle-v1.4.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dysmantle-v1.4.1",
+      "size": 659868876,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.playdigious.streetsofrage4",
+      "name": "Streets Of Rage 4",
+      "bundleIdentifier": "com.playdigious.streetsofrage4",
+      "bundleId": "com.playdigious.streetsofrage4",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/5c/a9/bf5ca90e-bd64-1888-ed1c-5d0d70230d7a/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/streets-of-rage-4-v1.1",
+          "date": "2026-09-01",
+          "size": 1806381875
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/streets-of-rage-4-v1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/streets-of-rage-4-v1.1",
+      "size": 1806381875,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.hg.wreckfest.trial",
+      "name": "Wreckfest",
+      "bundleIdentifier": "com.hg.wreckfest.trial",
+      "bundleId": "com.hg.wreckfest.trial",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/e1/47/58e14799-ab44-4024-e7fd-ef22ec22a8d7/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.88",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wreckfest-v1.0.88",
+          "date": "2026-09-01",
+          "size": 922117734
+        }
+      ],
+      "version": "1.0.88",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wreckfest-v1.0.88",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wreckfest-v1.0.88",
+      "size": 922117734,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.steelwoolstudios.fnafhw",
+      "name": "Five Nights At Freddys Hw",
+      "bundleIdentifier": "com.steelwoolstudios.fnafhw",
+      "bundleId": "com.steelwoolstudios.fnafhw",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.steelwoolstudios.fnafhw.png",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys-hw-v1.1.3",
+          "date": "2026-09-01",
+          "size": 591921152
+        }
+      ],
+      "version": "1.1.3",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys-hw-v1.1.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/five-nights-at-freddys-hw-v1.1.3",
+      "size": 591921152,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.SunblinkEntertainment.HeroesFate",
+      "name": "Heroish",
+      "bundleIdentifier": "com.SunblinkEntertainment.HeroesFate",
+      "bundleId": "com.SunblinkEntertainment.HeroesFate",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.SunblinkEntertainment.HeroesFate.png",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heroish-v1.4.0",
+          "date": "2026-09-01",
+          "size": 1251790028
+        }
+      ],
+      "version": "1.4.0",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heroish-v1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/heroish-v1.4.0",
+      "size": 1251790028,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.bluebraingames.thehouseofdavinci3",
+      "name": "The House Of Da Vinci 3",
+      "bundleIdentifier": "com.bluebraingames.thehouseofdavinci3",
+      "bundleId": "com.bluebraingames.thehouseofdavinci3",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/77/01/8f/77018f12-ecf1-d33a-e4e1-07805239a5a1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-house-of-da-vinci-3",
+          "date": "2026-09-01",
+          "size": 2784598425
+        }
+      ],
+      "version": "1.0.9",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-house-of-da-vinci-3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-house-of-da-vinci-3",
+      "size": 2784598425,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.bluebraingames.thehouseofdavinci",
+      "name": "The House Of Da Vinci",
+      "bundleIdentifier": "com.bluebraingames.thehouseofdavinci",
+      "bundleId": "com.bluebraingames.thehouseofdavinci",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/b6/af/3db6af2a-297c-0d3f-9542-8a408a79b5a2/AppIcon-0-0-1x_U007emarketing-0-0-0-9-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-house-of-da-vinci-v1.0.7",
+          "date": "2026-09-01",
+          "size": 500275609
+        }
+      ],
+      "version": "1.0.7",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-house-of-da-vinci-v1.0.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-house-of-da-vinci-v1.0.7",
+      "size": 500275609,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.almulazimanas.almulazimanas",
+      "name": "الملازم انس",
+      "bundleIdentifier": "com.almulazimanas.almulazimanas",
+      "bundleId": "com.almulazimanas.almulazimanas",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/00/ae/4700aea7-4192-48f4-156d-8cff256a7954/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
+      "category": "games",
+      "versions": [
+        {
+          "version": "8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/almalazm-anas-8.0.ipa",
+          "date": "2026-09-01",
+          "size": 923376025
+        }
+      ],
+      "version": "8.0",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/almalazm-anas-8.0.ipa",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/almalazm-anas-8.0.ipa",
+      "size": 923376025,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01"
     }
   ],
   "translationFormatVersion": 3
