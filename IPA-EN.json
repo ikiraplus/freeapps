@@ -370,19 +370,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "12.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.5.3",
-          "date": "2026-08-24",
-          "size": 132015718
+          "version": "2.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.6.0",
+          "date": "2026-09-02",
+          "size": 126667980
+        },
+        {
+          "version": "2.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.5.3"
         }
       ],
-      "version": "12.8",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.5.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.5.3",
-      "size": 132015718,
+      "version": "2.6.0",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.6.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.6.0",
+      "size": 126667980,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-09-02",
       "_rowKey": 15
     },
     {
@@ -441,32 +445,27 @@
     },
     {
       "id": "com.zhiliaoapp.musically",
-      "name": "Tiktok DL",
+      "name": "TikTok ASD-RUST",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f9/7a/86f97a45-d6d6-efd9-c24a-d7c614482369/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "version is integrated with ASD and rust.",
       "category": "communication",
       "versions": [
         {
-          "version": "46.3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.0",
-          "date": "2026-08-23",
-          "size": 469657190
-        },
-        {
-          "version": "45.4.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl-45.4.0"
+          "version": "46.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_46.7.0_rust-asd",
+          "date": "2026-09-02",
+          "size": 493250150
         }
       ],
-      "version": "46.3.0",
-      "versionDate": "2026-08-23",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.0",
-      "size": 469657190,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-23",
-      "_rowKey": 18,
-      "localizedDescription": ""
+      "version": "46.7.0",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_46.7.0_rust-asd",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok_46.7.0_rust-asd",
+      "size": 493250150,
+      "addedAt": "2026-09-02",
+      "updatedAt": "2026-09-02"
     },
     {
       "id": "com.tiktokdx.ikiraplus",
@@ -696,23 +695,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "444.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver",
-          "date": "2026-08-25",
-          "size": 104962457
+          "version": "445.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_445.1.0_threadsaver",
+          "date": "2026-09-02",
+          "size": 101607014
         },
         {
-          "version": "443.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_443.0.0_threadsaver"
+          "version": "444.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver"
         }
       ],
-      "version": "444.0",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver",
-      "size": 104962457,
+      "version": "445.1.0",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_445.1.0_threadsaver",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads_445.1.0_threadsaver",
+      "size": 101607014,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-09-02",
       "_rowKey": 27,
       "localizedDescription": ""
     },
@@ -955,6 +954,56 @@
       "localizedDescription": ""
     },
     {
+      "id": "com.vodu.ikiraplus",
+      "name": "فودو كيرا",
+      "bundleIdentifier": "com.vodu.ikiraplus",
+      "bundleId": "com.vodu.ikiraplus",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1773657791706.png",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "2.1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vodu-kira_2.1.2-last",
+          "date": "2026-08-24",
+          "size": 42152755
+        }
+      ],
+      "version": "2.1.2",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vodu-kira_2.1.2-last",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vodu-kira_2.1.2-last",
+      "size": 42152755,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 95,
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.bigwinepot.nwdn.international",
+      "name": "Remini Pro",
+      "bundleIdentifier": "com.bigwinepot.nwdn.international",
+      "bundleId": "com.bigwinepot.nwdn.international",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/e8/62/e0e86206-237c-808a-50cc-93af906e2bf3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "29.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
+          "date": "2026-08-24",
+          "size": 113246208
+        }
+      ],
+      "version": "29.4.1",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
+      "size": 113246208,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 38,
+      "localizedDescription": ""
+    },
+    {
       "id": "com.airmovie.ikiraplus",
       "name": "Air movie",
       "bundleIdentifier": "com.airmovie.ikiraplus",
@@ -980,28 +1029,81 @@
       "_rowKey": 37
     },
     {
-      "id": "com.bigwinepot.nwdn.international",
-      "name": "Remini Pro",
-      "bundleIdentifier": "com.bigwinepot.nwdn.international",
-      "bundleId": "com.bigwinepot.nwdn.international",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/e8/62/e0e86206-237c-808a-50cc-93af906e2bf3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "category": "tools",
+      "id": "com.cer.buzz",
+      "name": "CEE",
+      "bundleIdentifier": "com.cer.buzz",
+      "bundleId": "com.cer.buzz",
+      "iconURL": "https://play-lh.googleusercontent.com/mUR43rIFTAdV0MEuNxegiGbRE7ebZs_74_hJeFypIyAbLSuwrs88-XkyUEHn8S-NU4M3UJhm2lP4AXhXsjmzpg",
+      "category": "Entertainment",
       "versions": [
         {
-          "version": "29.4.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
+          "version": "2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cee_1.0",
           "date": "2026-08-24",
-          "size": 113246208
+          "size": 2516582
         }
       ],
-      "version": "29.4.1",
+      "version": "2.1",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
-      "size": 113246208,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cee_1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cee_1.0",
+      "size": 2516582,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 38,
+      "_rowKey": 284,
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.microblink.PhotoMath",
+      "name": "Photomath",
+      "bundleIdentifier": "com.microblink.PhotoMath",
+      "bundleId": "com.microblink.PhotoMath",
+      "iconURL": "https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4",
+      "category": "Study and artificial intelligence",
+      "versions": [
+        {
+          "version": "8.47.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.47.0-subscription-unlocked-patched",
+          "date": "2026-09-02",
+          "size": 19818086
+        },
+        {
+          "version": "8.46.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.46.0-subscription-unlocked"
+        }
+      ],
+      "version": "8.47.0",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.47.0-subscription-unlocked-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.47.0-subscription-unlocked-patched",
+      "size": 19818086,
+      "addedAt": "2026-09-02",
+      "updatedAt": "2026-09-02",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.rockstargames.rdr",
+      "name": "Red Dead Redemption (free paid)",
+      "bundleIdentifier": "com.rockstargames.rdr",
+      "bundleId": "com.rockstargames.rdr",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8a/32/6f8a3229-8cba-326d-624a-55e900774f64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.50.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
+          "date": "2026-08-24",
+          "size": 2883269427
+        }
+      ],
+      "version": "1.50.6",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
+      "size": 2883269427,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 42,
       "localizedDescription": ""
     },
     {
@@ -1032,106 +1134,6 @@
       "updatedAt": "2026-08-24",
       "_rowKey": 39,
       "localizedDescription": ""
-    },
-    {
-      "id": "com.chengzu.book",
-      "name": "Netflix - مقلد",
-      "bundleIdentifier": "com.chengzu.book",
-      "bundleId": "com.chengzu.book",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773510045224.png",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "2.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/netflix-kira",
-          "date": "2026-08-24",
-          "size": 32925286
-        }
-      ],
-      "version": "2.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/netflix-kira",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/netflix-kira",
-      "size": 32925286,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 40,
-      "localizedDescription": ""
-    },
-    {
-      "id": "com.microblink.PhotoMath",
-      "name": "Photomath_8.42.0",
-      "bundleIdentifier": "com.microblink.PhotoMath",
-      "bundleId": "com.microblink.PhotoMath",
-      "iconURL": "https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4",
-      "category": "Study and artificial intelligence",
-      "versions": [
-        {
-          "version": "8.46.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.46.0-subscription-unlocked",
-          "date": "2026-08-24",
-          "size": 17825792
-        }
-      ],
-      "version": "8.46.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.46.0-subscription-unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.46.0-subscription-unlocked",
-      "size": 17825792,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 41,
-      "localizedDescription": ""
-    },
-    {
-      "id": "com.rockstargames.rdr",
-      "name": "Red Dead Redemption (free paid)",
-      "bundleIdentifier": "com.rockstargames.rdr",
-      "bundleId": "com.rockstargames.rdr",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8a/32/6f8a3229-8cba-326d-624a-55e900774f64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "category": "games",
-      "versions": [
-        {
-          "version": "1.50.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
-          "date": "2026-08-24",
-          "size": 2883269427
-        }
-      ],
-      "version": "1.50.6",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
-      "size": 2883269427,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 42,
-      "localizedDescription": ""
-    },
-    {
-      "id": "com.genral.ikiraplus",
-      "name": "Genral Pro",
-      "bundleIdentifier": "com.genral.ikiraplus",
-      "bundleId": "com.genral.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773437364033.png",
-      "localizedDescription": "app to watch encrypted channels\nIt has a film section\nactivation Code : 5050",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "1.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/genral-pro-v1.4",
-          "date": "2026-08-24",
-          "size": 10066329
-        }
-      ],
-      "version": "1.5",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/genral-pro-v1.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/genral-pro-v1.4",
-      "size": 10066329,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 43
     },
     {
       "id": "net.quochuywdm.collanote496",
@@ -1250,78 +1252,81 @@
       "localizedDescription": ""
     },
     {
-      "id": "Rodjo-BlackRodjo-BlackRodjo-Black.Rodjo-Black",
-      "name": "Rodjo",
-      "bundleIdentifier": "Rodjo-BlackRodjo-BlackRodjo-Black.Rodjo-Black",
-      "bundleId": "Rodjo-BlackRodjo-BlackRodjo-Black.Rodjo-Black",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/76/1f/9d761f97-0595-d5ea-6e2e-688ea8dd3bf0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "app to watch encrypted channels\nIt has a film section\nactivation Code : 5129",
+      "id": "com.chengzu.book",
+      "name": "Netflix - مقلد",
+      "bundleIdentifier": "com.chengzu.book",
+      "bundleId": "com.chengzu.book",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773510045224.png",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/netflix-kira",
+          "date": "2026-08-24",
+          "size": 32925286
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/netflix-kira",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/netflix-kira",
+      "size": 32925286,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 40,
+      "localizedDescription": ""
+    },
+    {
+      "id": "night.ntv1.iQTv",
+      "name": "iQTv",
+      "bundleIdentifier": "night.ntv1.iQTv",
+      "bundleId": "night.ntv1.iQTv",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/night.ntv1.iQTv.png",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtv-3.1",
+          "date": "2026-09-02",
+          "size": 21705523
+        },
+        {
+          "version": "3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtv"
+        }
+      ],
+      "version": "3.1",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtv-3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtv-3.1",
+      "size": 21705523,
+      "addedAt": "2026-09-02",
+      "updatedAt": "2026-09-02",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.hitvneo.ikiraplus",
+      "name": "Hitv Kira",
+      "bundleIdentifier": "com.hitvneo.ikiraplus",
+      "bundleId": "com.hitvneo.ikiraplus",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786039385843.png",
       "category": "Entertainment",
       "versions": [
         {
           "version": "2.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rodjo-1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4",
           "date": "2026-08-24",
-          "size": 14575206
+          "size": 32820428
         }
       ],
       "version": "2.4",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rodjo-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rodjo-1",
-      "size": 14575206,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4",
+      "size": 32820428,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 48
-    },
-    {
-      "id": "com.buztv.player",
-      "name": "buz tv pro",
-      "bundleIdentifier": "com.buztv.player",
-      "bundleId": "com.buztv.player",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/52/92/ca529249-60e0-b24e-717a-e962da3c35c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "app to watch encrypted channels\nIt has a film section\nactivation Code : 22455",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "1.2.11",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/buz.tv_1.2.11-1",
-          "date": "2026-08-24",
-          "size": 17196646
-        }
-      ],
-      "version": "1.2.11",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/buz.tv_1.2.11-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/buz.tv_1.2.11-1",
-      "size": 17196646,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 49
-    },
-    {
-      "id": "com.animecloud.rm",
-      "name": "Anime Cloud",
-      "bundleIdentifier": "com.animecloud.rm",
-      "bundleId": "com.animecloud.rm",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/05/f4/7305f486-ed8d-52b5-65f8-8be8ada650d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "6.5.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-cloud_6.5.1",
-          "date": "2026-08-24",
-          "size": 6710886
-        }
-      ],
-      "version": "6.5.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-cloud_6.5.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-cloud_6.5.1",
-      "size": 6710886,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 50,
+      "_rowKey": 344,
       "localizedDescription": ""
     },
     {
@@ -1437,23 +1442,23 @@
       "category": "Study and artificial intelligence",
       "versions": [
         {
-          "version": "16.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched",
-          "date": "2026-08-25",
-          "size": 254803968
+          "version": "16.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.11_pro_unlocked_patched",
+          "date": "2026-09-02",
+          "size": 259627417
         },
         {
-          "version": "16.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.9_pro_unlocked_patched"
+          "version": "16.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched"
         }
       ],
-      "version": "16.10",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched",
-      "size": 254803968,
+      "version": "16.11",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.11_pro_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.11_pro_unlocked_patched",
+      "size": 259627417,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-09-02",
       "_rowKey": 55,
       "localizedDescription": ""
     },
@@ -2421,29 +2426,29 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.dreamora",
-      "name": "Streameast no ads",
-      "bundleIdentifier": "com.dreamora",
-      "bundleId": "com.dreamora",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773597157329.png",
-      "localizedDescription": "App with all for free encrypted channels (Ben Sport, Eighth, Cup, MBC, Watch)",
+      "id": "com.lastsoult.aanime",
+      "name": "Anime Slayer",
+      "bundleIdentifier": "com.lastsoult.aanime",
+      "bundleId": "com.lastsoult.aanime",
+      "iconURL": "https://cdn-www.bluestacks.com/bs-images/Icon_com.anslayer.jpg",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "1.1.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/streameast.1.1.1-1",
+          "version": "3.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-slayer",
           "date": "2026-08-24",
-          "size": 39636172
+          "size": 17930649
         }
       ],
-      "version": "1.1.1",
+      "version": "3.3.1",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/streameast.1.1.1-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/streameast.1.1.1-1",
-      "size": 39636172,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-slayer",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-slayer",
+      "size": 17930649,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 93
+      "_rowKey": 286,
+      "localizedDescription": ""
     },
     {
       "id": "com.sfun.snapedit",
@@ -2475,29 +2480,29 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.vodu.ikiraplus",
-      "name": "فودو كيرا",
-      "bundleIdentifier": "com.vodu.ikiraplus",
-      "bundleId": "com.vodu.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1773657791706.png",
+      "id": "com.genral.ikiraplus",
+      "name": "Genral Pro",
+      "bundleIdentifier": "com.genral.ikiraplus",
+      "bundleId": "com.genral.ikiraplus",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773437364033.png",
+      "localizedDescription": "app to watch encrypted channels\nIt has a film section\nactivation Code : 5050",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "2.1.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vodu-kira_2.1.2-last",
+          "version": "1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/genral-pro-v1.4",
           "date": "2026-08-24",
-          "size": 42152755
+          "size": 10066329
         }
       ],
-      "version": "2.1.2",
+      "version": "1.5",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vodu-kira_2.1.2-last",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vodu-kira_2.1.2-last",
-      "size": 42152755,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/genral-pro-v1.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/genral-pro-v1.4",
+      "size": 10066329,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 95,
-      "localizedDescription": ""
+      "_rowKey": 43
     },
     {
       "id": "com.squareenix.tombraider1classic",
@@ -2551,30 +2556,30 @@
     },
     {
       "id": "com.kiloo.subwaysurfers",
-      "name": "Subway Surfers mod",
+      "name": "Subway Surfers Mod",
       "bundleIdentifier": "com.kiloo.subwaysurfers",
       "bundleId": "com.kiloo.subwaysurfers",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ac/4e/98ac4ed7-7da4-c5ae-8bea-c2adc70b7960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "games",
       "versions": [
         {
-          "version": "3.68.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.0",
-          "date": "2026-08-25",
-          "size": 245157068
+          "version": "3.68.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.2",
+          "date": "2026-09-02",
+          "size": 249770803
         },
         {
-          "version": "3.67.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.67.3"
+          "version": "3.68.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.0"
         }
       ],
-      "version": "3.68.0",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.0",
-      "size": 245157068,
+      "version": "3.68.2",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.2",
+      "size": 249770803,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-09-02",
       "_rowKey": 98,
       "localizedDescription": ""
     },
@@ -2667,49 +2672,48 @@
       "category": "games",
       "versions": [
         {
-          "version": "2026.6.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/among-us-2026.6.5",
-          "date": "2026-08-24",
-          "size": 766299340
+          "version": "2026.8.18",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/among-us-2026.8.18",
+          "date": "2026-09-02",
+          "size": 768081920
         },
         {
-          "version": "last",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/among-us"
+          "version": "2026.6.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/among-us-2026.6.5"
         }
       ],
-      "version": "2026.6.5",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/among-us-2026.6.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/among-us-2026.6.5",
-      "size": 766299340,
+      "version": "2026.8.18",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/among-us-2026.8.18",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/among-us-2026.8.18",
+      "size": 768081920,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-09-02",
       "_rowKey": 102
     },
     {
       "id": "jp.co.bandainamcogames.BNGI0221",
-      "name": "Dragon Ball Z Dokkan Battle",
+      "name": "Dokkan Battle",
       "bundleIdentifier": "jp.co.bandainamcogames.BNGI0221",
       "bundleId": "jp.co.bandainamcogames.BNGI0221",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/df/8a/aadf8a17-afdb-c24c-f4a4-0ca72cff797f/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "iosgods modded App",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/ab/f8/08abf802-51d2-a768-3a82-009f2762e8b1/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "category": "games",
       "versions": [
         {
-          "version": "5.23.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragon-ball-pro",
-          "date": "2026-08-24",
-          "size": 943718400
+          "version": "6.5.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dokkan-battle-6.5.5",
+          "date": "2026-09-02",
+          "size": 1053609164
         }
       ],
-      "version": "5.23.2",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragon-ball-pro",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragon-ball-pro",
-      "size": 943718400,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 103
+      "version": "6.5.5",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dokkan-battle-6.5.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dokkan-battle-6.5.5",
+      "size": 1053609164,
+      "addedAt": "2026-09-02",
+      "updatedAt": "2026-09-02",
+      "localizedDescription": ""
     },
     {
       "id": "com.dts.freefiremaxs",
@@ -3152,29 +3156,29 @@
       "_rowKey": 119
     },
     {
-      "id": "com.xd.mbp31",
-      "name": "MovieBox Pro",
-      "bundleIdentifier": "com.xd.mbp31",
-      "bundleId": "com.xd.mbp31",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/f6/62/b4f66278-fe44-b3e2-2e57-ab149aad793d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "id": "com.buztv.player",
+      "name": "buz tv pro",
+      "bundleIdentifier": "com.buztv.player",
+      "bundleId": "com.buztv.player",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/52/92/ca529249-60e0-b24e-717a-e962da3c35c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "app to watch encrypted channels\nIt has a film section\nactivation Code : 22455",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "3.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/movieboxpro_15.5-1",
+          "version": "1.2.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/buz.tv_1.2.11-1",
           "date": "2026-08-24",
-          "size": 68157440
+          "size": 17196646
         }
       ],
-      "version": "3.9",
+      "version": "1.2.11",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/movieboxpro_15.5-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/movieboxpro_15.5-1",
-      "size": 68157440,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/buz.tv_1.2.11-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/buz.tv_1.2.11-1",
+      "size": 17196646,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 120,
-      "localizedDescription": ""
+      "_rowKey": 49
     },
     {
       "id": "com.kooapps.pianotiles2arcade",
@@ -3301,33 +3305,29 @@
       "_rowKey": 125
     },
     {
-      "id": "com.spotify.client",
-      "name": "Spotify GS",
-      "bundleIdentifier": "com.spotify.client",
-      "bundleId": "com.spotify.client",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-iosgods-eevee-spotify-4732.png",
-      "localizedDescription": "activation Premium feature automatically",
+      "id": "com.animecloud.rm",
+      "name": "Anime Cloud",
+      "bundleIdentifier": "com.animecloud.rm",
+      "bundleId": "com.animecloud.rm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/05/f4/7305f486-ed8d-52b5-65f8-8be8ada650d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "9.1.78",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
-          "date": "2026-08-25",
-          "size": 134532300
-        },
-        {
-          "version": "9.1.76",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs"
+          "version": "6.5.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-cloud_6.5.1",
+          "date": "2026-08-24",
+          "size": 6710886
         }
       ],
-      "version": "9.1.78",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
-      "size": 134532300,
+      "version": "6.5.1",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-cloud_6.5.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-cloud_6.5.1",
+      "size": 6710886,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
-      "_rowKey": 126
+      "updatedAt": "2026-08-24",
+      "_rowKey": 50,
+      "localizedDescription": ""
     },
     {
       "id": "com.fungames.sniper3d",
@@ -3464,23 +3464,23 @@
       "category": "Study and artificial intelligence",
       "versions": [
         {
-          "version": "2.8.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
-          "date": "2026-08-25",
-          "size": 152358092
+          "version": "7.137.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.137.1_duolingo_max_unlocked",
+          "date": "2026-09-02",
+          "size": 213070643
         },
         {
-          "version": "7.135.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.135.1_duolingo_max_unlocked"
+          "version": "2.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched"
         }
       ],
-      "version": "2.8.0",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched",
-      "size": 152358092,
+      "version": "7.137.1",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.137.1_duolingo_max_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.137.1_duolingo_max_unlocked",
+      "size": 213070643,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-09-02",
       "_rowKey": 132
     },
     {
@@ -3734,29 +3734,33 @@
       "_rowKey": 142
     },
     {
-      "id": "net.halasat.tv",
-      "name": "شاشتي",
-      "bundleIdentifier": "net.halasat.tv",
-      "bundleId": "net.halasat.tv",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/dc/7a/e2dc7a81-2596-f132-ba0a-bfd90a3d2831/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "localizedDescription": "working with Earthlink Internet and its providers\n(When download movies don't show subtitles)",
+      "id": "com.anime.animeRiftApp",
+      "name": "Anime Land noads",
+      "bundleIdentifier": "com.anime.animeRiftApp",
+      "bundleId": "com.anime.animeRiftApp",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777652764722.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shashety-شاشتي-7.0.21",
+          "version": "3.13.17",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-land_3.13.17",
           "date": "2026-08-24",
-          "size": 16777216
+          "size": 72561459
+        },
+        {
+          "version": "3.11.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-land_3.11.5_noads"
         }
       ],
-      "version": "last version",
+      "version": "3.13.17",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shashety-شاشتي-7.0.21",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shashety-شاشتي-7.0.21",
-      "size": 16777216,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-land_3.13.17",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-land_3.13.17",
+      "size": 72561459,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 143
+      "_rowKey": 168,
+      "localizedDescription": ""
     },
     {
       "id": "app-iosgods-modern-strike-online-4592",
@@ -3784,6 +3788,56 @@
       "_rowKey": 144
     },
     {
+      "id": "co.albox.cinema",
+      "name": "Cinema box - سينما بوكس",
+      "bundleIdentifier": "co.albox.cinema",
+      "bundleId": "co.albox.cinema",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784193262599.png",
+      "localizedDescription": "App Deleted from App Store\n- All ads removed from it",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "4.6.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
+          "date": "2026-08-24",
+          "size": 28626124
+        }
+      ],
+      "version": "4.6.8",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
+      "size": 28626124,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 301
+    },
+    {
+      "id": "net.halasat.tv",
+      "name": "شاشتي",
+      "bundleIdentifier": "net.halasat.tv",
+      "bundleId": "net.halasat.tv",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/dc/7a/e2dc7a81-2596-f132-ba0a-bfd90a3d2831/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "working with Earthlink Internet and its providers\n(When download movies don't show subtitles)",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "last version",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shashety-شاشتي-7.0.21",
+          "date": "2026-08-24",
+          "size": 16777216
+        }
+      ],
+      "version": "last version",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shashety-شاشتي-7.0.21",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shashety-شاشتي-7.0.21",
+      "size": 16777216,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 143
+    },
+    {
       "id": "dev-movlix.player",
       "name": "Movilx",
       "bundleIdentifier": "dev-movlix.player",
@@ -3809,83 +3863,29 @@
       "_rowKey": 145
     },
     {
-      "id": "ali.Bawa",
-      "name": "bawa",
-      "bundleIdentifier": "ali.Bawa",
-      "bundleId": "ali.Bawa",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1774779049196.png",
+      "id": "com.ikiraplus.cinemana",
+      "name": "سينمانا القديمة",
+      "bundleIdentifier": "com.ikiraplus.cinemana",
+      "bundleId": "com.ikiraplus.cinemana",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1778255829394.png",
+      "localizedDescription": "Supports download and supports login",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "1.4.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bawa_1.4.6",
+          "version": "3.4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-old3.4.2",
           "date": "2026-08-24",
-          "size": 5452595
-        },
-        {
-          "version": "1.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bawa_1.2-1"
+          "size": 38482739
         }
       ],
-      "version": "1.4.6",
+      "version": "3.4.2",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bawa_1.4.6",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bawa_1.4.6",
-      "size": 5452595,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-old3.4.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinemana-old3.4.2",
+      "size": 38482739,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 146,
-      "localizedDescription": ""
-    },
-    {
-      "id": "com.forfun.MovieBox-TV",
-      "name": "موفي بوكس",
-      "bundleIdentifier": "com.forfun.MovieBox-TV",
-      "bundleId": "com.forfun.MovieBox-TV",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1774779141279.png",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moviebox.tv_1.0_1774777428-1",
-          "date": "2026-08-24",
-          "size": 4299161
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moviebox.tv_1.0_1774777428-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moviebox.tv_1.0_1774777428-1",
-      "size": 4299161,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 147,
-      "localizedDescription": ""
-    },
-    {
-      "id": "joker.app",
-      "name": "الجوكر سبورت",
-      "bundleIdentifier": "joker.app",
-      "bundleId": "joker.app",
-      "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/%D8%A7%D9%84%D8%AC%D9%88%D9%83%D8%B1-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-300x300.webp",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "1.0.40",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joker-sport-mod2",
-          "date": "2026-08-24",
-          "size": 101607014
-        }
-      ],
-      "version": "1.0.40",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joker-sport-mod2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/joker-sport-mod2",
-      "size": 101607014,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 148,
-      "localizedDescription": ""
+      "_rowKey": 173
     },
     {
       "id": "com.fiksu",
@@ -4321,31 +4321,28 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.soundcloud.TouchApp",
-      "name": "Sound Cloud Noads",
-      "bundleIdentifier": "com.soundcloud.TouchApp",
-      "bundleId": "com.soundcloud.TouchApp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/94/21/7e94213b-a1d6-a37b-e2e3-fe6ca2fb66d9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "id": "com.kira.cinemanaa.x",
+      "name": "سينمانا X لكل الشبكات",
+      "bundleIdentifier": "com.kira.cinemanaa.x",
+      "bundleId": "com.kira.cinemanaa.x",
+      "iconURL": "https://play-lh.googleusercontent.com/gADral9GuTv1-ue5EQbifq2mX0vkBamrT83iaL88PfAP_IuWAXWt-fumX4iJ5QQdL7atuXTewdpyb0vDBxg6cA",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "8.76.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.76.0-noads",
-          "date": "2026-08-31",
-          "size": 121739673
-        },
-        {
-          "version": "8.73.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.73.0-noads"
+          "version": "4.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-x",
+          "date": "2026-08-24",
+          "size": 46871347
         }
       ],
-      "version": "8.76.0",
-      "versionDate": "2026-08-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.76.0-noads",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.76.0-noads",
-      "size": 121739673,
-      "addedAt": "2026-08-31",
-      "updatedAt": "2026-08-31",
+      "version": "4.1.0",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-x",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinemana-x",
+      "size": 46871347,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 283,
       "localizedDescription": ""
     },
     {
@@ -4403,83 +4400,83 @@
       "_rowKey": 167
     },
     {
-      "id": "com.anime.animeRiftApp",
-      "name": "Anime Land noads",
-      "bundleIdentifier": "com.anime.animeRiftApp",
-      "bundleId": "com.anime.animeRiftApp",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777652764722.png",
+      "id": "com.dreamora",
+      "name": "Streameast no ads",
+      "bundleIdentifier": "com.dreamora",
+      "bundleId": "com.dreamora",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773597157329.png",
+      "localizedDescription": "App with all for free encrypted channels (Ben Sport, Eighth, Cup, MBC, Watch)",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "3.13.17",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-land_3.13.17",
+          "version": "1.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/streameast.1.1.1-1",
           "date": "2026-08-24",
-          "size": 72561459
+          "size": 39636172
+        }
+      ],
+      "version": "1.1.1",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/streameast.1.1.1-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/streameast.1.1.1-1",
+      "size": 39636172,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 93
+    },
+    {
+      "id": "com.xd.mbp31",
+      "name": "MovieBox Pro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "bundleId": "com.xd.mbp31",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/f6/62/b4f66278-fe44-b3e2-2e57-ab149aad793d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "3.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/movieboxpro_15.5-1",
+          "date": "2026-08-24",
+          "size": 68157440
+        }
+      ],
+      "version": "3.9",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/movieboxpro_15.5-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/movieboxpro_15.5-1",
+      "size": 68157440,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 120,
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.spotify.client",
+      "name": "Spotify GS",
+      "bundleIdentifier": "com.spotify.client",
+      "bundleId": "com.spotify.client",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-iosgods-eevee-spotify-4732.png",
+      "localizedDescription": "activation Premium feature automatically",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "9.1.78",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
+          "date": "2026-08-25",
+          "size": 134532300
         },
         {
-          "version": "3.11.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-land_3.11.5_noads"
+          "version": "9.1.76",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_gs"
         }
       ],
-      "version": "3.13.17",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-land_3.13.17",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-land_3.13.17",
-      "size": 72561459,
+      "version": "9.1.78",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
+      "size": 134532300,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 168,
-      "localizedDescription": ""
-    },
-    {
-      "id": "com.madplay.ikiraplus",
-      "name": "MadPlay",
-      "bundleIdentifier": "com.madplay.ikiraplus",
-      "bundleId": "com.madplay.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777652894490.png",
-      "localizedDescription": "App to watch encrypted sports channels (Ben Sport, 8th, Shahid, etc.)\nIt has a special section for movies and series\nad-free",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "1.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/madplay-noads",
-          "date": "2026-08-24",
-          "size": 7025459
-        }
-      ],
-      "version": "1.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/madplay-noads",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/madplay-noads",
-      "size": 7025459,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 169
-    },
-    {
-      "id": "com.yalla-shoot.Yalla",
-      "name": "يلا شوت",
-      "bundleIdentifier": "com.yalla-shoot.Yalla",
-      "bundleId": "com.yalla-shoot.Yalla",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777653026917.png",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "2.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yalla-shoot-noads",
-          "date": "2026-08-24",
-          "size": 32925286
-        }
-      ],
-      "version": "2.4",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yalla-shoot-noads",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/yalla-shoot-noads",
-      "size": 32925286,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 170,
-      "localizedDescription": ""
+      "updatedAt": "2026-08-25",
+      "_rowKey": 126
     },
     {
       "id": "com.frontrow.vlog",
@@ -4490,23 +4487,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "2.18.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.18.0_subscription_unlocked_patched",
-          "date": "2026-08-24",
-          "size": 463156019
+          "version": "2.19.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.19.0_subscription_unlocked_patched",
+          "date": "2026-09-02",
+          "size": 467455180
         },
         {
-          "version": "2.5.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn-photovideo-editor-v2.5.0"
+          "version": "2.18.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.18.0_subscription_unlocked_patched"
         }
       ],
-      "version": "2.18.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.18.0_subscription_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.18.0_subscription_unlocked_patched",
-      "size": 463156019,
+      "version": "2.19.0",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.19.0_subscription_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.19.0_subscription_unlocked_patched",
+      "size": 467455180,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-09-02",
       "_rowKey": 171,
       "localizedDescription": ""
     },
@@ -4540,29 +4537,33 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.ikiraplus.cinemana",
-      "name": "سينمانا القديمة",
-      "bundleIdentifier": "com.ikiraplus.cinemana",
-      "bundleId": "com.ikiraplus.cinemana",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1778255829394.png",
-      "localizedDescription": "Supports download and supports login",
+      "id": "ali.Bawa",
+      "name": "bawa",
+      "bundleIdentifier": "ali.Bawa",
+      "bundleId": "ali.Bawa",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1774779049196.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "3.4.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-old3.4.2",
+          "version": "1.4.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bawa_1.4.6",
           "date": "2026-08-24",
-          "size": 38482739
+          "size": 5452595
+        },
+        {
+          "version": "1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bawa_1.2-1"
         }
       ],
-      "version": "3.4.2",
+      "version": "1.4.6",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-old3.4.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinemana-old3.4.2",
-      "size": 38482739,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bawa_1.4.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bawa_1.4.6",
+      "size": 5452595,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 173
+      "_rowKey": 146,
+      "localizedDescription": ""
     },
     {
       "id": "com.nekki.shadowfightarena",
@@ -4696,29 +4697,29 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.Semicolon.Maraya",
-      "name": "مرايا",
-      "bundleIdentifier": "com.Semicolon.Maraya",
-      "bundleId": "com.Semicolon.Maraya",
-      "iconURL": "https://maraya.faulio.com/storage/mediagallery/e8/ff/single_2e4f61a0855196f083956d4f564b44b63803cb04.jpg",
+      "id": "Rodjo-BlackRodjo-BlackRodjo-Black.Rodjo-Black",
+      "name": "Rodjo",
+      "bundleIdentifier": "Rodjo-BlackRodjo-BlackRodjo-Black.Rodjo-Black",
+      "bundleId": "Rodjo-BlackRodjo-BlackRodjo-Black.Rodjo-Black",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/76/1f/9d761f97-0595-d5ea-6e2e-688ea8dd3bf0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "app to watch encrypted channels\nIt has a film section\nactivation Code : 5129",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "11.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maraya_11.1",
+          "version": "2.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rodjo-1",
           "date": "2026-08-24",
-          "size": 26004684
+          "size": 14575206
         }
       ],
-      "version": "11.1",
+      "version": "2.4",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maraya_11.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/maraya_11.1",
-      "size": 26004684,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rodjo-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rodjo-1",
+      "size": 14575206,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 179,
-      "localizedDescription": ""
+      "_rowKey": 48
     },
     {
       "id": "com.cornfox.oceanhorn2",
@@ -4879,28 +4880,28 @@
       "_rowKey": 185
     },
     {
-      "id": "com.aloula",
-      "name": "الاولى",
-      "bundleIdentifier": "com.aloula",
-      "bundleId": "com.aloula",
-      "iconURL": "https://play-lh.googleusercontent.com/tnWlRmDATHTYGCnwN1cFt-t1hWz9iB5FrTeKrT5O6insZchBqMGNAkpnihC_biweh9MvW61fePyma8SEywEZaw",
+      "id": "com.forfun.MovieBox-TV",
+      "name": "موفي بوكس",
+      "bundleIdentifier": "com.forfun.MovieBox-TV",
+      "bundleId": "com.forfun.MovieBox-TV",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1774779141279.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "2.1.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aloula_2.1.2",
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moviebox.tv_1.0_1774777428-1",
           "date": "2026-08-24",
-          "size": 23488102
+          "size": 4299161
         }
       ],
-      "version": "2.1.2",
+      "version": "1.0",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aloula_2.1.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aloula_2.1.2",
-      "size": 23488102,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moviebox.tv_1.0_1774777428-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moviebox.tv_1.0_1774777428-1",
+      "size": 4299161,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 186,
+      "_rowKey": 147,
       "localizedDescription": ""
     },
     {
@@ -5535,23 +5536,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "2026.35.01",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01",
-          "date": "2026-08-25",
-          "size": 241487052
+          "version": "2026.36.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.36.01",
+          "date": "2026-09-02",
+          "size": 242430771
         },
         {
-          "version": "2026.34.02",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.34.02"
+          "version": "2026.35.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01"
         }
       ],
-      "version": "2026.35.01",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01",
-      "size": 241487052,
+      "version": "2026.36.01",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.36.01",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.36.01",
+      "size": 242430771,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-25",
+      "updatedAt": "2026-09-02",
       "_rowKey": 211,
       "localizedDescription": ""
     },
@@ -5630,52 +5631,56 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.example.sevenscore",
-      "name": "SevenScore",
-      "bundleIdentifier": "com.example.sevenscore",
-      "bundleId": "com.example.sevenscore",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvF0yj_Y_-WcvEZW0frHik-U2KnfqVG7vtCJkvWep0jg&s=10",
-      "localizedDescription": "activation Code : 22466",
+      "id": "joker.app",
+      "name": "الجوكر سبورت",
+      "bundleIdentifier": "joker.app",
+      "bundleId": "joker.app",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/%D8%A7%D9%84%D8%AC%D9%88%D9%83%D8%B1-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-300x300.webp",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "1.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sevenscore",
+          "version": "1.0.40",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joker-sport-mod2",
           "date": "2026-08-24",
-          "size": 16252928
+          "size": 101607014
         }
       ],
-      "version": "1.2",
+      "version": "1.0.40",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sevenscore",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sevenscore",
-      "size": 16252928,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joker-sport-mod2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/joker-sport-mod2",
+      "size": 101607014,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 215
+      "_rowKey": 148,
+      "localizedDescription": ""
     },
     {
       "id": "com.dreamgames.royalmatch",
-      "name": "royal match",
+      "name": "Royal Match",
       "bundleIdentifier": "com.dreamgames.royalmatch",
       "bundleId": "com.dreamgames.royalmatch",
       "iconURL": "https://cdn.prod.website-files.com/66ba0cbc63210953b4fc73a8/66ba4dab628d3ffb9065bc2a_royal_match_page_king_robert%206.webp",
       "category": "games",
       "versions": [
         {
+          "version": "38174",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/royal-match-38174",
+          "date": "2026-09-02",
+          "size": 222193254
+        },
+        {
           "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/royal-match-37281",
-          "date": "2026-08-24",
-          "size": 220305817
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/royal-match-37281"
         }
       ],
-      "version": "last version",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/royal-match-37281",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/royal-match-37281",
-      "size": 220305817,
+      "version": "38174",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/royal-match-38174",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/royal-match-38174",
+      "size": 222193254,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-09-02",
       "_rowKey": 216,
       "localizedDescription": ""
     },
@@ -6734,54 +6739,57 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.vacotv.app",
-      "name": "vaco tv",
-      "bundleIdentifier": "com.vacotv.app",
-      "bundleId": "com.vacotv.app",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJEOMRbQ5W2r9wKnVYd_pDATtUcv_dKNbaxX1ibMde-0IuUzEhtaqWkw&s=10",
-      "localizedDescription": "An app to watch sports channels\nactivation Code : 22455",
+      "id": "com.soundcloud.TouchApp",
+      "name": "Sound Cloud Noads",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "bundleId": "com.soundcloud.TouchApp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/94/21/7e94213b-a1d6-a37b-e2e3-fe6ca2fb66d9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "2.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vaco-tv-videos",
-          "date": "2026-08-24",
-          "size": 21810380
+          "version": "8.76.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.76.0-noads",
+          "date": "2026-08-31",
+          "size": 121739673
+        },
+        {
+          "version": "8.73.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.73.0-noads"
         }
       ],
-      "version": "2.1",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vaco-tv-videos",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vaco-tv-videos",
-      "size": 21810380,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 260
+      "version": "8.76.0",
+      "versionDate": "2026-08-31",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.76.0-noads",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.76.0-noads",
+      "size": 121739673,
+      "addedAt": "2026-08-31",
+      "updatedAt": "2026-08-31",
+      "localizedDescription": ""
     },
     {
-      "id": "com.poopapps.animex",
-      "name": "anime x",
-      "bundleIdentifier": "com.poopapps.animex",
-      "bundleId": "com.poopapps.animex",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ae/69/1aae69d0-78fc-c1d2-bde6-9705811235e2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/460x0w.png",
+      "id": "com.madplay.ikiraplus",
+      "name": "MadPlay",
+      "bundleIdentifier": "com.madplay.ikiraplus",
+      "bundleId": "com.madplay.ikiraplus",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777652894490.png",
+      "localizedDescription": "App to watch encrypted sports channels (Ben Sport, 8th, Shahid, etc.)\nIt has a special section for movies and series\nad-free",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animex",
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/madplay-noads",
           "date": "2026-08-24",
-          "size": 28101836
+          "size": 7025459
         }
       ],
-      "version": "last version",
+      "version": "1.1",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animex",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animex",
-      "size": 28101836,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/madplay-noads",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/madplay-noads",
+      "size": 7025459,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 261,
-      "localizedDescription": ""
+      "_rowKey": 169
     },
     {
       "id": "com.miniclip.drone1",
@@ -7329,104 +7337,104 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.kira.cinemanaa.x",
-      "name": "سينمانا X لكل الشبكات",
-      "bundleIdentifier": "com.kira.cinemanaa.x",
-      "bundleId": "com.kira.cinemanaa.x",
-      "iconURL": "https://play-lh.googleusercontent.com/gADral9GuTv1-ue5EQbifq2mX0vkBamrT83iaL88PfAP_IuWAXWt-fumX4iJ5QQdL7atuXTewdpyb0vDBxg6cA",
+      "id": "com.yalla-shoot.Yalla",
+      "name": "يلا شوت",
+      "bundleIdentifier": "com.yalla-shoot.Yalla",
+      "bundleId": "com.yalla-shoot.Yalla",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777653026917.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "4.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-x",
+          "version": "2.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yalla-shoot-noads",
           "date": "2026-08-24",
-          "size": 46871347
+          "size": 32925286
         }
       ],
-      "version": "4.1.0",
+      "version": "2.4",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-x",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinemana-x",
-      "size": 46871347,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yalla-shoot-noads",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/yalla-shoot-noads",
+      "size": 32925286,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 283,
+      "_rowKey": 170,
       "localizedDescription": ""
     },
     {
-      "id": "com.cer.buzz",
-      "name": "CEE",
-      "bundleIdentifier": "com.cer.buzz",
-      "bundleId": "com.cer.buzz",
-      "iconURL": "https://play-lh.googleusercontent.com/mUR43rIFTAdV0MEuNxegiGbRE7ebZs_74_hJeFypIyAbLSuwrs88-XkyUEHn8S-NU4M3UJhm2lP4AXhXsjmzpg",
+      "id": "com.Semicolon.Maraya",
+      "name": "مرايا",
+      "bundleIdentifier": "com.Semicolon.Maraya",
+      "bundleId": "com.Semicolon.Maraya",
+      "iconURL": "https://maraya.faulio.com/storage/mediagallery/e8/ff/single_2e4f61a0855196f083956d4f564b44b63803cb04.jpg",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "2.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cee_1.0",
+          "version": "11.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maraya_11.1",
           "date": "2026-08-24",
-          "size": 2516582
+          "size": 26004684
         }
       ],
-      "version": "2.1",
+      "version": "11.1",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cee_1.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cee_1.0",
-      "size": 2516582,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maraya_11.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/maraya_11.1",
+      "size": 26004684,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 284,
+      "_rowKey": 179,
       "localizedDescription": ""
     },
     {
-      "id": "com.flow.tube",
-      "name": "YouTube vanced",
-      "bundleIdentifier": "com.flow.tube",
-      "bundleId": "com.flow.tube",
-      "iconURL": "https://downloadr2.apkmirror.com/wp-content/uploads/2019/02/youtube-vanced.jpg",
+      "id": "com.aloula",
+      "name": "الاولى",
+      "bundleIdentifier": "com.aloula",
+      "bundleId": "com.aloula",
+      "iconURL": "https://play-lh.googleusercontent.com/tnWlRmDATHTYGCnwN1cFt-t1hWz9iB5FrTeKrT5O6insZchBqMGNAkpnihC_biweh9MvW61fePyma8SEywEZaw",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "1.0.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vanced-tube_1.0.2",
+          "version": "2.1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aloula_2.1.2",
           "date": "2026-08-24",
-          "size": 5872025
+          "size": 23488102
         }
       ],
-      "version": "1.0.2",
+      "version": "2.1.2",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vanced-tube_1.0.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vanced-tube_1.0.2",
-      "size": 5872025,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aloula_2.1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aloula_2.1.2",
+      "size": 23488102,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 285,
+      "_rowKey": 186,
       "localizedDescription": ""
     },
     {
-      "id": "com.lastsoult.aanime",
-      "name": "Anime Slayer",
-      "bundleIdentifier": "com.lastsoult.aanime",
-      "bundleId": "com.lastsoult.aanime",
-      "iconURL": "https://cdn-www.bluestacks.com/bs-images/Icon_com.anslayer.jpg",
+      "id": "com.example.sevenscore",
+      "name": "SevenScore",
+      "bundleIdentifier": "com.example.sevenscore",
+      "bundleId": "com.example.sevenscore",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvF0yj_Y_-WcvEZW0frHik-U2KnfqVG7vtCJkvWep0jg&s=10",
+      "localizedDescription": "activation Code : 22466",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "3.3.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-slayer",
+          "version": "1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sevenscore",
           "date": "2026-08-24",
-          "size": 17930649
+          "size": 16252928
         }
       ],
-      "version": "3.3.1",
+      "version": "1.2",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-slayer",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-slayer",
-      "size": 17930649,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sevenscore",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sevenscore",
+      "size": 16252928,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 286,
-      "localizedDescription": ""
+      "_rowKey": 215
     },
     {
       "id": "net.peakgames.kammelna",
@@ -7486,78 +7494,78 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.hitv.ikiraplus",
-      "name": "Hitv pro",
-      "bundleIdentifier": "com.hitv.ikiraplus",
-      "bundleId": "com.hitv.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541382806.png",
+      "id": "com.vacotv.app",
+      "name": "vaco tv",
+      "bundleIdentifier": "com.vacotv.app",
+      "bundleId": "com.vacotv.app",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJEOMRbQ5W2r9wKnVYd_pDATtUcv_dKNbaxX1ibMde-0IuUzEhtaqWkw&s=10",
+      "localizedDescription": "An app to watch sports channels\nactivation Code : 22455",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "1.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-pro_1.1",
+          "version": "2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vaco-tv-videos",
           "date": "2026-08-24",
-          "size": 11953766
+          "size": 21810380
         }
       ],
-      "version": "1.1",
+      "version": "2.1",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-pro_1.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitv-pro_1.1",
-      "size": 11953766,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vaco-tv-videos",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vaco-tv-videos",
+      "size": 21810380,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 289,
+      "_rowKey": 260
+    },
+    {
+      "id": "com.poopapps.animex",
+      "name": "anime x",
+      "bundleIdentifier": "com.poopapps.animex",
+      "bundleId": "com.poopapps.animex",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/ae/69/1aae69d0-78fc-c1d2-bde6-9705811235e2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/460x0w.png",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "last version",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animex",
+          "date": "2026-08-24",
+          "size": 28101836
+        }
+      ],
+      "version": "last version",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animex",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animex",
+      "size": 28101836,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 261,
       "localizedDescription": ""
     },
     {
-      "id": "com.fasilplus.ikiraplus",
-      "name": "فاصل بلس",
-      "bundleIdentifier": "com.fasilplus.ikiraplus",
-      "bundleId": "com.fasilplus.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541434135.png",
+      "id": "com.flow.tube",
+      "name": "YouTube vanced",
+      "bundleIdentifier": "com.flow.tube",
+      "bundleId": "com.flow.tube",
+      "iconURL": "https://downloadr2.apkmirror.com/wp-content/uploads/2019/02/youtube-vanced.jpg",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fasil-plus",
+          "version": "1.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vanced-tube_1.0.2",
           "date": "2026-08-24",
-          "size": 7130316
+          "size": 5872025
         }
       ],
-      "version": "1.0",
+      "version": "1.0.2",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fasil-plus",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fasil-plus",
-      "size": 7130316,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vanced-tube_1.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vanced-tube_1.0.2",
+      "size": 5872025,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 290,
-      "localizedDescription": ""
-    },
-    {
-      "id": "com.qissateshqplus.ikiraplus",
-      "name": "قصة عشق - قرمزي",
-      "bundleIdentifier": "com.qissateshqplus.ikiraplus",
-      "bundleId": "com.qissateshqplus.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541492552.png",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/qsa-ashq",
-          "date": "2026-08-24",
-          "size": 1363148
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/qsa-ashq",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/qsa-ashq",
-      "size": 1363148,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 291,
+      "_rowKey": 285,
       "localizedDescription": ""
     },
     {
@@ -7597,23 +7605,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "444.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-v444.0.0-v1.3.0",
-          "date": "2026-09-01",
-          "size": 336488038
+          "version": "445.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle__v445.0.0-v1.3.1",
+          "date": "2026-09-02",
+          "size": 356620697
         },
         {
-          "version": "444.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-ig-444.0.0"
+          "version": "444.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-v444.0.0-v1.3.0"
         }
       ],
-      "version": "444.1.0",
-      "versionDate": "2026-09-01",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-v444.0.0-v1.3.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sparkle-v444.0.0-v1.3.0",
-      "size": 336488038,
+      "version": "445.0.0",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle__v445.0.0-v1.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sparkle__v445.0.0-v1.3.1",
+      "size": 356620697,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-01",
+      "updatedAt": "2026-09-02",
       "localizedDescription": ""
     },
     {
@@ -7674,28 +7682,28 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.cinee.trend",
-      "name": "MoviaQuill",
-      "bundleIdentifier": "com.cinee.trend",
-      "bundleId": "com.cinee.trend",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1783945603082.png",
+      "id": "com.hitv.ikiraplus",
+      "name": "Hitv pro",
+      "bundleIdentifier": "com.hitv.ikiraplus",
+      "bundleId": "com.hitv.ikiraplus",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541382806.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "1.1.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moviaquill-noads",
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-pro_1.1",
           "date": "2026-08-24",
-          "size": 27158118
+          "size": 11953766
         }
       ],
-      "version": "1.1.3",
+      "version": "1.1",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moviaquill-noads",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moviaquill-noads",
-      "size": 27158118,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-pro_1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitv-pro_1.1",
+      "size": 11953766,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 296,
+      "_rowKey": 289,
       "localizedDescription": ""
     },
     {
@@ -7723,57 +7731,53 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.rumaisahassan.CineMap",
-      "name": "Aflame Tv",
-      "bundleIdentifier": "com.rumaisahassan.CineMap",
-      "bundleId": "com.rumaisahassan.CineMap",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1784023070606.png",
+      "id": "com.fasilplus.ikiraplus",
+      "name": "فاصل بلس",
+      "bundleIdentifier": "com.fasilplus.ikiraplus",
+      "bundleId": "com.fasilplus.ikiraplus",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541434135.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "1.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aflame-tv-noads",
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fasil-plus",
           "date": "2026-08-24",
-          "size": 25899827
+          "size": 7130316
         }
       ],
-      "version": "1.3",
+      "version": "1.0",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aflame-tv-noads",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aflame-tv-noads",
-      "size": 25899827,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fasil-plus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fasil-plus",
+      "size": 7130316,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 298,
+      "_rowKey": 290,
       "localizedDescription": ""
     },
     {
-      "id": "com.pinebox.app",
-      "name": "PineBox Premium",
-      "bundleIdentifier": "com.pinebox.app",
-      "bundleId": "com.pinebox.app",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1784023216713.png",
+      "id": "com.qissateshqplus.ikiraplus",
+      "name": "قصة عشق - قرمزي",
+      "bundleIdentifier": "com.qissateshqplus.ikiraplus",
+      "bundleId": "com.qissateshqplus.ikiraplus",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541492552.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "2.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinebox-premium_1.2",
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/qsa-ashq",
           "date": "2026-08-24",
-          "size": 24746393
-        },
-        {
-          "version": "2.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinebox-noads"
+          "size": 1363148
         }
       ],
-      "version": "2.4",
+      "version": "1.0",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinebox-premium_1.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinebox-premium_1.2",
-      "size": 24746393,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/qsa-ashq",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/qsa-ashq",
+      "size": 1363148,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 299,
+      "_rowKey": 291,
       "localizedDescription": ""
     },
     {
@@ -7806,29 +7810,29 @@
       "_rowKey": 300
     },
     {
-      "id": "co.albox.cinema",
-      "name": "Cinema box - سينما بوكس",
-      "bundleIdentifier": "co.albox.cinema",
-      "bundleId": "co.albox.cinema",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784193262599.png",
-      "localizedDescription": "App Deleted from App Store\n- All ads removed from it",
+      "id": "com.cinee.trend",
+      "name": "MoviaQuill",
+      "bundleIdentifier": "com.cinee.trend",
+      "bundleId": "com.cinee.trend",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1783945603082.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "4.6.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
+          "version": "1.1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moviaquill-noads",
           "date": "2026-08-24",
-          "size": 28626124
+          "size": 27158118
         }
       ],
-      "version": "4.6.8",
+      "version": "1.1.3",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
-      "size": 28626124,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moviaquill-noads",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moviaquill-noads",
+      "size": 27158118,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 301
+      "_rowKey": 296,
+      "localizedDescription": ""
     },
     {
       "id": "com.burbn.instagram-c74989d6eb",
@@ -7973,33 +7977,29 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.kevin.pinatv",
-      "name": "PinaTv Pro",
-      "bundleIdentifier": "com.kevin.pinatv",
-      "bundleId": "com.kevin.pinatv",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784914075063.png",
-      "localizedDescription": "PinaTv Pro app, the updated version with highlights additions and modifications:\n\n- Unlock all VIP features\n- Block all ads and stops\n- Add a PIP button (you can exit the app while watching in PIP mode, or you can press the Feedback button for activation PIP mode)\n- Add a button to save the film cover\n- download and 1080 resolution viewing",
+      "id": "com.rumaisahassan.CineMap",
+      "name": "Aflame Tv",
+      "bundleIdentifier": "com.rumaisahassan.CineMap",
+      "bundleId": "com.rumaisahassan.CineMap",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1784023070606.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "2.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6",
+          "version": "1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aflame-tv-noads",
           "date": "2026-08-24",
-          "size": 22334668
-        },
-        {
-          "version": "2.0.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinatv-noads-2.0.2"
+          "size": 25899827
         }
       ],
-      "version": "2.6",
+      "version": "1.3",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6",
-      "size": 22334668,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aflame-tv-noads",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aflame-tv-noads",
+      "size": 25899827,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 307
+      "_rowKey": 298,
+      "localizedDescription": ""
     },
     {
       "id": "com.google.ios.youtube-9462dde4a0",
@@ -8063,23 +8063,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "7.3.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.9",
-          "date": "2026-08-31",
-          "size": 82313216
+          "version": "7.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.1",
+          "date": "2026-09-02",
+          "size": 82418073
         },
         {
-          "version": "7.3.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.6"
+          "version": "7.3.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.9"
         }
       ],
-      "version": "7.3.9",
-      "versionDate": "2026-08-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.9",
-      "size": 82313216,
+      "version": "7.4.1",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.1",
+      "size": 82418073,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-31",
+      "updatedAt": "2026-09-02",
       "_rowKey": 310,
       "localizedDescription": ""
     },
@@ -8134,28 +8134,32 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.rahiazathar.animequest",
-      "name": "Anime Slayer Neo",
-      "bundleIdentifier": "com.rahiazathar.animequest",
-      "bundleId": "com.rahiazathar.animequest",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1785076089849.png",
+      "id": "com.pinebox.app",
+      "name": "PineBox Premium",
+      "bundleIdentifier": "com.pinebox.app",
+      "bundleId": "com.pinebox.app",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1784023216713.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "4.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-slayer-neo_4.2",
+          "version": "2.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinebox-premium_1.2",
           "date": "2026-08-24",
-          "size": 26109542
+          "size": 24746393
+        },
+        {
+          "version": "2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinebox-noads"
         }
       ],
-      "version": "4.2",
+      "version": "2.4",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-slayer-neo_4.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-slayer-neo_4.2",
-      "size": 26109542,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinebox-premium_1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinebox-premium_1.2",
+      "size": 24746393,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 313,
+      "_rowKey": 299,
       "localizedDescription": ""
     },
     {
@@ -8954,29 +8958,33 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.hitvneo.ikiraplus",
-      "name": "Hitv Kira",
-      "bundleIdentifier": "com.hitvneo.ikiraplus",
-      "bundleId": "com.hitvneo.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786039385843.png",
+      "id": "com.kevin.pinatv",
+      "name": "PinaTv Pro",
+      "bundleIdentifier": "com.kevin.pinatv",
+      "bundleId": "com.kevin.pinatv",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784914075063.png",
+      "localizedDescription": "PinaTv Pro app, the updated version with highlights additions and modifications:\n\n- Unlock all VIP features\n- Block all ads and stops\n- Add a PIP button (you can exit the app while watching in PIP mode, or you can press the Feedback button for activation PIP mode)\n- Add a button to save the film cover\n- download and 1080 resolution viewing",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "2.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4",
+          "version": "2.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6",
           "date": "2026-08-24",
-          "size": 32820428
+          "size": 22334668
+        },
+        {
+          "version": "2.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinatv-noads-2.0.2"
         }
       ],
-      "version": "2.4",
+      "version": "2.6",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4",
-      "size": 32820428,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6",
+      "size": 22334668,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 344,
-      "localizedDescription": ""
+      "_rowKey": 307
     },
     {
       "id": "com.pikpok.hrc.iosstore",
@@ -9060,28 +9068,28 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.moox.app",
-      "name": "Moox TV Premium",
-      "bundleIdentifier": "com.moox.app",
-      "bundleId": "com.moox.app",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786196047646.png",
+      "id": "com.rahiazathar.animequest",
+      "name": "Anime Slayer Neo",
+      "bundleIdentifier": "com.rahiazathar.animequest",
+      "bundleId": "com.rahiazathar.animequest",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1785076089849.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "1.9.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
+          "version": "4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-slayer-neo_4.2",
           "date": "2026-08-24",
-          "size": 48968499
+          "size": 26109542
         }
       ],
-      "version": "1.9.5",
+      "version": "4.2",
       "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
-      "size": 48968499,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-slayer-neo_4.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-slayer-neo_4.2",
+      "size": 26109542,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-08-24",
-      "_rowKey": 348,
+      "_rowKey": 313,
       "localizedDescription": ""
     },
     {
@@ -9110,59 +9118,28 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.soundcloud.TouchApp-f33922ed8a",
-      "name": "SoundCloud Nexa",
-      "bundleIdentifier": "com.soundcloud.TouchApp",
-      "bundleId": "com.soundcloud.TouchApp",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f9/36/22f936bd-f61d-d1e1-8227-7352688e9367/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "id": "com.moox.app",
+      "name": "Moox TV Premium",
+      "bundleIdentifier": "com.moox.app",
+      "bundleId": "com.moox.app",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786196047646.png",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "8.76.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.76.0-nexasc",
-          "date": "2026-08-31",
-          "size": 118069657
-        },
-        {
-          "version": "8.74.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.74.0-nexasc"
-        }
-      ],
-      "version": "8.76.0",
-      "versionDate": "2026-08-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.76.0-nexasc",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.76.0-nexasc",
-      "size": 118069657,
-      "addedAt": "2026-08-29",
-      "updatedAt": "2026-08-31",
-      "localizedDescription": ""
-    },
-    {
-      "id": "com.spotify.client-6066f1c4ff",
-      "name": "Spotify Eevee",
-      "bundleIdentifier": "com.spotify.client",
-      "bundleId": "com.spotify.client",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/74/07/42740742-a513-c1f3-ae00-b4b0a7d56ba5/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "9.1.76",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_es",
+          "version": "1.9.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
           "date": "2026-08-24",
-          "size": 132959436
-        },
-        {
-          "version": "9.1.74",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-eavee_9.1.74"
+          "size": 48968499
         }
       ],
-      "version": "9.1.76",
-      "versionDate": "2026-08-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_es",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.76_es",
-      "size": 132959436,
-      "addedAt": "2026-08-29",
-      "updatedAt": "2026-08-29",
+      "version": "1.9.5",
+      "versionDate": "2026-08-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
+      "size": 48968499,
+      "addedAt": "2026-08-22",
+      "updatedAt": "2026-08-24",
+      "_rowKey": 348,
       "localizedDescription": ""
     },
     {
@@ -9378,60 +9355,31 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.firecore.infuse",
-      "name": "Infuse Plus",
-      "bundleIdentifier": "com.firecore.infuse",
-      "bundleId": "com.firecore.infuse",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/bb/6c/fabb6cea-c350-8e36-a81f-97ed059f092c/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "8.5.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.3-infuse-plus-v2.5-patched",
-          "date": "2026-08-28",
-          "size": 102445875
-        },
-        {
-          "version": "8.5.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.2-infuse-plus-v2.5-patched"
-        }
-      ],
-      "version": "8.5.3",
-      "versionDate": "2026-08-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.3-infuse-plus-v2.5-patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.3-infuse-plus-v2.5-patched",
-      "size": 102445875,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-29",
-      "_rowKey": 360,
-      "localizedDescription": ""
-    },
-    {
       "id": "com.joytunes.Draw",
       "name": "Simply Draw Learn To Draw",
       "bundleIdentifier": "com.joytunes.Draw",
       "bundleId": "com.joytunes.Draw",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/70/6d/d3706d2a-d5b4-a265-68c9-08c1362fdf79/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "category": "Study and artificial intelligence",
+      "category": "tools",
       "versions": [
         {
-          "version": "1.7.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.4_subscription_unlocked_patched",
-          "date": "2026-08-27",
-          "size": 123627110
+          "version": "1.7.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.5_subscription_unlocked_patched",
+          "date": "2026-09-02",
+          "size": 134112870
         },
         {
-          "version": "1.7.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.3_subscription_unlocked"
+          "version": "1.7.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.4_subscription_unlocked_patched"
         }
       ],
-      "version": "1.7.4",
-      "versionDate": "2026-08-27",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.4_subscription_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.4_subscription_unlocked_patched",
-      "size": 123627110,
+      "version": "1.7.5",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.5_subscription_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.5_subscription_unlocked_patched",
+      "size": 134112870,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-27",
+      "updatedAt": "2026-09-02",
       "_rowKey": 361,
       "localizedDescription": ""
     },
@@ -9722,28 +9670,32 @@
       "localizedDescription": ""
     },
     {
-      "id": "night.ntv1.iQTv",
-      "name": "iQ Tv",
-      "bundleIdentifier": "night.ntv1.iQTv",
-      "bundleId": "night.ntv1.iQTv",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/c3/83/f6c38342-856e-cbba-a312-5aeeec0b46aa/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "id": "com.firecore.infuse",
+      "name": "Infuse Plus",
+      "bundleIdentifier": "com.firecore.infuse",
+      "bundleId": "com.firecore.infuse",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/bb/6c/fabb6cea-c350-8e36-a81f-97ed059f092c/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
       "category": "Entertainment",
       "versions": [
         {
-          "version": "3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtv",
-          "date": "2026-08-24",
-          "size": 21705523
+          "version": "8.5.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.3-infuse-plus-v2.5-patched",
+          "date": "2026-08-28",
+          "size": 102445875
+        },
+        {
+          "version": "8.5.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.2-infuse-plus-v2.5-patched"
         }
       ],
-      "version": "3.0",
-      "versionDate": "2026-08-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtv",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtv",
-      "size": 21705523,
+      "version": "8.5.3",
+      "versionDate": "2026-08-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.3-infuse-plus-v2.5-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infuse-v8.5.3-infuse-plus-v2.5-patched",
+      "size": 102445875,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-24",
-      "_rowKey": 373,
+      "updatedAt": "2026-08-29",
+      "_rowKey": 360,
       "localizedDescription": ""
     },
     {
@@ -10042,23 +9994,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "6.01.00",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.00_subscription_unlocked",
-          "date": "2026-08-28",
+          "version": "6.01.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.01_subscription_unlocked",
+          "date": "2026-09-02",
           "size": 53477376
         },
         {
-          "version": "6.00.01",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.00.01_subscription_unlocked_"
+          "version": "6.01.00",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.00_subscription_unlocked"
         }
       ],
-      "version": "6.01.00",
-      "versionDate": "2026-08-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.00_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.00_subscription_unlocked",
+      "version": "6.01.01",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.01_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pixel_color_paint_by_number_v6.01.01_subscription_unlocked",
       "size": 53477376,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-29",
+      "updatedAt": "2026-09-02",
       "_rowKey": 385,
       "localizedDescription": ""
     },
@@ -10100,23 +10052,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "12.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion-vpn_v12.1_subscription_unlocked",
-          "date": "2026-08-28",
+          "version": "12.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion_-_vpn_v12.2_subscription_unlocked",
+          "date": "2026-09-02",
           "size": 45088768
         },
         {
-          "version": "12.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion_-_vpn_v12.0_subscription_unlocked"
+          "version": "12.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion-vpn_v12.1_subscription_unlocked"
         }
       ],
-      "version": "12.1",
-      "versionDate": "2026-08-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion-vpn_v12.1_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion-vpn_v12.1_subscription_unlocked",
+      "version": "12.2",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion_-_vpn_v12.2_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tor_browser_the_onion_-_vpn_v12.2_subscription_unlocked",
       "size": 45088768,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-29",
+      "updatedAt": "2026-09-02",
       "_rowKey": 387,
       "localizedDescription": ""
     },
@@ -10186,23 +10138,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "9.10.89",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.89_subscription_unlocked",
-          "date": "2026-08-30",
-          "size": 158439833
+          "version": "9.10.90",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.90_subscription_unlocked",
+          "date": "2026-09-02",
+          "size": 131701145
         },
         {
-          "version": "9.10.88",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.88_subscription_unlocked"
+          "version": "9.10.89",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.89_subscription_unlocked"
         }
       ],
-      "version": "9.10.89",
-      "versionDate": "2026-08-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.89_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.89_subscription_unlocked",
-      "size": 158439833,
+      "version": "9.10.90",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.90_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.90_subscription_unlocked",
+      "size": 131701145,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-08-30",
+      "updatedAt": "2026-09-02",
       "_rowKey": 390,
       "localizedDescription": ""
     },
@@ -14877,31 +14829,6 @@
       "localizedDescription": ""
     },
     {
-      "id": "com.soundcloud.TouchApp-3dc6e17a0b",
-      "name": "Sound Cloud GT",
-      "bundleIdentifier": "com.soundcloud.TouchApp",
-      "bundleId": "com.soundcloud.TouchApp",
-      "iconURL": "https://play-lh.googleusercontent.com/rfmCNUApzYntPTdAVmor5vpaOGxIUJWNlpED2pwKcDuCTUaf_2vJlOALNzX1PiejSgZIuAT8k0F5xIBU58JG3g",
-      "category": "Entertainment",
-      "versions": [
-        {
-          "version": "8.74.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt-v8.74.0",
-          "date": "2026-08-30",
-          "size": 115133644
-        }
-      ],
-      "version": "8.74.0",
-      "versionDate": "2026-08-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt-v8.74.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt-v8.74.0",
-      "size": 115133644,
-      "addedAt": "2026-08-27",
-      "updatedAt": "2026-08-30",
-      "_rowKey": 67,
-      "localizedDescription": ""
-    },
-    {
       "id": "app-1787848990892",
       "name": "Reels Templates Maker Pro",
       "bundleIdentifier": "com.ikiraplus.apps.reels-templates-maker-pro.bdf13a2a8c",
@@ -18054,19 +17981,23 @@
       "category": "games",
       "versions": [
         {
+          "version": "2.775.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/brain-test-tricky-puzzles-v2.775.0",
+          "date": "2026-09-02",
+          "size": 152148377
+        },
+        {
           "version": "2.772.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/brain-test-tricky-puzzles-v2.772.0",
-          "date": "2026-08-31",
-          "size": 152358092
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/brain-test-tricky-puzzles-v2.772.0"
         }
       ],
-      "version": "2.772.0",
-      "versionDate": "2026-08-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/brain-test-tricky-puzzles-v2.772.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/brain-test-tricky-puzzles-v2.772.0",
-      "size": 152358092,
+      "version": "2.775.0",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/brain-test-tricky-puzzles-v2.775.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/brain-test-tricky-puzzles-v2.775.0",
+      "size": 152148377,
       "addedAt": "2026-08-31",
-      "updatedAt": "2026-08-31",
+      "updatedAt": "2026-09-02",
       "localizedDescription": ""
     },
     {
@@ -19195,6 +19126,102 @@
       "size": 412509798,
       "addedAt": "2026-09-01",
       "updatedAt": "2026-09-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "ca.lbcstudios.hempire",
+      "name": "Hempire",
+      "bundleIdentifier": "ca.lbcstudios.hempire",
+      "bundleId": "ca.lbcstudios.hempire",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/34/bf/5934bf93-9e06-d168-81f6-66367efcd781/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.47.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hempire-2.47.5",
+          "date": "2026-09-02",
+          "size": 108422758
+        }
+      ],
+      "version": "2.47.5",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hempire-2.47.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hempire-2.47.5",
+      "size": 108422758,
+      "addedAt": "2026-09-02",
+      "updatedAt": "2026-09-02",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.Frumpydoodle-Games.All-Who-Wander",
+      "name": "All Who Wander",
+      "bundleIdentifier": "com.Frumpydoodle-Games.All-Who-Wander",
+      "bundleId": "com.Frumpydoodle-Games.All-Who-Wander",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/3d/f5/813df5e1-b115-4953-57d5-9abab4398d08/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/all-who-wander-1.3.1",
+          "date": "2026-09-02",
+          "size": 90282393
+        }
+      ],
+      "version": "1.3.1",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/all-who-wander-1.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/all-who-wander-1.3.1",
+      "size": 90282393,
+      "addedAt": "2026-09-02",
+      "updatedAt": "2026-09-02",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.adobe.fresco.ios",
+      "name": "Adobe Fresco Draw Paint App",
+      "bundleIdentifier": "com.adobe.fresco.ios",
+      "bundleId": "com.adobe.fresco.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/f3/e5/04f3e503-2cb0-e472-140c-bdf05d84dfc7/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "7.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_fresco_draw_-_paint_app_v7.7.0_subscription_unlocked",
+          "date": "2026-09-02",
+          "size": 812122112
+        }
+      ],
+      "version": "7.7.0",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_fresco_draw_-_paint_app_v7.7.0_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe_fresco_draw_-_paint_app_v7.7.0_subscription_unlocked",
+      "size": 812122112,
+      "addedAt": "2026-09-02",
+      "updatedAt": "2026-09-02",
+      "localizedDescription": ""
+    },
+    {
+      "id": "com.book.summaries.reading",
+      "name": "Growme Lazy Reading",
+      "bundleIdentifier": "com.book.summaries.reading",
+      "bundleId": "com.book.summaries.reading",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/71/77/df717717-1984-7210-54e1-462a4e1f1428/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "1.3.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/growme_lazy_reading_v1.3.6_subscription_unlocked_patched",
+          "date": "2026-09-02",
+          "size": 143340339
+        }
+      ],
+      "version": "1.3.6",
+      "versionDate": "2026-09-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/growme_lazy_reading_v1.3.6_subscription_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/growme_lazy_reading_v1.3.6_subscription_unlocked_patched",
+      "size": 143340339,
+      "addedAt": "2026-09-02",
+      "updatedAt": "2026-09-02",
       "localizedDescription": ""
     }
   ],
