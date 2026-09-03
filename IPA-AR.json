@@ -19309,18 +19309,18 @@
       "versions": [
         {
           "version": "5.2.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/esign-neo_5.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/esign-neo_v5.2.0",
           "date": "2026-09-03",
           "size": 25060966
         }
       ],
       "version": "5.2.0",
-      "versionDate": "2026-09-03",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/esign-neo_5.2.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/esign-neo_5.2.0",
+      "versionDate": "2026-09-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/esign-neo_v5.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/esign-neo_v5.2.0",
       "size": 25060966,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-09-03"
+      "updatedAt": "2026-09-04"
     },
     {
       "id": "app-1788462381512",
