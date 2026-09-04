@@ -92,23 +92,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "26.34.72",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.34.72_wgoldplus",
-          "date": "2026-08-31",
-          "size": 157076684
+          "version": "26.34.74",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.34.74_wgoldplus",
+          "date": "2026-09-04",
+          "size": 149422080
         },
         {
-          "version": "26.32.75",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.32.75_wgoldplus"
+          "version": "26.34.72",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.34.72_wgoldplus"
         }
       ],
-      "version": "26.34.72",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.34.72_wgoldplus",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.34.72_wgoldplus",
-      "size": 157076684,
+      "version": "26.34.74",
+      "versionDate": "2026-09-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.34.74_wgoldplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.34.74_wgoldplus",
+      "size": 149422080,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-04",
       "_rowKey": 5
     },
     {
@@ -257,23 +257,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "26.34.72",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.72_wgoldplus",
-          "date": "2026-08-31",
-          "size": 164416716
+          "version": "26.34.74",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.74_wagoldplus",
+          "date": "2026-09-04",
+          "size": 156552396
         },
         {
-          "version": "26.32.75",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.32.75_wgoldplus"
+          "version": "26.34.72",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.72_wgoldplus"
         }
       ],
-      "version": "26.34.72",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.72_wgoldplus",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.72_wgoldplus",
-      "size": 164416716,
+      "version": "26.34.74",
+      "versionDate": "2026-09-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.74_wagoldplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.74_wagoldplus",
+      "size": 156552396,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-04",
       "_rowKey": 11
     },
     {
@@ -7373,23 +7373,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "46.3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-v46.2.0-dyilb1.7",
-          "date": "2026-08-24",
-          "size": 419849830
+          "version": "46.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.7.0-tweak-1.8.1",
+          "date": "2026-09-04",
+          "size": 453194547
         },
         {
-          "version": "46.2.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.2.0-v1.6"
+          "version": "46.3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-v46.2.0-dyilb1.7"
         }
       ],
-      "version": "46.3.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-v46.2.0-dyilb1.7",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-v46.2.0-dyilb1.7",
-      "size": 419849830,
+      "version": "46.7.0",
+      "versionDate": "2026-09-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.7.0-tweak-1.8.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-46.7.0-tweak-1.8.1",
+      "size": 453194547,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-04"
     },
     {
       "id": "APP-6203305465",
@@ -19367,6 +19367,29 @@
       "size": 118908518,
       "addedAt": "2026-09-03",
       "updatedAt": "2026-09-03"
+    },
+    {
+      "id": "app-1788519035815",
+      "name": "Spotify GT",
+      "bundleIdentifier": "com.spotify.client",
+      "bundleId": "com.spotify.client",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/e1/e7/74e1e75a-49d0-ff5c-6ec2-64a2540ac7c7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "ترفيه",
+      "versions": [
+        {
+          "version": "9.1.78",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_gt",
+          "date": "2026-09-04",
+          "size": 131806003
+        }
+      ],
+      "version": "9.1.78",
+      "versionDate": "2026-09-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_gt",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_gt",
+      "size": 131806003,
+      "addedAt": "2026-09-04",
+      "updatedAt": "2026-09-04"
     }
   ]
 }
