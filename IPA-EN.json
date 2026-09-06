@@ -4380,23 +4380,23 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "2.4.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-tw-v2.4.5",
-          "date": "2026-07-27",
-          "size": 3763339264
+          "version": "4.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubgm-tw-fix_4.5.0_v2",
+          "date": "2026-09-06",
+          "size": 3764912128
         },
         {
-          "version": "1.4.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-tw-v1.4.5"
+          "version": "2.4.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-tw-v2.4.5"
         }
       ],
-      "version": "2.4.5",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-tw-v2.4.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-tw-v2.4.5",
-      "size": 3763339264,
+      "version": "4.5.0",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubgm-tw-fix_4.5.0_v2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubgm-tw-fix_4.5.0_v2",
+      "size": 3764912128,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-06",
       "_rowKey": 167
     },
     {
@@ -5797,19 +5797,23 @@
       "category": "GAMES",
       "versions": [
         {
+          "version": "1.0.15",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leo-s-fortune_1.0.15",
+          "date": "2026-09-06",
+          "size": 601882624
+        },
+        {
           "version": "1.0.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leo-s-fortune-last",
-          "date": "2026-08-24",
-          "size": 621805568
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leo-s-fortune-last"
         }
       ],
-      "version": "1.0.6",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leo-s-fortune-last",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/leo-s-fortune-last",
-      "size": 621805568,
+      "version": "1.0.15",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leo-s-fortune_1.0.15",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/leo-s-fortune_1.0.15",
+      "size": 601882624,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-06",
       "_rowKey": 221,
       "localizedDescription": ""
     },
@@ -7247,23 +7251,23 @@
       "category": "PUNCH TOOL",
       "versions": [
         {
-          "version": "2.86",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.86_subscription_unlocked_patched",
-          "date": "2026-08-30",
-          "size": 402338611
+          "version": "2.87",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.87_subscription_unlocked_patched",
+          "date": "2026-09-06",
+          "size": 398878310
         },
         {
-          "version": "2.85",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.85_subscription_unlocked__patched"
+          "version": "2.86",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.86_subscription_unlocked_patched"
         }
       ],
-      "version": "2.86",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.86_subscription_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.86_subscription_unlocked_patched",
-      "size": 402338611,
+      "version": "2.87",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.87_subscription_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.87_subscription_unlocked_patched",
+      "size": 398878310,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-06",
       "_rowKey": 279,
       "localizedDescription": ""
     },
@@ -14411,26 +14415,30 @@
     },
     {
       "id": "APP-5436136510",
-      "name": "House Flipper",
-      "bundleIdentifier": "com.ikiraplus.apps.house-flipper.3d6695838b",
+      "name": "House Flipper Home Design",
+      "bundleIdentifier": "com.imaginalis.HouseFlipperMobile",
+      "bundleId": "com.imaginalis.HouseFlipperMobile",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/bf/a5/68bfa5ee-01d3-ff0d-dbe2-6a1536284789/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "category": "GAMES",
       "versions": [
         {
+          "version": "1.691",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/house-flipper-home-design_1.691",
+          "date": "2026-09-06",
+          "size": 675492659
+        },
+        {
           "version": "1.682",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/house-flipper-1.682",
-          "date": "2026-08-25",
-          "size": 511180800
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/house-flipper-1.682"
         }
       ],
-      "version": "1.682",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/house-flipper-1.682",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/house-flipper-1.682",
-      "size": 511180800,
-      "addedAt": "2026-08-25",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 68,
+      "version": "1.691",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/house-flipper-home-design_1.691",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/house-flipper-home-design_1.691",
+      "size": 675492659,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
       "localizedDescription": ""
     },
     {
@@ -14617,19 +14625,23 @@
       "category": "communication",
       "versions": [
         {
+          "version": "46.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sada-tiktok_v46.7.0",
+          "date": "2026-09-06",
+          "size": 451202252
+        },
+        {
           "version": "46.6.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_v46.6.0-sadatik",
-          "date": "2026-08-30",
-          "size": 448266240
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_v46.6.0-sadatik"
         }
       ],
-      "version": "46.6.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_v46.6.0-sadatik",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok_v46.6.0-sadatik",
-      "size": 448266240,
+      "version": "46.7.0",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sada-tiktok_v46.7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sada-tiktok_v46.7.0",
+      "size": 451202252,
       "addedAt": "2026-08-25",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-06",
       "_rowKey": 1,
       "localizedDescription": ""
     },
@@ -16752,24 +16764,29 @@
     {
       "id": "APP-9009272873",
       "name": "Left 4 Exfil",
-      "bundleIdentifier": "com.ikiraplus.apps.left-4-exfil.117719b9d1",
+      "bundleIdentifier": "net.pixelrabbit.l4e",
+      "bundleId": "net.pixelrabbit.l4e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/58/fd/3a58fd0a-614c-e423-bc90-05f39382cb18/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "category": "GAMES",
       "versions": [
         {
+          "version": "1.0.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/left-4-exfil_1.0.3",
+          "date": "2026-09-06",
+          "size": 386924544
+        },
+        {
           "version": "1.0.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/left-4-exfil-v1.0.1",
-          "date": "2026-08-29",
-          "size": 234881024
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/left-4-exfil-v1.0.1"
         }
       ],
-      "version": "1.0.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/left-4-exfil-v1.0.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/left-4-exfil-v1.0.1",
-      "size": 234881024,
+      "version": "1.0.3",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/left-4-exfil_1.0.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/left-4-exfil_1.0.3",
+      "size": 386924544,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-06",
       "localizedDescription": ""
     },
     {
@@ -20020,19 +20037,23 @@
       "category": "Entertainment",
       "versions": [
         {
+          "version": "8.77.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gsc-8.74.0",
+          "date": "2026-09-06",
+          "size": 115133644
+        },
+        {
           "version": "8.76.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt_8.76.0_gs",
-          "date": "2026-09-03",
-          "size": 118384230
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt_8.76.0_gs"
         }
       ],
-      "version": "8.76.0",
-      "versionDate": "2026-09-03",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt_8.76.0_gs",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sound-cloud-gt_8.76.0_gs",
-      "size": 118384230,
+      "version": "8.77.0",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gsc-8.74.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gsc-8.74.0",
+      "size": 115133644,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-06",
       "localizedDescription": ""
     },
     {
@@ -20799,6 +20820,222 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jujutsu-kaisen-phantom-parade_3.8.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jujutsu-kaisen-phantom-parade_3.8.0",
       "size": 583427686,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788710261173",
+      "name": "Galactic Outlaw Tower Defense",
+      "bundleIdentifier": "com.cookapps.towerroguedefense",
+      "bundleId": "com.cookapps.towerroguedefense",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/11/80/f91180ee-0d20-5628-1f95-9d9959e6eed2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.0.06",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galactic-outlaw-tower-defense_1.0.06",
+          "date": "2026-09-06",
+          "size": 510656512
+        }
+      ],
+      "version": "1.0.06",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galactic-outlaw-tower-defense_1.0.06",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/galactic-outlaw-tower-defense_1.0.06",
+      "size": 510656512,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788710342366",
+      "name": "Love & Pies - Merge Mystery",
+      "bundleIdentifier": "com.Trailmix.LoveAndPiesMerge",
+      "bundleId": "com.Trailmix.LoveAndPiesMerge",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/47/22/a74722b8-16bc-2790-956f-e98c01e1dfb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "0.83.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/love-pies-merge-mystery_0.83.1",
+          "date": "2026-09-06",
+          "size": 466511462
+        }
+      ],
+      "version": "0.83.1",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/love-pies-merge-mystery_0.83.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/love-pies-merge-mystery_0.83.1",
+      "size": 466511462,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788710476250",
+      "name": "Finito Anatomy Atlas MedAi",
+      "bundleIdentifier": "com.finito.medicine",
+      "bundleId": "com.finito.medicine",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/9d/25/4a9d2519-ea99-c3db-ef26-90243267a56f/Placeholder.mill/400x400bb-75.webp",
+      "localizedDescription": "paid application in the official store .",
+      "category": "Study and Artificial Intelligence",
+      "versions": [
+        {
+          "version": "1.4.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/finito-anatomy-atlas-medai_1.4.7",
+          "date": "2026-09-06",
+          "size": 264765440
+        }
+      ],
+      "version": "1.4.7",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/finito-anatomy-atlas-medai_1.4.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/finito-anatomy-atlas-medai_1.4.7",
+      "size": 264765440,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06"
+    },
+    {
+      "id": "app-1788710514707",
+      "name": "Real Coaster Idle Tycoon Game",
+      "bundleIdentifier": "com.raventurn.realcoaster",
+      "bundleId": "com.raventurn.realcoaster",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/f8/be/f2f8bea4-457d-f544-fe17-beaca46b8756/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.0.23",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/real-coaster-idle-tycoon-game_2.0.23",
+          "date": "2026-09-06",
+          "size": 394264576
+        }
+      ],
+      "version": "2.0.23",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/real-coaster-idle-tycoon-game_2.0.23",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/real-coaster-idle-tycoon-game_2.0.23",
+      "size": 394264576,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788710571794",
+      "name": "Klondike Adventures: Farm Game",
+      "bundleIdentifier": "com.vizor-apps.Klondike",
+      "bundleId": "com.vizor-apps.Klondike",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/0f/3c/3f0f3c3a-8cfd-ec39-ee81-4e476ee7c0ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.151.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/klondike-adventures-farm-game_2.151.1",
+          "date": "2026-09-06",
+          "size": 291818700
+        }
+      ],
+      "version": "2.151.1",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/klondike-adventures-farm-game_2.151.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/klondike-adventures-farm-game_2.151.1",
+      "size": 291818700,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788712933874",
+      "name": "English Galaxy Premium",
+      "bundleIdentifier": "ru.englishgalaxy.ios",
+      "bundleId": "ru.englishgalaxy.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/26/cc/4c26cc25-839c-1483-2bdd-4ea3fdf25b26/AppIconBlue-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "1.7.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/english-galaxy-premium-v1.7.4",
+          "date": "2026-09-06",
+          "size": 123207680
+        }
+      ],
+      "version": "1.7.4",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/english-galaxy-premium-v1.7.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/english-galaxy-premium-v1.7.4",
+      "size": 123207680,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788713068762",
+      "name": "German Galaxy Premium",
+      "bundleIdentifier": "com.germangalaxy.ios",
+      "bundleId": "com.germangalaxy.ios",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1788713068762.png",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "1.1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/german-galaxy-premium-v1.1.2",
+          "date": "2026-09-06",
+          "size": 94057267
+        }
+      ],
+      "version": "1.1.2",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/german-galaxy-premium-v1.1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/german-galaxy-premium-v1.1.2",
+      "size": 94057267,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788713116293",
+      "name": "Ultimate Custom Night",
+      "bundleIdentifier": "com.clickteam.ultimatecustomnight",
+      "bundleId": "com.clickteam.ultimatecustomnight",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/38/10/f63810f5-343a-8da2-3e16-fafaab7a071a/AppIcon-1x_U007epad-0-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.0.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ultimate-custom-night-1.0.6",
+          "date": "2026-09-06",
+          "size": 208247193
+        }
+      ],
+      "version": "1.0.6",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ultimate-custom-night-1.0.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ultimate-custom-night-1.0.6",
+      "size": 208247193,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788713701243",
+      "name": "ASJ YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "category": "communication",
+      "versions": [
+        {
+          "version": "21.32.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
+          "date": "2026-09-06",
+          "size": 135161446
+        }
+      ],
+      "version": "21.32.4",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
+      "size": 135161446,
       "addedAt": "2026-09-06",
       "updatedAt": "2026-09-06",
       "localizedDescription": ""
