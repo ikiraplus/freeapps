@@ -20658,6 +20658,150 @@
       "addedAt": "2026-09-06",
       "updatedAt": "2026-09-06",
       "localizedDescription": ""
+    },
+    {
+      "id": "app-1788707435039",
+      "name": "Animal busters idle rpg",
+      "bundleIdentifier": "com.linegames.pak",
+      "bundleId": "com.linegames.pak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/df/23/5cdf2308-cd2a-0842-65ca-3982717458a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.2.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animalbustersidlerpg_128",
+          "date": "2026-09-06",
+          "size": 529845452
+        }
+      ],
+      "version": "1.2.8",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animalbustersidlerpg_128",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animalbustersidlerpg_128",
+      "size": 529845452,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788707492592",
+      "name": "Arcemu Watch Emulator",
+      "bundleIdentifier": "com.rdamato.arcadiaemu",
+      "bundleId": "com.rdamato.arcadiaemu",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/2c/7e/cb2c7e3b-63d5-a585-b69b-01e228f3a2ed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid emulator in the official store .",
+      "category": "OTHER",
+      "versions": [
+        {
+          "version": "1.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/arcemu-watch-emulator_1.11",
+          "date": "2026-09-06",
+          "size": 42467328
+        }
+      ],
+      "version": "1.11",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/arcemu-watch-emulator_1.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/arcemu-watch-emulator_1.11",
+      "size": 42467328,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06"
+    },
+    {
+      "id": "app-1788707536604",
+      "name": "Ash N Veil Fast Idle Action",
+      "bundleIdentifier": "studio.gameberry.anv",
+      "bundleId": "studio.gameberry.anv",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/d9/d1/9dd9d1f1-232c-d63e-68c5-da16579955ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.1.48",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ash-n-veil-fast-idle-action_1.1.48",
+          "date": "2026-09-06",
+          "size": 1605055283
+        }
+      ],
+      "version": "1.1.48",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ash-n-veil-fast-idle-action_1.1.48",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ash-n-veil-fast-idle-action_1.1.48",
+      "size": 1605055283,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788707635388",
+      "name": "Nuclear Day Survival",
+      "bundleIdentifier": "com.somniumfabri.nuclearday",
+      "bundleId": "com.somniumfabri.nuclearday",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/bb/6a/40bb6a78-3cfb-57a0-fbfe-556bd8a9a2af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.2.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nuclear-day-survival_1.2.9",
+          "date": "2026-09-06",
+          "size": 805096652
+        }
+      ],
+      "version": "1.2.9",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nuclear-day-survival_1.2.9",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nuclear-day-survival_1.2.9",
+      "size": 805096652,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788707714204",
+      "name": "Real War Survival Game",
+      "bundleIdentifier": "com.sku.action.war.survival.games",
+      "bundleId": "com.sku.action.war.survival.games",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/a0/91/f0a09134-2b58-4dd8-b5ef-8a017a510306/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/real-war-survival-game_1.4.0",
+          "date": "2026-09-06",
+          "size": 370671616
+        }
+      ],
+      "version": "1.4.0",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/real-war-survival-game_1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/real-war-survival-game_1.4.0",
+      "size": 370671616,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788707775177",
+      "name": "Jujutsu Kaisen Phantom Parade",
+      "bundleIdentifier": "com.bilibilihk.jujutsuphanparaios",
+      "bundleId": "com.bilibilihk.jujutsuphanparaios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/ce/71/39ce7188-402e-d9ce-622a-9b0e306efd44/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "3.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jujutsu-kaisen-phantom-parade_3.8.0",
+          "date": "2026-09-06",
+          "size": 583427686
+        }
+      ],
+      "version": "3.8.0",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jujutsu-kaisen-phantom-parade_3.8.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jujutsu-kaisen-phantom-parade_3.8.0",
+      "size": 583427686,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06",
+      "localizedDescription": ""
     }
   ],
   "translationFormatVersion": 3
