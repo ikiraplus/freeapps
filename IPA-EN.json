@@ -1526,23 +1526,23 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "56.28.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.3-hacked",
-          "date": "2026-08-30",
-          "size": 107688755
+          "version": "56.29.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ball-pool-56.29.2-hack",
+          "date": "2026-09-07",
+          "size": 91750400
         },
         {
-          "version": "56.28.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.0-hack"
+          "version": "56.28.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.3-hacked"
         }
       ],
-      "version": "56.28.3",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.3-hacked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.3-hacked",
-      "size": 107688755,
+      "version": "56.29.2",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ball-pool-56.29.2-hack",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ball-pool-56.29.2-hack",
+      "size": 91750400,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 58
     },
     {
@@ -3382,26 +3382,26 @@
     {
       "id": "APP-2904920455",
       "name": "GTA: Vice City - Hack",
-      "bundleIdentifier": "com.rockstargames.gtavc",
-      "bundleId": "com.rockstargames.gtavc",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/f9/85/a2f98568-b585-479e-fcc7-db9c6291fd64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "bundleIdentifier": "com.rockstargames.gtavc.de",
+      "bundleId": "com.rockstargames.gtavc.de",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTWpmzyw9kWudMVAl251X7bjqi7f4QbiNKW_AVoluvUJsY65jsT2GQ-DN&s=10",
       "localizedDescription": "iosgods modded App",
       "category": "GAMES",
       "versions": [
         {
-          "version": "1.12",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grand-theft-auto-vice-city-hack-aggyp077xq-1",
-          "date": "2026-03-29",
-          "size": 1782579200
+          "version": "1.84",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta-vice-city-definitive-v1.84",
+          "date": "2026-09-07",
+          "size": 2452094976
         }
       ],
-      "version": "1.12",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grand-theft-auto-vice-city-hack-aggyp077xq-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grand-theft-auto-vice-city-hack-aggyp077xq-1",
-      "size": 1782579200,
+      "version": "1.84",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta-vice-city-definitive-v1.84",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gta-vice-city-definitive-v1.84",
+      "size": 2452094976,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 129
     },
     {
@@ -6438,27 +6438,26 @@
     },
     {
       "id": "APP-4827681193",
-      "name": "nba 2k 20",
-      "bundleIdentifier": "com.2ksports.nba2k20",
-      "bundleId": "com.2ksports.nba2k20",
-      "iconURL": "https://cdn.prgloo.com/media/3e2f18c4425e4c2bb80f45eebcb71cb1.jpg?width=442&height=663",
+      "name": "nba 2k 25",
+      "bundleIdentifier": "com.2ksports.nba2k25arcade",
+      "bundleId": "com.2ksports.nba2k25arcade",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/APP-4827681193.png",
       "category": "GAMES",
       "versions": [
         {
-          "version": "1.99.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nba-2k20-.com_1.99840.106159_",
-          "date": "2026-06-14",
-          "size": 3081764864
+          "version": "1.20",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nba-2k25-arcade-edition-v1.20",
+          "date": "2026-09-07",
+          "size": 1632632832
         }
       ],
-      "version": "1.99.10",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nba-2k20-.com_1.99840.106159_",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nba-2k20-.com_1.99840.106159_",
-      "size": 3081764864,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 248,
+      "version": "1.20",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nba-2k25-arcade-edition-v1.20",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nba-2k25-arcade-edition-v1.20",
+      "size": 1632632832,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07",
       "localizedDescription": ""
     },
     {
@@ -18138,18 +18137,18 @@
       "versions": [
         {
           "version": "1.3.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cypher-207-v1.3.1",
-          "date": "2026-08-31",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cypher-007-v1.3.1-1",
+          "date": "2026-09-07",
           "size": 1184471449
         }
       ],
       "version": "1.3.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cypher-207-v1.3.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cypher-207-v1.3.1",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cypher-007-v1.3.1-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cypher-007-v1.3.1-1",
       "size": 1184471449,
       "addedAt": "2026-08-31",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "localizedDescription": ""
     },
     {
@@ -18381,19 +18380,19 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "1.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/poppy-play-time-chapter-3-v1.1",
-          "date": "2026-09-01",
-          "size": 2875300249
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/poppy-playtime-chapter-3-v1.0",
+          "date": "2026-09-07",
+          "size": 2563139174
         }
       ],
-      "version": "1.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/poppy-play-time-chapter-3-v1.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/poppy-play-time-chapter-3-v1.1",
-      "size": 2875300249,
+      "version": "1.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/poppy-playtime-chapter-3-v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/poppy-playtime-chapter-3-v1.0",
+      "size": 2563139174,
       "addedAt": "2026-09-01",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "localizedDescription": ""
     },
     {
@@ -18453,19 +18452,19 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "1.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/poppy-play-time-chapter-4-v1.2",
-          "date": "2026-09-01",
-          "size": 2298583449
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/poppy-playtime-chapter-4-v1.0",
+          "date": "2026-09-07",
+          "size": 1978348339
         }
       ],
-      "version": "1.2",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/poppy-play-time-chapter-4-v1.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/poppy-play-time-chapter-4-v1.2",
-      "size": 2298583449,
+      "version": "1.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/poppy-playtime-chapter-4-v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/poppy-playtime-chapter-4-v1.0",
+      "size": 1978348339,
       "addedAt": "2026-09-01",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "localizedDescription": ""
     },
     {
@@ -18477,19 +18476,19 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "1.11.7",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pascals-wager_1.11.7",
-          "date": "2026-09-01",
-          "size": 3019794022
+          "version": "1.11.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pascals-wager-v1.11.6",
+          "date": "2026-09-07",
+          "size": 2643669811
         }
       ],
-      "version": "1.11.7",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pascals-wager_1.11.7",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pascals-wager_1.11.7",
-      "size": 3019794022,
+      "version": "1.11.6",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pascals-wager-v1.11.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pascals-wager-v1.11.6",
+      "size": 2643669811,
       "addedAt": "2026-09-01",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "localizedDescription": ""
     },
     {
@@ -20666,18 +20665,18 @@
       "versions": [
         {
           "version": "1.0.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lokat_1.0.9",
-          "date": "2026-09-06",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lokat-v1.0.9-new",
+          "date": "2026-09-07",
           "size": 74239180
         }
       ],
       "version": "1.0.9",
-      "versionDate": "2026-09-06",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lokat_1.0.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lokat_1.0.9",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lokat-v1.0.9-new",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lokat-v1.0.9-new",
       "size": 74239180,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-06",
+      "updatedAt": "2026-09-07",
       "localizedDescription": ""
     },
     {
@@ -21038,6 +21037,30 @@
       "size": 135161446,
       "addedAt": "2026-09-06",
       "updatedAt": "2026-09-06",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1788772346807",
+      "name": "Oceanhorn",
+      "bundleIdentifier": "com.FDGEntertainment.Oceanhorn",
+      "bundleId": "com.FDGEntertainment.Oceanhorn",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/62/87/c462872e-68b5-8b99-c9da-acc085395035/AppIconIOS-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "3.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/oceanhorn-v3.01",
+          "date": "2026-09-07",
+          "size": 272315187
+        }
+      ],
+      "version": "3.01",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/oceanhorn-v3.01",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/oceanhorn-v3.01",
+      "size": 272315187,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07",
       "localizedDescription": ""
     }
   ],
