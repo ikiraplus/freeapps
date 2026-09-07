@@ -205,23 +205,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "443.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0",
-          "date": "2026-08-24",
-          "size": 326107136
+          "version": "445.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-445.1.0-v2.6.0",
+          "date": "2026-09-07",
+          "size": 325792563
         },
         {
-          "version": "435.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformatv2.4.0"
+          "version": "443.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0"
         }
       ],
-      "version": "443.1.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/igformat-443.1.0-v2.5.0",
-      "size": 326107136,
+      "version": "445.1.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-445.1.0-v2.6.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/igformat-445.1.0-v2.6.0",
+      "size": 325792563,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-07"
     },
     {
       "id": "APP-4167742350",
@@ -233,19 +233,23 @@
       "category": "تواصل",
       "versions": [
         {
+          "version": "26.35.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi_26.35.10",
+          "date": "2026-09-07",
+          "size": 155084390
+        },
+        {
           "version": "26.26.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc",
-          "date": "2026-08-24",
-          "size": 148583219
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc"
         }
       ],
-      "version": "26.26.10",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/watusi-26.26.10_wc",
-      "size": 148583219,
+      "version": "26.35.10",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi_26.35.10",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/watusi_26.35.10",
+      "size": 155084390,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-07"
     },
     {
       "id": "APP-2606013128",
@@ -686,23 +690,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "445.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_445.1.0_threadsaver",
-          "date": "2026-09-02",
-          "size": 101607014
+          "version": "446.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_446.0.0_threadsaver",
+          "date": "2026-09-07",
+          "size": 106954752
         },
         {
-          "version": "444.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads-444.0-threadsaver"
+          "version": "445.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_445.1.0_threadsaver"
         }
       ],
-      "version": "445.1.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_445.1.0_threadsaver",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads_445.1.0_threadsaver",
-      "size": 101607014,
+      "version": "446.0.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_446.0.0_threadsaver",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads_446.0.0_threadsaver",
+      "size": 106954752,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 27
     },
     {
@@ -1372,30 +1376,30 @@
     },
     {
       "id": "APP-4312202481",
-      "name": "mojo pro",
+      "name": "Mojo Pro",
       "bundleIdentifier": "archery.storify",
       "bundleId": "archery.storify",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/26/db/3226db82-75b1-ca84-8b56-4d6f94ce9932/AppIcon-AppStore-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "category": "أدوات",
       "versions": [
         {
-          "version": "1.275.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked",
-          "date": "2026-08-25",
-          "size": 162948710
+          "version": "1.277.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.277.0_subscription_unlocked",
+          "date": "2026-09-07",
+          "size": 163053568
         },
         {
-          "version": "1.274.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.274.0_subscription_unlocked"
+          "version": "1.275.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked"
         }
       ],
-      "version": "1.275.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.275.0_subscription_unlocked",
-      "size": 162948710,
+      "version": "1.277.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.277.0_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.277.0_subscription_unlocked",
+      "size": 163053568,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 54
     },
     {
@@ -2392,23 +2396,23 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "6.26.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snapedit_photo_editor_ai_v6.26.1_pro_unlocked_patched",
-          "date": "2026-08-31",
-          "size": 130233139
+          "version": "6.27",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snapedit-photo-editor-ai-v6.27-pro-unlocked-patched",
+          "date": "2026-09-07",
+          "size": 124885401
         },
         {
-          "version": "6.26",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snapedit-photo-editor-ai-v6.26-pro-unlocked-patched"
+          "version": "6.26.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snapedit_photo_editor_ai_v6.26.1_pro_unlocked_patched"
         }
       ],
-      "version": "6.26.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snapedit_photo_editor_ai_v6.26.1_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snapedit_photo_editor_ai_v6.26.1_pro_unlocked_patched",
-      "size": 130233139,
+      "version": "6.27",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snapedit-photo-editor-ai-v6.27-pro-unlocked-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snapedit-photo-editor-ai-v6.27-pro-unlocked-patched",
+      "size": 124885401,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 94
     },
     {
@@ -3064,23 +3068,23 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "7.25.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.0_vip_unlocked_patched",
-          "date": "2026-08-31",
-          "size": 209610342
+          "version": "7.25.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.5_vip_unlocked_patched",
+          "date": "2026-09-07",
+          "size": 200907161
         },
         {
-          "version": "7.23.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.23.5_vip_unlocked_patched"
+          "version": "7.25.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.0_vip_unlocked_patched"
         }
       ],
-      "version": "7.25.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.0_vip_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.0_vip_unlocked_patched",
-      "size": 209610342,
+      "version": "7.25.5",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.5_vip_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.5_vip_unlocked_patched",
+      "size": 200907161,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 119
     },
     {
@@ -3851,23 +3855,23 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "11.5.20",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.20_subscription_unlocked",
-          "date": "2026-08-31",
-          "size": 219676672
+          "version": "11.5.21",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.21_subscription_unlocked",
+          "date": "2026-09-07",
+          "size": 217264947
         },
         {
-          "version": "11.5.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.10_subscription_unlocked"
+          "version": "11.5.20",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.20_subscription_unlocked"
         }
       ],
-      "version": "11.5.20",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.20_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.20_subscription_unlocked",
-      "size": 219676672,
+      "version": "11.5.21",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.21_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.21_subscription_unlocked",
+      "size": 217264947,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 150
     },
     {
@@ -5016,23 +5020,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "574.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_574.0.0",
-          "date": "2026-08-24",
-          "size": 111568486
+          "version": "578.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_578.0.0",
+          "date": "2026-09-07",
+          "size": 113560780
         },
         {
-          "version": "571.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger_571.0.0_msgplusx_1.1"
+          "version": "574.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_574.0.0"
         }
       ],
-      "version": "574.0.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_574.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_574.0.0",
-      "size": 111568486,
+      "version": "578.0.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_578.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/messenger-xplus_578.0.0",
+      "size": 113560780,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-07"
     },
     {
       "id": "APP-3666755311",
@@ -5402,30 +5406,30 @@
     },
     {
       "id": "APP-8100023479",
-      "name": "photoroom ai photo",
+      "name": "PhotoRoom Ai Photo",
       "bundleIdentifier": "com.dr1ven.eraser",
       "bundleId": "com.dr1ven.eraser",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/07/9c/a1079cf7-b14b-13a3-995f-9d6d4ffb5c39/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "category": "أدوات",
       "versions": [
         {
-          "version": "2026.36.01",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.36.01",
-          "date": "2026-09-02",
-          "size": 242430771
+          "version": "2026.37.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.37.01",
+          "date": "2026-09-07",
+          "size": 138307174
         },
         {
-          "version": "2026.35.01",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.35.01"
+          "version": "2026.36.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.36.01"
         }
       ],
-      "version": "2026.36.01",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.36.01",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.36.01",
-      "size": 242430771,
+      "version": "2026.37.01",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.37.01",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.37.01",
+      "size": 138307174,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 211
     },
     {
@@ -7850,23 +7854,23 @@
       "category": "ألعاب",
       "versions": [
         {
-          "version": "7.4.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.1",
-          "date": "2026-09-02",
-          "size": 82418073
+          "version": "7.4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.2",
+          "date": "2026-09-07",
+          "size": 82313216
         },
         {
-          "version": "7.3.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.3.9"
+          "version": "7.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.1"
         }
       ],
-      "version": "7.4.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.1",
-      "size": 82418073,
+      "version": "7.4.2",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.2",
+      "size": 82313216,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 310
     },
     {
@@ -8471,19 +8475,23 @@
       "category": "ألعاب",
       "versions": [
         {
+          "version": "1.1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/undying-hero-1.1.2",
+          "date": "2026-09-07",
+          "size": 452460544
+        },
+        {
           "version": "1.0.20",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/undying-hero-1.0.20",
-          "date": "2026-08-24",
-          "size": 438304768
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/undying-hero-1.0.20"
         }
       ],
-      "version": "1.0.20",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/undying-hero-1.0.20",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/undying-hero-1.0.20",
-      "size": 438304768,
+      "version": "1.1.2",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/undying-hero-1.1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/undying-hero-1.1.2",
+      "size": 452460544,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 334
     },
     {
@@ -8571,23 +8579,23 @@
       "category": "أدوات",
       "versions": [
         {
-          "version": "9.51",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.51_subscription_unlocked_patched",
-          "date": "2026-08-31",
-          "size": 80006348
+          "version": "9.52",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl-photo-collage-maker-v9.52",
+          "date": "2026-09-07",
+          "size": 74658611
         },
         {
-          "version": "9.49",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.49_subscription_unlocked_patched"
+          "version": "9.51",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.51_subscription_unlocked_patched"
         }
       ],
-      "version": "9.51",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.51_subscription_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.51_subscription_unlocked_patched",
-      "size": 80006348,
+      "version": "9.52",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl-photo-collage-maker-v9.52",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scrl-photo-collage-maker-v9.52",
+      "size": 74658611,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-07",
       "_rowKey": 338
     },
     {
@@ -9800,30 +9808,30 @@
     },
     {
       "id": "APP-4528114310",
-      "name": "Whitegram original",
+      "name": "Whitegram Original",
       "bundleIdentifier": "ph.telegra.Telegraph",
       "bundleId": "ph.telegra.Telegraph",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784188165660.png",
       "category": "تواصل",
       "versions": [
         {
-          "version": "12.9.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.3-tweak-6.0.2",
-          "date": "2026-08-28",
-          "size": 176370483
+          "version": "12.9.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.2-tweak-7.0",
+          "date": "2026-09-07",
+          "size": 139984896
         },
         {
-          "version": "6.0.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-6.0.2-sideload"
+          "version": "12.9.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.3-tweak-6.0.2"
         }
       ],
-      "version": "12.9.3",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.3-tweak-6.0.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.3-tweak-6.0.2",
-      "size": 176370483,
+      "version": "12.9.2",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.2-tweak-7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.2-tweak-7.0",
+      "size": 139984896,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-07"
     },
     {
       "id": "APP-2183114966",
@@ -19262,19 +19270,23 @@
       "category": "ألعاب",
       "versions": [
         {
-          "version": "11.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-champs-11.5",
-          "date": "2026-09-03",
+          "version": "11.5.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-champs-11.5.1",
+          "date": "2026-09-07",
           "size": 202689740
+        },
+        {
+          "version": "11.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-champs-11.5"
         }
       ],
-      "version": "11.5",
-      "versionDate": "2026-09-03",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-champs-11.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soccer-champs-11.5",
+      "version": "11.5.1",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-champs-11.5.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soccer-champs-11.5.1",
       "size": 202689740,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-09-03"
+      "updatedAt": "2026-09-07"
     },
     {
       "id": "app-1788461660739",
@@ -19405,19 +19417,23 @@
       "category": "ترفيه",
       "versions": [
         {
+          "version": "8.77.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.77.0-nexasc",
+          "date": "2026-09-07",
+          "size": 107164467
+        },
+        {
           "version": "8.76.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud_8.76.0_nexa",
-          "date": "2026-09-03",
-          "size": 118908518
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud_8.76.0_nexa"
         }
       ],
-      "version": "8.76.0",
-      "versionDate": "2026-09-03",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sound-cloud_8.76.0_nexa",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sound-cloud_8.76.0_nexa",
-      "size": 118908518,
+      "version": "8.77.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.77.0-nexasc",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.77.0-nexasc",
+      "size": 107164467,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-09-03"
+      "updatedAt": "2026-09-07"
     },
     {
       "id": "app-1788519035815",
@@ -20378,6 +20394,330 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/oceanhorn-v3.01",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/oceanhorn-v3.01",
       "size": 272315187,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788802387761",
+      "name": "Piano",
+      "bundleIdentifier": "com.impalastudios.pianofree",
+      "bundleId": "com.impalastudios.pianofree",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/1c/42/681c42c1-52a6-9aae-5e2c-13763eec92e7/pian_appIcon_2025-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "2.23.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.1-subscription-unlocked-patched",
+          "date": "2026-09-07",
+          "size": 84934656
+        }
+      ],
+      "version": "2.23.1",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.1-subscription-unlocked-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.1-subscription-unlocked-patched",
+      "size": 84934656,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788802890790",
+      "name": "Vk Video",
+      "bundleIdentifier": "com.vk.vkvideo.prod",
+      "bundleId": "com.vk.vkvideo.prod",
+      "iconURL": "https://play-lh.googleusercontent.com/anTn7Xu1mAnUyEfE582QykZ7iX4Od6UKFw0mSQBt8EUyo5wjOq_rDwSpxUkVVNW995_gVD50FrQWugG355ly2Q",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "8.183",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vk-video-v8.183",
+          "date": "2026-09-07",
+          "size": 132854579
+        }
+      ],
+      "version": "8.183",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vk-video-v8.183",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vk-video-v8.183",
+      "size": 132854579,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788802996220",
+      "name": "Prime Minister UK Politics Sim",
+      "bundleIdentifier": "io.innovateapps.pmsim",
+      "bundleId": "io.innovateapps.pmsim",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/e1/c3/dde1c37d-d68e-f171-0c97-4dacf30f14e0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.4.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pm-simulator-2.4.3",
+          "date": "2026-09-07",
+          "size": 63438848
+        }
+      ],
+      "version": "2.4.3",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pm-simulator-2.4.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pm-simulator-2.4.3",
+      "size": 63438848,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788803113611",
+      "name": "Need for Speed No Limits Game",
+      "bundleIdentifier": "com.ea.nfs2014.bv",
+      "bundleId": "com.ea.nfs2014.bv",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/81/65/d1816526-2485-cc9d-84e3-f40a4ed5df41/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "9.5.41",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limits-9.5.41",
+          "date": "2026-09-07",
+          "size": 3186517606
+        }
+      ],
+      "version": "9.5.41",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limits-9.5.41",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/no-limits-9.5.41",
+      "size": 3186517606,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788803744484",
+      "name": "Echoes - Interactive Thriller",
+      "bundleIdentifier": "com.redoxxstudio.echoes",
+      "bundleId": "com.redoxxstudio.echoes",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/62/6b/03626b87-1dae-abd2-92e4-1d0fe7de43f5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "5.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/echoes-5.0.1",
+          "date": "2026-09-07",
+          "size": 249141657
+        }
+      ],
+      "version": "5.0.1",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/echoes-5.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/echoes-5.0.1",
+      "size": 249141657,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788803869020",
+      "name": "Castle Busters",
+      "bundleIdentifier": "com.epicoro.castleclashers",
+      "bundleId": "com.epicoro.castleclashers",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/4d/0f/ea4d0f48-4e84-cace-668e-910c374ba0d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.17.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-busters-1.17.0",
+          "date": "2026-09-07",
+          "size": 416808960
+        }
+      ],
+      "version": "1.17.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-busters-1.17.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/castle-busters-1.17.0",
+      "size": 416808960,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788803938843",
+      "name": "Idle Food Bar: Olivia & Oliver",
+      "bundleIdentifier": "com.idle.food.bar.tycoon",
+      "bundleId": "com.idle.food.bar.tycoon",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/23/a5/6b23a5cc-c34c-52ca-e153-a6536ce66c7b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.29.23",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-food-bar-1.29.23",
+          "date": "2026-09-07",
+          "size": 331559731
+        }
+      ],
+      "version": "1.29.23",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-food-bar-1.29.23",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-food-bar-1.29.23",
+      "size": 331559731,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788804272888",
+      "name": "Oldgram",
+      "bundleIdentifier": "ph.telegra.Telegraph",
+      "bundleId": "ph.telegra.Telegraph",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Telegram_2013_logo.svg/960px-Telegram_2013_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "localizedDescription": "نسخه تليكرام بأصدار قديم يعود ل 2018 ويعمل مع الاجهزة القديمة والجديدة",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/oldgram-1.0",
+          "date": "2026-09-07",
+          "size": 23488102
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/oldgram-1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/oldgram-1.0",
+      "size": 23488102,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788804474633",
+      "name": "Nagram",
+      "bundleIdentifier": "xyz.nextalone.nagram",
+      "bundleId": "xyz.nextalone.nagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/93/ed/b193ed97-6b1b-d6d5-ca0a-b42e52adfffc/NagramBuild-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "نسخة تيليقرام مدفوعه في المتجر الرسمي.",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "12.9.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nagram_v12.9.2",
+          "date": "2026-09-07",
+          "size": 73819750
+        }
+      ],
+      "version": "12.9.2",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nagram_v12.9.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nagram_v12.9.2",
+      "size": 73819750,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788804697931",
+      "name": "Watusi Business",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "bundleId": "net.whatsapp.WhatsAppSMB",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/8e/7d/398e7d24-6f39-7bf0-c592-044c11cfac52/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "26.35.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi-busnis-26.35.10",
+          "date": "2026-09-07",
+          "size": 161585561
+        }
+      ],
+      "version": "26.35.10",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/watusi-busnis-26.35.10",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/watusi-busnis-26.35.10",
+      "size": 161585561,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788806403895",
+      "name": "Monument Valley Plus",
+      "bundleIdentifier": "com.ustwo.mvarcade",
+      "bundleId": "com.ustwo.mvarcade",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e1/cd/ba/e1cdbaca-8518-8d4a-e635-d59c515522c1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.5.196",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monument-valley-plus-v3.5.196",
+          "date": "2026-09-07",
+          "size": 247883366
+        }
+      ],
+      "version": "3.5.196",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monument-valley-plus-v3.5.196",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monument-valley-plus-v3.5.196",
+      "size": 247883366,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788806447387",
+      "name": "Monument Valley 2 Plus",
+      "bundleIdentifier": "com.ustwo.mv2arcade",
+      "bundleId": "com.ustwo.mv2arcade",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/f3/a1/69f3a1c0-e6db-f290-3371-44efd12076c0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.5.92",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monument-valley-2-plus-v3.5.92",
+          "date": "2026-09-07",
+          "size": 279550361
+        }
+      ],
+      "version": "3.5.92",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monument-valley-2-plus-v3.5.92",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monument-valley-2-plus-v3.5.92",
+      "size": 279550361,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788806501610",
+      "name": "The Room Old Sins",
+      "bundleIdentifier": "com.FireproofStudios.TheRoom4",
+      "bundleId": "com.FireproofStudios.TheRoom4",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/79/e5/77/79e5775a-8baa-543b-d2d6-9aeea7a223e5/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.41",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-room-old-sins-v1.0.41",
+          "date": "2026-09-07",
+          "size": 628201881
+        }
+      ],
+      "version": "1.0.41",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-room-old-sins-v1.0.41",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-room-old-sins-v1.0.41",
+      "size": 628201881,
+      "addedAt": "2026-09-07",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "app-1788806713975",
+      "name": "The Room",
+      "bundleIdentifier": "com.FireproofStudios.TheRoom",
+      "bundleId": "com.FireproofStudios.TheRoom",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/66/f8/1e/66f81e23-69a9-57d8-aafa-5ebeb622700b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.05",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-room_1.05",
+          "date": "2026-09-07",
+          "size": 256901120
+        }
+      ],
+      "version": "1.05",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-room_1.05",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-room_1.05",
+      "size": 256901120,
       "addedAt": "2026-09-07",
       "updatedAt": "2026-09-07"
     }
