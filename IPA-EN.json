@@ -7795,30 +7795,30 @@
     {
       "id": "APP-7640009600",
       "name": "WhiteGram Arabic",
-      "bundleIdentifier": "ph.telegra.Telegraph2",
-      "bundleId": "ph.telegra.Telegraph2",
+      "bundleIdentifier": "ph.telegra.Telegraph",
+      "bundleId": "ph.telegra.Telegraph",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784188165660.png",
-      "localizedDescription": "White Crum is one of the best Telegram applications modded\n\nYou can activation app features by:\nSettings > WhiteGram\n\nThere are additional features that are activated by:\nSettings > Long tap the (ask a question) icon",
+      "localizedDescription": "White Crum is one of the best Telegram applications modded\nThis version contains several languages and full localization\nThe way to change the language of the features is as follows\nSettings = WhiteGram = Tap the screen with two fingers",
       "category": "communication",
       "versions": [
         {
-          "version": "12.9.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.3",
-          "date": "2026-08-28",
-          "size": 188953395
+          "version": "12.9.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2-tweak-7.0",
+          "date": "2026-09-09",
+          "size": 145856921
         },
         {
-          "version": "12.9.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2"
+          "version": "12.9.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.3"
         }
       ],
-      "version": "12.9.3",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.3",
-      "size": 188953395,
+      "version": "12.9.2",
+      "versionDate": "2026-09-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2-tweak-7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2-tweak-7.0",
+      "size": 145856921,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-09",
       "_rowKey": 300
     },
     {
