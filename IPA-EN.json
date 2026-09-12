@@ -834,23 +834,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "444.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryukgram-444.0.0-v1.3.3",
-          "date": "2026-08-25",
-          "size": 321073971
+          "version": "446.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryukgram_ig446.0.0",
+          "date": "2026-09-12",
+          "size": 333656883
         },
         {
-          "version": "439.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryukgram-sideload-439.0.0"
+          "version": "444.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryukgram-444.0.0-v1.3.3"
         }
       ],
-      "version": "444.0.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryukgram-444.0.0-v1.3.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ryukgram-444.0.0-v1.3.3",
-      "size": 321073971,
+      "version": "446.0.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryukgram_ig446.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ryukgram_ig446.0.0",
+      "size": 333656883,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "localizedDescription": ""
     },
     {
@@ -1446,23 +1446,23 @@
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
-          "version": "16.11",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.11_pro_unlocked_patched",
-          "date": "2026-09-02",
-          "size": 259627417
+          "version": "16.12",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12_pro_unlocked_patched",
+          "date": "2026-09-12",
+          "size": 261619712
         },
         {
-          "version": "16.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.10_pro_unlocked_patched"
+          "version": "16.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.11_pro_unlocked_patched"
         }
       ],
-      "version": "16.11",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.11_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.11_pro_unlocked_patched",
-      "size": 259627417,
+      "version": "16.12",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12_pro_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12_pro_unlocked_patched",
+      "size": 261619712,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 55,
       "localizedDescription": ""
     },
@@ -2870,23 +2870,23 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "1.74.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.74.1",
-          "date": "2026-09-05",
+          "version": "2.1.74.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.74.2",
+          "date": "2026-09-12",
           "size": 223346688
         },
         {
-          "version": "1.73.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.73.6"
+          "version": "1.74.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.74.1"
         }
       ],
-      "version": "1.74.1",
-      "versionDate": "2026-09-05",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.74.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.74.1",
+      "version": "2.1.74.2",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.74.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hill-climb-2.1.74.2",
       "size": 223346688,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-05",
+      "updatedAt": "2026-09-12",
       "_rowKey": 109
     },
     {
@@ -3958,23 +3958,23 @@
       "category": "PUNCH TOOL",
       "versions": [
         {
-          "version": "461.7.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.7.0_subscription_unlocked",
-          "date": "2026-08-24",
-          "size": 201326592
+          "version": "461.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.8.0_subscription_unlocked",
+          "date": "2026-09-12",
+          "size": 211183206
         },
         {
-          "version": "461.6.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_-_video_editor_v461.6.1_subscription_unlocked"
+          "version": "461.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.7.0_subscription_unlocked"
         }
       ],
-      "version": "461.7.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.7.0_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.7.0_subscription_unlocked",
-      "size": 201326592,
+      "version": "461.8.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.8.0_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.8.0_subscription_unlocked",
+      "size": 211183206,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 151,
       "localizedDescription": ""
     },
@@ -4171,30 +4171,30 @@
     },
     {
       "id": "APP-1850094110",
-      "name": "grim soul",
+      "name": "Grim Soul",
       "bundleIdentifier": "fantasy.survival.game.rpg",
       "bundleId": "fantasy.survival.game.rpg",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/81/5b/45815b0b-da71-aed1-e89d-f45b0b5a43f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "GAMES",
       "versions": [
         {
-          "version": "8.3.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.3.1",
-          "date": "2026-08-24",
-          "size": 369308467
+          "version": "8.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.0",
+          "date": "2026-09-12",
+          "size": 381157376
         },
         {
-          "version": "8.3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.3.0"
+          "version": "8.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.3.1"
         }
       ],
-      "version": "8.3.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.3.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.3.1",
-      "size": 369308467,
+      "version": "8.4.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.0",
+      "size": 381157376,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 159,
       "localizedDescription": ""
     },
@@ -4358,19 +4358,23 @@
       "category": "communication",
       "versions": [
         {
+          "version": "6.4.114",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ngl-ask-me-anything_6.2.114",
+          "date": "2026-09-12",
+          "size": 185493094
+        },
+        {
           "version": "6.4.108",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ngl-ask-me-anything-2",
-          "date": "2026-08-24",
-          "size": 116077363
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ngl-ask-me-anything-2"
         }
       ],
-      "version": "6.4.108",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ngl-ask-me-anything-2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ngl-ask-me-anything-2",
-      "size": 116077363,
+      "version": "6.4.114",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ngl-ask-me-anything_6.2.114",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ngl-ask-me-anything_6.2.114",
+      "size": 185493094,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 166,
       "localizedDescription": ""
     },
@@ -4513,30 +4517,30 @@
     },
     {
       "id": "APP-2682488039",
-      "name": "animock 3D mockup",
+      "name": "Animock 3D Mockup",
       "bundleIdentifier": "com.hassantaleb.mockup",
       "bundleId": "com.hassantaleb.mockup",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/47/e9/0c47e963-daa1-9424-1511-c2c88acd6ed7/Animock-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg",
       "category": "PUNCH TOOL",
       "versions": [
         {
-          "version": "5.11",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched",
-          "date": "2026-08-25",
+          "version": "5.11.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11.1_pro_unlocked_patched",
+          "date": "2026-09-12",
           "size": 120061952
         },
         {
-          "version": "5.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.10_pro_unlocked_patched"
+          "version": "5.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched"
         }
       ],
-      "version": "5.11",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11_pro_unlocked__patched",
+      "version": "5.11.1",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11.1_pro_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11.1_pro_unlocked_patched",
       "size": 120061952,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 172,
       "localizedDescription": ""
     },
@@ -4963,27 +4967,27 @@
       "bundleIdentifier": "com.vng.pubgmobile",
       "bundleId": "com.vng.pubgmobile",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/f1/42a0f10c-fde1-87ba-a22e-493304fd9c96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "PUBG Vietnamese App modded , do not use your primary account\nactivation Code\nqCYhEQDO3fNYlroeS1tZkJue6KsX1hkd",
+      "localizedDescription": "Here's your Vietnamese PUBG, don't use your primary account",
       "category": "GAMES",
       "versions": [
         {
-          "version": "2.4.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-vng-v2.4.5",
-          "date": "2026-07-27",
-          "size": 3765331558
+          "version": "4.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vng-pubg-v4.6.0-free",
+          "date": "2026-09-12",
+          "size": 3753377792
         },
         {
-          "version": "1.4.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-vng-v1.4.5"
+          "version": "2.4.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-vng-v2.4.5"
         }
       ],
-      "version": "2.4.5",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-vng-v2.4.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kurd4u-vng-v2.4.5",
-      "size": 3765331558,
+      "version": "4.6.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vng-pubg-v4.6.0-free",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vng-pubg-v4.6.0-free",
+      "size": 3753377792,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 189
     },
     {
@@ -5038,30 +5042,30 @@
     },
     {
       "id": "APP-6966621544",
-      "name": "WPS office ai",
+      "name": "WPS office Ai",
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
       "bundleId": "com.kingsoft.office.g.wpsoffice",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPKPnu4fS_BTqFkAXavsm8Vsru_YGXIW9YkA&s",
       "category": "PUNCH TOOL",
       "versions": [
         {
-          "version": "26.8.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wps_office_ai_doc-_pdf-_sheet_v26.8.1_pro-ai_unlocked_patched",
-          "date": "2026-08-27",
-          "size": 324848844
+          "version": "26.9.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wps_office_ai_doc_pdf_sheet_v26.9.0_pro-ai_unlocked_patched",
+          "date": "2026-09-12",
+          "size": 325163417
         },
         {
-          "version": "26.7.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wps_office_ai_doc-_pdf-_sheet_v26.7.1_pro-ai_unlocked_patched"
+          "version": "26.8.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wps_office_ai_doc-_pdf-_sheet_v26.8.1_pro-ai_unlocked_patched"
         }
       ],
-      "version": "26.8.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wps_office_ai_doc-_pdf-_sheet_v26.8.1_pro-ai_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wps_office_ai_doc-_pdf-_sheet_v26.8.1_pro-ai_unlocked_patched",
-      "size": 324848844,
+      "version": "26.9.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wps_office_ai_doc_pdf_sheet_v26.9.0_pro-ai_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wps_office_ai_doc_pdf_sheet_v26.9.0_pro-ai_unlocked_patched",
+      "size": 325163417,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 192,
       "localizedDescription": ""
     },
@@ -5202,26 +5206,30 @@
     },
     {
       "id": "APP-8799197801",
-      "name": "world war 2 legion",
+      "name": "World War 2 legion",
       "bundleIdentifier": "com.AlfaBravo.WorldWarLegion",
       "bundleId": "com.AlfaBravo.WorldWarLegion",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvy4_cmUuQfOZkgIX5xlbzHKYfpBmPVNIjdA&s",
       "category": "GAMES",
       "versions": [
         {
+          "version": "0.4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.4.2",
+          "date": "2026-09-12",
+          "size": 1338297548
+        },
+        {
           "version": "0.3.31",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.3.31",
-          "date": "2026-08-24",
-          "size": 1157942476
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.3.31"
         }
       ],
-      "version": "0.3.31",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.3.31",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.3.31",
-      "size": 1157942476,
+      "version": "0.4.2",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.4.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.4.2",
+      "size": 1338297548,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 198,
       "localizedDescription": ""
     },
@@ -7671,27 +7679,27 @@
       "bundleIdentifier": "com.ss.iphone.ugc.Ame",
       "bundleId": "com.ss.iphone.ugc.Ame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "version rust machined",
       "category": "communication",
       "versions": [
         {
-          "version": "46.4.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_46.4.0",
-          "date": "2026-08-24",
-          "size": 442708787
+          "version": "46.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_rust-carck-46.7.0",
+          "date": "2026-09-12",
+          "size": 1546859315
         },
         {
           "version": "46.3.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_v46.3.0-dyilb4.0"
         }
       ],
-      "version": "46.4.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_46.4.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_46.4.0",
-      "size": 442708787,
+      "version": "46.7.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_rust-carck-46.7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok_rust-carck-46.7.0",
+      "size": 1546859315,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-12"
     },
     {
       "id": "APP-1781328682",
@@ -8050,19 +8058,23 @@
       "category": "GAMES",
       "versions": [
         {
+          "version": "4.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-4.0.1",
+          "date": "2026-09-12",
+          "size": 481925529
+        },
+        {
           "version": "3.9.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-3.9.0",
-          "date": "2026-08-24",
-          "size": 493669580
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-3.9.0"
         }
       ],
-      "version": "3.9.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-3.9.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/armada-3.9.0",
-      "size": 493669580,
+      "version": "4.0.1",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-4.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/armada-4.0.1",
+      "size": 481925529,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 309,
       "localizedDescription": ""
     },
@@ -9201,23 +9213,23 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "1.0.60",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.60",
-          "date": "2026-08-30",
-          "size": 512334233
+          "version": "1.0.63",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.63",
+          "date": "2026-09-12",
+          "size": 513068236
         },
         {
-          "version": "1.0.59",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.59"
+          "version": "1.0.60",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.60"
         }
       ],
-      "version": "1.0.60",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.60",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.60",
-      "size": 512334233,
+      "version": "1.0.63",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.63",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.63",
+      "size": 513068236,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 353,
       "localizedDescription": ""
     },
@@ -9628,19 +9640,23 @@
       "category": "communication",
       "versions": [
         {
+          "version": "31.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch_31.0.2_cw",
+          "date": "2026-09-12",
+          "size": 175217049
+        },
+        {
           "version": "30.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-control_30.8_tc",
-          "date": "2026-08-24",
-          "size": 139670323
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-control_30.8_tc"
         }
       ],
-      "version": "30.8",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-control_30.8_tc",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twitch-control_30.8_tc",
-      "size": 139670323,
+      "version": "31.0.2",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch_31.0.2_cw",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twitch_31.0.2_cw",
+      "size": 175217049,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "localizedDescription": ""
     },
     {
@@ -10166,23 +10182,23 @@
       "category": "PUNCH TOOL",
       "versions": [
         {
-          "version": "9.10.90",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.90_subscription_unlocked",
-          "date": "2026-09-02",
-          "size": 131701145
+          "version": "9.10.91",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.91_subscription_unlocked",
+          "date": "2026-09-12",
+          "size": 158754406
         },
         {
-          "version": "9.10.89",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.89_subscription_unlocked"
+          "version": "9.10.90",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.90_subscription_unlocked"
         }
       ],
-      "version": "9.10.90",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.90_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.90_subscription_unlocked",
-      "size": 131701145,
+      "version": "9.10.91",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.91_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_piano_learn_piano_fast_v9.10.91_subscription_unlocked",
+      "size": 158754406,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 390,
       "localizedDescription": ""
     },
@@ -14451,24 +14467,25 @@
     {
       "id": "APP-2179948357",
       "name": "Tetris Block Party",
-      "bundleIdentifier": "com.ikiraplus.apps.tetris-block-party.0efed3264e",
+      "bundleIdentifier": "com.playstudios.tetrisblockparty",
+      "bundleId": "com.playstudios.tetrisblockparty",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/06/d2/b306d2af-af1a-1314-8970-72ba4c086f93/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "GAMES",
       "versions": [
         {
           "version": "1.9.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tetris-block-party-1.9.1",
-          "date": "2026-08-25",
+          "date": "2026-09-12",
           "size": 199124582
         }
       ],
       "version": "1.9.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-12",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tetris-block-party-1.9.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tetris-block-party-1.9.1",
       "size": 199124582,
       "addedAt": "2026-08-25",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 69,
       "localizedDescription": ""
     },
@@ -15803,24 +15820,29 @@
     {
       "id": "APP-2275123352",
       "name": "Bounty go",
-      "bundleIdentifier": "com.ikiraplus.apps.bounty-go.97eb38e68d",
+      "bundleIdentifier": "onetap.game.monopoly",
+      "bundleId": "onetap.game.monopoly",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/40/9b/ef409b67-8023-d4b0-8f6b-dce8a35d0192/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "GAMES",
       "versions": [
         {
+          "version": "1.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bounty-go-1.0.1",
+          "date": "2026-09-12",
+          "size": 273258905
+        },
+        {
           "version": "2.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bountygo",
-          "date": "2026-08-28",
-          "size": 240228761
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bountygo"
         }
       ],
-      "version": "2.5",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bountygo",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bountygo",
-      "size": 240228761,
+      "version": "1.0.1",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bounty-go-1.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bounty-go-1.0.1",
+      "size": 273258905,
       "addedAt": "2026-08-28",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "_rowKey": 72,
       "localizedDescription": ""
     },
@@ -17431,19 +17453,23 @@
       "category": "OTHER",
       "versions": [
         {
+          "version": "4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryuksign-4.0",
+          "date": "2026-09-12",
+          "size": 18035507
+        },
+        {
           "version": "3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0",
-          "date": "2026-08-30",
-          "size": 17930649
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0"
         }
       ],
-      "version": "3.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ryuksign-v3.0",
-      "size": 17930649,
+      "version": "4.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ryuksign-4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ryuksign-4.0",
+      "size": 18035507,
       "addedAt": "2026-08-30",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "localizedDescription": ""
     },
     {
@@ -17564,24 +17590,29 @@
     {
       "id": "APP-6656386577",
       "name": "Combat Master Mobile",
-      "bundleIdentifier": "com.ikiraplus.apps.combat-master-mobile.aa25867bdd",
+      "bundleIdentifier": "com.AlfaBravo.CombatMaster",
+      "bundleId": "com.AlfaBravo.CombatMaster",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/45/40/3b45408f-5640-7da5-caf7-c67f4ba43938/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "GAMES",
       "versions": [
         {
+          "version": "0.30.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/combat-master-0.30.2",
+          "date": "2026-09-12",
+          "size": 1916062924
+        },
+        {
           "version": "0.29.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/combat-master-mobile-v0.29.2",
-          "date": "2026-08-30",
-          "size": 1887856230
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/combat-master-mobile-v0.29.2"
         }
       ],
-      "version": "0.29.2",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/combat-master-mobile-v0.29.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/combat-master-mobile-v0.29.2",
-      "size": 1887856230,
+      "version": "0.30.2",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/combat-master-0.30.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/combat-master-0.30.2",
+      "size": 1916062924,
       "addedAt": "2026-08-30",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-12",
       "localizedDescription": ""
     },
     {
@@ -21413,6 +21444,270 @@
       "size": 256901120,
       "addedAt": "2026-09-07",
       "updatedAt": "2026-09-07",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789234762194",
+      "name": "Coding For Kids Learn Play",
+      "bundleIdentifier": "com.coddykit.kids",
+      "bundleId": "com.coddykit.kids",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/86/bc/7b86bcd0-e5f3-699d-6501-e12e64cbd2aa/Placeholder.mill/400x400bb-75.webp",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "82.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coding-for-kids-learn-play_82.6.0",
+          "date": "2026-09-12",
+          "size": 63019417
+        }
+      ],
+      "version": "82.6.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coding-for-kids-learn-play_82.6.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coding-for-kids-learn-play_82.6.0",
+      "size": 63019417,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789234790656",
+      "name": "Quick Captions Auto Subtitles",
+      "bundleIdentifier": "com.videosubtitle.ai.CaptionsAI",
+      "bundleId": "com.videosubtitle.ai.CaptionsAI",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/e6/9b/89e69b53-88d2-d509-1bbb-e092900a9cfe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "1.9.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/quick-captions-auto-subtitles_1.9.3",
+          "date": "2026-09-12",
+          "size": 50226790
+        }
+      ],
+      "version": "1.9.3",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/quick-captions-auto-subtitles_1.9.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/quick-captions-auto-subtitles_1.9.3",
+      "size": 50226790,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789234854586",
+      "name": "View Caller Caller Id",
+      "bundleIdentifier": "caller.id.view",
+      "bundleId": "caller.id.view",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/00/3f/88003f9e-37d5-f3ab-902f-6d7c56fc91e3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "1.19.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/view-caller-caller-id_1.19.4",
+          "date": "2026-09-12",
+          "size": 46766489
+        }
+      ],
+      "version": "1.19.4",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/view-caller-caller-id_1.19.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/view-caller-caller-id_1.19.4",
+      "size": 46766489,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789235013252",
+      "name": "Matching Ton Mansion",
+      "bundleIdentifier": "com.matchington.mansion",
+      "bundleId": "com.matchington.mansion",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/ec/d3/99ecd31c-69b1-a6d6-d618-2dbf02f02c99/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.210.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/matchingtonmansion_12100",
+          "date": "2026-09-12",
+          "size": 666265190
+        }
+      ],
+      "version": "1.210.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/matchingtonmansion_12100",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/matchingtonmansion_12100",
+      "size": 666265190,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789235186747",
+      "name": "Spoofer Pro",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "bundleId": "com.nianticlabs.pokemongo",
+      "iconURL": "https://spooferpro.com/android-chrome-512x512.png",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "0.427.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spooferpro_042700719",
+          "date": "2026-09-12",
+          "size": 473536921
+        }
+      ],
+      "version": "0.427.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spooferpro_042700719",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spooferpro_042700719",
+      "size": 473536921,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789236079905",
+      "name": "Hold The Tile",
+      "bundleIdentifier": "com.KamenInteractive.HoldtheTile",
+      "bundleId": "com.KamenInteractive.HoldtheTile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/23/da/c523da01-a1f6-1999-6844-08851754fa96/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hold-the-tile-1.0.1",
+          "date": "2026-09-12",
+          "size": 156028108
+        }
+      ],
+      "version": "1.0.1",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hold-the-tile-1.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hold-the-tile-1.0.1",
+      "size": 156028108,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789236322868",
+      "name": "Dawn of Zombies: Survival Day",
+      "bundleIdentifier": "com.survival.dawn",
+      "bundleId": "com.survival.dawn",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/d6/e6/c9d6e6a5-31ce-8882-3dd7-9611f9a9c7fc/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.277",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/doz-2.277",
+          "date": "2026-09-12",
+          "size": 1169581670
+        }
+      ],
+      "version": "2.277",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/doz-2.277",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/doz-2.277",
+      "size": 1169581670,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789236428508",
+      "name": "Pewdiepie Tuber Simulator",
+      "bundleIdentifier": "com.outerminds.tubular",
+      "bundleId": "com.outerminds.tubular",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/3e/79/103e795a-1258-a213-2f60-f7984fd001fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.86.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pewdiepie-tuber-simulator-2.86.0",
+          "date": "2026-09-12",
+          "size": 245157068
+        }
+      ],
+      "version": "2.86.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pewdiepie-tuber-simulator-2.86.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pewdiepie-tuber-simulator-2.86.0",
+      "size": 245157068,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789236524212",
+      "name": "Tap Titans",
+      "bundleIdentifier": "com.gamehivecorp.taptitans2",
+      "bundleId": "com.gamehivecorp.taptitans2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a6/28/be/a628bea7-6ba7-cd26-18ee-ba3c0090bddb/AppIcon-1x_U007emarketing-85-220-4.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.8.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tap-titans-2.8.2.0",
+          "date": "2026-09-12",
+          "size": 223556403
+        }
+      ],
+      "version": "2.8.2.0",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tap-titans-2.8.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tap-titans-2.8.2.0",
+      "size": 223556403,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789237409776",
+      "name": "Little Big Snake",
+      "bundleIdentifier": "com.littlebigsnake.live",
+      "bundleId": "com.littlebigsnake.live",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/60/70/eb6070b2-c1bb-434f-a08b-46dea474f19c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.7.24",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/littlebigsnake-2.7.24",
+          "date": "2026-09-12",
+          "size": 188114534
+        }
+      ],
+      "version": "2.7.24",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/littlebigsnake-2.7.24",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/littlebigsnake-2.7.24",
+      "size": 188114534,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789237457525",
+      "name": "Karate Survivor",
+      "bundleIdentifier": "com.crunchyroll.gv.karatesurvivor",
+      "bundleId": "com.crunchyroll.gv.karatesurvivor",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/31/53/123153d5-6a50-b5d0-3158-4f19f0038113/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/karatesurvivor-1.0.8",
+          "date": "2026-09-12",
+          "size": 154979532
+        }
+      ],
+      "version": "1.0.8",
+      "versionDate": "2026-09-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/karatesurvivor-1.0.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/karatesurvivor-1.0.8",
+      "size": 154979532,
+      "addedAt": "2026-09-12",
+      "updatedAt": "2026-09-12",
       "localizedDescription": ""
     }
   ],
