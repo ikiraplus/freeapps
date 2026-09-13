@@ -22009,6 +22009,126 @@
       "addedAt": "2026-09-13",
       "updatedAt": "2026-09-13",
       "localizedDescription": ""
+    },
+    {
+      "id": "app-1789325286055",
+      "name": "Walli Cool Wallpapers Hd 4k",
+      "bundleIdentifier": "com.stanga.projectKu",
+      "bundleId": "com.stanga.projectKu",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/5a/83/345a83be-d557-b74d-ff11-17536c03caf8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "2.0.18",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/walli-cool-wallpapers-hd-4k_2.0.18",
+          "date": "2026-09-13",
+          "size": 176999628
+        }
+      ],
+      "version": "2.0.18",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/walli-cool-wallpapers-hd-4k_2.0.18",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/walli-cool-wallpapers-hd-4k_2.0.18",
+      "size": 176999628,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789325365901",
+      "name": "ShadowBorn",
+      "bundleIdentifier": "com.onemb.shadowborn",
+      "bundleId": "com.onemb.shadowborn",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/94/72/769472c7-bc33-818f-90d0-ff4d7a0d6150/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shadow-born_1.0.2",
+          "date": "2026-09-13",
+          "size": 1892889395
+        }
+      ],
+      "version": "1.0.2",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shadow-born_1.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow-born_1.0.2",
+      "size": 1892889395,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789325595542",
+      "name": "Guns Arena Pvp Shooting Games",
+      "bundleIdentifier": "com.vivastudios.gunsatdawn.shooter",
+      "bundleId": "com.vivastudios.gunsatdawn.shooter",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/22/83/6c2283c9-d08b-3721-8ce2-e2e0be0b6e80/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.35.07",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guns-arena-pvp-shooting-games_1.35.07",
+          "date": "2026-09-13",
+          "size": 775841382
+        }
+      ],
+      "version": "1.35.07",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guns-arena-pvp-shooting-games_1.35.07",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/guns-arena-pvp-shooting-games_1.35.07",
+      "size": 775841382,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789325680146",
+      "name": "Learn English Beginners",
+      "bundleIdentifier": "com.breboucas.inglesparaviajar",
+      "bundleId": "com.breboucas.inglesparaviajar",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ce/ce/eacece2b-5e62-3153-86f0-7e0735bbf487/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "Study and Artificial Intelligence",
+      "versions": [
+        {
+          "version": "6.0.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-english-beginners_6.0.19",
+          "date": "2026-09-13",
+          "size": 164416716
+        }
+      ],
+      "version": "6.0.19",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-english-beginners_6.0.19",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-english-beginners_6.0.19",
+      "size": 164416716,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789325756480",
+      "name": "Osm And Maps Travel Navigate",
+      "bundleIdentifier": "net.osmand.maps",
+      "bundleId": "net.osmand.maps",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/33/c1/3933c138-8cd3-c30b-9efc-a88f979f2aed/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "5.4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/osm-and-maps-travel-navigate_5.4.2",
+          "date": "2026-09-13",
+          "size": 263821721
+        }
+      ],
+      "version": "5.4.2",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/osm-and-maps-travel-navigate_5.4.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/osm-and-maps-travel-navigate_5.4.2",
+      "size": 263821721,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
     }
   ],
   "translationFormatVersion": 3
