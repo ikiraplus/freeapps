@@ -8360,23 +8360,23 @@
       "category": "PUNCH TOOL",
       "versions": [
         {
-          "version": "5.7.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/detail_ai_video_editor_v5.7.1_subscription_unlocked_patched",
-          "date": "2026-08-24",
-          "size": 242116198
+          "version": "6.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/detail-ai-video-editor_6.0.0",
+          "date": "2026-09-14",
+          "size": 396256870
         },
         {
-          "version": "5.7",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/detail_ai_video_editor_v5.7_subscription_unlocked_patched"
+          "version": "5.7.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/detail_ai_video_editor_v5.7.1_subscription_unlocked_patched"
         }
       ],
-      "version": "5.7.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/detail_ai_video_editor_v5.7.1_subscription_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/detail_ai_video_editor_v5.7.1_subscription_unlocked_patched",
-      "size": 242116198,
+      "version": "6.0.0",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/detail-ai-video-editor_6.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/detail-ai-video-editor_6.0.0",
+      "size": 396256870,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-14",
       "_rowKey": 320,
       "localizedDescription": ""
     },
@@ -22126,6 +22126,318 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/osm-and-maps-travel-navigate_5.4.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/osm-and-maps-travel-navigate_5.4.2",
       "size": 263821721,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371560283",
+      "name": "Temply AI Video Reels Maker",
+      "bundleIdentifier": "com.templyvideo.Temply",
+      "bundleId": "com.templyvideo.Temply",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/4c/01/fc4c0198-ce34-df2c-78c9-86029a9b089a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "8.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/temply-ai-video-reels-maker_8.3.1",
+          "date": "2026-09-14",
+          "size": 135266304
+        }
+      ],
+      "version": "8.3.1",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/temply-ai-video-reels-maker_8.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/temply-ai-video-reels-maker_8.3.1",
+      "size": 135266304,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371610187",
+      "name": "Eyes Horror Coop Multi Player",
+      "bundleIdentifier": "com.eyesthegame.lite",
+      "bundleId": "com.eyesthegame.lite",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/6e/cc/536ecc69-0b5f-562f-a722-ee17d65a6029/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "8.0.114",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eyes-horror-coop-multi-player_8.0.114",
+          "date": "2026-09-14",
+          "size": 206254899
+        }
+      ],
+      "version": "8.0.114",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eyes-horror-coop-multi-player_8.0.114",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/eyes-horror-coop-multi-player_8.0.114",
+      "size": 206254899,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371671440",
+      "name": "Tile Home Triple Match",
+      "bundleIdentifier": "com.tile.travel.triple.match",
+      "bundleId": "com.tile.travel.triple.match",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/da/65/1eda6543-185d-ea1e-de28-f62eaa75dbbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.4.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.4.8",
+          "date": "2026-09-14",
+          "size": 578499379
+        }
+      ],
+      "version": "2.4.8",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.4.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.4.8",
+      "size": 578499379,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371721347",
+      "name": "Learn Korean Beginners",
+      "bundleIdentifier": "com.breboucas.coreanoparaviajar",
+      "bundleId": "com.breboucas.coreanoparaviajar",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/27/ef/4e27efad-8abe-14ea-c72a-73f7d385563b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "Study and Artificial Intelligence",
+      "versions": [
+        {
+          "version": "6.0.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-korean-beginners_6.0.19",
+          "date": "2026-09-14",
+          "size": 164626432
+        }
+      ],
+      "version": "6.0.19",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-korean-beginners_6.0.19",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-korean-beginners_6.0.19",
+      "size": 164626432,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371742150",
+      "name": "Learn Portuguese Beginners",
+      "bundleIdentifier": "com.breboucas.portuguesparaviajar",
+      "bundleId": "com.breboucas.portuguesparaviajar",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/db/63/cfdb63ac-aa10-b658-8475-3f033f4ed23d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "Study and Artificial Intelligence",
+      "versions": [
+        {
+          "version": "6.0.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-portuguese-beginners_6.0.19",
+          "date": "2026-09-14",
+          "size": 166304153
+        }
+      ],
+      "version": "6.0.19",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-portuguese-beginners_6.0.19",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-portuguese-beginners_6.0.19",
+      "size": 166304153,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371768727",
+      "name": "Learn Italian Beginners",
+      "bundleIdentifier": "com.breboucas.italianoparaviajar",
+      "bundleId": "com.breboucas.italianoparaviajar",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/37/10/bc37107a-bff7-c437-0f36-2e65e25e7b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "Study and Artificial Intelligence",
+      "versions": [
+        {
+          "version": "6.0.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-italian-beginners_6.0.19",
+          "date": "2026-09-14",
+          "size": 164941004
+        }
+      ],
+      "version": "6.0.19",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-italian-beginners_6.0.19",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-italian-beginners_6.0.19",
+      "size": 164941004,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371785034",
+      "name": "Learn Russian Beginners",
+      "bundleIdentifier": "com.breboucas.russoparaviajar",
+      "bundleId": "com.breboucas.russoparaviajar",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/86/9c/d0869c14-c5cb-70c3-a822-ef603eac478d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "Study and Artificial Intelligence",
+      "versions": [
+        {
+          "version": "6.0.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-russian-beginners_6.0.19",
+          "date": "2026-09-14",
+          "size": 165360435
+        }
+      ],
+      "version": "6.0.19",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-russian-beginners_6.0.19",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-russian-beginners_6.0.19",
+      "size": 165360435,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371812905",
+      "name": "Learn Spanish Beginners",
+      "bundleIdentifier": "com.breboucas.espanholparaviajar",
+      "bundleId": "com.breboucas.espanholparaviajar",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/df/86/97df86c2-2793-5d61-ca8a-8d10aa277e6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "Study and Artificial Intelligence",
+      "versions": [
+        {
+          "version": "6.0.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-spanish-beginners_6.0.19",
+          "date": "2026-09-14",
+          "size": 164731289
+        }
+      ],
+      "version": "6.0.19",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-spanish-beginners_6.0.19",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-spanish-beginners_6.0.19",
+      "size": 164731289,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371863694",
+      "name": "Mutiny Pirate Survival Rpg",
+      "bundleIdentifier": "com.heliogames.pirates",
+      "bundleId": "com.heliogames.pirates",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/7b/16/027b1607-c3f7-facf-4c31-e3a67aef8cd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "0.71.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mutiny-pirate-survival-rpg_0.71.1",
+          "date": "2026-09-14",
+          "size": 902719078
+        }
+      ],
+      "version": "0.71.1",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mutiny-pirate-survival-rpg_0.71.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mutiny-pirate-survival-rpg_0.71.1",
+      "size": 902719078,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789371906111",
+      "name": "Levelup Rpg",
+      "bundleIdentifier": "com.YSK.LVUP",
+      "bundleId": "com.YSK.LVUP",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/92/10/319210ad-3ecb-6091-27ee-a63e79bddf1d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "4.3.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/levelup-rpg_4.3.2",
+          "date": "2026-09-14",
+          "size": 619184128
+        }
+      ],
+      "version": "4.3.2",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/levelup-rpg_4.3.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/levelup-rpg_4.3.2",
+      "size": 619184128,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789372096403",
+      "name": "عشق VIP",
+      "bundleIdentifier": "com.iliasslamine.matrixofmeanings",
+      "bundleId": "com.iliasslamine.matrixofmeanings",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/05/95/0f0595ca-6111-7e9d-c0b3-7a9e6739fe66/Placeholder.mill/400x400bb-75.webp",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ashq-vip_1.4.0",
+          "date": "2026-09-14",
+          "size": 38587596
+        }
+      ],
+      "version": "1.4.0",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ashq-vip_1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ashq-vip_1.4.0",
+      "size": 38587596,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789372116767",
+      "name": "Learn French Beginners",
+      "bundleIdentifier": "com.breboucas.francesparaviajar",
+      "bundleId": "com.breboucas.francesparaviajar",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/be/14/93be1461-5f9a-e869-a037-c97cea0b41ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "Study and Artificial Intelligence",
+      "versions": [
+        {
+          "version": "6.0.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-french-beginners_6.0.19",
+          "date": "2026-09-14",
+          "size": 163158425
+        }
+      ],
+      "version": "6.0.19",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-french-beginners_6.0.19",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-french-beginners_6.0.19",
+      "size": 163158425,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789372445466",
+      "name": "Learn German Beginners",
+      "bundleIdentifier": "com.breboucas.alemaoparaviajar",
+      "bundleId": "com.breboucas.alemaoparaviajar",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/0b/f7/c40bf7a1-5d5c-0861-9f90-19ac1f51015e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "Study and Artificial Intelligence",
+      "versions": [
+        {
+          "version": "6.0.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-german-beginners_6.0.19",
+          "date": "2026-09-14",
+          "size": 165255577
+        }
+      ],
+      "version": "6.0.19",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-german-beginners_6.0.19",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-german-beginners_6.0.19",
+      "size": 165255577,
       "addedAt": "2026-09-14",
       "updatedAt": "2026-09-14",
       "localizedDescription": ""
