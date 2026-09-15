@@ -620,23 +620,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "574.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-flow_574.0.0",
-          "date": "2026-08-24",
-          "size": 111673344
+          "version": "579.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-579.0.0-flow",
+          "date": "2026-09-15",
+          "size": 112512204
         },
         {
-          "version": "572.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fbms_v572.0.0_flow_v1.0"
+          "version": "574.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-flow_574.0.0"
         }
       ],
-      "version": "574.0.0",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-flow_574.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/messenger-flow_574.0.0",
-      "size": 111673344,
+      "version": "579.0.0",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/messenger-579.0.0-flow",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/messenger-579.0.0-flow",
+      "size": 112512204,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-15",
       "_rowKey": 24,
       "localizedDescription": ""
     },
@@ -2571,50 +2571,53 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "3.68.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.2",
-          "date": "2026-09-02",
-          "size": 249770803
+          "version": "3.69.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.69.0",
+          "date": "2026-09-15",
+          "size": 262773145
         },
         {
-          "version": "3.68.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.0"
+          "version": "3.68.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.2"
         }
       ],
-      "version": "3.68.2",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.68.2",
-      "size": 249770803,
+      "version": "3.69.0",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.69.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.69.0",
+      "size": 262773145,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-15",
       "_rowKey": 98,
       "localizedDescription": ""
     },
     {
       "id": "APP-3892438048",
-      "name": "Agar.io",
+      "name": "Agar.io Shark Mod",
       "bundleIdentifier": "com.miniclip.agar.io.shark",
       "bundleId": "com.miniclip.agar.io.shark",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/25/cb/1125cbf9-3803-3d83-8517-f5787ba41c23/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "iosgods modded App",
       "category": "GAMES",
       "versions": [
         {
+          "version": "1.8.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agar.io_sharkmod_1.8.8",
+          "date": "2026-09-15",
+          "size": 142291763
+        },
+        {
           "version": "2.24.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agario-shark",
-          "date": "2026-08-24",
-          "size": 104857600
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agario-shark"
         }
       ],
-      "version": "2.24.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agario-shark",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/agario-shark",
-      "size": 104857600,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 99
+      "version": "1.8.8",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agar.io_sharkmod_1.8.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/agar.io_sharkmod_1.8.8",
+      "size": 142291763,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "localizedDescription": ""
     },
     {
       "id": "APP-4624948966",
@@ -4182,23 +4185,23 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "8.4.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.0",
-          "date": "2026-09-12",
-          "size": 381157376
+          "version": "8.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.1",
+          "date": "2026-09-15",
+          "size": 381052518
         },
         {
-          "version": "8.3.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.3.1"
+          "version": "8.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.0"
         }
       ],
-      "version": "8.4.0",
-      "versionDate": "2026-09-12",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.0",
-      "size": 381157376,
+      "version": "8.4.1",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.1",
+      "size": 381052518,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-12",
+      "updatedAt": "2026-09-15",
       "_rowKey": 159,
       "localizedDescription": ""
     },
@@ -8091,23 +8094,23 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "7.4.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.3",
-          "date": "2026-09-12",
-          "size": 84829798
+          "version": "7.4.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.4",
+          "date": "2026-09-15",
+          "size": 93008691
         },
         {
-          "version": "7.4.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.2"
+          "version": "7.4.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.3"
         }
       ],
-      "version": "7.4.3",
-      "versionDate": "2026-09-13",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.3",
-      "size": 84829798,
+      "version": "7.4.4",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.4",
+      "size": 93008691,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-13",
+      "updatedAt": "2026-09-15",
       "_rowKey": 310,
       "localizedDescription": ""
     },
@@ -8393,23 +8396,23 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "3.5.2670",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2670",
-          "date": "2026-08-27",
-          "size": 121739673
+          "version": "3.5.2703",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2703",
+          "date": "2026-09-15",
+          "size": 118698803
         },
         {
-          "version": "3.5.2651",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2651"
+          "version": "3.5.2670",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2670"
         }
       ],
-      "version": "3.5.2670",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2670",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2670",
-      "size": 121739673,
+      "version": "3.5.2703",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2703",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2703",
+      "size": 118698803,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-15",
       "_rowKey": 321,
       "localizedDescription": ""
     },
@@ -12963,19 +12966,23 @@
       "category": "GAMES",
       "versions": [
         {
+          "version": "1.7.41",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/afk-journey-1.7.41",
+          "date": "2026-09-15",
+          "size": 932288921
+        },
+        {
           "version": "1.7.31",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/afk-journey-1.7.31",
-          "date": "2026-08-24",
-          "size": 923166310
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/afk-journey-1.7.31"
         }
       ],
-      "version": "1.7.31",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/afk-journey-1.7.31",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/afk-journey-1.7.31",
-      "size": 923166310,
+      "version": "1.7.41",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/afk-journey-1.7.41",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/afk-journey-1.7.41",
+      "size": 932288921,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-15",
       "_rowKey": 501,
       "localizedDescription": ""
     },
@@ -24117,6 +24124,102 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tailed-demon-slayer_1.6.21",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tailed-demon-slayer_1.6.21",
       "size": 443652505,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789501559831",
+      "name": "Soccer Tycoon: Football Game",
+      "bundleIdentifier": "com.StevenNicola.SoccerTycoon",
+      "bundleId": "com.StevenNicola.SoccerTycoon",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/c7/ee/63c7ee01-ae24-f036-e3a9-efef9d0dc9d8/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.5.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-tycoon-1.5.7",
+          "date": "2026-09-15",
+          "size": 142082048
+        }
+      ],
+      "version": "1.5.7",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-tycoon-1.5.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soccer-tycoon-1.5.7",
+      "size": 142082048,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789501966090",
+      "name": "Soccer Boss: Football Game",
+      "bundleIdentifier": "com.StevenNicola.SoccerBoss",
+      "bundleId": "com.StevenNicola.SoccerBoss",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/d0/04/a4d0046a-9b8c-0857-849e-a7233f9acf91/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.2.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-boss-1.2.6",
+          "date": "2026-09-15",
+          "size": 139880038
+        }
+      ],
+      "version": "1.2.6",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-boss-1.2.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soccer-boss-1.2.6",
+      "size": 139880038,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789502230722",
+      "name": "The Battle Cats",
+      "bundleIdentifier": "jp.co.ponos.battlecatsen",
+      "bundleId": "jp.co.ponos.battlecatsen",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/e1/28/8de12870-ddb3-0bc3-6be7-71694f9025bd/AppIcon-en-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "15.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-battle-cats-15.6.0",
+          "date": "2026-09-15",
+          "size": 175636480
+        }
+      ],
+      "version": "15.6.0",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-battle-cats-15.6.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-battle-cats-15.6.0",
+      "size": 175636480,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789502638452",
+      "name": "Football Ultimate Manager",
+      "bundleIdentifier": "PMG.Football-Ultimate-Manager",
+      "bundleId": "PMG.Football-Ultimate-Manager",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/59/88/bb5988ce-5804-790d-2285-389968abdb6c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.18",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football-ultimate-manager-1.18-1",
+          "date": "2026-09-15",
+          "size": 81054924
+        }
+      ],
+      "version": "1.18",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football-ultimate-manager-1.18-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football-ultimate-manager-1.18-1",
+      "size": 81054924,
       "addedAt": "2026-09-15",
       "updatedAt": "2026-09-15",
       "localizedDescription": ""
