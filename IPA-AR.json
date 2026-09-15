@@ -16718,6 +16718,7 @@
       "name": "Horizon Chase 2",
       "bundleIdentifier": "com.ikiraplus.apps.horizon-chase-2.d36c14dbe2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/4c/35/974c3560-7798-4e4b-9e7c-69a6981495d6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
       "category": "ألعاب",
       "versions": [
         {
@@ -16728,12 +16729,12 @@
         }
       ],
       "version": "1.6.8",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-15",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/horizon-chase-2-v1.6.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/horizon-chase-2-v1.6.8",
       "size": 2027841126,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-15"
     },
     {
       "id": "APP-8343486904",
@@ -18329,6 +18330,7 @@
       "bundleIdentifier": "com.ultimatestudio.hotlapleague",
       "bundleId": "com.ultimatestudio.hotlapleague",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/17/93/6d179391-2388-2d4a-bfb8-aacffcd6a74b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
       "category": "ألعاب",
       "versions": [
         {
@@ -18339,12 +18341,12 @@
         }
       ],
       "version": "1.11053",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-15",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hot-lap-league-v1.00.11053",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hot-lap-league-v1.00.11053",
       "size": 440821350,
       "addedAt": "2026-09-01",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-15"
     },
     {
       "id": "APP-2823653346",
@@ -22406,6 +22408,534 @@
       "size": 54211379,
       "addedAt": "2026-09-14",
       "updatedAt": "2026-09-14"
+    },
+    {
+      "id": "app-1789487323853",
+      "name": "Secret Of Mana",
+      "bundleIdentifier": "com.square-enix.sk2",
+      "bundleId": "com.square-enix.sk2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/30/11/b3/3011b39d-24aa-6f95-dc73-a3828e18c104/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/secret-of-mana",
+          "date": "2026-09-15",
+          "size": 72771174
+        }
+      ],
+      "version": "3.3.0",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/secret-of-mana",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/secret-of-mana",
+      "size": 72771174,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487347709",
+      "name": "Mist Offline Zombie Survival",
+      "bundleIdentifier": "com.eg.mist.horror.idle.rpg",
+      "bundleId": "com.eg.mist.horror.idle.rpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/be/87/44be8736-5f65-27e6-2367-c54ebde083b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.8.13",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mist-offline-zombie-survival",
+          "date": "2026-09-15",
+          "size": 280703795
+        }
+      ],
+      "version": "1.8.13",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mist-offline-zombie-survival",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mist-offline-zombie-survival",
+      "size": 280703795,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487371144",
+      "name": "Clay Jam Classic",
+      "bundleIdentifier": "com.yumyumyukyuk.clayjamclassic",
+      "bundleId": "com.yumyumyukyuk.clayjamclassic",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/bf/6d/bebf6db0-06f1-6a41-d8fb-4200a26513e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/clay-jam-classic",
+          "date": "2026-09-15",
+          "size": 78328627
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/clay-jam-classic",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/clay-jam-classic",
+      "size": 78328627,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487405344",
+      "name": "Evocreo 2 Monster Trainer Rpg",
+      "bundleIdentifier": "com.ilmfinity.evocreo2",
+      "bundleId": "com.ilmfinity.evocreo2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/fe/a9/cafea983-6458-0981-ad4c-795b5e7e7fab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.5.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/evocreo-2-monster-trainer-rpg",
+          "date": "2026-09-15",
+          "size": 187904819
+        }
+      ],
+      "version": "1.5.9",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/evocreo-2-monster-trainer-rpg",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/evocreo-2-monster-trainer-rpg",
+      "size": 187904819,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487481485",
+      "name": "DRAGON QUEST 3",
+      "bundleIdentifier": "com.square-enix.dq3",
+      "bundleId": "com.square-enix.dq3",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/e2/f6/b1e2f6a7-92e1-5f61-fc82-824a72ffd846/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dq3",
+          "date": "2026-09-15",
+          "size": 68891443
+        }
+      ],
+      "version": "1.0.7",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dq3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dq3",
+      "size": 68891443,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487566290",
+      "name": "FGB Operators",
+      "bundleIdentifier": "com.moab.fgb-operators",
+      "bundleId": "com.moab.fgb-operators",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/5f/06/b95f06d1-68f9-6f22-d226-f6a2c7c3740c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fgb_operators",
+          "date": "2026-09-15",
+          "size": 841587097
+        }
+      ],
+      "version": "1.2.0",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fgb_operators",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fgb_operators",
+      "size": 841587097,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487621535",
+      "name": "Peace Death",
+      "bundleIdentifier": "cc.peacedeath.peacedeathapp",
+      "bundleId": "cc.peacedeath.peacedeathapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/83/b0/4883b09e-1e34-96a0-2ec8-b0a56d9b2136/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.6.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/peace-death",
+          "date": "2026-09-15",
+          "size": 84620083
+        }
+      ],
+      "version": "1.6.11",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/peace-death",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/peace-death",
+      "size": 84620083,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487655353",
+      "name": "Peace Death 2",
+      "bundleIdentifier": "com.azamatika.peacedeathtwo",
+      "bundleId": "com.azamatika.peacedeathtwo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/40/1c/e2401c16-9330-0c00-b930-6427254f3050/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/peace-death-2",
+          "date": "2026-09-15",
+          "size": 35546726
+        }
+      ],
+      "version": "1.0.11",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/peace-death-2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/peace-death-2",
+      "size": 35546726,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487698674",
+      "name": "Forgotten Memories",
+      "bundleIdentifier": "com.psychozinteractive.forgottenmemories",
+      "bundleId": "com.psychozinteractive.forgottenmemories",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/51/2d/a6/512da63f-7d64-0d30-b626-6745556bcf3e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories",
+          "date": "2026-09-15",
+          "size": 1033476505
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories",
+      "size": 1033476505,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487787541",
+      "name": "Motorsport Manager Mobile 4",
+      "bundleIdentifier": "com.playsportgames.mmm2023",
+      "bundleId": "com.playsportgames.mmm2023",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2023.3.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/motorsport-manager-mobile-4",
+          "date": "2026-09-15",
+          "size": 223136972
+        }
+      ],
+      "version": "2023.3.7",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/motorsport-manager-mobile-4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/motorsport-manager-mobile-4",
+      "size": 223136972,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789487966780",
+      "name": "Locks Quest",
+      "bundleIdentifier": "com.hg.locksquest",
+      "bundleId": "com.hg.locksquest",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1789487966780.png",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.484",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locks-quest",
+          "date": "2026-09-15",
+          "size": 441450496
+        }
+      ],
+      "version": "1.0.484",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locks-quest",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/locks-quest",
+      "size": 441450496,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488005513",
+      "name": "Unruly Heroes",
+      "bundleIdentifier": "com.pwrd.unrulyheroesmobile",
+      "bundleId": "com.pwrd.unrulyheroesmobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e6/24/75/e6247561-0734-ec11-bd55-9316807893a7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/unruly-heroes",
+          "date": "2026-09-15",
+          "size": 920859443
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/unruly-heroes",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/unruly-heroes",
+      "size": 920859443,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488057150",
+      "name": "El Hijo",
+      "bundleIdentifier": "com.hg.elhijo",
+      "bundleId": "com.hg.elhijo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/d8/2e/e2d82e85-7574-1e08-8263-828dd6e3bd69/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/el-hijo",
+          "date": "2026-09-15",
+          "size": 1185415168
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/el-hijo",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/el-hijo",
+      "size": 1185415168,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488116275",
+      "name": "Goat Simulator Waste Of Space",
+      "bundleIdentifier": "com.coffeestainstudios.wasteofspace",
+      "bundleId": "com.coffeestainstudios.wasteofspace",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/3e/7aab3e33-e026-32dd-fd49-587a3ee9d06a/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-waste-of-space",
+          "date": "2026-09-15",
+          "size": 788424294
+        }
+      ],
+      "version": "2.0.8",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-waste-of-space",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-waste-of-space",
+      "size": 788424294,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488177640",
+      "name": "Goat Simulator Payday",
+      "bundleIdentifier": "com.coffeestainstudios.payday",
+      "bundleId": "com.coffeestainstudios.payday",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f4/f6/2af4f641-dd7c-dcbb-71a3-9318a61086ae/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.0.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-payday",
+          "date": "2026-09-15",
+          "size": 631137894
+        }
+      ],
+      "version": "2.0.7",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-payday",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-payday",
+      "size": 631137894,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488220441",
+      "name": "Goat Simulator Goatz",
+      "bundleIdentifier": "com.coffeestainstudios.goatz",
+      "bundleId": "com.coffeestainstudios.goatz",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/79/49/ed794949-bfdd-748d-272a-49b021ce447f/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.0.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-goatz",
+          "date": "2026-09-15",
+          "size": 638373068
+        }
+      ],
+      "version": "2.0.7",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-goatz",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-goatz",
+      "size": 638373068,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488302617",
+      "name": "Hardboiled",
+      "bundleIdentifier": "ru.gamedevteam.hardboiled",
+      "bundleId": "ru.gamedevteam.hardboiled",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/42/10/ff4210c3-06b0-18c3-86ea-c799edd4e7af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.07",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hardboiled",
+          "date": "2026-09-15",
+          "size": 80530636
+        }
+      ],
+      "version": "1.07",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hardboiled",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hardboiled",
+      "size": 80530636,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488356034",
+      "name": "Little Inferno Hd",
+      "bundleIdentifier": "com.TomorrowCorporation.LittleInferno",
+      "bundleId": "com.TomorrowCorporation.LittleInferno",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0e/7d/bf/0e7dbf53-f8e8-9bfe-f374-47bf6b826a72/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-inferno-hd",
+          "date": "2026-09-15",
+          "size": 274936627
+        }
+      ],
+      "version": "2.0.2",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-inferno-hd",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/little-inferno-hd",
+      "size": 274936627,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488416701",
+      "name": "Little Builders For Kids",
+      "bundleIdentifier": "com.mobileventures.LittleBuilders",
+      "bundleId": "com.mobileventures.LittleBuilders",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/42/df/5242dfe5-b14b-42be-3c59-12e83a18a32d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2021.06",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-builders-for-kids",
+          "date": "2026-09-15",
+          "size": 101187584
+        }
+      ],
+      "version": "2021.06",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-builders-for-kids",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/little-builders-for-kids",
+      "size": 101187584,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488455353",
+      "name": "Little Fox Animal Doctor",
+      "bundleIdentifier": "com.mobileventures.AnimalDoctor",
+      "bundleId": "com.mobileventures.AnimalDoctor",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/bf/42/f1bf428b-c060-f61e-9c41-7c75b59e0f1d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2021.02",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-fox-animal-doctor",
+          "date": "2026-09-15",
+          "size": 132854579
+        }
+      ],
+      "version": "2021.02",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-fox-animal-doctor",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/little-fox-animal-doctor",
+      "size": 132854579,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488505012",
+      "name": "Little Fox Nursery Rhymes",
+      "bundleIdentifier": "com.shapeminds.FoxMusicBox",
+      "bundleId": "com.shapeminds.FoxMusicBox",
+      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1789488505012.png",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "5.07",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-fox-nursery-rhymes",
+          "date": "2026-09-15",
+          "size": 370671616
+        }
+      ],
+      "version": "5.07",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-fox-nursery-rhymes",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/little-fox-nursery-rhymes",
+      "size": 370671616,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789488539956",
+      "name": "Little Police",
+      "bundleIdentifier": "se.filimundus.littlepolice",
+      "bundleId": "se.filimundus.littlepolice",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/8b/cb/428bcbd2-b6a9-0dec-1b30-2649d97c57fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-police",
+          "date": "2026-09-15",
+          "size": 112197632
+        }
+      ],
+      "version": "1.1.2",
+      "versionDate": "2026-09-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/little-police",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/little-police",
+      "size": 112197632,
+      "addedAt": "2026-09-15",
+      "updatedAt": "2026-09-15"
     }
   ]
 }
