@@ -3914,22 +3914,27 @@
       "bundleIdentifier": "com.squareenixmontreal.hitmansniper",
       "bundleId": "com.squareenixmontreal.hitmansniper",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/9c/b6/4c9cb644-223d-9662-5e45-da46c86cdc62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
       "category": "ألعاب",
       "versions": [
         {
+          "version": "1.21.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitman-sniper_1.21.10",
+          "date": "2026-09-16",
+          "size": 1093245337
+        },
+        {
           "version": "last",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitman-sniper",
-          "date": "2026-08-24",
-          "size": 650851123
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitman-sniper"
         }
       ],
-      "version": "last",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitman-sniper",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitman-sniper",
-      "size": 650851123,
+      "version": "1.21.10",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitman-sniper_1.21.10",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitman-sniper_1.21.10",
+      "size": 1093245337,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-16",
       "_rowKey": 152
     },
     {
@@ -6667,26 +6672,31 @@
     },
     {
       "id": "APP-8097182077",
-      "name": "goat simulator 3 - multiverse",
+      "name": "Goat Simulator 3 - Multiverse",
       "bundleIdentifier": "com.coffeestain.goatsimulator3.multiverse",
       "bundleId": "com.coffeestain.goatsimulator3.multiverse",
       "iconURL": "https://bleedingcool.com/wp-content/uploads/2024/06/Goat-Simulator-3-Multiverse-Of-Nonsense-DLC-900x900.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
       "category": "ألعاب",
       "versions": [
         {
-          "version": "last version",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-3-multiverse",
-          "date": "2026-08-24",
+          "version": "1.16.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-3-multiverse-v1.16.3",
+          "date": "2026-09-16",
           "size": 1761712537
+        },
+        {
+          "version": "last version",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-3-multiverse"
         }
       ],
-      "version": "last version",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-3-multiverse",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-3-multiverse",
+      "version": "1.16.3",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-3-multiverse-v1.16.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-3-multiverse-v1.16.3",
       "size": 1761712537,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-16",
       "_rowKey": 263
     },
     {
@@ -23451,6 +23461,798 @@
       "size": 81054924,
       "addedAt": "2026-09-15",
       "updatedAt": "2026-09-15"
+    },
+    {
+      "id": "app-1789556638418",
+      "name": "Backyard Baseball 97",
+      "bundleIdentifier": "com.megacatstudios.backyardbaseball",
+      "bundleId": "com.megacatstudios.backyardbaseball",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/f9/3a/49f93ad6-1035-fa36-c0ba-14151962f4f8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.27",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/backyard-baseball-97.1.1.27",
+          "date": "2026-09-16",
+          "size": 328833433
+        }
+      ],
+      "version": "1.1.27",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/backyard-baseball-97.1.1.27",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/backyard-baseball-97.1.1.27",
+      "size": 328833433,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789556666301",
+      "name": "Tokaido",
+      "bundleIdentifier": "com.funforgedigital.tokaido",
+      "bundleId": "com.funforgedigital.tokaido",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/b9/4d/73b94dc8-9cd2-963e-a3df-f59ddfd082b7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.20.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tokaido_1.20.5",
+          "date": "2026-09-16",
+          "size": 267911168
+        }
+      ],
+      "version": "1.20.5",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tokaido_1.20.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tokaido_1.20.5",
+      "size": 267911168,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789556693760",
+      "name": "Incredibox",
+      "bundleIdentifier": "com.sofarsogood.incredibox",
+      "bundleId": "com.sofarsogood.incredibox",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/2b/6c/d02b6c61-94fe-4863-56ae-a2a522061147/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/incredibox_2.2.2",
+          "date": "2026-09-16",
+          "size": 148897792
+        }
+      ],
+      "version": "2.2.2",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/incredibox_2.2.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/incredibox_2.2.2",
+      "size": 148897792,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789556723140",
+      "name": "World Of Dinosaurs",
+      "bundleIdentifier": "com.appersian.wod",
+      "bundleId": "com.appersian.wod",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/81/eb/7881eb28-8572-1340-ae5c-4c204edbc9e9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "11.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/world-of-dinosaurs_11.9",
+          "date": "2026-09-16",
+          "size": 411461222
+        }
+      ],
+      "version": "11.9",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/world-of-dinosaurs_11.9",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/world-of-dinosaurs_11.9",
+      "size": 411461222,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789556766814",
+      "name": "Machinarium",
+      "bundleIdentifier": "net.machinarium.Machinarium",
+      "bundleId": "net.machinarium.Machinarium",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/24/08/3624088e-d974-7fa9-4c12-a1da2cb6ab21/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.0.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/machinarium_3.0.9",
+          "date": "2026-09-16",
+          "size": 317613670
+        }
+      ],
+      "version": "3.0.9",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/machinarium_3.0.9",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/machinarium_3.0.9",
+      "size": 317613670,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789556820330",
+      "name": "Ticket To Ride",
+      "bundleIdentifier": "com.marmalade.tickettoride",
+      "bundleId": "com.marmalade.tickettoride",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/5a/03/a45a0308-7f43-d075-db50-f2fe4c3660d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.9.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ticket-to-ride_1.9.2",
+          "date": "2026-09-16",
+          "size": 840853094
+        }
+      ],
+      "version": "1.9.2",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ticket-to-ride_1.9.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ticket-to-ride_1.9.2",
+      "size": 840853094,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789556884603",
+      "name": "Rcs - Real Combat Simulator",
+      "bundleIdentifier": "it.rortos.rcs",
+      "bundleId": "it.rortos.rcs",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/26/58/cb265828-64db-e077-3817-6bfa02dc5a64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rcs-real-combat-simulator_1.0.1",
+          "date": "2026-09-16",
+          "size": 614150963
+        }
+      ],
+      "version": "1.0.1",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rcs-real-combat-simulator_1.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rcs-real-combat-simulator_1.0.1",
+      "size": 614150963,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789556941074",
+      "name": "Lanota Music Game With Story",
+      "bundleIdentifier": "com.Noxygames.Lanota",
+      "bundleId": "com.Noxygames.Lanota",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/49/76/0a4976e3-00f1-14f4-b9f0-dee68a001fbd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.0.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lanota-music-game-with-story_3.0.10",
+          "date": "2026-09-16",
+          "size": 698141900
+        }
+      ],
+      "version": "3.0.10",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lanota-music-game-with-story_3.0.10",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lanota-music-game-with-story_3.0.10",
+      "size": 698141900,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557010672",
+      "name": "Amazing Frog",
+      "bundleIdentifier": "com.fayju.amazingfrog",
+      "bundleId": "com.fayju.amazingfrog",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/73/4d/db734d17-6e87-eef2-a482-61d1eecd8660/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.60",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/amazing-frog_2.60",
+          "date": "2026-09-16",
+          "size": 930296627
+        }
+      ],
+      "version": "2.60",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/amazing-frog_2.60",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/amazing-frog_2.60",
+      "size": 930296627,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557065767",
+      "name": "The Last Game",
+      "bundleIdentifier": "com.frju.thelastgame",
+      "bundleId": "com.frju.thelastgame",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/f9/87/aaf98722-5cc0-63e4-b443-7de9bbe50b97/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.6.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-last-game_1.6.4",
+          "date": "2026-09-16",
+          "size": 83886080
+        }
+      ],
+      "version": "1.6.4",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-last-game_1.6.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-last-game_1.6.4",
+      "size": 83886080,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557086412",
+      "name": "Hocus",
+      "bundleIdentifier": "com.gamebrain.hocus",
+      "bundleId": "com.gamebrain.hocus",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/a1/1e/c4a11e4d-3510-bbab-88c9-362a003db4fb/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "13.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hocus_13.0.0",
+          "date": "2026-09-16",
+          "size": 19293798
+        }
+      ],
+      "version": "13.0.0",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hocus_13.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hocus_13.0.0",
+      "size": 19293798,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557121530",
+      "name": "Blazing Star",
+      "bundleIdentifier": "com.snkplaymore.BZS",
+      "bundleId": "com.snkplaymore.BZS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/05/ab/ab05abd2-1fe1-d71b-a6b9-0ac525435a4b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blazing-star_1.3.1",
+          "date": "2026-09-16",
+          "size": 94581555
+        }
+      ],
+      "version": "1.3.1",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blazing-star_1.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blazing-star_1.3.1",
+      "size": 94581555,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557170453",
+      "name": "Old Monterrey Pixel Adventure",
+      "bundleIdentifier": "com.amadodev.oldmonterrey",
+      "bundleId": "com.amadodev.oldmonterrey",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/6d/6a/be6d6a4c-7405-ca92-3fab-8130ecc07152/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/old-monterrey-pixel-adventure_3.6",
+          "date": "2026-09-16",
+          "size": 61446553
+        }
+      ],
+      "version": "3.6",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/old-monterrey-pixel-adventure_3.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/old-monterrey-pixel-adventure_3.6",
+      "size": 61446553,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557194826",
+      "name": "Arcadia Watch Games",
+      "bundleIdentifier": "com.rdamato.watchgames",
+      "bundleId": "com.rdamato.watchgames",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f8/26/a4f82672-34c8-880e-b53e-64bd2b736810/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.20.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/arcadia-watch-games_1.20.1",
+          "date": "2026-09-16",
+          "size": 33344716
+        }
+      ],
+      "version": "1.20.1",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/arcadia-watch-games_1.20.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/arcadia-watch-games_1.20.1",
+      "size": 33344716,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557222299",
+      "name": "Gun Rounds",
+      "bundleIdentifier": "com.blabberf.gunrounds",
+      "bundleId": "com.blabberf.gunrounds",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/be/04/e2/be04e2ea-8554-8ea2-e087-926f09b8aab5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gun-rounds_1.0.4",
+          "date": "2026-09-16",
+          "size": 21286092
+        }
+      ],
+      "version": "1.0.4",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gun-rounds_1.0.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gun-rounds_1.0.4",
+      "size": 21286092,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557643794",
+      "name": "Enigmo",
+      "bundleIdentifier": "com.pangea.Enigmo",
+      "bundleId": "com.pangea.Enigmo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/73/7c/41/737c41e4-6881-9d79-a878-f7aed6b4cda0/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "6.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/enigmo_6.2",
+          "date": "2026-09-16",
+          "size": 24536678
+        }
+      ],
+      "version": "6.2",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/enigmo_6.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/enigmo_6.2",
+      "size": 24536678,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557670507",
+      "name": "Octagon 1 Maximal Challenge",
+      "bundleIdentifier": "octagon.lukaskorba.com",
+      "bundleId": "octagon.lukaskorba.com",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/1f/1f/f21f1f5f-58c4-2f92-3583-40cbfe107eb3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/octagon-1-maximal-challenge_3.2",
+          "date": "2026-09-16",
+          "size": 27053260
+        }
+      ],
+      "version": "3.2",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/octagon-1-maximal-challenge_3.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/octagon-1-maximal-challenge_3.2",
+      "size": 27053260,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557706309",
+      "name": "Sinkr 3",
+      "bundleIdentifier": "com.wahlerdigital.sinkr3",
+      "bundleId": "com.wahlerdigital.sinkr3",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/79/2f/c1792fa6-bb99-d8f6-e723-3f8e17e6a8a8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sinkr-3-v1.1.4",
+          "date": "2026-09-16",
+          "size": 139984896
+        }
+      ],
+      "version": "1.1.4",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sinkr-3-v1.1.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sinkr-3-v1.1.4",
+      "size": 139984896,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557734550",
+      "name": "Sally's Law",
+      "bundleIdentifier": "com.Nanali.SallysLaw-global",
+      "bundleId": "com.Nanali.SallysLaw-global",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/40/65/704065d4-f468-6a11-3156-3d34b72ac7b9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.32",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sallys-law_1.1.32",
+          "date": "2026-09-16",
+          "size": 409049497
+        }
+      ],
+      "version": "1.1.32",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sallys-law_1.1.32",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sallys-law_1.1.32",
+      "size": 409049497,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557765164",
+      "name": "Vectronom",
+      "bundleIdentifier": "com.ArteExperience.Vectronom",
+      "bundleId": "com.ArteExperience.Vectronom",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d5/39/ad/d539adb0-03a3-c012-97b5-e447bb8a8638/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vectronom_1.1.0",
+          "date": "2026-09-16",
+          "size": 196712857
+        }
+      ],
+      "version": "1.1.0",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vectronom_1.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vectronom_1.1.0",
+      "size": 196712857,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557786388",
+      "name": "Train Kit",
+      "bundleIdentifier": "com.stripey.Train",
+      "bundleId": "com.stripey.Train",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/fe/51/31fe51f7-e64b-d4dd-78d8-ddd5971d8179/f-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.81",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/train-kit_1.81",
+          "date": "2026-09-16",
+          "size": 113246208
+        }
+      ],
+      "version": "1.81",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/train-kit_1.81",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/train-kit_1.81",
+      "size": 113246208,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557814032",
+      "name": "Air Navy Fighters",
+      "bundleIdentifier": "it.rortos.airnavyfighters",
+      "bundleId": "it.rortos.airnavyfighters",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/72/79/ac/7279ac01-7aae-7745-1283-c06b2e94bb1a/AppIcon-1x_U007emarketing-0-85-220-0-8.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.0.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/air-navy-fighters_3.0.3",
+          "date": "2026-09-16",
+          "size": 156028108
+        }
+      ],
+      "version": "3.0.3",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/air-navy-fighters_3.0.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/air-navy-fighters_3.0.3",
+      "size": 156028108,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557865474",
+      "name": "Don't Starve Pocket Edition",
+      "bundleIdentifier": "com.kleientertainment.dontstarvepocket",
+      "bundleId": "com.kleientertainment.dontstarvepocket",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/29/5e/03295e4c-5637-9419-83e5-e9939e90370c/Normal_Icon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.47",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dont-starve-pocket-edition_1.47",
+          "date": "2026-09-16",
+          "size": 1006003814
+        }
+      ],
+      "version": "1.47",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dont-starve-pocket-edition_1.47",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dont-starve-pocket-edition_1.47",
+      "size": 1006003814,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557920831",
+      "name": "Planets 7",
+      "bundleIdentifier": "com.puzak.lopte2",
+      "bundleId": "com.puzak.lopte2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/c6/e3/e8c6e330-d31f-822a-3b1c-8b4325e2fec4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "5.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/planets-7_v5.2",
+          "date": "2026-09-16",
+          "size": 95105843
+        }
+      ],
+      "version": "5.2",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/planets-7_v5.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/planets-7_v5.2",
+      "size": 95105843,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789557998195",
+      "name": "Cytus 1",
+      "bundleIdentifier": "com.rayark.Cytus.full",
+      "bundleId": "com.rayark.Cytus.full",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/41/2d/20412d6e-cccc-58dd-0885-741006817c7b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "10.1.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cytus-1_v10.1.8",
+          "date": "2026-09-16",
+          "size": 1398485811
+        }
+      ],
+      "version": "10.1.8",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cytus-1_v10.1.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cytus-1_v10.1.8",
+      "size": 1398485811,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789558058919",
+      "name": "RFS - Real Flight Simulator",
+      "bundleIdentifier": "it.rortos.realflightsimulator",
+      "bundleId": "it.rortos.realflightsimulator",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/04/b2/1704b247-63f5-6e90-5435-3136239a83b1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rfs-real-flight-simulator_3.2.0",
+          "date": "2026-09-16",
+          "size": 619603558
+        }
+      ],
+      "version": "3.2.0",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rfs-real-flight-simulator_3.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rfs-real-flight-simulator_3.2.0",
+      "size": 619603558,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789558104008",
+      "name": "Doodle Jump",
+      "bundleIdentifier": "com.yourcompany.DoodleJump",
+      "bundleId": "com.yourcompany.DoodleJump",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/29/cb/5529cbdf-8f99-7e30-11fe-0f6cdb8e77e8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.20.23",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/doodle-jump_3.20.23",
+          "date": "2026-09-16",
+          "size": 71827456
+        }
+      ],
+      "version": "3.20.23",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/doodle-jump_3.20.23",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/doodle-jump_3.20.23",
+      "size": 71827456,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789559101592",
+      "name": "Kingdom Rush Frontiers Td",
+      "bundleIdentifier": "com.ironhidegames.frontiers",
+      "bundleId": "com.ironhidegames.frontiers",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/38/e8/9138e824-612f-bc7f-0ab7-08721351c929/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "6.4.22",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kingdom-rush-frontiers-td_6.4.22",
+          "date": "2026-09-16",
+          "size": 182032793
+        }
+      ],
+      "version": "6.4.22",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kingdom-rush-frontiers-td_6.4.22",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kingdom-rush-frontiers-td_6.4.22",
+      "size": 182032793,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789559128823",
+      "name": "Badland 2",
+      "bundleIdentifier": "com.frogmindgames.badland2",
+      "bundleId": "com.frogmindgames.badland2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/6c/20/316c2095-e9c9-47dd-c464-52f492268552/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "1.4.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/badland2.1.4.3",
+          "date": "2026-09-16",
+          "size": 128135987
+        }
+      ],
+      "version": "1.4.3",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/badland2.1.4.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/badland2.1.4.3",
+      "size": 128135987,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789559146977",
+      "name": "Badland",
+      "bundleIdentifier": "com.frogmindgames.dodge",
+      "bundleId": "com.frogmindgames.dodge",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/35/d2/0b/35d20b3f-8ac5-f88f-3809-54b7998d6736/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "3.4.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/badland_3.4.4",
+          "date": "2026-09-16",
+          "size": 229428428
+        }
+      ],
+      "version": "3.4.4",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/badland_3.4.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/badland_3.4.4",
+      "size": 229428428,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789559203954",
+      "name": "Goat Simulator MMO",
+      "bundleIdentifier": "com.coffeestainstudios.goatmmo",
+      "bundleId": "com.coffeestainstudios.goatmmo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/6e/e0/0c6ee082-4e46-daa0-5460-e6d3268f1817/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-mmo_2.0.8",
+          "date": "2026-09-16",
+          "size": 910373683
+        }
+      ],
+      "version": "2.0.8",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-mmo_2.0.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/goat-simulator-mmo_2.0.8",
+      "size": 910373683,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789559409557",
+      "name": "Goat Simulator 3",
+      "bundleIdentifier": "com.coffeestain.goatsimulator3",
+      "bundleId": "com.coffeestain.goatsimulator3",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/86/1f/2d861f56-09c5-1027-2494-5718637bb563/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.16.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goatsimulator3.1.16.3",
+          "date": "2026-09-16",
+          "size": 2047030067
+        }
+      ],
+      "version": "1.16.3",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/goatsimulator3.1.16.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/goatsimulator3.1.16.3",
+      "size": 2047030067,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
+    },
+    {
+      "id": "app-1789560037577",
+      "name": "Cytus 2",
+      "bundleIdentifier": "com.rayark.cytus2",
+      "bundleId": "com.rayark.cytus2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/f5/09/67f509ad-1b2b-5897-29ba-a68593ca4e41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "5.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cytus-2-v5.2.0",
+          "date": "2026-09-16",
+          "size": 2833147494
+        }
+      ],
+      "version": "5.2.0",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cytus-2-v5.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cytus-2-v5.2.0",
+      "size": 2833147494,
+      "addedAt": "2026-09-16",
+      "updatedAt": "2026-09-16"
     }
   ]
 }
