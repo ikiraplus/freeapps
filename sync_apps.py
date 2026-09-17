@@ -664,8 +664,9 @@ def prepare_source_records(jom_source, target_apps):
         if match_index is not None:
             if match_index in matched_by_target_index:
                 target_match_collisions.append(clean_text(record["fixed"].get("name") or record["fixed"].get("id")))
-                continue
-            matched_by_target_index[match_index] = record
+                record["match_index"] = None
+            else:
+                matched_by_target_index[match_index] = record
         unique_source_records.append(record)
 
     report = {
@@ -903,7 +904,7 @@ def print_report(path, report, apps_count):
     if report["duplicate_target_keys"]:
         print(f"⚠️ duplicate keys found in old target and safely collapsed: {len(report['duplicate_target_keys'])}")
     if report["target_match_collisions"]:
-        print(f"⚠️ target match collisions skipped: {len(report['target_match_collisions'])}")
+        print(f"⚠️ target match collisions kept as separate apps: {len(report['target_match_collisions'])}")
 
     print(f"✅ apps written: {apps_count}")
     print("✅ apps follow source jom.json order (starting at ريكرام)")

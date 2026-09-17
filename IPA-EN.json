@@ -6024,6 +6024,30 @@
       "localizedDescription": ""
     },
     {
+      "id": "APP-6980086657",
+      "name": "angry birds 2",
+      "bundleIdentifier": "com.rovio.baba",
+      "bundleId": "com.rovio.baba",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/f9/d6/09f9d6ee-0e93-e114-067f-ecd49a840019/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "10.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2",
+          "date": "2026-08-24",
+          "size": 674758656
+        }
+      ],
+      "version": "10.0.1",
+      "versionDate": "2026-09-17",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2",
+      "size": 674758656,
+      "addedAt": "2026-09-17",
+      "updatedAt": "2026-09-17",
+      "localizedDescription": ""
+    },
+    {
       "id": "APP-6350852241",
       "name": "angry birds journey",
       "bundleIdentifier": "com.rovio.abcasual",
@@ -16649,6 +16673,29 @@
       "localizedDescription": ""
     },
     {
+      "id": "APP-5160772538",
+      "name": "Power Zone Battle Royale",
+      "bundleIdentifier": "com.sensusgames.powerzone",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/4b/e0/724be087-0157-d327-2891-5e7c6233c137/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-zone-battle-royale-v1.5",
+          "date": "2026-08-29",
+          "size": 414082662
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2026-09-17",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-zone-battle-royale-v1.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/power-zone-battle-royale-v1.5",
+      "size": 414082662,
+      "addedAt": "2026-09-17",
+      "updatedAt": "2026-09-17",
+      "localizedDescription": ""
+    },
+    {
       "id": "APP-6826604153",
       "name": "Gt Club",
       "bundleIdentifier": "com.ikiraplus.apps.gt-club.daaa5b0050",
@@ -24957,6 +25004,7 @@
       "bundleIdentifier": "de.mixtvision.farlonesails2020",
       "bundleId": "de.mixtvision.farlonesails2020",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/fd/3b/e2fd3bac-fefd-b45e-27a2-b3f7b79bf230/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -24972,8 +25020,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/far-lone-sails_1.32.1",
       "size": 593284300,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627205535",
@@ -24981,6 +25028,7 @@
       "bundleIdentifier": "com.abylight.hyperlightdrifter",
       "bundleId": "com.abylight.hyperlightdrifter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/37/e1/c337e14f-ffda-948e-cd37-c97548f34a23/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -24996,8 +25044,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hyper-light-drifter_1.1.7",
       "size": 839175372,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627260976",
@@ -25005,6 +25052,7 @@
       "bundleIdentifier": "com.thevoxelagents.thegardensbetween",
       "bundleId": "com.thevoxelagents.thegardensbetween",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/76/39/de76390c-0c7f-d351-a9b9-7c0de37ea5eb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25020,8 +25068,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-gardens-between_1.3.1",
       "size": 969932800,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627314288",
@@ -25029,6 +25076,7 @@
       "bundleIdentifier": "com.MathewPurchase.Interloper",
       "bundleId": "com.MathewPurchase.Interloper",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/b5/af/bab5afaa-88b4-4a3a-142d-4740fecb7d4c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25044,8 +25092,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/inter-loper_1.701",
       "size": 207932620,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627355466",
@@ -25053,6 +25100,7 @@
       "bundleIdentifier": "com.enigma.shadowhunter.arcade",
       "bundleId": "com.enigma.shadowhunter.arcade",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/60/a9/8160a9d1-5169-7635-fc20-f1b9ab676e8d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25068,8 +25116,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow-hunter-special-edition_12.72.12",
       "size": 977167974,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627456904",
@@ -25077,6 +25124,7 @@
       "bundleIdentifier": "com.humblebundle.slaythespire",
       "bundleId": "com.humblebundle.slaythespire",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/0c/92/910c920a-0ab6-1939-e297-083995b640c7/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25092,8 +25140,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/slay-the-spire_2.6.0",
       "size": 915721420,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627498655",
@@ -25101,6 +25148,7 @@
       "bundleIdentifier": "com.gameloft.sonicrunner",
       "bundleId": "com.gameloft.sonicrunner",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/cc/aa/08ccaab4-40ca-7c03-61f8-58b42c1c00ac/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25116,8 +25164,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sonic-runners-adventure_1.0.14",
       "size": 37958451,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627565861",
@@ -25125,6 +25172,7 @@
       "bundleIdentifier": "com.inthekillhouse.actionsquad",
       "bundleId": "com.inthekillhouse.actionsquad",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/5a/70/885a7017-57d6-88e8-5cb7-231764fc734b/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25140,8 +25188,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/door-kickers-action-squad_1.2.5",
       "size": 113980211,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627620330",
@@ -25149,6 +25196,7 @@
       "bundleIdentifier": "com.tivola.petworld.rescue",
       "bundleId": "com.tivola.petworld.rescue",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/97/6f/a0976fee-d408-b62a-9c52-039e7189f9cf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25164,8 +25212,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pet-world-premium_5.6.8",
       "size": 266862592,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627669411",
@@ -25173,6 +25220,7 @@
       "bundleIdentifier": "com.tinybop.Machines",
       "bundleId": "com.tinybop.Machines",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/73/0c/58730cd5-b71a-a736-e812-c730e04551e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25188,8 +25236,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simple-machines-by-tinybop_1.3.0",
       "size": 110519910,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789627762739",
@@ -25197,6 +25244,7 @@
       "bundleIdentifier": "com.invictus.impossiball",
       "bundleId": "com.invictus.impossiball",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/18/2e/3d/182e3dad-b22d-9385-83a1-1727e8c53a95/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25212,8 +25260,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/give-it-up-jump-to-the-beat_1.9.18",
       "size": 179411353,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789628334660",
@@ -25221,6 +25268,7 @@
       "bundleIdentifier": "com.oddrobo.KingOfMathFullGame",
       "bundleId": "com.oddrobo.KingOfMathFullGame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/6d/36/6d6d3656-cc1d-37c7-abcf-6e0579c9d287/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25236,8 +25284,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/king-of-math-full-game_1.4.3",
       "size": 62704844,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789628408407",
@@ -25245,6 +25292,7 @@
       "bundleIdentifier": "com.blitwise.ptdeluxehd",
       "bundleId": "com.blitwise.ptdeluxehd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/39/d1/ae39d14c-2f7a-8282-7b12-163ba95ca9de/AppIcon-Deluxe-1x_U007emarketing-0-10-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25260,8 +25308,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pocket-tanks-deluxe_3.0.0",
       "size": 93847552,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789628651604",
@@ -25269,6 +25316,7 @@
       "bundleIdentifier": "com.diensa.iqtestcom",
       "bundleId": "com.diensa.iqtestcom",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/b5/7e/49b57e79-644a-ca8b-a2b7-c7777e336e90/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25284,8 +25332,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iq-test-whats-my-iq_7.5.10",
       "size": 233832448,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789629464922",
@@ -25293,6 +25340,7 @@
       "bundleIdentifier": "com.mastersoftmobilesolutions.chessproipad",
       "bundleId": "com.mastersoftmobilesolutions.chessproipad",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/54/ab/dc54ab5d-6463-f1a8-5baa-15e486956170/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25308,8 +25356,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chess-pro_52.10",
       "size": 121425100,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789629503430",
@@ -25317,6 +25364,7 @@
       "bundleIdentifier": "com.headupgames.bridgeconstructor",
       "bundleId": "com.headupgames.bridgeconstructor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/86/49/018649bf-62ad-4138-8711-1c32f384efbe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25332,8 +25380,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bridge-constructor_13.2.690",
       "size": 231735296,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789629944376",
@@ -25341,6 +25388,7 @@
       "bundleIdentifier": "com.ultimatestudio.hotlapleague",
       "bundleId": "com.ultimatestudio.hotlapleague",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/17/93/6d179391-2388-2d4a-bfb8-aacffcd6a74b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25356,8 +25404,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hot-lap-league_1.02.118",
       "size": 624741580,
       "addedAt": "2026-09-01",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "app-1789629972179",
@@ -25365,6 +25412,7 @@
       "bundleIdentifier": "com.imangi.templerun2",
       "bundleId": "com.imangi.templerun2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/f2/6c/fdf26c54-d4cc-4433-3df9-b97eca6ee27f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid in the official store .",
       "category": "GAMES",
       "versions": [
         {
@@ -25380,8 +25428,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/temple-run-2-endless-escape_1.133.0",
       "size": 290560409,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-17"
     }
   ],
   "translationFormatVersion": 3
