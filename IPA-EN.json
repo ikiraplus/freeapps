@@ -26,7 +26,7 @@
   "apps": [
     {
       "id": "APP-9268555834",
-      "name": "Regram",
+      "name": "ريكرام",
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773401165477.png",
@@ -170,7 +170,7 @@
     },
     {
       "id": "APP-4229526127",
-      "name": "Beegram",
+      "name": "بيكرام",
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773402346513.png",
@@ -987,6 +987,30 @@
       "localizedDescription": ""
     },
     {
+      "id": "APP-1605881895",
+      "name": "Remini Pro",
+      "bundleIdentifier": "com.bigwinepot.nwdn.international",
+      "bundleId": "com.bigwinepot.nwdn.international",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/e8/62/e0e86206-237c-808a-50cc-93af906e2bf3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "29.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
+          "date": "2026-08-24",
+          "size": 113246208
+        }
+      ],
+      "version": "29.4.1",
+      "versionDate": "2026-09-17",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
+      "size": 113246208,
+      "addedAt": "2026-09-17",
+      "updatedAt": "2026-09-17",
+      "localizedDescription": ""
+    },
+    {
       "id": "APP-1362584498",
       "name": "Air movie",
       "bundleIdentifier": "com.airmovie.ikiraplus",
@@ -1145,6 +1169,34 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-09-13",
       "_rowKey": 44,
+      "localizedDescription": ""
+    },
+    {
+      "id": "APP-2162381647",
+      "name": "Picsart Pro",
+      "bundleIdentifier": "com.picsart.studio",
+      "bundleId": "com.picsart.studio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/af/12/9caf1214-1f7d-bdbb-d37e-0487be5ebba0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "30.7.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.7.2_subscription_unlocked",
+          "date": "2026-09-12",
+          "size": 118279372
+        },
+        {
+          "version": "30.7.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor-_video_v30.7.1_subscription_unlocked"
+        }
+      ],
+      "version": "30.7.2",
+      "versionDate": "2026-09-17",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.7.2_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.7.2_subscription_unlocked",
+      "size": 118279372,
+      "addedAt": "2026-09-17",
+      "updatedAt": "2026-09-17",
       "localizedDescription": ""
     },
     {
@@ -3847,6 +3899,62 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-09-02",
       "_rowKey": 149
+    },
+    {
+      "id": "APP-3760722823",
+      "name": "Lightroom",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "bundleId": "com.adobe.lrmobilephone",
+      "iconURL": "https://fastsign.dev/tg-icon/blatants/9067.png",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "11.5.30",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.30_subscription_unlocked",
+          "date": "2026-09-14",
+          "size": 221354393
+        },
+        {
+          "version": "11.5.21",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.21_subscription_unlocked"
+        }
+      ],
+      "version": "11.5.30",
+      "versionDate": "2026-09-17",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.30_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.30_subscription_unlocked",
+      "size": 221354393,
+      "addedAt": "2026-09-17",
+      "updatedAt": "2026-09-17",
+      "localizedDescription": ""
+    },
+    {
+      "id": "APP-6253966381",
+      "name": "VSCO",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "bundleId": "co.visualsupply.cam",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "461.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.8.0_subscription_unlocked",
+          "date": "2026-09-12",
+          "size": 211183206
+        },
+        {
+          "version": "461.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.7.0_subscription_unlocked"
+        }
+      ],
+      "version": "461.8.0",
+      "versionDate": "2026-09-17",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.8.0_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.8.0_subscription_unlocked",
+      "size": 211183206,
+      "addedAt": "2026-09-17",
+      "updatedAt": "2026-09-17",
+      "localizedDescription": ""
     },
     {
       "id": "APP-2380050576",
@@ -8704,6 +8812,34 @@
       "addedAt": "2026-08-22",
       "updatedAt": "2026-09-02",
       "_rowKey": 337,
+      "localizedDescription": ""
+    },
+    {
+      "id": "APP-5340789548",
+      "name": "Scrl Photo Collage Maker",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "bundleId": "com.dopedevelopment.Panels",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/5f/76/db5f76e5-dc0b-94a6-d7d3-e53ff480d23f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "9.53",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.53_subscription_unlocked_patched",
+          "date": "2026-09-12",
+          "size": 80320921
+        },
+        {
+          "version": "9.52",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl-photo-collage-maker-v9.52"
+        }
+      ],
+      "version": "9.53",
+      "versionDate": "2026-09-17",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.53_subscription_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.53_subscription_unlocked_patched",
+      "size": 80320921,
+      "addedAt": "2026-09-17",
+      "updatedAt": "2026-09-17",
       "localizedDescription": ""
     },
     {
@@ -14538,6 +14674,34 @@
       "addedAt": "2026-08-27",
       "updatedAt": "2026-09-02",
       "_rowKey": 66,
+      "localizedDescription": ""
+    },
+    {
+      "id": "APP-8248216047",
+      "name": "Soundlab Audio Editor",
+      "bundleIdentifier": "com.castpeer.audioroom.ios",
+      "bundleId": "com.castpeer.audioroom.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/b8/28/0eb82897-9381-7ee8-7d6d-02c92aa6e4f3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "PUNCH TOOL",
+      "versions": [
+        {
+          "version": "2.11.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundlab_audio_editor_v2.11.6_subscription_unlocked_patched",
+          "date": "2026-09-03",
+          "size": 143025766
+        },
+        {
+          "version": "2.11.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundlab_audio_editor_v2.11.5_subscription_unlocked_patched"
+        }
+      ],
+      "version": "2.11.6",
+      "versionDate": "2026-09-17",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundlab_audio_editor_v2.11.6_subscription_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundlab_audio_editor_v2.11.6_subscription_unlocked_patched",
+      "size": 143025766,
+      "addedAt": "2026-09-17",
+      "updatedAt": "2026-09-17",
       "localizedDescription": ""
     },
     {
