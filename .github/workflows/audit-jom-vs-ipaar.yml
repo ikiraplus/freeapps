@@ -18,51 +18,35 @@ jobs:
           curl -fsSL 'https://raw.githubusercontent.com/ikiraplus/ipastore/main/jom.json' -o /tmp/jom.json
           python3 - <<'PY'
           import json
-          from collections import Counter
           import sync_apps
+          from collections import Counter
 
-          jom = json.load(open('/tmp/jom.json', encoding='utf-8')).get('apps', [])
-          ar = json.load(open('IPA-AR.json', encoding='utf-8')).get('apps', [])
+          jom_source = json.load(open('/tmp/jom.json', encoding='utf-8'))
+          ar_source = json.load(open('IPA-AR.json', encoding='utf-8'))
+          jom = jom_source.get('apps', [])
+          ar = ar_source.get('apps', [])
 
           print('JOM_TOTAL=', len(jom))
           print('AR_TOTAL=', len(ar))
-
-          jnames = Counter(str(a.get('name','')).strip() for a in jom if isinstance(a,dict))
-          anames = Counter(str(a.get('name','')).strip() for a in ar if isinstance(a,dict))
-          print('MISSING_BY_NAME=', list((jnames-anames).elements()))
-          print('EXTRA_BY_NAME=', list((anames-jnames).elements()))
-
           start = sync_apps.find_start_index(jom)
+          records, matched, report = sync_apps.prepare_source_records(jom_source, ar)
           print('START_INDEX=', start)
-          print('BEFORE_START=', [(a.get('id'), a.get('name'), a.get('hidden')) for a in jom[:start]])
-          certs = [(i,a.get('id'),a.get('name'),a.get('hidden')) for i,a in enumerate(jom) if sync_apps.is_certificate_app(a)]
-          print('CERTIFICATE_APPS=', certs)
+          print('IGNORED_BEFORE_START=', [(a.get('id'),a.get('name')) for a in report['ignored_before_start']])
+          print('SKIPPED_CERTIFICATES=', report['skipped_certificates'])
+          print('SKIPPED_SOURCE_DUPLICATES=', report['skipped_source_duplicates'])
+          print('TARGET_MATCH_COLLISIONS=', report['target_match_collisions'])
+          print('SOURCE_RECORDS_AFTER_ALL_RULES=', len(records))
+          print('DUPLICATE_TARGET_KEYS=', report['duplicate_target_keys'][:30])
 
-          # Show exact source rows for names absent from AR.
-          missing = Counter(jnames-anames)
-          for i,a in enumerate(jom):
-              n=str(a.get('name','')).strip()
-              if missing[n] > 0:
-                  print('MISSING_ROW=', i, json.dumps(a, ensure_ascii=False, sort_keys=True))
-                  missing[n] -= 1
-
-          # Reproduce expected source set per sync rules.
-          expected=[]
-          seen=set()
-          skipped_dupes=[]
-          skipped_certs=[]
-          for i,a in enumerate(jom[start:], start=start):
-              if sync_apps.is_certificate_app(a):
-                  skipped_certs.append((i,a.get('id'),a.get('name')))
-                  continue
-              key=sync_apps.source_record_identity(a)
-              if key and key in seen:
-                  skipped_dupes.append((i,a.get('id'),a.get('name'),key))
-                  continue
-              if key: seen.add(key)
-              expected.append(a)
-          print('EXPECTED_AFTER_RULES=', len(expected))
-          print('SKIPPED_CERTS_AFTER_START=', skipped_certs)
-          print('SKIPPED_DUPES=', skipped_dupes)
-          print('EXPECTED_MINUS_AR=', list((Counter(str(a.get('name','')).strip() for a in expected)-anames).elements()))
+          # Show all source rows for collision names and their initial match indexes.
+          for collision_name in report['target_match_collisions']:
+              print('COLLISION_NAME=', collision_name)
+              for i,a in enumerate(jom):
+                  if sync_apps.normalize_arabic(a.get('name')) == sync_apps.normalize_arabic(collision_name):
+                      fixed = sync_apps.normalize_app(a, set(), used_ids=set())
+                      idx = sync_apps.find_matching_target_index(a, fixed, sync_apps.build_target_lookup(ar)[0])
+                      target = ar[idx] if idx is not None and idx < len(ar) else None
+                      print('SOURCE_COLLISION_ROW=', i, json.dumps(a, ensure_ascii=False, sort_keys=True))
+                      print('MATCH_INDEX=', idx)
+                      print('MATCH_TARGET=', json.dumps(target, ensure_ascii=False, sort_keys=True) if target else None)
           PY
