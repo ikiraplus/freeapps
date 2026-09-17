@@ -1,0 +1,43 @@
+name: Temporary remove six apps from AR and EN
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/temp-remove-six.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  remove-six:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 2
+
+      - name: Remove six apps
+        run: python3 .tmp_remove_six.py
+
+      - name: Verify and commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          for path in ('IPA-AR.json', 'IPA-EN.json'):
+              data = json.load(open(path, encoding='utf-8'))
+              count = len(data.get('apps', []))
+              if count != 1000:
+                  raise SystemExit(f'{path}: expected 1000, got {count}')
+              print(f'{path}: {count}')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add IPA-AR.json IPA-EN.json
+          git commit -m 'Temporarily reduce AR and EN sources to 1000 apps'
+          git pull --rebase origin main
+          git push origin main
