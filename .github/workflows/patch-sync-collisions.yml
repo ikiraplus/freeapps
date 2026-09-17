@@ -1,0 +1,146 @@
+name: Patch sync collisions and regenerate sources
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/patch-sync-collisions.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch-and-sync:
+    if: github.event.head_commit.message == 'Apply collision-preserving sync patch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 2
+
+      - name: Patch collision handling
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path('sync_apps.py')
+          text = path.read_text(encoding='utf-8')
+
+          old = '''    matched_by_target_index = {}
+    unique_source_records = []
+    for record in source_records:
+        match_index = record["match_index"]
+        if match_index is not None:
+            if match_index in matched_by_target_index:
+                target_match_collisions.append(clean_text(record["fixed"].get("name") or record["fixed"].get("id")))
+                continue
+            matched_by_target_index[match_index] = record
+        unique_source_records.append(record)
+'''
+
+          new = '''    matched_by_target_index = {}
+    unique_source_records = []
+    for record in source_records:
+        match_index = record["match_index"]
+        if match_index is not None:
+            if match_index in matched_by_target_index:
+                # Two distinct source records may legitimately have the same
+                # normalized name and/or bundle id (for example Angry Birds 2
+                # or Power Zone Battle Royale). Do not drop the later source
+                # row just because both initially resolve to the same old
+                # target row. Keep the first as the update target and treat
+                # the later distinct source record as a new app. On following
+                # syncs its own id/url will match its own target row.
+                target_match_collisions.append(clean_text(record["fixed"].get("name") or record["fixed"].get("id")))
+                record["match_index"] = None
+            else:
+                matched_by_target_index[match_index] = record
+        unique_source_records.append(record)
+'''
+
+          if text.count(old) != 1:
+              raise SystemExit(f'Expected collision block exactly once, found {text.count(old)}')
+          text = text.replace(old, new, 1)
+
+          old_report = '        print(f"⚠️ target match collisions skipped: {len(report[\"target_match_collisions\"])}")'
+          new_report = '        print(f"⚠️ target match collisions kept as separate apps: {len(report[\"target_match_collisions\"])}")'
+          if old_report in text:
+              text = text.replace(old_report, new_report, 1)
+
+          path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Download latest jom.json
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fsSL --retry 3 --retry-delay 2 \
+            'https://raw.githubusercontent.com/ikiraplus/ipastore/main/jom.json' \
+            -o source_jom.json
+
+      - name: Regenerate IPA-AR and IPA-EN
+        env:
+          TRANSLATE_WORKERS: '3'
+          TRANSLATE_MAX_RPM: '20'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 sync_apps.py \
+            --source source_jom.json \
+            --target IPA-AR.json \
+            --target-en IPA-EN.json
+
+      - name: Verify preserved apps and ignored certificates
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+
+          ar = json.load(open('IPA-AR.json', encoding='utf-8'))
+          en = json.load(open('IPA-EN.json', encoding='utf-8'))
+          apps = ar.get('apps', [])
+          ids = {str(a.get('id', '')).strip() for a in apps if isinstance(a, dict)}
+          required = {
+              'APP-4482166508',
+              'APP-6980086657',
+              'APP-7773254382',
+              'APP-5160772538',
+          }
+          missing = sorted(required - ids)
+          if missing:
+              raise SystemExit(f'Missing preserved duplicate-name app ids: {missing}')
+
+          cert_names = {'شهادة مجانية', 'شهادة مجانية 2'}
+          leaked = [a.get('name') for a in apps if isinstance(a, dict) and str(a.get('name', '')).strip() in cert_names]
+          if leaked:
+              raise SystemExit(f'Certificate apps leaked into IPA-AR: {leaked}')
+
+          if len(apps) != 1006:
+              raise SystemExit(f'Expected 1006 IPA-AR apps from current 1008 source rows, got {len(apps)}')
+          if len(en.get('apps', [])) != len(apps):
+              raise SystemExit('IPA-EN count does not match IPA-AR')
+
+          print('✅ IPA-AR apps:', len(apps))
+          print('✅ Both Angry Birds 2 records preserved')
+          print('✅ Both Power Zone Battle Royale records preserved')
+          print('✅ Free certificate rows ignored')
+          PY
+
+      - name: Commit patch and regenerated sources
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -f source_jom.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add sync_apps.py IPA-AR.json IPA-EN.json
+          git commit -m 'Preserve distinct duplicate-name apps in sync'
+          git pull --rebase origin main
+          git push origin main
