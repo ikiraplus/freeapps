@@ -31,48 +31,26 @@ jobs:
 
           path = Path('sync_apps.py')
           text = path.read_text(encoding='utf-8')
-
-          old = '''    matched_by_target_index = {}
-    unique_source_records = []
-    for record in source_records:
-        match_index = record["match_index"]
-        if match_index is not None:
-            if match_index in matched_by_target_index:
-                target_match_collisions.append(clean_text(record["fixed"].get("name") or record["fixed"].get("id")))
-                continue
-            matched_by_target_index[match_index] = record
-        unique_source_records.append(record)
-'''
-
-          new = '''    matched_by_target_index = {}
-    unique_source_records = []
-    for record in source_records:
-        match_index = record["match_index"]
-        if match_index is not None:
-            if match_index in matched_by_target_index:
-                # Two distinct source records may legitimately have the same
-                # normalized name and/or bundle id (for example Angry Birds 2
-                # or Power Zone Battle Royale). Do not drop the later source
-                # row just because both initially resolve to the same old
-                # target row. Keep the first as the update target and treat
-                # the later distinct source record as a new app. On following
-                # syncs its own id/url will match its own target row.
-                target_match_collisions.append(clean_text(record["fixed"].get("name") or record["fixed"].get("id")))
-                record["match_index"] = None
-            else:
-                matched_by_target_index[match_index] = record
-        unique_source_records.append(record)
-'''
-
-          if text.count(old) != 1:
-              raise SystemExit(f'Expected collision block exactly once, found {text.count(old)}')
+          old = (
+              '                target_match_collisions.append(clean_text(record["fixed"].get("name") or record["fixed"].get("id")))\n'
+              '                continue\n'
+              '            matched_by_target_index[match_index] = record\n'
+          )
+          new = (
+              '                target_match_collisions.append(clean_text(record["fixed"].get("name") or record["fixed"].get("id")))\n'
+              '                record["match_index"] = None\n'
+              '            else:\n'
+              '                matched_by_target_index[match_index] = record\n'
+          )
+          count = text.count(old)
+          if count != 1:
+              raise SystemExit(f'Expected collision block exactly once, found {count}')
           text = text.replace(old, new, 1)
-
-          old_report = '        print(f"⚠️ target match collisions skipped: {len(report[\"target_match_collisions\"])}")'
-          new_report = '        print(f"⚠️ target match collisions kept as separate apps: {len(report[\"target_match_collisions\"])}")'
-          if old_report in text:
-              text = text.replace(old_report, new_report, 1)
-
+          text = text.replace(
+              'target match collisions skipped:',
+              'target match collisions kept as separate apps:',
+              1,
+          )
           path.write_text(text, encoding='utf-8')
           PY
 
@@ -80,9 +58,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          curl -fsSL --retry 3 --retry-delay 2 \
-            'https://raw.githubusercontent.com/ikiraplus/ipastore/main/jom.json' \
-            -o source_jom.json
+          curl -fsSL --retry 3 --retry-delay 2 'https://raw.githubusercontent.com/ikiraplus/ipastore/main/jom.json' -o source_jom.json
 
       - name: Regenerate IPA-AR and IPA-EN
         env:
@@ -91,10 +67,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          python3 sync_apps.py \
-            --source source_jom.json \
-            --target IPA-AR.json \
-            --target-en IPA-EN.json
+          python3 sync_apps.py --source source_jom.json --target IPA-AR.json --target-en IPA-EN.json
 
       - name: Verify preserved apps and ignored certificates
         shell: bash
@@ -123,14 +96,14 @@ jobs:
               raise SystemExit(f'Certificate apps leaked into IPA-AR: {leaked}')
 
           if len(apps) != 1006:
-              raise SystemExit(f'Expected 1006 IPA-AR apps from current 1008 source rows, got {len(apps)}')
+              raise SystemExit(f'Expected 1006 IPA-AR apps, got {len(apps)}')
           if len(en.get('apps', [])) != len(apps):
               raise SystemExit('IPA-EN count does not match IPA-AR')
 
-          print('✅ IPA-AR apps:', len(apps))
-          print('✅ Both Angry Birds 2 records preserved')
-          print('✅ Both Power Zone Battle Royale records preserved')
-          print('✅ Free certificate rows ignored')
+          print('IPA-AR apps:', len(apps))
+          print('Both Angry Birds 2 records preserved')
+          print('Both Power Zone Battle Royale records preserved')
+          print('Free certificate rows ignored')
           PY
 
       - name: Commit patch and regenerated sources
