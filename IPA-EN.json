@@ -26,7 +26,7 @@
   "apps": [
     {
       "id": "APP-9268555834",
-      "name": "ريكرام",
+      "name": "Regram",
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773401165477.png",
@@ -170,7 +170,7 @@
     },
     {
       "id": "APP-4229526127",
-      "name": "بيكرام",
+      "name": "Beegram",
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773402346513.png",
