@@ -1,0 +1,99 @@
+name: Temporary restore full AR and EN sources
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/temp-restore-full.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 2
+
+      - name: Download latest jom.json
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fsSL --retry 3 --retry-delay 2 \
+            'https://raw.githubusercontent.com/ikiraplus/ipastore/main/jom.json' \
+            -o source_jom.json
+
+      - name: Restore IPA-AR and IPA-EN from source
+        env:
+          TRANSLATE_WORKERS: '3'
+          TRANSLATE_MAX_RPM: '20'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 sync_apps.py \
+            --source source_jom.json \
+            --target IPA-AR.json \
+            --target-en IPA-EN.json
+
+      - name: Verify restored state
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+
+          ar = json.load(open('IPA-AR.json', encoding='utf-8'))
+          en = json.load(open('IPA-EN.json', encoding='utf-8'))
+          ar_apps = ar.get('apps', [])
+          en_apps = en.get('apps', [])
+          if len(ar_apps) != 1006:
+              raise SystemExit(f'IPA-AR.json expected 1006 apps, got {len(ar_apps)}')
+          if len(en_apps) != 1006:
+              raise SystemExit(f'IPA-EN.json expected 1006 apps, got {len(en_apps)}')
+
+          required_ids = {
+              'APP-5340789548',
+              'APP-8248216047',
+              'APP-2162381647',
+              'APP-1605881895',
+              'APP-3760722823',
+              'APP-6253966381',
+          }
+          for label, apps in [('AR', ar_apps), ('EN', en_apps)]:
+              ids = {str(a.get('id', '')).strip() for a in apps if isinstance(a, dict)}
+              missing = sorted(required_ids - ids)
+              if missing:
+                  raise SystemExit(f'{label} missing restored ids: {missing}')
+
+          en_names = {str(a.get('id', '')).strip(): a.get('name') for a in en_apps if isinstance(a, dict)}
+          if en_names.get('APP-9268555834') != 'ريكرام':
+              raise SystemExit(f"Expected ريكرام in EN, got {en_names.get('APP-9268555834')}")
+          if en_names.get('APP-4229526127') != 'بيكرام':
+              raise SystemExit(f"Expected بيكرام in EN, got {en_names.get('APP-4229526127')}")
+
+          print('IPA-AR.json apps: 1006')
+          print('IPA-EN.json apps: 1006')
+          print('Temporary six apps restored')
+          print('EN names restored to ريكرام / بيكرام')
+          PY
+
+      - name: Commit restored files
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -f source_jom.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add IPA-AR.json IPA-EN.json
+          if git diff --cached --quiet; then
+            echo 'No source changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Restore AR and EN sources to full 1006 apps'
+          git pull --rebase origin main
+          git push origin main
