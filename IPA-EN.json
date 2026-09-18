@@ -6185,31 +6185,30 @@
     },
     {
       "id": "APP-5926837492",
-      "name": "magic tiles 3",
+      "name": "Magic Tiles 3 Piano",
       "bundleIdentifier": "com.amanotes.magictiles",
       "bundleId": "com.amanotes.magictiles",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/2b/7b/d62b7bfd-6b30-e8c2-a906-910b5011005e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "category": "GAMES",
       "versions": [
         {
-          "version": "13.13.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/magic_tiles_3_piano_game",
-          "date": "2026-08-24",
-          "size": 271371468
+          "version": "13.095.005",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/magic-tiles-3-piano-game_13.095.005",
+          "date": "2026-09-18",
+          "size": 725719449
         },
         {
-          "version": "7.54",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/magic-tiles-3"
+          "version": "13.13.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/magic_tiles_3_piano_game"
         }
       ],
-      "version": "13.13.10",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/magic_tiles_3_piano_game",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/magic_tiles_3_piano_game",
-      "size": 271371468,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 238,
+      "version": "13.095.005",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/magic-tiles-3-piano-game_13.095.005",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/magic-tiles-3-piano-game_13.095.005",
+      "size": 725719449,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
       "localizedDescription": ""
     },
     {
@@ -7126,23 +7125,23 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "2.26.12",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit-2-v2.26.12",
-          "date": "2026-08-30",
-          "size": 940153241
+          "version": "2.27.46",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit-drag-racing-2-v2.27.46",
+          "date": "2026-09-18",
+          "size": 2000368435
         },
         {
-          "version": "2.23.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit2.2.23.1"
+          "version": "2.26.12",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit-2-v2.26.12"
         }
       ],
-      "version": "2.26.12",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit-2-v2.26.12",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/no-limit-2-v2.26.12",
-      "size": 940153241,
+      "version": "2.27.46",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/no-limit-drag-racing-2-v2.27.46",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/no-limit-drag-racing-2-v2.27.46",
+      "size": 2000368435,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 274,
       "localizedDescription": ""
     },
@@ -9216,23 +9215,23 @@
       "category": "GAMES",
       "versions": [
         {
-          "version": "1.0.63",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.63",
-          "date": "2026-09-12",
-          "size": 513068236
+          "version": "1.0.64",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-plague_1.0.64",
+          "date": "2026-09-18",
+          "size": 666999193
         },
         {
-          "version": "1.0.60",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.60"
+          "version": "1.0.63",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.63"
         }
       ],
-      "version": "1.0.63",
-      "versionDate": "2026-09-12",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.63",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.63",
-      "size": 513068236,
+      "version": "1.0.64",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-plague_1.0.64",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-asylum-plague_1.0.64",
+      "size": 666999193,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-12",
+      "updatedAt": "2026-09-19",
       "_rowKey": 353,
       "localizedDescription": ""
     },
@@ -26065,6 +26064,342 @@
       "size": 535822336,
       "addedAt": "2026-09-18",
       "updatedAt": "2026-09-18",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761044661",
+      "name": "Story Reel Exclusive Drama",
+      "bundleIdentifier": "com.storyreel.tv.ios",
+      "bundleId": "com.storyreel.tv.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/d8/be/fad8be6f-eead-eccd-1c4d-016a9283545e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "Entertainment",
+      "versions": [
+        {
+          "version": "2.29.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/story-reel-exclusive-drama_2.29.0",
+          "date": "2026-09-18",
+          "size": 192937984
+        }
+      ],
+      "version": "2.29.0",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/story-reel-exclusive-drama_2.29.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/story-reel-exclusive-drama_2.29.0",
+      "size": 192937984,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761115963",
+      "name": "جوالك ع راسك : لعبة جماعية",
+      "bundleIdentifier": "com.charadesapp.geeksjo",
+      "bundleId": "com.charadesapp.geeksjo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/bc/2f/dabc2fd9-d063-3559-c640-96e343a130a9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jawalk-1.0.8",
+          "date": "2026-09-18",
+          "size": 58300825
+        }
+      ],
+      "version": "1.0.8",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jawalk-1.0.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jawalk-1.0.8",
+      "size": 58300825,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761159345",
+      "name": "Legendof Survivors",
+      "bundleIdentifier": "com.abi.legendofsurvivors",
+      "bundleId": "com.abi.legendofsurvivors",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/a5/af/7fa5af2b-2460-edb4-82fc-25788acd06a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/legendof-survivors_2.0.1",
+          "date": "2026-09-18",
+          "size": 756652441
+        }
+      ],
+      "version": "2.0.1",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/legendof-survivors_2.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/legendof-survivors_2.0.1",
+      "size": 756652441,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761192395",
+      "name": "Nature Board Game",
+      "bundleIdentifier": "com.northstargames.naturegame",
+      "bundleId": "com.northstargames.naturegame",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/2f/3d/b72f3d2b-16c0-687e-5920-d31ac0095e4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.0.62",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nature-board-game_1.0.62",
+          "date": "2026-09-18",
+          "size": 778462822
+        }
+      ],
+      "version": "1.0.62",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nature-board-game_1.0.62",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nature-board-game_1.0.62",
+      "size": 778462822,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761321366",
+      "name": "ZombTube",
+      "bundleIdentifier": "com.booblyc.ZombTubeGame",
+      "bundleId": "com.booblyc.ZombTubeGame",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/f8/01/d1f801b7-9454-bcce-38fd-d135eb1c4f55/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "0.1.374",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zomb-tube_0.1.374",
+          "date": "2026-09-18",
+          "size": 568747622
+        }
+      ],
+      "version": "0.1.374",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zomb-tube_0.1.374",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zomb-tube_0.1.374",
+      "size": 568747622,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761374341",
+      "name": "Blue Lock Pwc",
+      "bundleIdentifier": "jp.pjfbgl",
+      "bundleId": "jp.pjfbgl",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/cb/d1/73cbd14d-4516-5f45-e5ff-4745b9c08889/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "5.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blue-lock-pwc_5.8.0",
+          "date": "2026-09-18",
+          "size": 340158054
+        }
+      ],
+      "version": "5.8.0",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blue-lock-pwc_5.8.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blue-lock-pwc_5.8.0",
+      "size": 340158054,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761439540",
+      "name": "Twisted Tangle",
+      "bundleIdentifier": "com.crescivegames.twistedtangle",
+      "bundleId": "com.crescivegames.twistedtangle",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/88/ac/c788aca9-34b4-c141-1ee4-517bfa908ff7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.14.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twisted-tangle_2.14.2",
+          "date": "2026-09-18",
+          "size": 426036428
+        }
+      ],
+      "version": "2.14.2",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twisted-tangle_2.14.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twisted-tangle_2.14.2",
+      "size": 426036428,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761557797",
+      "name": "Fluent Pal Get fluent faster",
+      "bundleIdentifier": "org.reactjs.native.example.FluentAI",
+      "bundleId": "org.reactjs.native.example.FluentAI",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/9b/75/e19b7517-0a01-a6ad-dd88-1cc9087689b6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "3.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fluent-pal-getfluentfaster_3.1.1",
+          "date": "2026-09-18",
+          "size": 139250892
+        }
+      ],
+      "version": "3.1.1",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fluent-pal-getfluentfaster_3.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fluent-pal-getfluentfaster_3.1.1",
+      "size": 139250892,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761644401",
+      "name": "Chapters Interactive Stories",
+      "bundleIdentifier": "com.mars.avgchapters",
+      "bundleId": "com.mars.avgchapters",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/2a/e1/5a2ae1fa-2b14-b1e0-5935-88ad5a93a683/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "12.53",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chapters-interactive-stories_12.53",
+          "date": "2026-09-18",
+          "size": 277977497
+        }
+      ],
+      "version": "12.53",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chapters-interactive-stories_12.53",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chapters-interactive-stories_12.53",
+      "size": 277977497,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761703095",
+      "name": "Rellionnpc Survival",
+      "bundleIdentifier": "com.daerigame.rellion",
+      "bundleId": "com.daerigame.rellion",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/02/30/f6023079-4a3c-cea0-f746-591d9e12f5f0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.48.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rellionnpc-survival_1.48.5",
+          "date": "2026-09-18",
+          "size": 1347839590
+        }
+      ],
+      "version": "1.48.5",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rellionnpc-survival_1.48.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rellionnpc-survival_1.48.5",
+      "size": 1347839590,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761777438",
+      "name": "Epic Plane Evolution",
+      "bundleIdentifier": "io.heseri.plane",
+      "bundleId": "io.heseri.plane",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b3/39/dfb339f3-7a6d-c138-975c-fa52ee077c03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "1.14.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/epic-plane-evolution_1.14.0",
+          "date": "2026-09-18",
+          "size": 383778816
+        }
+      ],
+      "version": "1.14.0",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/epic-plane-evolution_1.14.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/epic-plane-evolution_1.14.0",
+      "size": 383778816,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761808660",
+      "name": "Train Station 3 Rail Tycoon",
+      "bundleIdentifier": "com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator",
+      "bundleId": "com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/e1/98/62e19861-67fa-359f-0205-78cca90d4be7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "2.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/train-station-3-rail-tycoon_2.4.1",
+          "date": "2026-09-18",
+          "size": 542113792
+        }
+      ],
+      "version": "2.4.1",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/train-station-3-rail-tycoon_2.4.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/train-station-3-rail-tycoon_2.4.1",
+      "size": 542113792,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761837892",
+      "name": "Dribble Hoops",
+      "bundleIdentifier": "com.wildbeep.dribblehoops",
+      "bundleId": "com.wildbeep.dribblehoops",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/18/cb/c418cb0d-aa4f-6871-c601-f29fa71ea975/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "4.20.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dribble-hoops_4.20.3",
+          "date": "2026-09-18",
+          "size": 300102451
+        }
+      ],
+      "version": "4.20.3",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dribble-hoops_4.20.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dribble-hoops_4.20.3",
+      "size": 300102451,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1789761872252",
+      "name": "Pizza Ready",
+      "bundleIdentifier": "io.supercent.pizzaidle",
+      "bundleId": "io.supercent.pizzaidle",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/84/c0/7484c067-1acd-7712-4865-82b24d9a36a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "GAMES",
+      "versions": [
+        {
+          "version": "59.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pizza-ready_59.2.0",
+          "date": "2026-09-18",
+          "size": 382415667
+        }
+      ],
+      "version": "59.2.0",
+      "versionDate": "2026-09-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pizza-ready_59.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pizza-ready_59.2.0",
+      "size": 382415667,
+      "addedAt": "2026-09-19",
+      "updatedAt": "2026-09-19",
       "localizedDescription": ""
     }
   ],
