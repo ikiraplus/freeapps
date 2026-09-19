@@ -146,7 +146,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "For activation Application Features:\n- Long press the Home button",
+      "localizedDescription": "Features of the app...\n- Download photos and videos from the homepage and stories.\n- Download several stories at once with the possibility of merging them into one video.\n- Watching stories without recording the viewing.\n- Retain deleted messages.\n- Hide read messages and write status.\n- Remove ads from Instagram and Reels.\n- Copy comments, description and profile.\n- Show views and likes.\n- Open links in Safari.\n- Lock the app with a face or fingerprint.\n\nFor activation Features:\n- Long press the Home button.",
       "category": "communication",
       "versions": [
         {
@@ -161,12 +161,12 @@
         }
       ],
       "version": "441.0.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram-dl_441.0.0-new",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instagram-dl_441.0.0-new",
       "size": 319920537,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-4229526127",
@@ -287,7 +287,7 @@
       "bundleIdentifier": "app.swiftgram.ios",
       "bundleId": "app.swiftgram.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d5/fa/c1d5faba-f9f3-2b37-959b-4e69452bb301/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "For activation app features follow these steps:\n- Settings, scroll down, then long press the (ask a question) icon\nand so the features are unlocked",
+      "localizedDescription": "Mx Features:\n- Integrated Ghost Mode to hide connection status, write, record, upload and interact, while hiding receipts for reading messages and watching stories.\n- Ghost Exceptions to exclude specific people from ghost mode while keeping privacy turned on for other users.\n- Save restricted media and bypass save and forward restrictions in protected channels and conversations.\n- Retain deleted messages and automatic deletion messages, saving the original text of the messages after modifying them and viewing the history of modifications.\n- Open one-time view media freely and block screenshot notifications in confidential conversations and protected content.\n-Video to Voice to send the sound of any video as a real audio message with support for selecting the desired part.\n- Fake Location to change location and share a custom location instead of the real device location.\n-Download Speed Boost to increase download speed with parallel connections and larger download volumes.\n- Remove the ads and add a confirmation before answering calls and repair File Picker in the installed copies outside the store .\n- Support 10 languages and switch them from within the tool, with Custom Stars Balance to allocate the displayed star credit.\n\nTo unlock Mx features:\n- Settings, scroll down, then long press (ask a question).",
       "category": "communication",
       "versions": [
         {
@@ -302,12 +302,12 @@
         }
       ],
       "version": "12.9.3",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-12.9.2-mxgram",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swiftgram-12.9.2-mxgram",
       "size": 91645542,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 12
     },
     {
@@ -316,7 +316,7 @@
       "bundleIdentifier": "com.olcorporation.olai",
       "bundleId": "com.olcorporation.olai",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/4b/c4/5a4bc469-89db-25b2-5d65-5b9b0e57a296/iMe-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "The features of the application are automatically activated\n- All AI features are open\n- The features of the premium subscription for the ime application are open\n- Ability to save and copy restricted content in (channels, stories, groups, private conversations)\n- Ability to save temporary images and restricted stories",
+      "localizedDescription": "Mx Features:\n- Integrated Ghost Mode to hide connection status, write, record, upload and interact, while hiding receipts for reading messages and watching stories.\n- Ghost Exceptions to exclude specific people from ghost mode while keeping privacy turned on for other users.\n- Save restricted media and bypass save and forward restrictions in protected channels and conversations.\n- Retain deleted messages and automatic deletion messages, saving the original text of the messages after modifying them and viewing the history of modifications.\n- Open one-time view media freely and block screenshot notifications in confidential conversations and protected content.\n-Video to Voice to send the sound of any video as a real audio message with support for selecting the desired part.\n- Fake Location to change location and share a custom location instead of the real device location.\n-Download Speed Boost to increase download speed with parallel connections and larger download volumes.\n- Remove the ads and add a confirmation before answering calls and repair File Picker in the installed copies outside the store .\n- Support 10 languages and switch them from within the tool, with Custom Stars Balance to allocate the displayed star credit.\n\nTo unlock Mx features:\n- Settings, scroll down, then long press (ask a question).",
       "category": "communication",
       "versions": [
         {
@@ -331,12 +331,12 @@
         }
       ],
       "version": "12.8.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ime-12.8.1-mxgram",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ime-12.8.1-mxgram",
       "size": 148163788,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 13
     },
     {
@@ -345,7 +345,7 @@
       "bundleIdentifier": "app.intentchat",
       "bundleId": "app.intentchat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/8b/1b/128b1b13-203c-9e59-712f-8f0e3dffd8f7/AppIconLLC-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "For activation app features follow these steps:\n- Settings, scroll down, then long press the (ask a question) icon\nand so the features are unlocked",
+      "localizedDescription": "Mx Features:\n- Integrated Ghost Mode to hide connection status, write, record, upload and interact, while hiding receipts for reading messages and watching stories.\n- Ghost Exceptions to exclude specific people from ghost mode while keeping privacy turned on for other users.\n- Save restricted media and bypass save and forward restrictions in protected channels and conversations.\n- Retain deleted messages and automatic deletion messages, saving the original text of the messages after modifying them and viewing the history of modifications.\n- Open one-time view media freely and block screenshot notifications in confidential conversations and protected content.\n-Video to Voice to send the sound of any video as a real audio message with support for selecting the desired part.\n- Fake Location to change location and share a custom location instead of the real device location.\n-Download Speed Boost to increase download speed with parallel connections and larger download volumes.\n- Remove the ads and add a confirmation before answering calls and repair File Picker in the installed copies outside the store .\n- Support 10 languages and switch them from within the tool, with Custom Stars Balance to allocate the displayed star credit.\n\nTo unlock Mx features:\n- Settings, scroll down, then long press (ask a question).",
       "category": "communication",
       "versions": [
         {
@@ -356,12 +356,12 @@
         }
       ],
       "version": "11.12",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lingogram-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lingogram-1",
       "size": 77699481,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 14
     },
     {
@@ -370,7 +370,7 @@
       "bundleIdentifier": "app.nicegram",
       "bundleId": "app.nicegram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/36/b8/6f36b88a-aab5-ea1d-6ba7-bed9a20e2b9f/AppIconLLC-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "For activation Application Features:\nSettings, scroll down, long press (ask a question)",
+      "localizedDescription": "Mx Features:\n- Integrated Ghost Mode to hide connection status, write, record, upload and interact, while hiding receipts for reading messages and watching stories.\n- Ghost Exceptions to exclude specific people from ghost mode while keeping privacy turned on for other users.\n- Save restricted media and bypass save and forward restrictions in protected channels and conversations.\n- Retain deleted messages and automatic deletion messages, saving the original text of the messages after modifying them and viewing the history of modifications.\n- Open one-time view media freely and block screenshot notifications in confidential conversations and protected content.\n-Video to Voice to send the sound of any video as a real audio message with support for selecting the desired part.\n- Fake Location to change location and share a custom location instead of the real device location.\n-Download Speed Boost to increase download speed with parallel connections and larger download volumes.\n- Remove the ads and add a confirmation before answering calls and repair File Picker in the installed copies outside the store .\n- Support 10 languages and switch them from within the tool, with Custom Stars Balance to allocate the displayed star credit.\n\nTo unlock Mx features:\n- Settings, scroll down, then long press (ask a question).",
       "category": "communication",
       "versions": [
         {
@@ -385,12 +385,12 @@
         }
       ],
       "version": "2.6.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.6.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.6.0",
       "size": 126667980,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 15
     },
     {
@@ -399,7 +399,7 @@
       "bundleIdentifier": "com.seastar.turrit",
       "bundleId": "com.seastar.turrit",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/4f/43/d94f43ed-0cb5-d9a5-f50f-8480fb7e5304/Turrit-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "For activation app features follow these steps:\n- Settings, scroll down, then long press the (ask a question) icon\nand so the features are unlocked",
+      "localizedDescription": "Mx Features:\n- Integrated Ghost Mode to hide connection status, write, record, upload and interact, while hiding receipts for reading messages and watching stories.\n- Ghost Exceptions to exclude specific people from ghost mode while keeping privacy turned on for other users.\n- Save restricted media and bypass save and forward restrictions in protected channels and conversations.\n- Retain deleted messages and automatic deletion messages, saving the original text of the messages after modifying them and viewing the history of modifications.\n- Open one-time view media freely and block screenshot notifications in confidential conversations and protected content.\n-Video to Voice to send the sound of any video as a real audio message with support for selecting the desired part.\n- Fake Location to change location and share a custom location instead of the real device location.\n-Download Speed Boost to increase download speed with parallel connections and larger download volumes.\n- Remove the ads and add a confirmation before answering calls and repair File Picker in the installed copies outside the store .\n- Support 10 languages and switch them from within the tool, with Custom Stars Balance to allocate the displayed star credit.\n\nTo unlock Mx features:\n- Settings, scroll down, then long press (ask a question).",
       "category": "communication",
       "versions": [
         {
@@ -414,12 +414,12 @@
         }
       ],
       "version": "1.5.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
       "size": 92903833,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 16
     },
     {
@@ -477,6 +477,7 @@
       "bundleIdentifier": "com.tiktokdx.ikiraplus",
       "bundleId": "com.tiktokdx.ikiraplus",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features of the app...\n- Remove all ads and download videos, photos and music.\n- Built-in media safe to save and manage your favorite photos and videos.\n- Changing the region to access the content of different countries.\n- Lock the app and bypass jailbreak detection.\n- Customize the TikTok interface and hide unwanted items.\n- Control the speed of video playback and autoplay.\n- Additional privacy and control options built into app settings.",
       "category": "communication",
       "versions": [
         {
@@ -487,14 +488,13 @@
         }
       ],
       "version": "44.3.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok.dx-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok.dx-1",
       "size": 353579827,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 19,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 19
     },
     {
       "id": "APP-9077933729",
@@ -531,7 +531,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/95/3c/f4953cfb-b350-6763-a0b4-ceed8cef74ed/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Features of the app...\n- Removal of ads .\nDownloading Videos\n- Download audio clips.\n- Show or hide the user interface.\n- Copy video description.\n- Copy link video.\n- link transcribes the audio clip.\n- Automatically play the next video.\nShow progress bar\n- Ask for confirmation before liking.\n- Ask for confirmation before liking comments.\n- Ask for a confirmation before you remove a like from comments.\n- Request confirmation before proceeding with accounts.\nProfile Photo\nProfile Info\n- Expanding the presentation of the CV.\n- Expand the comments view.\n- Always open links in Safari.\n'Change it!'\n- Show a fake blue authentication mark.\n- Show fake numbers of followers, followers and clips.",
+      "localizedDescription": "Features of the app...\n- Remove all ads .\n- Download photos and videos from posts and stories.\n- Download videos in HD quality up to 4K and 60FPS HDR when available.\n- Remove watermark from photos and videos.\n- View profiles and stories anonymously.\n- Retention of content and deleted messages.\n- Hide screenshot detection and screen recording in messages.\n- Changing the region and showing the information of the publications and the date of their upload.\n- Hide interface elements, live, suggested content and warnings.\n- Automatically play the following video and show the progress bar.",
       "category": "communication",
       "versions": [
         {
@@ -4272,6 +4272,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777315159741.png",
+      "localizedDescription": "Features of the app...\n- Download YouTube videos.\n- Download Shorts.\n- Choose the video quality and know the file size.\nPlay audio in background\n- Watching videos in high resolution.\n- Removal of ads .\n- Remove ads from Shorts.\n- Download media quickly.\n- Copy texts from Shorts.\n- Hide create video button.",
       "category": "communication",
       "versions": [
         {
@@ -4286,13 +4287,12 @@
         }
       ],
       "version": "21.31.3",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-dl_21.31.3",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube-dl_21.31.3",
       "size": 146800640,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-6939424164",
@@ -5415,6 +5415,7 @@
       "bundleIdentifier": "com.atebits.Tweetie2",
       "bundleId": "com.atebits.Tweetie2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/c5/9e/5fc59ee6-26bd-f9e2-66f4-67fda4f4c91a/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features of the app...\n- Download media from posts.\n- Lock the app with a face or fingerprint.\n- Browse accounts that have blocked you.\n- Add DL settings within the X app.\n- Additional app control options.",
       "category": "communication",
       "versions": [
         {
@@ -5429,13 +5430,12 @@
         }
       ],
       "version": "12.15",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-dl_12.15-new",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-dl_12.15-new",
       "size": 245261926,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-9741649777",
@@ -6998,6 +6998,7 @@
       "bundleIdentifier": "com.hammerandchisel.discord",
       "bundleId": "com.hammerandchisel.discord",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFANoGT3f1gbelunDdQcakC4bresVKb4LPIFx2-T4_Q&s",
+      "localizedDescription": "Features of the app...\n- A dummy camera to replace the video call camera broadcast with a clip of your choice from the studio.\n-Built-in Mixer to add an echo effect to the microphone sound during use.\n- Changing the microphone sound directly to several sounds: girl, boy, big man, robot or echo.\n- Support Arabic, English, Russian, Chinese and Vietnamese.",
       "category": "communication",
       "versions": [
         {
@@ -7008,13 +7009,12 @@
         }
       ],
       "version": "335.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/discord_asd_335.0_v1.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/discord_asd_335.0_v1.0",
       "size": 115343360,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-8514072916",
@@ -7593,6 +7593,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features of the app...\n- Removal of ads .\n- Download videos and posts without watermark.\n- Changing the region with the support of several countries.\n- Retain deleted messages.\n- Ghost mode to watch stories, videos and profiles in private.\n- Read messages without sending a read notice.\n- Hide contact status and write status in messages.\n- Hide live and AI videos and suggested accounts.\n- Customize the interface, font, color, and tab bar elements.\n- Open links in Safari and copy comments.",
       "category": "communication",
       "versions": [
         {
@@ -7607,13 +7608,12 @@
         }
       ],
       "version": "46.8.0",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.8.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-46.8.0",
       "size": 453299404,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-13",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-6203305465",
@@ -7678,7 +7678,7 @@
       "bundleIdentifier": "com.ss.iphone.ugc.Ame",
       "bundleId": "com.ss.iphone.ugc.Ame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "version rust machined",
+      "localizedDescription": "version Q RustTikTok modded has over 60 features.\n\nFeatures of the app...\n- Super Ultra Quality to download video in the highest possible native quality, with support for 4K, HDR and up to 120fps when available, and download images, stories and animated stickers in their original quality.\n-Compress Render to maintain original video quality when uploading and reduce TikTok compression, a rare feature in TikTok edits.\n-Original (Independent) under Super Ultra Quality for a standalone download stream in maximum available quality.\n-Video to Voice Message to convert a video of your choice or the last video you watched into a voice message or text and send it from the chat interface.\n- AI algorithmic Shadow Profiler and AI algorithm Dissection with Auto Like Feed and advanced feed analysis and customization options.\n- Advanced privacy mode: view stories, visit accounts and read conversations anonymously, while retaining deleted messages.\n- Translate one or all comments, support 25 languages, with Extended Comment up to 1 million characters and Extended Bio up to 1000 characters.\n- Download videos, photos, stories, account photos, comment media and stickers, and remove watermark, displaying video upload information, date and time, and exact numbers.\n- Filter and customize feed and interface: Hide ads , AI, Shop, Sensitive Content, Commissions, Promoted Sites, live, Recommendations, Tab Bar Items.\n- Additional playback and control tools include Auto Play, progress bar and time, opening links in Safari, confirming likes, following and deleting, and changing the upload area.\n\nTo open the RustTikTok menu, press and hold with two fingers on the screen or open it from the TikTok settings.",
       "category": "communication",
       "versions": [
         {
@@ -7693,12 +7693,12 @@
         }
       ],
       "version": "46.7.0",
-      "versionDate": "2026-09-12",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_rust-carck-46.7.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok_rust-carck-46.7.0",
       "size": 1546859315,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-1781328682",
@@ -15522,6 +15522,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/95/3c/f4953cfb-b350-6763-a0b4-ceed8cef74ed/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features of the app...\n- Removal of ads .\n- Download videos, photos and music without watermark.\n- Changing the content country and region.\n- Automatically play the next video and control the repetition of the video.\n- Hiding the viewing of messages while keeping the other party's reading receipts visible.\n- Hide activity status and write in conversations.\n- Retain deleted messages.\n- View profiles and stories anonymously.\n- Save stories, account photos, and copy your username and profile.\n- Hide widgets and display progress bar and video information.",
       "category": "communication",
       "versions": [
         {
@@ -15536,14 +15537,13 @@
         }
       ],
       "version": "46.7.0",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtiktok-46.7.0-dylib1.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtiktok-46.7.0-dylib1.2",
       "size": 473851494,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-09-06",
-      "_rowKey": 1,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 1
     },
     {
       "id": "APP-5903688881",
@@ -19417,6 +19417,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f9/7a/86f97a45-d6d6-efd9-c24a-d7c614482369/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features of the app...\n- Download videos and photos without watermark.\n- Download stories.\n- Removal of ads .\n- Changing the country and the region.\n- Show video progress bar.\n- Automatically play the next video and prevent the repetition of the video.\n- Save the profile photo and copy the username and description.\n- View disabled comments and increase the number of comments characters.\n- Hide UI and open links in Safari.\n- Lock the app with a face or fingerprint.",
       "category": "communication",
       "versions": [
         {
@@ -19427,13 +19428,12 @@
         }
       ],
       "version": "46.3.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.1",
       "size": 469657190,
       "addedAt": "2026-09-02",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788458866556",
@@ -20141,6 +20141,7 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "bundleId": "com.soundcloud.TouchApp",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788462381512.png",
+      "localizedDescription": "Features of the app...\n- activation subscription SoundCloud GO+.\n- Volume up to 250% with Equalizer and Riverb for advanced audio control.\n- Change the playback speed of songs with tone tracking speed and support for slow playback with Reverb.\n- Skip the start of the song for up to 30 seconds and skip demos that don't exceed 30 seconds.\n- Customize song background and add OLED Theme including OLED keyboard.\n- Change the color of the main application and font.\n- Change the order and names of navigation bar tabs.\n- Hide the Try Artist Pro banner.\n- Open links directly in Safari with the option to confirm liking songs.\n- Lock access to the app with a password, Face ID, or Touch ID.",
       "category": "Entertainment",
       "versions": [
         {
@@ -20155,13 +20156,12 @@
         }
       ],
       "version": "8.77.0",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gsc-8.74.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gsc-8.74.0",
       "size": 115133644,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-09-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788462975239",
@@ -20169,6 +20169,7 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "bundleId": "com.soundcloud.TouchApp",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/9c/af/ae9caf85-e9c5-8162-1b40-5c6b5d4ada96/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features of the app...\n- Open SoundCloud Go+ and remove ads .\n- Download songs with the ability to export uploaded files to the Files app.\n- Automatically fetch lyrics via LRCLIB with synchronized lyrics support and auto scrolling.\n- Fully dedicated music player for downloaded songs.\n- Raise the volume up to 250% and control the playback speed up to 2.0x while saving a separate setting for each song.\n- Cut songs and select a custom start and end point.\n- Automatically fetch new covers for songs using Apple Music data.\n- Dark OLED theme.\n- Cache word system makes opening previously searched words faster.\n- Improving sound when raising speed or volume and addressing sound distortion and channel misalignment.",
       "category": "Entertainment",
       "versions": [
         {
@@ -20183,13 +20184,12 @@
         }
       ],
       "version": "8.77.0",
-      "versionDate": "2026-09-07",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.77.0-nexasc",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.77.0-nexasc",
       "size": 107164467,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-09-07",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788519035815",
@@ -21133,6 +21133,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "localizedDescription": "Features of the app...\n- Download videos and shorts with the available quality.\n- A special library to manage downloads, playlists and watch later.\nPlay audio in background\n- Picture in Picture support.\n- Play the video in the highest quality available.\n- Removing the ads from the homepage, search, Shorts and operator.\n- Skip the ads non-skippable.\n- Show lyrics.\n- Copy and translate titles, descriptions, comments and replies.\n- Hide Shorts and Create button, open links in Safari and lock the app with Face ID.",
       "category": "communication",
       "versions": [
         {
@@ -21143,13 +21144,12 @@
         }
       ],
       "version": "21.32.4",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
       "size": 135161446,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788772346807",
@@ -21381,7 +21381,7 @@
       "bundleIdentifier": "xyz.nextalone.nagram",
       "bundleId": "xyz.nextalone.nagram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/93/ed/b193ed97-6b1b-d6d5-ca0a-b42e52adfffc/NagramBuild-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "version Q Telegram paid E in the official store .",
+      "localizedDescription": "version Q Telegram paid E in the official store .\n\nMx Features:\n- Integrated Ghost Mode to hide connection status, write, record, upload and interact, while hiding receipts for reading messages and watching stories.\n- Ghost Exceptions to exclude specific people from ghost mode while keeping privacy turned on for other users.\n- Save restricted media and bypass save and forward restrictions in protected channels and conversations.\n- Retain deleted messages and automatic deletion messages, saving the original text of the messages after modifying them and viewing the history of modifications.\n- Open one-time view media freely and block screenshot notifications in confidential conversations and protected content.\n-Video to Voice to send the sound of any video as a real audio message with support for selecting the desired part.\n- Fake Location to change location and share a custom location instead of the real device location.\n-Download Speed Boost to increase download speed with parallel connections and larger download volumes.\n- Remove the ads and add a confirmation before answering calls and repair File Picker in the installed copies outside the store .\n- Support 10 languages and switch them from within the tool, with Custom Stars Balance to allocate the displayed star credit.\n\nTo unlock Mx features:\n- Settings, scroll down, then long press (ask a question).",
       "category": "communication",
       "versions": [
         {
@@ -21396,12 +21396,12 @@
         }
       ],
       "version": "12.9.2.1",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nagram-12.9.2.1-mxgram",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nagram-12.9.2.1-mxgram",
       "size": 113141350,
       "addedAt": "2026-09-07",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788804697931",

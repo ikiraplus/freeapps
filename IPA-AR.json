@@ -146,7 +146,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات التطبيق:\n- اضغط على زر Home ضغطة طويلة",
+      "localizedDescription": "مميزات التطبيق:\n- تنزيل الصور والفيديوهات من الصفحة الرئيسية والقصص.\n- تنزيل عدة قصص دفعة واحدة مع إمكانية دمجها في فيديو واحد.\n- مشاهدة القصص بدون تسجيل المشاهدة.\n- الاحتفاظ بالرسائل المحذوفة.\n- إخفاء قراءة الرسائل وحالة الكتابة.\n- إزالة الإعلانات من Instagram وReels.\n- نسخ التعليقات والوصف والنبذة.\n- إظهار أعداد المشاهدات والإعجابات.\n- فتح الروابط في Safari.\n- قفل التطبيق ببصمة الوجه أو الإصبع.\n\nلتفعيل المميزات:\n- اضغط على زر Home ضغطة طويلة.",
       "category": "تواصل",
       "versions": [
         {
@@ -161,12 +161,12 @@
         }
       ],
       "version": "441.0.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram-dl_441.0.0-new",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instagram-dl_441.0.0-new",
       "size": 319920537,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-4229526127",
@@ -287,7 +287,7 @@
       "bundleIdentifier": "app.swiftgram.ios",
       "bundleId": "app.swiftgram.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d5/fa/c1d5faba-f9f3-2b37-959b-4e69452bb301/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات التطبيق اتبع الخطوات التالية:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على أيقونة (اسأل سؤالا)\nوبذلك يتم فتح المميزات",
+      "localizedDescription": "مميزات Mx:\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "versions": [
         {
@@ -302,12 +302,12 @@
         }
       ],
       "version": "12.9.3",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-12.9.2-mxgram",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swiftgram-12.9.2-mxgram",
       "size": 91645542,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 12
     },
     {
@@ -316,7 +316,7 @@
       "bundleIdentifier": "com.olcorporation.olai",
       "bundleId": "com.olcorporation.olai",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/4b/c4/5a4bc469-89db-25b2-5d65-5b9b0e57a296/iMe-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات التطبيق مفعلة تلقائيا\n- جميع مميزات الذكاء الاصطناعي مفتوحة\n- مميزات الاشتراك المميز (Premium) الخاصة بتطبيق ime مفتوحة\n- إمكانية حفظ ونسخ المحتوى المقيد في (القنوات، القصص، المجموعات، المحادثات الخاصة)\n- إمكانية حفظ الصور المؤقتة والقصص المقيدة",
+      "localizedDescription": "مميزات Mx:\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "versions": [
         {
@@ -331,12 +331,12 @@
         }
       ],
       "version": "12.8.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ime-12.8.1-mxgram",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ime-12.8.1-mxgram",
       "size": 148163788,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 13
     },
     {
@@ -345,7 +345,7 @@
       "bundleIdentifier": "app.intentchat",
       "bundleId": "app.intentchat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/8b/1b/128b1b13-203c-9e59-712f-8f0e3dffd8f7/AppIconLLC-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات التطبيق اتبع الخطوات التالية:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على أيقونة (اسأل سؤالا)\nوبذلك يتم فتح المميزات",
+      "localizedDescription": "مميزات Mx:\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "versions": [
         {
@@ -356,12 +356,12 @@
         }
       ],
       "version": "11.12",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lingogram-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lingogram-1",
       "size": 77699481,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 14
     },
     {
@@ -370,7 +370,7 @@
       "bundleIdentifier": "app.nicegram",
       "bundleId": "app.nicegram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/36/b8/6f36b88a-aab5-ea1d-6ba7-bed9a20e2b9f/AppIconLLC-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات التطبيق:\nالإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا)",
+      "localizedDescription": "مميزات Mx:\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "versions": [
         {
@@ -385,12 +385,12 @@
         }
       ],
       "version": "2.6.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.6.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nicegram-2.6.0",
       "size": 126667980,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 15
     },
     {
@@ -399,7 +399,7 @@
       "bundleIdentifier": "com.seastar.turrit",
       "bundleId": "com.seastar.turrit",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/4f/43/d94f43ed-0cb5-d9a5-f50f-8480fb7e5304/Turrit-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لتفعيل مميزات التطبيق اتبع الخطوات التالية:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على أيقونة (اسأل سؤالا)\nوبذلك يتم فتح المميزات",
+      "localizedDescription": "مميزات Mx:\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "versions": [
         {
@@ -414,12 +414,12 @@
         }
       ],
       "version": "1.5.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
       "size": 92903833,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 16
     },
     {
@@ -476,6 +476,7 @@
       "bundleIdentifier": "com.tiktokdx.ikiraplus",
       "bundleId": "com.tiktokdx.ikiraplus",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق:\n- إزالة جميع الإعلانات وتنزيل الفيديوهات والصور والموسيقى.\n- خزنة وسائط مدمجة لحفظ وإدارة الصور والفيديوهات المفضلة.\n- تغيير المنطقة للوصول إلى محتوى دول مختلفة.\n- قفل التطبيق وتجاوز اكتشاف الجيلبريك.\n- تخصيص واجهة TikTok وإخفاء العناصر غير المرغوبة.\n- التحكم بسرعة تشغيل الفيديو والتشغيل التلقائي.\n- خيارات خصوصية وتحكم إضافية مدمجة داخل إعدادات التطبيق.",
       "category": "تواصل",
       "versions": [
         {
@@ -486,12 +487,12 @@
         }
       ],
       "version": "44.3.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok.dx-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok.dx-1",
       "size": 353579827,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 19
     },
     {
@@ -529,7 +530,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/95/3c/f4953cfb-b350-6763-a0b4-ceed8cef74ed/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات التطبيق:\n- إزالة الإعلانات.\n- تنزيل مقاطع الفيديو.\n- تنزيل المقاطع الصوتية.\n- إظهار أو إخفاء واجهة المستخدم.\n- نسخ وصف الفيديو.\n- نسخ رابط الفيديو.\n- نسخ رابط المقطع الصوتي.\n- تشغيل الفيديو التالي تلقائياً.\n- إظهار شريط التقدم.\n- طلب تأكيد قبل تسجيل الإعجاب.\n- طلب تأكيد قبل الإعجاب بالتعليقات.\n- طلب تأكيد قبل إزالة الإعجاب من التعليقات.\n- طلب تأكيد قبل متابعة الحسابات.\n- حفظ صورة الملف الشخصي.\n- نسخ معلومات الملف الشخصي.\n- توسيع عرض السيرة الذاتية.\n- توسيع عرض التعليقات.\n- فتح الروابط دائماً في Safari.\n- تغيير المنطقة.\n- إظهار علامة توثيق زرقاء وهمية.\n- إظهار أعداد وهمية للمتابعين والمتابَعين والمقاطع.",
+      "localizedDescription": "مميزات التطبيق:\n- إزالة جميع الإعلانات.\n- تنزيل الصور والفيديوهات من المنشورات والقصص.\n- تنزيل الفيديوهات بجودة HD تصل إلى 4K و60FPS HDR عند توفرها.\n- إزالة العلامة المائية من الصور والفيديوهات.\n- مشاهدة الملفات الشخصية والقصص بشكل مجهول.\n- الاحتفاظ بالمحتوى والرسائل المحذوفة.\n- إخفاء كشف لقطة الشاشة وتسجيل الشاشة في الرسائل.\n- تغيير المنطقة وإظهار معلومات المنشورات وتاريخ رفعها.\n- إخفاء عناصر الواجهة وLIVE والمحتوى المقترح والتحذيرات.\n- تشغيل الفيديو التالي تلقائياً وإظهار شريط التقدم.",
       "category": "تواصل",
       "versions": [
         {
@@ -4232,6 +4233,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777315159741.png",
+      "localizedDescription": "مميزات التطبيق:\n- تنزيل فيديوهات YouTube.\n- تنزيل Shorts.\n- اختيار جودة الفيديو ومعرفة حجم الملف.\n- تشغيل الصوت في الخلفية.\n- مشاهدة الفيديوهات بدقة عالية.\n- إزالة الإعلانات.\n- إزالة الإعلانات من Shorts.\n- تنزيل الوسائط بسرعة.\n- نسخ النصوص من Shorts.\n- إخفاء زر إنشاء الفيديو.",
       "category": "تواصل",
       "versions": [
         {
@@ -4246,12 +4248,12 @@
         }
       ],
       "version": "21.31.3",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-dl_21.31.3",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube-dl_21.31.3",
       "size": 146800640,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-6939424164",
@@ -5351,6 +5353,7 @@
       "bundleIdentifier": "com.atebits.Tweetie2",
       "bundleId": "com.atebits.Tweetie2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/c5/9e/5fc59ee6-26bd-f9e2-66f4-67fda4f4c91a/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق:\n- تنزيل الوسائط من المنشورات.\n- قفل التطبيق ببصمة الوجه أو الإصبع.\n- تصفح الحسابات التي قامت بحظرك.\n- إضافة إعدادات DL داخل تطبيق X.\n- خيارات إضافية للتحكم في التطبيق.",
       "category": "تواصل",
       "versions": [
         {
@@ -5365,12 +5368,12 @@
         }
       ],
       "version": "12.15",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-dl_12.15-new",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-dl_12.15-new",
       "size": 245261926,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-9741649777",
@@ -6914,6 +6917,7 @@
       "bundleIdentifier": "com.hammerandchisel.discord",
       "bundleId": "com.hammerandchisel.discord",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFANoGT3f1gbelunDdQcakC4bresVKb4LPIFx2-T4_Q&s",
+      "localizedDescription": "مميزات التطبيق:\n- كاميرا وهمية لاستبدال بث كاميرا مكالمات الفيديو بمقطع تختاره من الاستوديو.\n- Mixer مدمج لإضافة تأثير الصدى إلى صوت الميكروفون أثناء الاستخدام.\n- تغيير صوت الميكروفون مباشرة إلى عدة أصوات: بنت، ولد، رجل كبير، روبوت أو صدى.\n- دعم العربية والإنجليزية والروسية والصينية والفيتنامية.",
       "category": "تواصل",
       "versions": [
         {
@@ -6924,12 +6928,12 @@
         }
       ],
       "version": "335.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/discord_asd_335.0_v1.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/discord_asd_335.0_v1.0",
       "size": 115343360,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-8514072916",
@@ -7493,6 +7497,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق:\n- إزالة الإعلانات.\n- تنزيل الفيديوهات والمنشورات بدون علامة مائية.\n- تغيير المنطقة مع دعم عدة دول.\n- الاحتفاظ بالرسائل المحذوفة.\n- وضع الشبح لمشاهدة القصص والفيديوهات والملفات الشخصية بخصوصية.\n- قراءة الرسائل بدون إرسال إشعار القراءة.\n- إخفاء حالة الاتصال وحالة الكتابة في الرسائل.\n- إخفاء LIVE وفيديوهات الذكاء الاصطناعي والحسابات المقترحة.\n- تخصيص واجهة التطبيق والخط واللون وعناصر شريط التبويب.\n- فتح الروابط في Safari ونسخ التعليقات.",
       "category": "تواصل",
       "versions": [
         {
@@ -7507,12 +7512,12 @@
         }
       ],
       "version": "46.8.0",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.8.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-46.8.0",
       "size": 453299404,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-13"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-6203305465",
@@ -7576,7 +7581,7 @@
       "bundleIdentifier": "com.ss.iphone.ugc.Ame",
       "bundleId": "com.ss.iphone.ugc.Ame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة RUST مكركة",
+      "localizedDescription": "نسخة RustTikTok معدلة تحتوي على أكثر من 60 ميزة.\n\nمميزات التطبيق:\n- Super Ultra Quality لتنزيل الفيديو بأعلى جودة أصلية ممكنة، مع دعم 4K وHDR وحتى 120FPS عند توفرها، وتنزيل الصور والقصص والملصقات المتحركة بجودتها الأصلية.\n- Compress Render للحفاظ على جودة الفيديو الأصلية عند الرفع وتقليل ضغط TikTok، وهي من الميزات النادرة في تعديلات TikTok.\n- Original (Independent) ضمن Super Ultra Quality للحصول على تدفق تنزيل مستقل بأقصى جودة متاحة.\n- Video to Voice Message لتحويل فيديو تختاره أو آخر فيديو شاهدته إلى رسالة صوتية أو نص وإرساله من واجهة المحادثة.\n- AIgorithmic Shadow Profiler وAIgorithm Dissection مع Auto Like Feed وخيارات متقدمة لتحليل وتخصيص الخلاصة.\n- وضع خصوصية متقدم: مشاهدة القصص وزيارة الحسابات وقراءة المحادثات بشكل مجهول، مع الاحتفاظ بالرسائل المحذوفة.\n- ترجمة تعليق واحد أو جميع التعليقات، ودعم 25 لغة، مع Extended Comment حتى مليون حرف وExtended Bio حتى 1000 حرف.\n- تنزيل الفيديوهات والصور والقصص وصور الحساب ووسائط وملصقات التعليقات وإزالة العلامة المائية، مع عرض معلومات وتاريخ ووقت رفع الفيديو والأعداد الدقيقة.\n- فلترة وتخصيص الخلاصة والواجهة: إخفاء الإعلانات وAI وShop والمحتوى الحساس والعمولات والمواقع المروجة وLIVE والتوصيات وعناصر Tab Bar.\n- أدوات تشغيل وتحكم إضافية تشمل Auto Play، شريط ووقت التقدم، فتح الروابط في Safari، تأكيد الإعجاب والمتابعة والحذف، وتغيير منطقة الرفع.\n\nلفتح قائمة RustTikTok اضغط مطولاً بإصبعين على الشاشة أو افتحها من إعدادات TikTok.",
       "category": "تواصل",
       "versions": [
         {
@@ -7591,12 +7596,12 @@
         }
       ],
       "version": "46.7.0",
-      "versionDate": "2026-09-12",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_rust-carck-46.7.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok_rust-carck-46.7.0",
       "size": 1546859315,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-1781328682",
@@ -15208,6 +15213,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/95/3c/f4953cfb-b350-6763-a0b4-ceed8cef74ed/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق:\n- إزالة الإعلانات.\n- تنزيل الفيديوهات والصور والموسيقى بدون علامة مائية.\n- تغيير دولة المحتوى والمنطقة.\n- تشغيل الفيديو التالي تلقائياً والتحكم بتكرار الفيديو.\n- إخفاء مشاهدة الرسائل مع إبقاء إيصالات قراءة الطرف الآخر ظاهرة.\n- إخفاء حالة النشاط والكتابة في المحادثات.\n- الاحتفاظ بالرسائل المحذوفة.\n- مشاهدة الملفات الشخصية والقصص بشكل مجهول.\n- حفظ القصص وصور الحساب ونسخ اسم المستخدم والنبذة.\n- إخفاء عناصر الواجهة وعرض شريط التقدم ومعلومات الفيديو.",
       "category": "تواصل",
       "versions": [
         {
@@ -15222,12 +15228,12 @@
         }
       ],
       "version": "46.7.0",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtiktok-46.7.0-dylib1.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtiktok-46.7.0-dylib1.2",
       "size": 473851494,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-09-06",
+      "updatedAt": "2026-09-19",
       "_rowKey": 1
     },
     {
@@ -19011,6 +19017,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f9/7a/86f97a45-d6d6-efd9-c24a-d7c614482369/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق:\n- تنزيل الفيديوهات والصور بدون علامة مائية.\n- تنزيل القصص.\n- إزالة الإعلانات.\n- تغيير الدولة والمنطقة.\n- إظهار شريط تقدم الفيديو.\n- تشغيل الفيديو التالي تلقائياً ومنع تكرار الفيديو.\n- حفظ صورة الملف الشخصي ونسخ اسم المستخدم والوصف.\n- عرض التعليقات المعطلة وزيادة عدد أحرف التعليقات.\n- إخفاء واجهة المستخدم وفتح الروابط في Safari.\n- قفل التطبيق ببصمة الوجه أو الإصبع.",
       "category": "تواصل",
       "versions": [
         {
@@ -19021,12 +19028,12 @@
         }
       ],
       "version": "46.3.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok-dl_46.3.1",
       "size": 469657190,
       "addedAt": "2026-09-02",
-      "updatedAt": "2026-09-02"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788458866556",
@@ -19727,6 +19734,7 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "bundleId": "com.soundcloud.TouchApp",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788462381512.png",
+      "localizedDescription": "مميزات التطبيق:\n- تفعيل اشتراك SoundCloud GO+.\n- رفع مستوى الصوت حتى 250% مع Equalizer وReverb للتحكم المتقدم بالصوت.\n- تغيير سرعة تشغيل الأغاني مع جعل النغمة تتبع السرعة ودعم التشغيل البطيء مع Reverb.\n- تخطي بداية الأغنية لمدة تصل إلى 30 ثانية وتخطي المقاطع التجريبية التي لا تتجاوز 30 ثانية.\n- تخصيص خلفية الأغاني وإضافة OLED Theme بما في ذلك لوحة مفاتيح OLED.\n- تغيير لون التطبيق الرئيسي والخط.\n- تغيير ترتيب وأسماء تبويبات شريط التنقل.\n- إخفاء بانر Try Artist Pro.\n- فتح الروابط مباشرة في Safari مع خيار تأكيد الإعجاب بالأغاني.\n- قفل الدخول إلى التطبيق باستخدام كلمة مرور أو Face ID أو Touch ID.",
       "category": "ترفيه",
       "versions": [
         {
@@ -19741,12 +19749,12 @@
         }
       ],
       "version": "8.77.0",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gsc-8.74.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gsc-8.74.0",
       "size": 115133644,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-09-06"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788462975239",
@@ -19754,6 +19762,7 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "bundleId": "com.soundcloud.TouchApp",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/9c/af/ae9caf85-e9c5-8162-1b40-5c6b5d4ada96/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق:\n- فتح SoundCloud Go+ وإزالة الإعلانات.\n- تنزيل الأغاني مع إمكانية تصدير الملفات المحمّلة إلى تطبيق الملفات.\n- جلب كلمات الأغاني تلقائياً عبر LRCLIB مع دعم الكلمات المتزامنة والتمرير التلقائي.\n- مشغل موسيقى مخصص بالكامل للأغاني التي تم تنزيلها.\n- رفع مستوى الصوت حتى 250% والتحكم بسرعة التشغيل حتى 2.0x مع حفظ إعداد مستقل لكل أغنية.\n- قص الأغاني وتحديد نقطة بداية ونهاية مخصصة.\n- جلب أغلفة جديدة للأغاني تلقائياً باستخدام بيانات Apple Music.\n- ثيم OLED داكن.\n- نظام Cache للكلمات يجعل فتح الكلمات التي سبق البحث عنها أسرع.\n- تحسين الصوت عند رفع السرعة أو مستوى الصوت ومعالجة تشوه الصوت واختلال القنوات.",
       "category": "ترفيه",
       "versions": [
         {
@@ -19768,12 +19777,12 @@
         }
       ],
       "version": "8.77.0",
-      "versionDate": "2026-09-07",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.77.0-nexasc",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.77.0-nexasc",
       "size": 107164467,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-09-07"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788519035815",
@@ -20704,6 +20713,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "localizedDescription": "مميزات التطبيق:\n- تنزيل الفيديوهات وShorts بالجودات المتاحة.\n- مكتبة خاصة لإدارة التنزيلات وقوائم التشغيل والمشاهدة لاحقاً.\n- تشغيل الصوت في الخلفية.\n- دعم Picture in Picture.\n- تشغيل الفيديو بأعلى جودة متاحة.\n- إزالة الإعلانات من الصفحة الرئيسية والبحث وShorts والمشغل.\n- تخطي الإعلانات القابلة وغير القابلة للتخطي.\n- عرض كلمات الأغاني.\n- نسخ وترجمة العناوين والأوصاف والتعليقات والردود.\n- إخفاء Shorts وزر الإنشاء وفتح الروابط في Safari وقفل التطبيق بـ Face ID.",
       "category": "تواصل",
       "versions": [
         {
@@ -20714,12 +20724,12 @@
         }
       ],
       "version": "21.32.4",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
       "size": 135161446,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-06"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788772346807",
@@ -20944,7 +20954,7 @@
       "bundleIdentifier": "xyz.nextalone.nagram",
       "bundleId": "xyz.nextalone.nagram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/93/ed/b193ed97-6b1b-d6d5-ca0a-b42e52adfffc/NagramBuild-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة تيليقرام مدفوعه في المتجر الرسمي.",
+      "localizedDescription": "نسخة تيليقرام مدفوعه في المتجر الرسمي.\n\nمميزات Mx:\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "versions": [
         {
@@ -20959,12 +20969,12 @@
         }
       ],
       "version": "12.9.2.1",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nagram-12.9.2.1-mxgram",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nagram-12.9.2.1-mxgram",
       "size": 113141350,
       "addedAt": "2026-09-07",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788804697931",
