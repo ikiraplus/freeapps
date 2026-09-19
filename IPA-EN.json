@@ -202,7 +202,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "For activation Application Features:\n- Tap on the profile button, you will find the feather icon, tap on it to open the features",
+      "localizedDescription": "Features of the app...\n- Download Reels, Stories and Posts.\n- Download videos and voice messages from conversations.\n- Download music and audio from Notes.\nPlay audio in background\n- Watch videos of conversations without limits.\n- View the full number of followers without abbreviation.\n- Show Reels history, stories, and the ability to pause stories.\n- Background download support and Reels with modded 60fps when available.\n- Retention of deleted messages and anonymous reading.\n- Prevent screenshots from being exposed and customize the app icon, fonts, and colors.",
       "category": "communication",
       "versions": [
         {
@@ -217,12 +217,12 @@
         }
       ],
       "version": "445.1.0",
-      "versionDate": "2026-09-07",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/igformat-445.1.0-v2.6.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/igformat-445.1.0-v2.6.0",
       "size": 325792563,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-07"
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-4167742350",
@@ -502,6 +502,7 @@
       "bundleIdentifier": "com.ss.iphone.ugc.Ame",
       "bundleId": "com.ss.iphone.ugc.Ame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features of the app...\nDownloading Videos\n- Download stories.\n- Download personal account photos.\n- Copying the summary and comments.\n- Open the links in the comments.\n- Request confirmation before proceeding with accounts.\n- Visit profiles privately.\n- Watching stories without recording the viewing.\n- Show the number of likes and posts in profiles.\n- Show the real and full number of followers.",
       "category": "communication",
       "versions": [
         {
@@ -516,14 +517,13 @@
         }
       ],
       "version": "46.1.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vibetokv1.75",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vibetokv1.75",
       "size": 472488345,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 20,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 20
     },
     {
       "id": "APP-1034280895",
@@ -754,6 +754,7 @@
       "bundleIdentifier": "com.atebits.Tweetie2",
       "bundleId": "com.atebits.Tweetie2",
       "iconURL": "https://appstore.nabzclan.vip/images/icon_690aa6dcd1f26.jpg",
+      "localizedDescription": "Features of the app...\n- Removal of ads .\n- Download videos in HD quality.\n- Download audio messages in MP3 or MP4 format.\n- Play the video in the background.\n- View the full number of followers, followers, and tweets without shortcut.\n- Read conversations without sending a read notification.\n- Hidden write without showing write status.\n- XChat support and some XPremium features.\n- Hide retweets and replies and customize the display of tweets.\n- Add automatic options to like and retweet.",
       "category": "communication",
       "versions": [
         {
@@ -768,13 +769,12 @@
         }
       ],
       "version": "12.14",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twigalaxyv1.14",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twigalaxyv1.14",
       "size": 238026752,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-4614449641",
@@ -992,6 +992,7 @@
       "bundleIdentifier": "com.bigwinepot.nwdn.international",
       "bundleId": "com.bigwinepot.nwdn.international",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/e8/62/e0e86206-237c-808a-50cc-93af906e2bf3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -1002,13 +1003,12 @@
         }
       ],
       "version": "29.4.1",
-      "versionDate": "2026-09-17",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/remini_-_ai_photo_enhancer_2.10.198_1778930433",
       "size": 113246208,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-1362584498",
@@ -1066,6 +1066,7 @@
       "bundleIdentifier": "com.microblink.PhotoMath",
       "bundleId": "com.microblink.PhotoMath",
       "iconURL": "https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -1080,13 +1081,12 @@
         }
       ],
       "version": "8.47.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.47.0-subscription-unlocked-patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photomath-v8.47.0-subscription-unlocked-patched",
       "size": 19818086,
       "addedAt": "2026-09-02",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-6102935193",
@@ -1119,6 +1119,7 @@
       "bundleIdentifier": "com.loktv.ikiraplus",
       "bundleId": "com.loktv.ikiraplus",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773437480214.png",
+      "localizedDescription": "modded version All its features have been opened and added with the following features :\n\n- Remove all annoying ads\n- Fully support pip mode\n- All resolutions are open for viewing and download\n- Add a button to copy the movie profile\n- Add a button to save the film cover",
       "category": "Entertainment",
       "versions": [
         {
@@ -1133,14 +1134,13 @@
         }
       ],
       "version": "2.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/loktv_new_2.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/loktv_new_2.1",
       "size": 17196646,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 39,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 39
     },
     {
       "id": "APP-9599376113",
@@ -1148,6 +1148,7 @@
       "bundleIdentifier": "net.quochuywdm.collanote496",
       "bundleId": "net.quochuywdm.collanote496",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/1c/3e/041c3ed1-af80-5091-445b-354fb7579c50/AppIcon-0-0-1x_U007emarketing-0-11-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -1162,14 +1163,13 @@
         }
       ],
       "version": "5.0.2",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_pdf_markup_v5.0.2_pro_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/collanote_notes_pdf_markup_v5.0.2_pro_unlocked_patched",
       "size": 130757427,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-13",
-      "_rowKey": 44,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 44
     },
     {
       "id": "APP-2162381647",
@@ -1177,6 +1177,7 @@
       "bundleIdentifier": "com.picsart.studio",
       "bundleId": "com.picsart.studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/af/12/9caf1214-1f7d-bdbb-d37e-0487be5ebba0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -1191,13 +1192,12 @@
         }
       ],
       "version": "30.7.2",
-      "versionDate": "2026-09-17",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.7.2_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.7.2_subscription_unlocked",
       "size": 118279372,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-1159579568",
@@ -1316,6 +1316,7 @@
       "bundleIdentifier": "com.hitvneo.ikiraplus",
       "bundleId": "com.hitvneo.ikiraplus",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786039385843.png",
+      "localizedDescription": "modded version All its features have been opened and added with the following features :\n\n- Remove all annoying ads\n- Fully support pip mode\n- All resolutions are open for viewing and download\n- Add a button to copy the movie profile\n- Add a button to save the film cover",
       "category": "Entertainment",
       "versions": [
         {
@@ -1326,14 +1327,13 @@
         }
       ],
       "version": "2.4",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4-new",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4-new",
       "size": 32820428,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 344,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 344
     },
     {
       "id": "APP-5663407176",
@@ -1416,6 +1416,7 @@
       "bundleIdentifier": "archery.storify",
       "bundleId": "archery.storify",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/26/db/3226db82-75b1-ca84-8b56-4d6f94ce9932/AppIcon-AppStore-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -1430,14 +1431,13 @@
         }
       ],
       "version": "1.278.0",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_reels_editor_v1.278.0_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_reels_editor_v1.278.0_subscription_unlocked",
       "size": 181823078,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-14",
-      "_rowKey": 54,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 54
     },
     {
       "id": "APP-9725247421",
@@ -1445,6 +1445,7 @@
       "bundleIdentifier": "com.gingerlabs.Notability",
       "bundleId": "com.gingerlabs.Notability",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/07/23/fd072319-e32b-19f8-4d40-1861857527f0/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -1459,14 +1460,13 @@
         }
       ],
       "version": "16.12",
-      "versionDate": "2026-09-12",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12_pro_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12_pro_unlocked_patched",
       "size": 261619712,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-12",
-      "_rowKey": 55,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 55
     },
     {
       "id": "APP-4526395064",
@@ -1474,6 +1474,7 @@
       "bundleIdentifier": "com.alightcreative.motion",
       "bundleId": "com.alightcreative.motion",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/9b/92/2d9b9214-e9c0-64a0-382c-1470cc96a3c0/AppIcon-0-0-1x_U007emarketing-0-5-0-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -1488,14 +1489,13 @@
         }
       ],
       "version": "6.2.59",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alight-motion-v6.2.59-subscription-unlocked-patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alight-motion-v6.2.59-subscription-unlocked-patched",
       "size": 129603993,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-13",
-      "_rowKey": 56,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 56
     },
     {
       "id": "APP-3893681378",
@@ -1503,6 +1503,7 @@
       "bundleIdentifier": "com.adobe.photoshop.ios",
       "bundleId": "com.adobe.photoshop.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/bf/d1/5fbfd11e-cf26-b8a3-9203-3a00087a8b37/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -1513,14 +1514,13 @@
         }
       ],
       "version": "7.4",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe.photoshop.pro.7.4-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe.photoshop.pro.7.4-1",
       "size": 264450867,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 57,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 57
     },
     {
       "id": "APP-9044772991",
@@ -1586,6 +1586,7 @@
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "bundleId": "com.camerasideas.InstaShot",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/0e/2e/960e2e57-c750-d516-bfc9-a171c4cc0023/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -1600,20 +1601,20 @@
         }
       ],
       "version": "1.99.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/inshot_video_editor_v1.99.0_premium_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/inshot_video_editor_v1.99.0_premium_unlocked_patched",
       "size": 167562444,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 60,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 60
     },
     {
       "id": "APP-7231432023",
       "name": "Human Anatomy Atlas 2026",
       "bundleIdentifier": "com.ikiraplus.apps.human-anatomy-atlas-2026.86ec510f37",
       "iconURL": "https://appstore.nabzclan.vip/images/icon_6903d56ecb606.jpg",
+      "localizedDescription": "paid App .",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -1624,14 +1625,13 @@
         }
       ],
       "version": "2026.0.19",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/human-anatomy-atlas-2026_v2026019",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/human-anatomy-atlas-2026_v2026019",
       "size": 746271539,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 61,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 61
     },
     {
       "id": "APP-8010604125",
@@ -1793,6 +1793,7 @@
       "bundleIdentifier": "com.adobe.photoshop.ios",
       "bundleId": "com.adobe.photoshop.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/cf/3f/c0cf3f9f-f11a-54fd-2820-bb8b6c8358b1/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -1807,13 +1808,12 @@
         }
       ],
       "version": "26.34.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoshop_express_photo_editor_v26.34.1_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoshop_express_photo_editor_v26.34.1_subscription_unlocked",
       "size": 173119897,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-9292191253",
@@ -1921,6 +1921,7 @@
       "bundleIdentifier": "com.aichatbot.assistant",
       "bundleId": "com.aichatbot.assistant",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/08/5b/87085b2d-9313-481a-85fd-0d356003d025/AppIcon132-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -1931,14 +1932,13 @@
         }
       ],
       "version": "2.31",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai.chatbot.2.31-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai.chatbot.2.31-1",
       "size": 107059609,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 73,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 73
     },
     {
       "id": "APP-5070871359",
@@ -1946,6 +1946,7 @@
       "bundleIdentifier": "com.talgat.AIChat",
       "bundleId": "com.talgat.AIChat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/b5/23/04b52371-dcf6-354d-5ab3-b82fe7ff7da9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -1956,14 +1957,13 @@
         }
       ],
       "version": "3.48",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-chatbot-ai-chat-assistant-v3.48",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-chatbot-ai-chat-assistant-v3.48",
       "size": 51485081,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 74,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 74
     },
     {
       "id": "APP-9942425773",
@@ -1996,6 +1996,7 @@
       "bundleIdentifier": "com.kinemaster.kios",
       "bundleId": "com.kinemaster.kios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/8d/91/188d91f0-3e9c-f504-92e0-eb95e6a3ea57/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -2010,14 +2011,13 @@
         }
       ],
       "version": "8.1.18",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kinemaster_video_editor_v8.1.18_pro_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kinemaster_video_editor_v8.1.18_pro_unlocked",
       "size": 120166809,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 76,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 76
     },
     {
       "id": "APP-5695182844",
@@ -2075,6 +2075,7 @@
       "bundleIdentifier": "com.adobe.ailogo",
       "bundleId": "com.adobe.ailogo",
       "iconURL": "https://appstore.nabzclan.vip/images/icon_69061cbb3a2e3.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -2085,14 +2086,13 @@
         }
       ],
       "version": "3.0.10",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe-illustrator-graphic-art-hacked_v3010-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe-illustrator-graphic-art-hacked_v3010-1",
       "size": 479408947,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 79,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 79
     },
     {
       "id": "APP-5142042462",
@@ -2258,6 +2258,7 @@
       "bundleIdentifier": "com.AppChief.ArabicArt",
       "bundleId": "com.AppChief.ArabicArt",
       "iconURL": "https://appstore.nabzclan.vip/images/1761380474.png",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -2272,14 +2273,13 @@
         }
       ],
       "version": "10.0.7",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.7_pro_unlocked__patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/andalusi_ai_design_photo_video_v10.0.7_pro_unlocked__patched",
       "size": 72351744,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 86,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 86
     },
     {
       "id": "APP-1961081927",
@@ -2337,6 +2337,7 @@
       "bundleIdentifier": "com.vivacut.videoeditor",
       "bundleId": "com.vivacut.videoeditor",
       "iconURL": "https://appstore.nabzclan.vip/images/1761375464.png",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -2347,14 +2348,13 @@
         }
       ],
       "version": "4.6.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vivacut-ai-video-editor",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vivacut-ai-video-editor",
       "size": 221773824,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 89,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 89
     },
     {
       "id": "APP-9045016264",
@@ -2387,6 +2387,7 @@
       "bundleIdentifier": "com.youthhr.Phonto",
       "bundleId": "com.youthhr.Phonto",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/56/9f/e1569fc6-b25a-fabb-5cd8-8b0addab4158/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -2397,14 +2398,13 @@
         }
       ],
       "version": "4.9.43",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/phonto.pro.4.9.43-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/phonto.pro.4.9.43-1",
       "size": 38273024,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 91,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 91
     },
     {
       "id": "APP-2153778613",
@@ -2462,6 +2462,7 @@
       "bundleIdentifier": "com.sfun.snapedit",
       "bundleId": "com.sfun.snapedit",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/55/08/41550802-7821-b250-bc97-e25cf3b8a4e6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -2476,14 +2477,13 @@
         }
       ],
       "version": "6.27.1",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snapedit_photo_editor_ai_v6.27.1_pro_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snapedit_photo_editor_ai_v6.27.1_pro_unlocked_patched",
       "size": 133274009,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-13",
-      "_rowKey": 94,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 94
     },
     {
       "id": "APP-9465282663",
@@ -2566,6 +2566,7 @@
       "bundleIdentifier": "com.kiloo.subwaysurfers",
       "bundleId": "com.kiloo.subwaysurfers",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ac/4e/98ac4ed7-7da4-c5ae-8bea-c2adc70b7960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited keys after completing each round.\n- Unlimited coins after completing each round.\n- Non-Death Mode.\n- Not tripping over obstacles.\n- High jump.\n- Unlimited jumps.\n- Gravity deactivation.\n- Unlimited experience points.\n- Unlimited boosters.\n- Always follow the player's camera.",
       "category": "GAMES",
       "versions": [
         {
@@ -2580,14 +2581,13 @@
         }
       ],
       "version": "3.69.0",
-      "versionDate": "2026-09-15",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.69.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/subway-surf-3.69.0",
       "size": 262773145,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-15",
-      "_rowKey": 98,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 98
     },
     {
       "id": "APP-3892438048",
@@ -2706,6 +2706,7 @@
       "bundleIdentifier": "jp.co.bandainamcogames.BNGI0221",
       "bundleId": "jp.co.bandainamcogames.BNGI0221",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/ab/f8/08abf802-51d2-a768-3a82-009f2762e8b1/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited HP.\n- The possibility of customizing the amount of damage via iGMM.\n- The possibility of allocating the amount of defense via iGMM.\n- The ability to customize the response value via iGMM.\n- activation Penetrating buttons 1 to 6.",
       "category": "GAMES",
       "versions": [
         {
@@ -2716,13 +2717,12 @@
         }
       ],
       "version": "6.5.5",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dokkan-battle-6.5.5",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dokkan-battle-6.5.5",
       "size": 1053609164,
       "addedAt": "2026-09-02",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-7181833986",
@@ -2842,7 +2842,7 @@
       "bundleIdentifier": "com.wb.MK.Brawler2015",
       "bundleId": "com.wb.MK.Brawler2015",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/53/56/3d53561b-7500-1f3f-9a9b-129acfd74b0e/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "iosgods modded App",
+      "localizedDescription": "iosgods modded App\n\nFeatures\n- Winning automatically.\n- Immediate elimination of opponent figures.\n- Switching opponent characters by force.\n- Weaken the opponent to eliminate him in one blow.\n- The revival and healing of all the characters.\n- Healing all characters.\n- Adjustment list with additional benefits such as increased experience points after matches.\n- Switch between characters without waiting for the timer to end.\n- activation has some advantages, activate one feature at a time and then restart the game.",
       "category": "GAMES",
       "versions": [
         {
@@ -2857,12 +2857,12 @@
         }
       ],
       "version": "7.3.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.3.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.3.0",
       "size": 1940075315,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 108
     },
     {
@@ -3070,7 +3070,7 @@
       "bundleIdentifier": "dazz.camera.vintagecamera",
       "bundleId": "dazz.camera.vintagecamera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/70/a8/fc70a86d-ea31-6ffb-6153-7685e883ddd7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "iosgods modded App",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -3081,12 +3081,12 @@
         }
       ],
       "version": "2.17",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dazz-cam---vintage-camera-v2.17-dazz-pro-",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dazz-cam---vintage-camera-v2.17-dazz-pro-",
       "size": 115972505,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 116
     },
     {
@@ -3095,7 +3095,7 @@
       "bundleIdentifier": "com.protools.Watermark",
       "bundleId": "com.protools.Watermark",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/d5/b4/81d5b465-f959-0d0d-f769-556dff6e9ffb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "iosgods modded App",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -3106,12 +3106,12 @@
         }
       ],
       "version": "4.9.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/logo-maker-&-generator",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/logo-maker-&-generator",
       "size": 67213721,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 117
     },
     {
@@ -3352,7 +3352,7 @@
       "bundleIdentifier": "com.fungames.sniper3d",
       "bundleId": "com.fungames.sniper3d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/91/f2/3791f28d-c252-3236-9553-f7d7484c78c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "iosgods modded App",
+      "localizedDescription": "iosgods modded App\n\nFeatures\n- Unlimited coins when upgrading weapon or accelerating delivery.\n- Unlimited power.\n- Remove lead scattering.\n- Eliminate targets with one blow.\n- activation engine mods iGameGod.",
       "category": "GAMES",
       "versions": [
         {
@@ -3363,12 +3363,12 @@
         }
       ],
       "version": "4.45.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sniper-3d-gun-shooting-games-hack",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sniper-3d-gun-shooting-games-hack",
       "size": 425721856,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 127
     },
     {
@@ -3452,7 +3452,7 @@
       "bundleIdentifier": "jp.ne.ibis.ibisPaintX",
       "bundleId": "jp.ne.ibis.ibisPaintX",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/db/bd/b1dbbda6-6919-dea9-7792-5eb896afdfaf/AppIconX-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "iosgods modded App",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -3463,12 +3463,12 @@
         }
       ],
       "version": "13.1.13",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ibispaint-x-13.1.13",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ibispaint-x-13.1.13",
       "size": 55259955,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 131
     },
     {
@@ -3918,6 +3918,7 @@
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "bundleId": "com.adobe.lrmobilephone",
       "iconURL": "https://fastsign.dev/tg-icon/blatants/9067.png",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -3932,13 +3933,12 @@
         }
       ],
       "version": "11.5.30",
-      "versionDate": "2026-09-17",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.30_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lightroom_ai_photo_editor_v11.5.30_subscription_unlocked",
       "size": 221354393,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-6253966381",
@@ -3946,6 +3946,7 @@
       "bundleIdentifier": "co.visualsupply.cam",
       "bundleId": "co.visualsupply.cam",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -3960,13 +3961,12 @@
         }
       ],
       "version": "461.8.0",
-      "versionDate": "2026-09-17",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.8.0_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vsco_photo_video_editor_v461.8.0_subscription_unlocked",
       "size": 211183206,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-2380050576",
@@ -4003,6 +4003,7 @@
       "bundleIdentifier": "zombie.survival.craft.z",
       "bundleId": "zombie.survival.craft.z",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/72/5c/37725cd8-f079-df73-274a-7a2f3752442c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Disable fraud detection.\n- Repeat items using the split feature.\n- The possibility of repeating any item within the stock.\n- Manufacturing free without the need for the required resources.\n- Build free without the required resources.\n- Avoid making unpublished items to avoid stopping the game from download .",
       "category": "GAMES",
       "versions": [
         {
@@ -4017,14 +4018,13 @@
         }
       ],
       "version": "1.52.0",
-      "versionDate": "2026-09-18",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.52.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-day-on-earth-survival-1.52.0",
       "size": 1098068787,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-18",
-      "_rowKey": 153,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 153
     },
     {
       "id": "APP-9299549119",
@@ -4032,6 +4032,7 @@
       "bundleIdentifier": "com.linecorp.b612",
       "bundleId": "com.linecorp.b612",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/16/97/bf169712-4c79-6cf1-1dce-2d672c9ba593/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -4046,14 +4047,13 @@
         }
       ],
       "version": "15.3.5",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/b612_ai_photo-video_editor_v15.3.5_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/b612_ai_photo-video_editor_v15.3.5_subscription_unlocked",
       "size": 151414374,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 154,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 154
     },
     {
       "id": "APP-1997249736",
@@ -4061,6 +4061,7 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "bundleId": "boomer.Smart-Video",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/e7/a2/efe7a20e-7e36-702c-821c-4be180aae922/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -4075,14 +4076,13 @@
         }
       ],
       "version": "13.31.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/captions_ai_edits_your_video_v13.31.0_scale_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/captions_ai_edits_your_video_v13.31.0_scale_subscription_unlocked",
       "size": 111463628,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 155,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 155
     },
     {
       "id": "APP-1383236741",
@@ -4090,6 +4090,7 @@
       "bundleIdentifier": "com.naturalmotion.customstreetracer2",
       "bundleId": "com.naturalmotion.customstreetracer2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/71/0f/e4710f14-70b0-c39c-085f-276e81226084/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited money.\n- Unlimited gold.\n- Unlimited keys.\n- Fuel free .\n- Reaching the highest level.\n- Weakening the artificial intelligence of competitors.",
       "category": "GAMES",
       "versions": [
         {
@@ -4104,14 +4105,13 @@
         }
       ],
       "version": "6.7.1",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr-racing-2.6.7.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/csr-racing-2.6.7.1",
       "size": 1356752486,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-14",
-      "_rowKey": 156,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 156
     },
     {
       "id": "APP-9834711314",
@@ -4144,6 +4144,7 @@
       "bundleIdentifier": "com.gameinsight.airportcity",
       "bundleId": "com.gameinsight.airportcity",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/fa/46/8ffa4674-ce86-4f34-6467-b76ba8c5dafc/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited coins when earning or spending.\n- Possibility to use Sky Coins to get cash.",
       "category": "GAMES",
       "versions": [
         {
@@ -4154,14 +4155,13 @@
         }
       ],
       "version": "8.47.03",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-city-[8.47.03]",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/airport-city-[8.47.03]",
       "size": 265080012,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 158,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 158
     },
     {
       "id": "APP-1850094110",
@@ -4169,6 +4169,7 @@
       "bundleIdentifier": "fantasy.survival.game.rpg",
       "bundleId": "fantasy.survival.game.rpg",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/81/5b/45815b0b-da71-aed1-e89d-f45b0b5a43f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited coins.\n- Unlimited manufacturing points.\n- Increase stock items when withdrawn from storage.\n- For installation values, activate the feature then buy an item and use a manufacturing point before disabling it.",
       "category": "GAMES",
       "versions": [
         {
@@ -4183,14 +4184,13 @@
         }
       ],
       "version": "8.4.1",
-      "versionDate": "2026-09-15",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grim-soul-8.4.1",
       "size": 381052518,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-15",
-      "_rowKey": 159,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 159
     },
     {
       "id": "APP-1763821604",
@@ -4223,6 +4223,7 @@
       "bundleIdentifier": "com.gameloft.asphalt8",
       "bundleId": "com.gameloft.asphalt8",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/fa/68/38fa6864-29fe-d0ae-1117-9b3950c5dbb2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Nitro is unlimited and does not decrease when in use.\n- Buy stickers at zero cost.\n- Open all seasons.\n- Opening the brand season.\n- The possibility of adjusting the balance of currencies.\n- Zero cost Pro Kits app.\n- store Q free for items purchased in currencies.\n- Unlock mastery challenges for any level.\n- activation Blocking Protection.\n- Unlock all cars.\n- Remove the speed limit.\n- Disruption of vehicle collisions.",
       "category": "GAMES",
       "versions": [
         {
@@ -4233,14 +4234,13 @@
         }
       ],
       "version": "8.8.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asphalt-8-[8.8.1]",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asphalt-8-[8.8.1]",
       "size": 3013187993,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 161,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 161
     },
     {
       "id": "APP-5963966320",
@@ -4457,7 +4457,7 @@
       "bundleIdentifier": "com.spotify.client",
       "bundleId": "com.spotify.client",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-iosgods-eevee-spotify-4732.png",
-      "localizedDescription": "activation Premium feature automatically",
+      "localizedDescription": "Spotify's modded version adds several premium and extra features:\n- activation Premium listening experience.\n- Improved ads blocking .\n- Support for personalized song lyrics from multiple sources.\n- Add True Shuffle to improve random playback.\n- The ability to change the app icon.\n- SponsorBlock support.\n- Show songs and tracks you like on artist pages in a way similar to Premium.\n- Support CarPlay when the required permissions are available in the certificate .",
       "category": "Entertainment",
       "versions": [
         {
@@ -4472,12 +4472,12 @@
         }
       ],
       "version": "9.1.78",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify_9.1.78_es",
       "size": 134532300,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-19",
       "_rowKey": 126
     },
     {
@@ -4486,6 +4486,7 @@
       "bundleIdentifier": "com.frontrow.vlog",
       "bundleId": "com.frontrow.vlog",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/12/fd/d812fd37-aa2c-33f3-d553-8f604dc309fb/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -4500,14 +4501,13 @@
         }
       ],
       "version": "2.19.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.19.0_subscription_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.19.0_subscription_unlocked_patched",
       "size": 467455180,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 171,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 171
     },
     {
       "id": "APP-2682488039",
@@ -4515,6 +4515,7 @@
       "bundleIdentifier": "com.hassantaleb.mockup",
       "bundleId": "com.hassantaleb.mockup",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/47/e9/0c47e963-daa1-9424-1511-c2c88acd6ed7/Animock-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -4529,14 +4530,13 @@
         }
       ],
       "version": "5.11.1",
-      "versionDate": "2026-09-12",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11.1_pro_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/animock_3d_mockup_animator_v5.11.1_pro_unlocked_patched",
       "size": 120061952,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-12",
-      "_rowKey": 172,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 172
     },
     {
       "id": "APP-5439727123",
@@ -4573,6 +4573,7 @@
       "bundleIdentifier": "com.nekki.shadowfightarena",
       "bundleId": "com.nekki.shadowfightarena",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/99/7a/de997a0f-7a99-bee7-8f44-f8bc7931bc58/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Freezing the discount.\n- Double the attack.\n- Double the defense.\n- Non-Death Mode.",
       "category": "GAMES",
       "versions": [
         {
@@ -4587,14 +4588,13 @@
         }
       ],
       "version": "1.9.85",
-      "versionDate": "2026-09-18",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/shadow-fight-4.1.9.85",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shadow-fight-4.1.9.85",
       "size": 194091417,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-18",
-      "_rowKey": 174,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 174
     },
     {
       "id": "APP-9876753896",
@@ -4650,6 +4650,7 @@
       "bundleIdentifier": "com.dualcarbon.bigrigstruckadventure",
       "bundleId": "com.dualcarbon.bigrigstruckadventure",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/47/47/d24747ad-16c4-0189-eff4-4e15c4c4aa40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Increase cash rather than decrease it when spending.",
       "category": "GAMES",
       "versions": [
         {
@@ -4664,14 +4665,13 @@
         }
       ],
       "version": "1.6.3",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/truck-simulator-big-rigs-1.6.3",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/truck-simulator-big-rigs-1.6.3",
       "size": 753192140,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 177,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 177
     },
     {
       "id": "APP-1867919614",
@@ -4679,6 +4679,7 @@
       "bundleIdentifier": "com.miHoYo.bh3global",
       "bundleId": "com.miHoYo.bh3global",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/3a/18/f63a1826-4add-087c-7825-b493e3d2ae90/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Double the attack.\n- Double the defense.",
       "category": "GAMES",
       "versions": [
         {
@@ -4689,14 +4690,13 @@
         }
       ],
       "version": "8.8.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/honkai-impact-3rd[8.8.0]",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/honkai-impact-3rd[8.8.0]",
       "size": 2665899622,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 178,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 178
     },
     {
       "id": "APP-8932003363",
@@ -4754,6 +4754,7 @@
       "bundleIdentifier": "com.googleusercontent.apps.24327066530-ks0rlpm37gffpbtpq5gkpmp8ba2h2okr",
       "bundleId": "com.googleusercontent.apps.24327066530-ks0rlpm37gffpbtpq5gkpmp8ba2h2okr",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/9f/ef/429fef49-a8c9-7e63-8f3d-25da257d4832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited gold.\n- Unlimited money.\n- activation Premium Membership.\n- Stop automatic ads .",
       "category": "GAMES",
       "versions": [
         {
@@ -4764,14 +4765,13 @@
         }
       ],
       "version": "4.30.32",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bus-simulatorevo[4.30.32]",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bus-simulatorevo[4.30.32]",
       "size": 1083598438,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 181,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 181
     },
     {
       "id": "APP-6227720127",
@@ -4779,6 +4779,7 @@
       "bundleIdentifier": "com.thp021.stickman.survivor.epic.idle.rpg",
       "bundleId": "com.thp021.stickman.survivor.epic.idle.rpg",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/67/63/126763d2-7ae1-1529-c8be-0e3ae4817370/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Doubling the damage.\n- Non-Death Mode.\n- Unlimited coins are increasing rather than decreasing.",
       "category": "GAMES",
       "versions": [
         {
@@ -4789,14 +4790,13 @@
         }
       ],
       "version": "0.0.162",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stickman-survivor[0.0.162]",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/stickman-survivor[0.0.162]",
       "size": 173539328,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 182,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 182
     },
     {
       "id": "APP-1341465130",
@@ -4833,6 +4833,7 @@
       "bundleIdentifier": "com.hutchgames.rebelracing",
       "bundleId": "com.hutchgames.rebelracing",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/96/cf/5c96cfed-3960-e84c-1f27-1dbf1fe31084/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited nitro.\n- Freezing the artificial intelligence of competitors.\n- Weakening the artificial intelligence of competitors.",
       "category": "GAMES",
       "versions": [
         {
@@ -4846,14 +4847,13 @@
         }
       ],
       "version": "27.05.19389",
-      "versionDate": "2026-09-18",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rebel-racing-27.05.19389",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rebel-racing-27.05.19389",
       "size": 0,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-18",
-      "_rowKey": 184,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 184
     },
     {
       "id": "APP-1167550679",
@@ -4915,6 +4915,7 @@
       "bundleIdentifier": "com.ares.twd",
       "bundleId": "com.ares.twd",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/89/27/c989278e-03ee-3446-247e-49f71bcb5a39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Double the attack.\n- Double the defense.\n- Non-Death Mode.\n- Winning automatically.",
       "category": "GAMES",
       "versions": [
         {
@@ -4925,14 +4926,13 @@
         }
       ],
       "version": "0.8.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-0.8.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-0.8.1",
       "size": 591921152,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 187,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 187
     },
     {
       "id": "APP-2738902303",
@@ -5207,6 +5207,7 @@
       "bundleIdentifier": "com.AlfaBravo.WorldWarLegion",
       "bundleId": "com.AlfaBravo.WorldWarLegion",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvy4_cmUuQfOZkgIX5xlbzHKYfpBmPVNIjdA&s",
+      "localizedDescription": "Features\nUnlock all features\n- Removing the recoil of the weapon.\n- Removing the dispersion of bullets.\n- Immediately refill the ammunition.\n- Swap weapons immediately.\n- Increase modded firing.\n- Show boxes around allies to see their positions through the walls.\n- Show skeletons of allies to see their positions through the walls.\n- Show lines to allies to see their locations.\n- Show health bar to each ally.\n- Show boxes around enemies to see their positions across walls.\n- Show skeletons to enemies to see their positions through the walls.\n- Show lines to enemies to see their positions.\n- Show health bar for each enemy.",
       "category": "GAMES",
       "versions": [
         {
@@ -5221,14 +5222,13 @@
         }
       ],
       "version": "0.4.2",
-      "versionDate": "2026-09-12",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.4.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/world-war-legion-0.4.2",
       "size": 1338297548,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-12",
-      "_rowKey": 198,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 198
     },
     {
       "id": "APP-1861059445",
@@ -5315,6 +5315,7 @@
       "bundleIdentifier": "com.gamedevltd.infinityops",
       "bundleId": "com.gamedevltd.infinityops",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrPa6sedfcP2Q-Vsz01xcrcH8vSg0hAPqhJg&s",
+      "localizedDescription": "Features\n- Show ESP lines.\n- Show ESP boxes.\n- Show skeletons via ESP.\n- Show ESP to allies.\n- Show distance.\n- Line thickness control.\n- activation Position Detection Radar.\n- Unlimited ammunition.\n- Removing the dispersion of bullets.",
       "category": "GAMES",
       "versions": [
         {
@@ -5325,14 +5326,13 @@
         }
       ],
       "version": "1.13.7",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/infinity-ops-1.13.7",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/infinity-ops-1.13.7",
       "size": 501848473,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 202,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 202
     },
     {
       "id": "APP-4040679564",
@@ -5390,6 +5390,7 @@
       "bundleIdentifier": "com.almutafoq.iq.app",
       "bundleId": "com.almutafoq.iq.app",
       "iconURL": "https://play-lh.googleusercontent.com/x9mr7lB6L1ab6cmhHHFm3B3IffrfHUt3m1Hca4QEemOYfsxMG1XnL6SlXasp_2Bv9m_FuzjqYpRQc9E2dHQhdBs=w240-h480-rw",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -5400,14 +5401,13 @@
         }
       ],
       "version": "1.0.71",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/almtfooq1.0.71",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/almtfooq1.0.71",
       "size": 14889779,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 205,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 205
     },
     {
       "id": "APP-9561229224",
@@ -5543,6 +5543,7 @@
       "bundleIdentifier": "com.dr1ven.eraser",
       "bundleId": "com.dr1ven.eraser",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/07/9c/a1079cf7-b14b-13a3-995f-9d6d4ffb5c39/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -5557,14 +5558,13 @@
         }
       ],
       "version": "2026.37.01",
-      "versionDate": "2026-09-07",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.37.01",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.37.01",
       "size": 138307174,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-07",
-      "_rowKey": 211,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 211
     },
     {
       "id": "APP-6778944485",
@@ -5572,6 +5572,7 @@
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "bundleId": "co.vulcanlabs.moodtracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/8b/29/ec8b2987-07ac-8150-828b-44dd246192d4/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -5582,14 +5583,13 @@
         }
       ],
       "version": "5.0.8",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-chatsmith-5.0.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-chatsmith-5.0.8",
       "size": 564343603,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 212,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 212
     },
     {
       "id": "APP-8063292251",
@@ -5671,6 +5671,7 @@
       "bundleIdentifier": "com.dreamgames.royalmatch",
       "bundleId": "com.dreamgames.royalmatch",
       "iconURL": "https://cdn.prod.website-files.com/66ba0cbc63210953b4fc73a8/66ba4dab628d3ffb9065bc2a_royal_match_page_king_robert%206.webp",
+      "localizedDescription": "Features\n- Currency freezing.\n- Freezing souls.\n- Freezing the stars.\n- Freezing the boosters.\n- Freeze the time.\n- Freezing movements.\n- Unlock VIP badges.\n- Open VIP name patterns.\n- Opening VIP frames.\n- Auto win to finish the stage.",
       "category": "GAMES",
       "versions": [
         {
@@ -5685,14 +5686,13 @@
         }
       ],
       "version": "38174",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/royal-match-38174",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/royal-match-38174",
       "size": 222193254,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 216,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 216
     },
     {
       "id": "APP-9175285314",
@@ -5700,6 +5700,7 @@
       "bundleIdentifier": "com.soccer.football.score.ios",
       "bundleId": "com.soccer.football.score.ios",
       "iconURL": "https://play-lh.googleusercontent.com/dKk_wk3egwxwRoCrdd2ppnx59r0VR6JGrTDkxuP3U4_T9reHv2qkzg3Ya8oeGVNL3ZU=w240-h480-rw",
+      "localizedDescription": "Features\n- Removal of ads .\n- Receive free rewards.\n- Unlimited gems.\n- Unlimited coins.\n- High market value.\n- Easily unlock all levels and ranks.",
       "category": "GAMES",
       "versions": [
         {
@@ -5710,14 +5711,13 @@
         }
       ],
       "version": "0.36.3",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-super-hero_0.36.3",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soccer-super-hero_0.36.3",
       "size": 203423744,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 217,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 217
     },
     {
       "id": "APP-2432775126",
@@ -5832,6 +5832,7 @@
       "bundleIdentifier": "com.rovio.abm3",
       "bundleId": "com.rovio.abm3",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1781374656407.png",
+      "localizedDescription": "Features\n- Freeze all items and resources.\n- Unlimited resources; increasing rather than decreasing.\n- Auto win to finish the level.\n- Freezing movements.",
       "category": "GAMES",
       "versions": [
         {
@@ -5842,14 +5843,13 @@
         }
       ],
       "version": "0.9.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-match",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-match",
       "size": 212651212,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 222,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 222
     },
     {
       "id": "APP-3442042010",
@@ -5857,6 +5857,7 @@
       "bundleIdentifier": "com.darkmatter.abfam",
       "bundleId": "com.darkmatter.abfam",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0BDxlKYl1K6aXAcPGJr0xAX_SuEPaBSjabVve_ZJ4HA&s=10",
+      "localizedDescription": "Features\n- Unlimited coins; increasing rather than decreasing.\n- Currency freezing.",
       "category": "GAMES",
       "versions": [
         {
@@ -5867,14 +5868,13 @@
         }
       ],
       "version": "1.24.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry_birds_rush-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry_birds_rush-1",
       "size": 186331955,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 223,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 223
     },
     {
       "id": "APP-2542771679",
@@ -5907,6 +5907,7 @@
       "bundleIdentifier": "com.rovio.ab-bounce",
       "bundleId": "com.rovio.ab-bounce",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AQbJ_d1Zy-o1h1qiOrM79RjQMWup6fHzXqB6Njl4yA&s=10",
+      "localizedDescription": "Features\n- Not dying.\n- Double the attack force.\n- Instant win.\n- Unlimited coins.",
       "category": "GAMES",
       "versions": [
         {
@@ -5917,14 +5918,13 @@
         }
       ],
       "version": "1.0.5",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry_birds_bounce-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry_birds_bounce-1",
       "size": 432327884,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 225,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 225
     },
     {
       "id": "APP-3576784104",
@@ -5982,6 +5982,7 @@
       "bundleIdentifier": "com.rovio.dream",
       "bundleId": "com.rovio.dream",
       "iconURL": "https://play-lh.googleusercontent.com/Poj7eNOavvpolZGv2aaMX7ZyWFAQHeFHf-HQqlSvpXgKT0rgYSz4eVAqZE8DZFT2HJjD37iEUYCqrrqvhSNyNCY",
+      "localizedDescription": "Features\n- Unlimited movements.\n- Unlimited life.\n- Unlimited boosters.",
       "category": "GAMES",
       "versions": [
         {
@@ -5996,14 +5997,13 @@
         }
       ],
       "version": "2.7.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-dream",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-dream",
       "size": 208981196,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 228,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 228
     },
     {
       "id": "APP-8813504454",
@@ -6011,6 +6011,7 @@
       "bundleIdentifier": "com.rovio.angrybirdstransformers",
       "bundleId": "com.rovio.angrybirdstransformers",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyQB9iMdViIEgd8fl5e9xb5_v_paiV_3rGFvVpjvW4w&s=10",
+      "localizedDescription": "Features\n- Double coins when destroying materials.\n- Doubling pigs when wiped out.\n- Revive free .\n- Instant upgrades free without consuming gems.\n- Buy the missing coins for free .\n- Buy missing pigs for free .\n- Buy the missing for free tokens.\n- Purchase of missing materials for free .\n- Skip free .\n- Increasing achievement rewards to get 65,000 gems when collecting achievements.",
       "category": "GAMES",
       "versions": [
         {
@@ -6025,14 +6026,13 @@
         }
       ],
       "version": "2.41.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2.41.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2.41.0",
       "size": 366162739,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 229,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 229
     },
     {
       "id": "APP-6980086657",
@@ -6040,6 +6040,7 @@
       "bundleIdentifier": "com.rovio.baba",
       "bundleId": "com.rovio.baba",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/f9/d6/09f9d6ee-0e93-e114-067f-ecd49a840019/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited coins; when you spend coins you get more of them.",
       "category": "GAMES",
       "versions": [
         {
@@ -6050,13 +6051,12 @@
         }
       ],
       "version": "10.0.1",
-      "versionDate": "2026-09-17",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-2",
       "size": 674758656,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-6350852241",
@@ -6064,6 +6064,7 @@
       "bundleIdentifier": "com.rovio.abcasual",
       "bundleId": "com.rovio.abcasual",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1781375439513.png",
+      "localizedDescription": "Features\n- Unlock all boosters.\n- Unlimited boosters.\n- Unlimited lives.",
       "category": "GAMES",
       "versions": [
         {
@@ -6074,14 +6075,13 @@
         }
       ],
       "version": "3.8.4",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-journey-v3.8.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-journey-v3.8.4",
       "size": 156447539,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 231,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 231
     },
     {
       "id": "APP-1060752110",
@@ -6089,6 +6089,7 @@
       "bundleIdentifier": "com.rovio.angrybirdsfriends",
       "bundleId": "com.rovio.angrybirdsfriends",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1781375497727.png",
+      "localizedDescription": "Features\n- Do not consume reinforcements.\n- The use of for free enhancements without restrictions on the number of uses.\n- Unlimited reinforcements.\n- Start each phase with 10 free reinforcements.\n- Increase the power of the slingshot.",
       "category": "GAMES",
       "versions": [
         {
@@ -6099,14 +6100,13 @@
         }
       ],
       "version": "13.4.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/angry-birds-friends-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/angry-birds-friends-1",
       "size": 177209344,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 232,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 232
     },
     {
       "id": "APP-8534845981",
@@ -6139,6 +6139,7 @@
       "bundleIdentifier": "com.firsttouch.story",
       "bundleId": "com.firsttouch.story",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/2e/96/8c2e9620-9eae-d972-654c-8c1954a189f5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited returns.\n- The replay feature is automatically enabled and does not need a separate playback option.",
       "category": "GAMES",
       "versions": [
         {
@@ -6149,14 +6150,13 @@
         }
       ],
       "version": "4.60",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/score-hero",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/score-hero",
       "size": 227855564,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 236,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 236
     },
     {
       "id": "APP-6950055525",
@@ -6164,6 +6164,7 @@
       "bundleIdentifier": "com.dnddream.headsoccer",
       "bundleId": "com.dnddream.headsoccer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/4c/75/b44c7559-10a7-5dd6-b48e-abb5f5127c70/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited funds; spend part of it for the activation feature.",
       "category": "GAMES",
       "versions": [
         {
@@ -6174,14 +6175,13 @@
         }
       ],
       "version": "6.22",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/head-soccer",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/head-soccer",
       "size": 250504806,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 237,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 237
     },
     {
       "id": "APP-5926837492",
@@ -6217,6 +6217,7 @@
       "bundleIdentifier": "com.halfbrick.FruitNinjaLite",
       "bundleId": "com.halfbrick.FruitNinjaLite",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/5b/fd/345bfd04-04b8-868d-631f-db6dc1702cfc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Removal of bombs.\n- Freeze the star fruit.\n- Unlimited boosters.\n- activation freeze madness while doubling points in arcade mode.",
       "category": "GAMES",
       "versions": [
         {
@@ -6227,14 +6228,13 @@
         }
       ],
       "version": "last version",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fruit-ninja",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fruit-ninja",
       "size": 302828748,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 239,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 239
     },
     {
       "id": "APP-2839966161",
@@ -6242,6 +6242,7 @@
       "bundleIdentifier": "com.halfbrick.fruitninjax",
       "bundleId": "com.halfbrick.fruitninjax",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/22/81/20228164-9b30-c8af-4a23-118e068d4f0e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- store Q free .\n- Open all shapes.\n- Open all the swords.\n- Open all avatars.",
       "category": "GAMES",
       "versions": [
         {
@@ -6252,14 +6253,13 @@
         }
       ],
       "version": "last version",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fruit-ninja-2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fruit-ninja-2",
       "size": 586992844,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 240,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 240
     },
     {
       "id": "APP-6937263523",
@@ -6292,6 +6292,7 @@
       "bundleIdentifier": "com.pikpok.dr2.iosstore",
       "bundleId": "com.pikpok.dr2.iosstore",
       "iconURL": "https://play-lh.googleusercontent.com/KJzppbod8tdh0r8Jbh2BheG7zsYzByjlzfjbcvHz4_R-fhDQzBTcJnKgqdlKWDogEQ",
+      "localizedDescription": "Features\n- Unlimited silver.\n- Unlimited gold.\n- Unlimited ammunition.\n- Unlimited grenades.\n- Instant hand grenade.\nReloading.\n- Unlimited power.\n- VIP Membership.",
       "category": "GAMES",
       "versions": [
         {
@@ -6306,13 +6307,12 @@
         }
       ],
       "version": "1.86.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/into-the-dead2.1.86.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/into-the-dead2.1.86.1",
       "size": 1835427430,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-2342171377",
@@ -6345,6 +6345,7 @@
       "bundleIdentifier": "com.ansangha.drdriving",
       "bundleId": "com.ansangha.drdriving",
       "iconURL": "https://images.dwncdn.net/images/t_app-icon-l/p/4a40a318-abe6-4885-a24d-a0e60abce2f2/4004154167/20416_4-76818239-logo",
+      "localizedDescription": "Features\n- activation dummy purchase.\n- Removal of ads .\n\nNote:\n- Activate the Hack from the in-game mod menu.",
       "category": "GAMES",
       "versions": [
         {
@@ -6355,14 +6356,13 @@
         }
       ],
       "version": "last version",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/drdriving",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/drdriving",
       "size": 11429478,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 244,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 244
     },
     {
       "id": "APP-6790189240",
@@ -6473,6 +6473,7 @@
       "bundleIdentifier": "com.ea.sims3deluxe.ipad.inc",
       "bundleId": "com.ea.sims3deluxe.ipad.inc",
       "iconURL": "https://m.media-amazon.com/images/I/81lzuVd8ksL.png",
+      "localizedDescription": "Features\n- Unlimited coins.\n- Reach the highest VIP level.",
       "category": "GAMES",
       "versions": [
         {
@@ -6483,14 +6484,13 @@
         }
       ],
       "version": "last version",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sims-freeplay",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sims-freeplay",
       "size": 1550109900,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 249,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 249
     },
     {
       "id": "APP-8589277559",
@@ -6498,6 +6498,7 @@
       "bundleIdentifier": "com.photoeditor.polish",
       "bundleId": "com.photoeditor.polish",
       "iconURL": "https://play-lh.googleusercontent.com/q-z-Sbn2WLCUb4MSmmdhVr9KRfJ4qTlgoQEUGEKsnfVEEMNPxsabpr-yngqQ15o5b6gLhaBOhGZNv6oBWDMl",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -6512,14 +6513,13 @@
         }
       ],
       "version": "2.9.0",
-      "versionDate": "2026-09-05",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.9.0_premium_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.9.0_premium_unlocked_patched",
       "size": 146905497,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-05",
-      "_rowKey": 250,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 250
     },
     {
       "id": "APP-4278575901",
@@ -6527,6 +6527,7 @@
       "bundleIdentifier": "io.veed.appstore",
       "bundleId": "io.veed.appstore",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/ac/1b/69ac1bdf-4943-adda-320e-7b816a740bb5/Placeholder.mill/400x400bb-75.webp",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -6541,14 +6542,13 @@
         }
       ],
       "version": "8.15.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/veed-ai-captions-and-shorts-v8.15.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/veed-ai-captions-and-shorts-v8.15.0",
       "size": 158544691,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 251,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 251
     },
     {
       "id": "APP-9035710255",
@@ -6556,6 +6556,7 @@
       "bundleIdentifier": "au.com.savageinteractive.procreate",
       "bundleId": "au.com.savageinteractive.procreate",
       "iconURL": "https://yt3.googleusercontent.com/ytc/AIdro_nodCAR388ZAG2uYqxYZTuQ21H_tceLJIrfdGjWOq06g-U=s900-c-k-c0x00ffffff-no-rj",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -6566,14 +6567,13 @@
         }
       ],
       "version": "5.4.9",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/procreate-5.4.9",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/procreate-5.4.9",
       "size": 1011141836,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 252,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 252
     },
     {
       "id": "APP-7126298849",
@@ -6680,6 +6680,7 @@
       "bundleIdentifier": "ai.verba.ios",
       "bundleId": "ai.verba.ios",
       "iconURL": "https://fastly.mwm-storage.mwmcdn.com/raw_files/45b4b122-97ef-4ee4-82f6-50117e76306f?height=160&format=webp",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -6690,14 +6691,13 @@
         }
       ],
       "version": "last version",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/verba-auto-captions-for-video",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/verba-auto-captions-for-video",
       "size": 301780172,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 257,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 257
     },
     {
       "id": "APP-7961446398",
@@ -6730,6 +6730,7 @@
       "bundleIdentifier": "co.bazaart.app",
       "bundleId": "co.bazaart.app",
       "iconURL": "https://play-lh.googleusercontent.com/5M15M4fZm5w7s7BhBAszwmz3VmgFwmTPH6Is_E5tWcdpOI96mCBnzCBP6t92TZ_is2DBxCUfI4S_a3paYgAdz0U",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -6744,14 +6745,13 @@
         }
       ],
       "version": "26.4.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v26.4.0_premium_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v26.4.0_premium_unlocked",
       "size": 107269324,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 259,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 259
     },
     {
       "id": "APP-5132412701",
@@ -6865,6 +6865,7 @@
       "name": "polarr",
       "bundleIdentifier": "com.ikiraplus.apps.polarr.96a2f1c25e",
       "iconURL": "https://img.utdstc.com/icon/573/26f/57326f93ff7562f94a567292977a41c916c55c5d3b29f81da249f876ae6e34fe:600",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -6875,14 +6876,13 @@
         }
       ],
       "version": "6.12.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polarr_photo_filters_&_editor",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polarr_photo_filters_&_editor",
       "size": 151099801,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 264,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 264
     },
     {
       "id": "APP-7396153852",
@@ -6890,6 +6890,7 @@
       "bundleIdentifier": "com.avcr.Funimate",
       "bundleId": "com.avcr.Funimate",
       "iconURL": "https://play-lh.googleusercontent.com/yvkR0KYBGU4ZpZvn8gey7Bb6xNpQZ1Pn_xK6mX5zF8LmkwvgEdyoTYDkGPPOzbIVVFrOxNu7C18G2y8yhRGI",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -6900,14 +6901,13 @@
         }
       ],
       "version": "17.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/funimate-video-editor-pro",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/funimate-video-editor-pro",
       "size": 247673651,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 265,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 265
     },
     {
       "id": "APP-2153617546",
@@ -6940,6 +6940,7 @@
       "bundleIdentifier": "com.ilovepdf.www",
       "bundleId": "com.ilovepdf.www",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6DCpo_BNCx0yEEUhuPYmq_ev64HQnXOzX8UivAOskQ&s=10",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -6954,14 +6955,13 @@
         }
       ],
       "version": "4.1.0",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ilovepdf_pdf_editor_scan_v4.1.0_premium_unlocked__patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ilovepdf_pdf_editor_scan_v4.1.0_premium_unlocked__patched",
       "size": 149107507,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-14",
-      "_rowKey": 267,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 267
     },
     {
       "id": "APP-8770159771",
@@ -6969,6 +6969,7 @@
       "bundleIdentifier": "com.mobivio.cutecutpro",
       "bundleId": "com.mobivio.cutecutpro",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-5vprXDReVth-POrW9Nj6IXHJthrZqPFz1zFPA9ZHw&s=10",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -6983,14 +6984,13 @@
         }
       ],
       "version": "2.4.4",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cute-cut-pro-v2.4.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cute-cut-pro-v2.4.4",
       "size": 68576870,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 268,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 268
     },
     {
       "id": "APP-4928209980",
@@ -7022,6 +7022,7 @@
       "bundleIdentifier": "com.dvloper.grannychaptertwo",
       "bundleId": "com.dvloper.grannychaptertwo",
       "iconURL": "https://play-lh.googleusercontent.com/X_9WQbosx62FK2V2BK1Tuh2f3FuwyhrznBBodZ6nxGphIC0PwU0YxTVDRpOhbVKquz4UzgZ4SbjwQhVYOvEGnA",
+      "localizedDescription": "Features\n- Locate and track enemies using ESP.\n- Freezing enemies and temporarily disabling their threats.",
       "category": "GAMES",
       "versions": [
         {
@@ -7032,14 +7033,13 @@
         }
       ],
       "version": "1.1.14",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/granny-chapter-two-1.1.14",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/granny-chapter-two-1.1.14",
       "size": 343618355,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 270,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 270
     },
     {
       "id": "APP-9749394853",
@@ -7258,6 +7258,7 @@
       "bundleIdentifier": "com.lightricks.Enlight-Video",
       "bundleId": "com.lightricks.Enlight-Video",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXCyrI_MlmNKNnVVIe4XkXlHmLZsuhoudGDYarw-X-Q&s=10",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -7272,14 +7273,13 @@
         }
       ],
       "version": "2.87",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.87_subscription_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/videoleap_ai_video_editor_v2.87_subscription_unlocked_patched",
       "size": 398878310,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-06",
-      "_rowKey": 279,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 279
     },
     {
       "id": "APP-3828744036",
@@ -7361,6 +7361,7 @@
       "bundleIdentifier": "com.yalla-shoot.Yalla",
       "bundleId": "com.yalla-shoot.Yalla",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777653026917.png",
+      "localizedDescription": "All troublesome ads has been removed.",
       "category": "Entertainment",
       "versions": [
         {
@@ -7371,14 +7372,13 @@
         }
       ],
       "version": "2.4",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yalla-shoot-noads",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/yalla-shoot-noads",
       "size": 32925286,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 170,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 170
     },
     {
       "id": "APP-8678826244",
@@ -7386,6 +7386,7 @@
       "bundleIdentifier": "com.Semicolon.Maraya",
       "bundleId": "com.Semicolon.Maraya",
       "iconURL": "https://maraya.faulio.com/storage/mediagallery/e8/ff/single_2e4f61a0855196f083956d4f564b44b63803cb04.jpg",
+      "localizedDescription": "All troublesome ads has been removed.",
       "category": "Entertainment",
       "versions": [
         {
@@ -7396,14 +7397,13 @@
         }
       ],
       "version": "11.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maraya_11.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/maraya_11.1",
       "size": 26004684,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 179,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 179
     },
     {
       "id": "APP-5663430010",
@@ -7706,6 +7706,7 @@
       "bundleIdentifier": "com.hitv.ikiraplus",
       "bundleId": "com.hitv.ikiraplus",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541382806.png",
+      "localizedDescription": "modded version All its features have been opened and added with the following features :\n\n- Remove all annoying ads\n- Fully support pip mode\n- All resolutions are open for viewing and download\n- Add a button to copy the movie profile\n- Add a button to save the film cover",
       "category": "Entertainment",
       "versions": [
         {
@@ -7716,14 +7717,13 @@
         }
       ],
       "version": "1.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-pro_1.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitv-pro_1.1",
       "size": 11953766,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 289,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 289
     },
     {
       "id": "APP-8662904455",
@@ -7887,6 +7887,7 @@
       "bundleIdentifier": "com.adobe.premiere.ios",
       "bundleId": "com.adobe.premiere.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/91/10/d49110b5-9361-3de9-782f-8c5271e6d126/AppIcon_Premiere-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -7901,14 +7902,13 @@
         }
       ],
       "version": "26.19.1",
-      "versionDate": "2026-09-05",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.19.1_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe_premiere_ai_video_editor_v26.19.1_subscription_unlocked",
       "size": 93323264,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-05",
-      "_rowKey": 303,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 303
     },
     {
       "id": "APP-7001021763",
@@ -8001,6 +8001,7 @@
       "bundleIdentifier": "com.rumaisahassan.CineMap",
       "bundleId": "com.rumaisahassan.CineMap",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1784023070606.png",
+      "localizedDescription": "All troublesome ads has been removed.",
       "category": "Entertainment",
       "versions": [
         {
@@ -8011,14 +8012,13 @@
         }
       ],
       "version": "1.3",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aflame-tv-noads",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aflame-tv-noads",
       "size": 25899827,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 298,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 298
     },
     {
       "id": "APP-8170186995",
@@ -8162,6 +8162,7 @@
       "bundleIdentifier": "com.pinebox.app",
       "bundleId": "com.pinebox.app",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1784023216713.png",
+      "localizedDescription": "modded version All its features have been opened and added with the following features :\n\n- Remove all annoying ads\n- Fully support pip mode\n- All resolutions are open for viewing and download\n- Add a button to copy the movie profile\n- Add a button to save the film cover",
       "category": "Entertainment",
       "versions": [
         {
@@ -8176,14 +8177,13 @@
         }
       ],
       "version": "2.4",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinebox-premium_1.2-new",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinebox-premium_1.2-new",
       "size": 24746393,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 299,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 299
     },
     {
       "id": "APP-4076447328",
@@ -8191,6 +8191,7 @@
       "bundleIdentifier": "com.meitu.wink",
       "bundleId": "com.meitu.wink",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/f4/a3/38f4a370-62d7-9ab5-1279-77d7206723d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -8201,14 +8202,13 @@
         }
       ],
       "version": "3.7.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wink_3.7.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wink_3.7.0",
       "size": 118698803,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 314,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 314
     },
     {
       "id": "APP-6052752183",
@@ -8356,6 +8356,7 @@
       "bundleIdentifier": "co.detail.duo",
       "bundleId": "co.detail.duo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/c3/fd/c0c3fd05-4c82-1bc5-8eac-0331415f0a13/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -8370,14 +8371,13 @@
         }
       ],
       "version": "6.0.0",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/detail-ai-video-editor_6.0.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/detail-ai-video-editor_6.0.0",
       "size": 396256870,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-14",
-      "_rowKey": 320,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 320
     },
     {
       "id": "APP-2150247273",
@@ -8809,6 +8809,7 @@
       "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
       "bundleId": "com.lightricks.Enlight-Phoenix",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/6f/27/b16f27d1-6977-6a98-6248-c6ab3d0926ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -8819,14 +8820,13 @@
         }
       ],
       "version": "1.9.38",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/motionleap_3d_photo_animator_v1.9.38_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/motionleap_3d_photo_animator_v1.9.38_subscription_unlocked",
       "size": 186646528,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 337,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 337
     },
     {
       "id": "APP-5340789548",
@@ -8834,6 +8834,7 @@
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "bundleId": "com.dopedevelopment.Panels",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/5f/76/db5f76e5-dc0b-94a6-d7d3-e53ff480d23f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -8848,13 +8849,12 @@
         }
       ],
       "version": "9.53",
-      "versionDate": "2026-09-17",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.53_subscription_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.53_subscription_unlocked_patched",
       "size": 80320921,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-17",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-5833857214",
@@ -8949,6 +8949,7 @@
       "bundleIdentifier": "com.readdle.PDFExpert-ios",
       "bundleId": "com.readdle.PDFExpert-ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/73/9d/c1739d58-7e9b-765d-58bc-eac1f3d3020f/AppIcon-Production-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -8963,14 +8964,13 @@
         }
       ],
       "version": "7.25.12",
-      "versionDate": "2026-09-05",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pdf_expert_editor_-_reader_v7.25.12_premium_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pdf_expert_editor_-_reader_v7.25.12_premium_unlocked_patched",
       "size": 121320243,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-05",
-      "_rowKey": 342,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 342
     },
     {
       "id": "APP-7507315484",
@@ -9137,6 +9137,7 @@
       "bundleIdentifier": "com.photo.beautytuneapp",
       "bundleId": "com.photo.beautytuneapp",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/5a/fe/725afef2-44f0-98ce-bb34-d81354e6b51b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -9147,14 +9148,13 @@
         }
       ],
       "version": "2.94",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facelab_face_-_body_editor_v2.94_subscription_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/facelab_face_-_body_editor_v2.94_subscription_unlocked_patched",
       "size": 391223705,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 349,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 349
     },
     {
       "id": "APP-8180235101",
@@ -9162,6 +9162,7 @@
       "bundleIdentifier": "com.moox.app",
       "bundleId": "com.moox.app",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786196047646.png",
+      "localizedDescription": "modded version All its features have been opened and added with the following features :\n\n- Remove all annoying ads\n- Fully support pip mode\n- All resolutions are open for viewing and download\n- Add a button to copy the movie profile\n- Add a button to save the film cover",
       "category": "Entertainment",
       "versions": [
         {
@@ -9172,14 +9173,13 @@
         }
       ],
       "version": "1.9.5",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
       "size": 48968499,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 348,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 348
     },
     {
       "id": "APP-5618969398",
@@ -9316,6 +9316,7 @@
       "bundleIdentifier": "com.bbauman.Scripty",
       "bundleId": "com.bbauman.Scripty",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/e0/07/72e0078b-a47c-2006-240d-d5325285d557/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -9330,14 +9331,13 @@
         }
       ],
       "version": "2.50",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coconote-ai-note-taker-v2.50-pro-unlocked-patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coconote-ai-note-taker-v2.50-pro-unlocked-patched",
       "size": 53896806,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 357,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 357
     },
     {
       "id": "APP-2745119193",
@@ -9453,6 +9453,7 @@
       "bundleIdentifier": "com.plusminusone.math.hero.answer.scanner.solver",
       "bundleId": "com.plusminusone.math.hero.answer.scanner.solver",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/1b/ab/3c1babb3-1ae5-6515-ea18-199781498b7e/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -9463,14 +9464,13 @@
         }
       ],
       "version": "4.7.11",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/math-ai-problem-solver-helper-v4.7.11",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/math-ai-problem-solver-helper-v4.7.11",
       "size": 111358771,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 363,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 363
     },
     {
       "id": "APP-7814465431",
@@ -10016,6 +10016,7 @@
       "bundleIdentifier": "com.man.kuuflix.app",
       "bundleId": "com.man.kuuflix.app",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786972033317.png",
+      "localizedDescription": "modded version All its features have been opened and added with the following features :\n\n- Remove all annoying ads\n- Fully support pip mode\n- All resolutions are open for viewing and download\n- Add a button to copy the movie profile\n- Add a button to save the film cover",
       "category": "Entertainment",
       "versions": [
         {
@@ -10026,14 +10027,13 @@
         }
       ],
       "version": "2.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kumoflix_2.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kumoflix_2.2",
       "size": 32400998,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 384,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 384
     },
     {
       "id": "APP-1914843493",
@@ -10741,6 +10741,7 @@
       "bundleIdentifier": "com.kolka.tdgame",
       "bundleId": "com.kolka.tdgame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b8/f7/9cb8f7c4-8d2a-686e-fd1a-508081852465/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Automatically remove the ads .\n- Unlimited coins.\nHe has unlimited resources.\n- Maximize health.\n- Maximize ATK.\n- Maximize defense.\n- Maximize anger attack.\n- Reduce the waiting period for anger.",
       "category": "GAMES",
       "versions": [
         {
@@ -10751,14 +10752,13 @@
         }
       ],
       "version": "1.0.14",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-king-survival-hack",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-king-survival-hack",
       "size": 193986560,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 412,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 412
     },
     {
       "id": "APP-9108635455",
@@ -10865,6 +10865,7 @@
       "bundleIdentifier": "com.codigames.idle.supermarket.tycoon",
       "bundleId": "com.codigames.idle.supermarket.tycoon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/ee/a7/09eea708-020b-704a-b881-1faf3261dd7b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited funds.",
       "category": "GAMES",
       "versions": [
         {
@@ -10875,14 +10876,13 @@
         }
       ],
       "version": "4.2.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-supermarket-hack",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-supermarket-hack",
       "size": 165675008,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 417,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 417
     },
     {
       "id": "APP-9513334403",
@@ -11394,6 +11394,7 @@
       "bundleIdentifier": "com.nfg.lod.survival",
       "bundleId": "com.nfg.lod.survival",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/1d/f4/ce1df4b1-6d77-5d12-826d-e91fa5bdd843/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Add experience points.\n- Adding gold.\n- Reset water and food indicators.\n- Non-Death Mode.\n- Unlimited items of mail.\n- Freezing fuel.\n- Freeze Skill Points.",
       "category": "GAMES",
       "versions": [
         {
@@ -11404,14 +11405,13 @@
         }
       ],
       "version": "0.2.469",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/live-or-die-1-hack",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/live-or-die-1-hack",
       "size": 354838118,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 438,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 438
     },
     {
       "id": "APP-2815983090",
@@ -12359,6 +12359,7 @@
       "bundleIdentifier": "com.countdown.for.all.app",
       "bundleId": "com.countdown.for.all.app",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/0e/ae/830eae37-e636-7af2-abe3-be10e8574eb4/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -12369,14 +12370,13 @@
         }
       ],
       "version": "1.9",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-invitation-maker-countdown",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-invitation-maker-countdown",
       "size": 11953766,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 477,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 477
     },
     {
       "id": "APP-5244366786",
@@ -12409,6 +12409,7 @@
       "bundleIdentifier": "com.muscleandmotion.Anatomy",
       "bundleId": "com.muscleandmotion.Anatomy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/1c/59/e01c59cb-1a3f-4dd8-d6b0-e0e44e8c0686/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -12419,14 +12420,13 @@
         }
       ],
       "version": "3.2.4",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anatomy-learning-3d-atlas",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anatomy-learning-3d-atlas",
       "size": 141662617,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 479,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 479
     },
     {
       "id": "APP-4997745797",
@@ -12434,6 +12434,7 @@
       "bundleIdentifier": "com.gabrielvicente.anatomy",
       "bundleId": "com.gabrielvicente.anatomy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/2c/50/5b2c507c-0ee4-2cd4-785e-bf59a535f5bf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "paid App .",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -12444,14 +12445,13 @@
         }
       ],
       "version": "6.5",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/muscle-trigger-points",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/muscle-trigger-points",
       "size": 240753049,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 480,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 480
     },
     {
       "id": "APP-9813129633",
@@ -12459,6 +12459,7 @@
       "bundleIdentifier": "com.limepresso.logomaker",
       "bundleId": "com.limepresso.logomaker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/75/db/f475db42-6480-c91a-b635-e71cce2fb709/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -12469,14 +12470,13 @@
         }
       ],
       "version": "2.23.5",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/boon-ai-logo-maker-design",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/boon-ai-logo-maker-design",
       "size": 877867827,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 481,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 481
     },
     {
       "id": "APP-1301841260",
@@ -12484,6 +12484,7 @@
       "bundleIdentifier": "com.algotwist.profilepicturemaker",
       "bundleId": "com.algotwist.profilepicturemaker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/d2/c1/39d2c10c-49f4-ea82-0d94-0852010e77ab/AppIcon-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -12494,14 +12495,13 @@
         }
       ],
       "version": "1.2.4",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/profile-picture-maker-new-pfp",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/profile-picture-maker-new-pfp",
       "size": 49387929,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 482,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 482
     },
     {
       "id": "APP-7732656407",
@@ -12509,6 +12509,7 @@
       "bundleIdentifier": "com.gplexdb.musicplayeriphone",
       "bundleId": "com.gplexdb.musicplayeriphone",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/46/2d/08/462d08b0-01be-b38f-2f43-147edef41b04/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid App .",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -12519,14 +12520,13 @@
         }
       ],
       "version": "4.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rocket-video-cast",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rocket-video-cast",
       "size": 44564480,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 483,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 483
     },
     {
       "id": "APP-9655002722",
@@ -12559,6 +12559,7 @@
       "bundleIdentifier": "com.HSSN.VisAnatomy",
       "bundleId": "com.HSSN.VisAnatomy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/7d/ff/b87dff61-2500-6239-3728-136c9379495a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid App .",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -12569,14 +12570,13 @@
         }
       ],
       "version": "7.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/visual-anatomy",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/visual-anatomy",
       "size": 248302796,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 485,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 485
     },
     {
       "id": "APP-5240572868",
@@ -12584,6 +12584,7 @@
       "bundleIdentifier": "AB.iOsteology",
       "bundleId": "AB.iOsteology",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/fd/db/7efddb1d-cdcb-4bcc-8abf-3555402b53ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -12594,14 +12595,13 @@
         }
       ],
       "version": "5.40.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/easy_anatomy_3d_atlas",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/easy_anatomy_3d_atlas",
       "size": 1411173580,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 486,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 486
     },
     {
       "id": "APP-3787804347",
@@ -12609,6 +12609,7 @@
       "bundleIdentifier": "org.skydomain.foodcamera",
       "bundleId": "org.skydomain.foodcamera",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/8d/c2/178dc2a8-8ea1-8777-2597-6748683866fa/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -12619,14 +12620,13 @@
         }
       ],
       "version": "4.4.9",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/presets_-_filters_koloro",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/presets_-_filters_koloro",
       "size": 94476697,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 487,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 487
     },
     {
       "id": "APP-9463018724",
@@ -12634,6 +12634,7 @@
       "bundleIdentifier": "com.minerva-medical.fullcode",
       "bundleId": "com.minerva-medical.fullcode",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/44/d0/6444d03b-827a-dc10-3219-64afb1174fa7/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -12644,14 +12645,13 @@
         }
       ],
       "version": "3.7.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/full-code",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/full-code",
       "size": 81054924,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 488,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 488
     },
     {
       "id": "APP-8534005832",
@@ -12709,6 +12709,7 @@
       "bundleIdentifier": "com.hssn.anatomy3d",
       "bundleId": "com.hssn.anatomy3d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/74/28/59742839-3495-17f5-9c3d-a20d2bccf95a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid App .",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -12719,14 +12720,13 @@
         }
       ],
       "version": "6.7",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/3d-anatomy",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/3d-anatomy",
       "size": 136629452,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 491,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 491
     },
     {
       "id": "APP-5560691392",
@@ -12734,6 +12734,7 @@
       "bundleIdentifier": "com.protools.Watermark",
       "bundleId": "com.protools.Watermark",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/a0/52/1aa05285-5398-e7b9-7b3d-101a13fecef3/AppIconFree-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -12744,13 +12745,12 @@
         }
       ],
       "version": "3.7.57",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/logo-maker",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/logo-maker",
       "size": 70674022,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-6592405520",
@@ -13248,6 +13248,7 @@
       "bundleIdentifier": "leyi.westgamepro",
       "bundleId": "leyi.westgamepro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/d8/dd/14d8dd5c-9592-2ab2-23b0-a83f7edce1b7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Doubling the damage.\n- Double the defense.",
       "category": "GAMES",
       "versions": [
         {
@@ -13262,14 +13263,13 @@
         }
       ],
       "version": "1.8.0",
-      "versionDate": "2026-09-15",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/west-game-ii_1.8.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/west-game-ii_1.8.0",
       "size": 993420902,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-15",
-      "_rowKey": 512,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 512
     },
     {
       "id": "APP-3850547071",
@@ -13476,6 +13476,7 @@
       "bundleIdentifier": "net.peakgames.toonblast",
       "bundleId": "net.peakgames.toonblast",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/6d/7d/1a6d7d64-9a0f-ffdb-8659-213baa423351/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Increase items and coins.\n- Red blocks always appear.\n- Unlimited life.",
       "category": "GAMES",
       "versions": [
         {
@@ -13486,14 +13487,13 @@
         }
       ],
       "version": "7.2.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/toonblast",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/toonblast",
       "size": 181403648,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 521,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 521
     },
     {
       "id": "APP-7966257660",
@@ -13626,6 +13626,7 @@
       "bundleIdentifier": "com.tapblaze.pizzabusiness",
       "bundleId": "com.tapblaze.pizzabusiness",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/44/c6/c544c6ab-e981-b7c9-ae78-728c6b7cc189/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited money.\n- Unlimited diamonds.",
       "category": "GAMES",
       "versions": [
         {
@@ -13636,14 +13637,13 @@
         }
       ],
       "version": "5.53.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/good_pizza_great_pizza",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/good_pizza_great_pizza",
       "size": 373607628,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 527,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 527
     },
     {
       "id": "APP-7801158635",
@@ -13755,6 +13755,7 @@
       "bundleIdentifier": "com.3d4medical.EssentialAnatomyiPad",
       "bundleId": "com.3d4medical.EssentialAnatomyiPad",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/46/2c/08462c1c-e385-fe46-b1ab-8a063855f766/AppIconEA-1x_U007emarketing-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid App .",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -13765,14 +13766,13 @@
         }
       ],
       "version": "5.0.11",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/essentialanatomy5",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/essentialanatomy5",
       "size": 651060838,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 532,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 532
     },
     {
       "id": "APP-7711141722",
@@ -14053,6 +14053,7 @@
       "bundleIdentifier": "com.campmobile.snow",
       "bundleId": "com.campmobile.snow",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/9d/6e/7d9d6eb9-3054-4ee8-e3ed-217d46f23eb1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -14063,14 +14064,13 @@
         }
       ],
       "version": "15.3.8",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snow-ai-15.3.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snow-ai-15.3.8",
       "size": 143654912,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 544,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 544
     },
     {
       "id": "APP-9949465228",
@@ -14455,6 +14455,7 @@
       "bundleIdentifier": "com.imaginalis.HouseFlipperMobile",
       "bundleId": "com.imaginalis.HouseFlipperMobile",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/bf/a5/68bfa5ee-01d3-ff0d-dbe2-6a1536284789/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Unlimited coins when exchanging Flipcoins.\n- Flipcoins are unlimited when exchanged for cash.",
       "category": "GAMES",
       "versions": [
         {
@@ -14469,13 +14470,12 @@
         }
       ],
       "version": "1.691",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/house-flipper-home-design_1.691",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/house-flipper-home-design_1.691",
       "size": 675492659,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-2179948357",
@@ -14584,6 +14584,7 @@
       "bundleIdentifier": "com.livintis.chatty",
       "bundleId": "com.livintis.chatty",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5c/ee/cf5cee40-70b6-7230-1b71-fe126be7f9e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -14594,14 +14595,13 @@
         }
       ],
       "version": "2.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-chat-chatty.ai-chatbot-v2.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-chat-chatty.ai-chatbot-v2.0",
       "size": 52638515,
       "addedAt": "2026-08-25",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 73,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 73
     },
     {
       "id": "APP-3010082359",
@@ -14638,6 +14638,7 @@
       "bundleIdentifier": "app.scenebox.SceneBox",
       "bundleId": "app.scenebox.SceneBox",
       "iconURL": "https://m.media-amazon.com/images/I/51cNmo949NL.png",
+      "localizedDescription": "All troublesome ads has been removed.",
       "category": "Entertainment",
       "versions": [
         {
@@ -14648,14 +14649,13 @@
         }
       ],
       "version": "1.0.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scenebox-1.0.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scenebox-1.0.2",
       "size": 30303846,
       "addedAt": "2026-08-25",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 67,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 67
     },
     {
       "id": "APP-3944899455",
@@ -14916,6 +14916,7 @@
       "name": "Reels Templates Maker Pro",
       "bundleIdentifier": "com.ikiraplus.apps.reels-templates-maker-pro.bdf13a2a8c",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/c0/cc/e7c0cc0c-6453-76e2-200d-079e510d8d72/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -14926,14 +14927,13 @@
         }
       ],
       "version": "3.11.3",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reels-templates-maker-pro-v3.11.3",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reels-templates-maker-pro-v3.11.3",
       "size": 153930956,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 68,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 68
     },
     {
       "id": "APP-6017230883",
@@ -14941,6 +14941,7 @@
       "bundleIdentifier": "com.hammerandchisel.discord",
       "bundleId": "com.hammerandchisel.discord",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/54/bf/e954bfcc-dbe3-7531-99d9-1696ab804e46/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Discord's modded version adds several features and customization options:\n- Plugins support and control.\n- Support themes and customize the appearance of Discord.\n- Adding Fake Nitro and some Nitro features to the modded .\n- Additional options to customize the application interface.\n- Block Discord analytics and crash reports by default.\n- Additional settings and options built into Discord.",
       "category": "communication",
       "versions": [
         {
@@ -14955,20 +14956,20 @@
         }
       ],
       "version": "344.1",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/discord-344.1-raintweak-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/discord-344.1-raintweak-1",
       "size": 116496793,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-09-13",
-      "_rowKey": 69,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 69
     },
     {
       "id": "APP-5173825449",
       "name": "Draw It",
       "bundleIdentifier": "com.ikiraplus.apps.draw-it.560b893c98",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/49/99/3c499971-ca1a-1779-38a3-7f06b8509288/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and Vip membership have been unlocked.\n- Click Buy and then Cancel or register via Google Account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -14979,14 +14980,13 @@
         }
       ],
       "version": "1.0.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/draw-it-v1.0.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/draw-it-v1.0.2",
       "size": 124151398,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 1,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 1
     },
     {
       "id": "APP-6366936495",
@@ -15575,6 +15575,7 @@
       "bundleIdentifier": "com.concretesoftware.dragracingcar",
       "bundleId": "com.concretesoftware.dragracingcar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/31/e6/3731e675-b4df-65bc-9fdd-295d9438d3ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Features\n- Plenty of gold.\n- A large amount of money.",
       "category": "GAMES",
       "versions": [
         {
@@ -15589,14 +15590,13 @@
         }
       ],
       "version": "1.17.0",
-      "versionDate": "2026-09-15",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nhra-legends-of-drag-racing_1.17.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nhra-legends-of-drag-racing_1.17.0",
       "size": 476787507,
       "addedAt": "2026-08-28",
-      "updatedAt": "2026-09-15",
-      "_rowKey": 66,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 66
     },
     {
       "id": "APP-7227938576",
@@ -15828,6 +15828,7 @@
       "name": "Deep Rock Galactic Survivor",
       "bundleIdentifier": "com.ikiraplus.apps.deep-rock-galactic-survivor.ab65d2e297",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787930691425.png",
+      "localizedDescription": "Features\n- Non-Death Mode.\n- Double the attack.\n- Weaken enemies.\n- store free .\n- Unlock Premium benefits.",
       "category": "GAMES",
       "versions": [
         {
@@ -15838,14 +15839,13 @@
         }
       ],
       "version": "1.2.7",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/deep-rock-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/deep-rock-1",
       "size": 492201574,
       "addedAt": "2026-08-28",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 71,
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19",
+      "_rowKey": 71
     },
     {
       "id": "APP-2275123352",
@@ -16849,6 +16849,7 @@
       "bundleIdentifier": "net.pixelrabbit.l4e",
       "bundleId": "net.pixelrabbit.l4e",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/58/fd/3a58fd0a-614c-e423-bc90-05f39382cb18/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Non-death mode.\n- Eliminate enemies with one hit.\n- Collect resources immediately without waiting.\n- Unlimited coins.\n- Remove the ads .",
       "category": "GAMES",
       "versions": [
         {
@@ -16863,13 +16864,12 @@
         }
       ],
       "version": "1.0.3",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/left-4-exfil_1.0.3",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/left-4-exfil_1.0.3",
       "size": 386924544,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-4026720744",
@@ -17025,6 +17025,7 @@
       "bundleIdentifier": "com.playkot.ageofmagic",
       "bundleId": "com.playkot.ageofmagic",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/05/60/d005604c-d318-a8d5-d7a3-672184814d5a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Double the damage.\n- Non-death mode.",
       "category": "GAMES",
       "versions": [
         {
@@ -17039,13 +17040,12 @@
         }
       ],
       "version": "3.10.0",
-      "versionDate": "2026-09-15",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/age-of-magic-turn-based-rpg_3.10.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/age-of-magic-turn-based-rpg_3.10.0",
       "size": 585944268,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-4061970934",
@@ -18105,6 +18105,7 @@
       "bundleIdentifier": "reels-maker-one",
       "bundleId": "reels-maker-one",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/12/14/521214c3-d782-b1f7-5dd2-0fd7923cba84/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -18119,13 +18120,12 @@
         }
       ],
       "version": "1.26.1",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reels_maker_for_instagram_beat_v1.26.1_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reels_maker_for_instagram_beat_v1.26.1_subscription_unlocked",
       "size": 130442854,
       "addedAt": "2026-08-31",
-      "updatedAt": "2026-09-13",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-2286239621",
@@ -18185,6 +18185,7 @@
       "bundleIdentifier": "com.grandgames.carmatch",
       "bundleId": "com.grandgames.carmatch",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/e9/e0/0fe9e00c-f354-76e4-8c2c-2adc03ccc3bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Freezing currencies.\n- Unlimited coins that increase instead of decrease.\n- Complete the level automatically.\n- Possibility of adjusting the level.",
       "category": "GAMES",
       "versions": [
         {
@@ -18199,13 +18200,12 @@
         }
       ],
       "version": "0.0.1066",
-      "versionDate": "2026-09-05",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1066",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1066",
       "size": 197342003,
       "addedAt": "2026-08-31",
-      "updatedAt": "2026-09-05",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-1139121438",
@@ -18213,6 +18213,7 @@
       "bundleIdentifier": "com.stickpage.stickwar",
       "bundleId": "com.stickpage.stickwar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/a8/8a/35a88a6b-eeb1-1df7-5fa5-09fb70f39614/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Unlimited gold.\n- Unlimited gems.\n- Fast construction.",
       "category": "GAMES",
       "versions": [
         {
@@ -18223,13 +18224,12 @@
         }
       ],
       "version": "2026.1.932",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stick-war-legacy-v2026.1.932",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/stick-war-legacy-v2026.1.932",
       "size": 119432806,
       "addedAt": "2026-08-31",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-1361294902",
@@ -18529,6 +18529,7 @@
       "bundleIdentifier": "com.contentarcade.ThumbnailMaker",
       "bundleId": "com.contentarcade.ThumbnailMaker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/23/8b/59238bd7-30d0-e9a8-da06-72b83dd360bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -18539,13 +18540,12 @@
         }
       ],
       "version": "15.2",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/thumbnail-maker-for-ytstudio_15.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/thumbnail-maker-for-ytstudio_15.2",
       "size": 537814630,
       "addedAt": "2026-09-01",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-1517741741",
@@ -18553,6 +18553,7 @@
       "bundleIdentifier": "com.thumbnailmaker.bannermaker",
       "bundleId": "com.thumbnailmaker.bannermaker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/0d/f0/be0df065-c694-fbf6-8800-29c3a8633972/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -18563,13 +18564,12 @@
         }
       ],
       "version": "1.34",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/thumbnail-maker-banner-maker_1.34",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/thumbnail-maker-banner-maker_1.34",
       "size": 208247193,
       "addedAt": "2026-09-01",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-4316371832",
@@ -18697,6 +18697,7 @@
       "bundleIdentifier": "com.healthAI.baithek",
       "bundleId": "com.healthAI.baithek",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/ee/8e/1bee8ea7-c9b2-f7fe-a744-b79fc533e9b6/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -18707,13 +18708,12 @@
         }
       ],
       "version": "3.4",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chatbot-ai-healthcare",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chatbot-ai-healthcare",
       "size": 23173529,
       "addedAt": "2026-09-01",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-5828793024",
@@ -19345,6 +19345,7 @@
       "bundleIdentifier": "com.adobe.fresco.ios",
       "bundleId": "com.adobe.fresco.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/f3/e5/04f3e503-2cb0-e472-140c-bdf05d84dfc7/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -19355,13 +19356,12 @@
         }
       ],
       "version": "7.7.0",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe_fresco_draw_-_paint_app_v7.7.0_subscription_unlocked",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe_fresco_draw_-_paint_app_v7.7.0_subscription_unlocked",
       "size": 812122112,
       "addedAt": "2026-09-02",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-2091091653",
@@ -19393,6 +19393,7 @@
       "bundleIdentifier": "com.typhon6.halo.bridge4",
       "bundleId": "com.typhon6.halo.bridge4",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.typhon6.halo.bridge4.png",
+      "localizedDescription": "modded version All its features have been unlocked and many more features have been added:\n\n- Remove all annoying ads\n- Fully support pip mode\n- All types of resolution are open for viewing, including download\n- Add a button to copy the movie synopsis\n- Add a button to save movie covers",
       "category": "Entertainment",
       "versions": [
         {
@@ -19403,13 +19404,12 @@
         }
       ],
       "version": "1.5",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lortv-pro_1.5-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lortv-pro_1.5-1",
       "size": 34812723,
       "addedAt": "2026-09-02",
-      "updatedAt": "2026-09-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "APP-2549763655",
@@ -20341,6 +20341,7 @@
       "bundleIdentifier": "org.smartselwady.wegooal",
       "bundleId": "org.smartselwady.wegooal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/14/16/8914163b-a1d2-fd31-4712-f03b6ff24e27/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All annoying ads have been removed.",
       "category": "Entertainment",
       "versions": [
         {
@@ -20351,13 +20352,12 @@
         }
       ],
       "version": "2.0.1",
-      "versionDate": "2026-09-05",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/we-goal-v2.0.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/we-goal-v2.0.1",
       "size": 9751756,
       "addedAt": "2026-09-05",
-      "updatedAt": "2026-09-05",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788637245244",
@@ -20869,6 +20869,7 @@
       "bundleIdentifier": "com.somniumfabri.nuclearday",
       "bundleId": "com.somniumfabri.nuclearday",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/bb/6a/40bb6a78-3cfb-57a0-fbfe-556bd8a9a2af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Hunger indicator does not run out.\n- Water indicator does not run out.\n- Unlimited health.\n- Unlimited energy.\n- Prevent the effect of radiation.",
       "category": "GAMES",
       "versions": [
         {
@@ -20879,13 +20880,12 @@
         }
       ],
       "version": "1.2.9",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nuclear-day-survival_1.2.9",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nuclear-day-survival_1.2.9",
       "size": 805096652,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788707714204",
@@ -20893,6 +20893,7 @@
       "bundleIdentifier": "com.sku.action.war.survival.games",
       "bundleId": "com.sku.action.war.survival.games",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/a0/91/f0a09134-2b58-4dd8-b5ef-8a017a510306/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Automatically remove ads .\n- free upgrades at zero cost.\n- Collect coins and resources quickly.\n- Increased modded attack and shooting.\n- Summon unlimited troops.\n- Enhance unit damage.\n- Customize attack settings.",
       "category": "GAMES",
       "versions": [
         {
@@ -20903,13 +20904,12 @@
         }
       ],
       "version": "1.4.0",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/real-war-survival-game_1.4.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/real-war-survival-game_1.4.0",
       "size": 370671616,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788707775177",
@@ -20917,6 +20917,7 @@
       "bundleIdentifier": "com.bilibilihk.jujutsuphanparaios",
       "bundleId": "com.bilibilihk.jujutsuphanparaios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/ce/71/39ce7188-402e-d9ce-622a-9b0e306efd44/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Double the damage.\n- Double the defense.\n- Unlimited power points.\n- Unlimited EN energy.\n- Special skills always remain active.",
       "category": "GAMES",
       "versions": [
         {
@@ -20927,13 +20928,12 @@
         }
       ],
       "version": "3.8.0",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jujutsu-kaisen-phantom-parade_3.8.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jujutsu-kaisen-phantom-parade_3.8.0",
       "size": 583427686,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788710261173",
@@ -20965,6 +20965,7 @@
       "bundleIdentifier": "com.Trailmix.LoveAndPiesMerge",
       "bundleId": "com.Trailmix.LoveAndPiesMerge",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/47/22/a74722b8-16bc-2790-956f-e98c01e1dfb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Unlimited coins.\n- Unlimited gems.\n- Unlimited energy.\n- Unlimited stars.\n- Complete orders directly.\n- Complete all orders.\n- Removing obstacles.\n- Open all storage slots.",
       "category": "GAMES",
       "versions": [
         {
@@ -20975,13 +20976,12 @@
         }
       ],
       "version": "0.83.1",
-      "versionDate": "2026-09-06",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/love-pies-merge-mystery_0.83.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/love-pies-merge-mystery_0.83.1",
       "size": 466511462,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1788710476250",
@@ -21553,6 +21553,7 @@
       "bundleIdentifier": "com.videosubtitle.ai.CaptionsAI",
       "bundleId": "com.videosubtitle.ai.CaptionsAI",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/e6/9b/89e69b53-88d2-d509-1bbb-e092900a9cfe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -21563,13 +21564,12 @@
         }
       ],
       "version": "1.9.3",
-      "versionDate": "2026-09-12",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/quick-captions-auto-subtitles_1.9.3",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/quick-captions-auto-subtitles_1.9.3",
       "size": 50226790,
       "addedAt": "2026-09-12",
-      "updatedAt": "2026-09-12",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789234854586",
@@ -21673,6 +21673,7 @@
       "bundleIdentifier": "com.survival.dawn",
       "bundleId": "com.survival.dawn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/d6/e6/c9d6e6a5-31ce-8882-3dd7-9611f9a9c7fc/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Double the damage.\n- Double the defense.\n- Double the speed.\n- Increased penetration ability.\n- No energy consumption.\n- Reach the maximum level after gaining some experience points.",
       "category": "GAMES",
       "versions": [
         {
@@ -21687,13 +21688,12 @@
         }
       ],
       "version": "2.278",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/doz-2.278-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/doz-2.278-1",
       "size": 1169476812,
       "addedAt": "2026-09-12",
-      "updatedAt": "2026-09-13",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789236428508",
@@ -21821,6 +21821,7 @@
       "bundleIdentifier": "com.picretouch.photoeditor",
       "bundleId": "com.picretouch.photoeditor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/45/59/2c4559fe-7f40-4f0b-18d7-a63572b5715c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -21831,13 +21832,12 @@
         }
       ],
       "version": "1.2.1",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/remove_objects_ai_retouch_v1.2.1_subscription_unlocked_patched",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/remove_objects_ai_retouch_v1.2.1_subscription_unlocked_patched",
       "size": 42467328,
       "addedAt": "2026-09-13",
-      "updatedAt": "2026-09-13",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789238125131",
@@ -22037,6 +22037,7 @@
       "bundleIdentifier": "com.MattSutton.BookPal",
       "bundleId": "com.MattSutton.BookPal",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/11/1f/a1111f07-7ea5-50f4-6d36-38c2c500c9b7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22047,13 +22048,12 @@
         }
       ],
       "version": "1.4",
-      "versionDate": "2026-09-13",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-book-summaries-bookpal_1.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-book-summaries-bookpal_1.4",
       "size": 23697817,
       "addedAt": "2026-09-13",
-      "updatedAt": "2026-09-13",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789325286055",
@@ -22133,6 +22133,7 @@
       "bundleIdentifier": "com.breboucas.inglesparaviajar",
       "bundleId": "com.breboucas.inglesparaviajar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ce/ce/eacece2b-5e62-3153-86f0-7e0735bbf487/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22143,13 +22144,12 @@
         }
       ],
       "version": "6.0.19",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-english-beginners_6.0.19",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-english-beginners_6.0.19",
       "size": 164416716,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789325756480",
@@ -22181,6 +22181,7 @@
       "bundleIdentifier": "com.templyvideo.Temply",
       "bundleId": "com.templyvideo.Temply",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/4c/01/fc4c0198-ce34-df2c-78c9-86029a9b089a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "PUNCH TOOL",
       "versions": [
         {
@@ -22191,13 +22192,12 @@
         }
       ],
       "version": "8.3.1",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/temply-ai-video-reels-maker_8.3.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/temply-ai-video-reels-maker_8.3.1",
       "size": 135266304,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789371610187",
@@ -22229,6 +22229,7 @@
       "bundleIdentifier": "com.tile.travel.triple.match",
       "bundleId": "com.tile.travel.triple.match",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/da/65/1eda6543-185d-ea1e-de28-f62eaa75dbbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Unlimited coins.\n- Unlimited aid.\n- Unlimited stars.\n- Remove the ads .",
       "category": "GAMES",
       "versions": [
         {
@@ -22239,13 +22240,12 @@
         }
       ],
       "version": "2.4.8",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.4.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.4.8",
       "size": 578499379,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789371721347",
@@ -22253,6 +22253,7 @@
       "bundleIdentifier": "com.breboucas.coreanoparaviajar",
       "bundleId": "com.breboucas.coreanoparaviajar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/27/ef/4e27efad-8abe-14ea-c72a-73f7d385563b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22263,13 +22264,12 @@
         }
       ],
       "version": "6.0.19",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-korean-beginners_6.0.19",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-korean-beginners_6.0.19",
       "size": 164626432,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789371742150",
@@ -22277,6 +22277,7 @@
       "bundleIdentifier": "com.breboucas.portuguesparaviajar",
       "bundleId": "com.breboucas.portuguesparaviajar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/db/63/cfdb63ac-aa10-b658-8475-3f033f4ed23d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22287,13 +22288,12 @@
         }
       ],
       "version": "6.0.19",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-portuguese-beginners_6.0.19",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-portuguese-beginners_6.0.19",
       "size": 166304153,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789371768727",
@@ -22301,6 +22301,7 @@
       "bundleIdentifier": "com.breboucas.italianoparaviajar",
       "bundleId": "com.breboucas.italianoparaviajar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/37/10/bc37107a-bff7-c437-0f36-2e65e25e7b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22311,13 +22312,12 @@
         }
       ],
       "version": "6.0.19",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-italian-beginners_6.0.19",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-italian-beginners_6.0.19",
       "size": 164941004,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789371785034",
@@ -22325,6 +22325,7 @@
       "bundleIdentifier": "com.breboucas.russoparaviajar",
       "bundleId": "com.breboucas.russoparaviajar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/86/9c/d0869c14-c5cb-70c3-a822-ef603eac478d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22335,13 +22336,12 @@
         }
       ],
       "version": "6.0.19",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-russian-beginners_6.0.19",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-russian-beginners_6.0.19",
       "size": 165360435,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789371812905",
@@ -22349,6 +22349,7 @@
       "bundleIdentifier": "com.breboucas.espanholparaviajar",
       "bundleId": "com.breboucas.espanholparaviajar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/df/86/97df86c2-2793-5d61-ca8a-8d10aa277e6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22359,13 +22360,12 @@
         }
       ],
       "version": "6.0.19",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-spanish-beginners_6.0.19",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-spanish-beginners_6.0.19",
       "size": 164731289,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789371863694",
@@ -22445,6 +22445,7 @@
       "bundleIdentifier": "com.breboucas.francesparaviajar",
       "bundleId": "com.breboucas.francesparaviajar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/be/14/93be1461-5f9a-e869-a037-c97cea0b41ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22455,13 +22456,12 @@
         }
       ],
       "version": "6.0.19",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-french-beginners_6.0.19",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-french-beginners_6.0.19",
       "size": 163158425,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789372445466",
@@ -22469,6 +22469,7 @@
       "bundleIdentifier": "com.breboucas.alemaoparaviajar",
       "bundleId": "com.breboucas.alemaoparaviajar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/0b/f7/c40bf7a1-5d5c-0861-9f90-19ac1f51015e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22479,13 +22480,12 @@
         }
       ],
       "version": "6.0.19",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/learn-german-beginners_6.0.19",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/learn-german-beginners_6.0.19",
       "size": 165255577,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789402559172",
@@ -22928,6 +22928,7 @@
       "bundleIdentifier": "com.skycode.SkyCode-Translate-En-It",
       "bundleId": "com.skycode.SkyCode-Translate-En-It",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/2e/f3/d72ef34a-0bca-e5f2-297f-d49de320a411/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid application.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22938,13 +22939,12 @@
         }
       ],
       "version": "3.001",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/translate-offline-italian-pro",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/translate-offline-italian-pro",
       "size": 45298483,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789406263909",
@@ -22952,6 +22952,7 @@
       "bundleIdentifier": "com.skycode.SkyCode-Translate-En-De",
       "bundleId": "com.skycode.SkyCode-Translate-En-De",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/11/31/ad1131e6-3838-0970-88f2-73f424db2886/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid application.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22962,13 +22963,12 @@
         }
       ],
       "version": "3.001",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/translate-offline-german-pro",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/translate-offline-german-pro",
       "size": 43830476,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789406296652",
@@ -22976,6 +22976,7 @@
       "bundleIdentifier": "com.skycode.SkyCode-Translate-En-Fr",
       "bundleId": "com.skycode.SkyCode-Translate-En-Fr",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/58/05/ed5805af-6a37-a361-617f-7d4b1dfdfc87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid application.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -22986,13 +22987,12 @@
         }
       ],
       "version": "3.001",
-      "versionDate": "2026-09-14",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/translate-offline-french-pro",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/translate-offline-french-pro",
       "size": 46976204,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-14",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789406331604",
@@ -23888,6 +23888,7 @@
       "bundleIdentifier": "com.tummygames.marblerun",
       "bundleId": "com.tummygames.marblerun",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/15/b0/6b15b086-c9b1-a2ee-ae23-5fa1e0478d52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Unlimited money.\n- Remove the ads .\n- activation Fake purchase.\n- activation Phantom purchase does not require exiting the game.\n- For activation the rest of the features, activate them from the modifications menu and then restart the game.",
       "category": "GAMES",
       "versions": [
         {
@@ -23898,13 +23899,12 @@
         }
       ],
       "version": "67.1.0",
-      "versionDate": "2026-09-15",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/marble-run-ultimate-race-asmr_67.1.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/marble-run-ultimate-race-asmr_67.1.0",
       "size": 399612313,
       "addedAt": "2026-09-15",
-      "updatedAt": "2026-09-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789499412091",
@@ -23936,6 +23936,7 @@
       "bundleIdentifier": "com.rome.caesar.war.strategy.conqueror.games.2021",
       "bundleId": "com.rome.caesar.war.strategy.conqueror.games.2021",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/c0/e8/50c0e8c7-87bc-425e-7a5c-811662813b79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features:\n- Double the damage.\n- Double the defense.\n- Unlimited silver.\n- Unlimited gold.\n- Unlimited medals.",
       "category": "GAMES",
       "versions": [
         {
@@ -23946,13 +23947,12 @@
         }
       ],
       "version": "1200",
-      "versionDate": "2026-09-15",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/grand-war-rome-strategy-games_1200",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/grand-war-rome-strategy-games_1200",
       "size": 1600965836,
       "addedAt": "2026-09-15",
-      "updatedAt": "2026-09-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789499558347",
@@ -24008,6 +24008,7 @@
       "bundleIdentifier": "com.brantley.Storybook",
       "bundleId": "com.brantley.Storybook",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/64/f4/1264f481-5b93-15ce-f7ec-158367e937c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership have been unlocked.\n- Click buy, then cancel, or register via a Google account.",
       "category": "Study and Artificial Intelligence",
       "versions": [
         {
@@ -24018,13 +24019,12 @@
         }
       ],
       "version": "3.9.0",
-      "versionDate": "2026-09-15",
+      "versionDate": "2026-09-19",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/author-ai-novel-writing_3.9.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/author-ai-novel-writing_3.9.0",
       "size": 191889408,
       "addedAt": "2026-09-15",
-      "updatedAt": "2026-09-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-19"
     },
     {
       "id": "app-1789500043792",
