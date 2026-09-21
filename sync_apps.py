@@ -952,6 +952,117 @@ _translate_rate_limiter = _SlidingWindowRateLimiter(TRANSLATE_MAX_REQUESTS_PER_M
 
 
 GLOSSARY = {
+    # App/mod terminology — protected before machine translation so it is not translated literally.
+    "مميزات التطبيق": "App features",
+    "مميزات اللعبة": "Game features",
+    "مميزات الهاك": "Mod features",
+    "طريقة التفعيل": "Activation",
+    "طريقة التثبيت": "Installation",
+    "لتفعيل المميزات": "To enable the features",
+    "تم فتح جميع المميزات وعضوية الـVip": "All features and VIP membership unlocked",
+    "تم فتح جميع المميزات وعضوية الـVIP": "All features and VIP membership unlocked",
+    "تم فتح جميع المميزات": "All features unlocked",
+    "تم فتح جميع ميزاتها": "All features unlocked",
+    "فتح جميع المميزات": "All features unlocked",
+    "فتح جميع ميزات البريميوم": "All Premium features unlocked",
+    "فتح جميع مميزات البريميوم": "All Premium features unlocked",
+    "فتح جميع ميزات الاشتراك": "All subscription features unlocked",
+    "فتح جميع المشتريات والمحتويات داخل اللعبة": "All in-game purchases and content unlocked",
+    "المشتريات داخل اللعبة مجاناً": "Free in-app purchases",
+    "المشتريات داخل اللعبة مجانا": "Free in-app purchases",
+    "مشتريات داخل التطبيق مجاناً": "Free in-app purchases",
+    "مشتريات داخل التطبيق مجانا": "Free in-app purchases",
+    "مشتريات داخلية مجانية": "Free in-app purchases",
+    "الشراء الوهمي": "Fake IAP",
+    "تفعيل الشراء الوهمي": "Fake IAP enabled",
+    "إزالة جميع الإعلانات المزعجة": "All ads removed",
+    "ازالة جميع الاعلانات المزعجة": "All ads removed",
+    "إزالة الإعلانات": "Ads removed",
+    "ازالة الاعلانات": "Ads removed",
+    "بدون إعلانات": "Ad-free",
+    "بدون اعلانات": "Ad-free",
+    "المحتوى الدعائي": "sponsored content",
+    "وضع عدم الموت": "God Mode",
+    "عدم الموت": "God Mode",
+    "قتل بضربة واحدة": "One-hit kill",
+    "القضاء على الأهداف بضربة واحدة": "One-hit kill",
+    "القتل الفوري": "Instant kill",
+    "قتل تلقائي": "Auto kill",
+    "تصويب تلقائي": "Aimbot",
+    "Aim Bot": "Aimbot",
+    "رؤية عبر الجدران": "Wallhack",
+    "إزالة ارتداد السلاح": "No recoil",
+    "ازالة ارتداد السلاح": "No recoil",
+    "إزالة تشتّت الرصاص": "No bullet spread",
+    "إزالة تشتت الرصاص": "No bullet spread",
+    "انعدام التشتت": "No bullet spread",
+    "مود المنيو": "Mod Menu",
+    "قائمة المود": "Mod Menu",
+    "قائمة مود": "Mod Menu",
+    "Anti-Cheat": "Anti-Cheat",
+    "تجاوز نظام Anti-Cheat": "Anti-Cheat bypass",
+    "حماية Anti-Ban": "Anti-Ban protection",
+    "Anti-Ban": "Anti-Ban",
+    "ESP": "ESP",
+    "Aimbot": "Aimbot",
+    "iGameGod": "iGameGod",
+    "iGMM": "iGMM",
+    "وضع الشبح": "Ghost Mode",
+    "Ghost Mode": "Ghost Mode",
+    "مشاهدة القصص بدون تسجيل المشاهدة": "View stories anonymously",
+    "مشاهدة القصص بشكل مخفي": "View stories anonymously",
+    "إخفاء قراءة الرسائل": "Hide read receipts",
+    "إخفاء حالة قراءة الرسائل": "Hide read receipts",
+    "إخفاء مؤشر الكتابة": "Hide typing indicator",
+    "الاحتفاظ بالرسائل المحذوفة": "Keep deleted messages",
+    "الرسائل المحذوفة": "deleted messages",
+    "الوسائط المعروضة لمرة واحدة": "view-once media",
+    "وسائط العرض لمرة واحدة": "view-once media",
+    "تغيير الموقع الجغرافي": "location spoofing",
+    "موقع وهمي": "spoofed location",
+    "تغيير الجهاز": "device spoofing",
+    "تجاوز قيود الحفظ": "bypass saving restrictions",
+    "تجاوز قيود إعادة التوجيه": "bypass forwarding restrictions",
+    "تشغيل الصوت في الخلفية": "background audio playback",
+    "التنزيل في الخلفية": "background downloads",
+    "تنزيل في الخلفية": "background downloads",
+    "Picture in Picture": "Picture in Picture",
+    "PiP": "PiP",
+    "SponsorBlock": "SponsorBlock",
+    "Return YouTube Dislike": "Return YouTube Dislike",
+    "تخطي المقاطع الدعائية": "skip sponsored segments",
+    "تخطي كشف الجلبريك": "jailbreak detection bypass",
+    "تجاوز كشف الجلبريك": "jailbreak detection bypass",
+    "كشف الجلبريك": "jailbreak detection",
+    "بدون جلبريك": "no jailbreak required",
+    "ذهب غير محدود": "Unlimited gold",
+    "جواهر غير محدودة": "Unlimited gems",
+    "عملات غير محدودة": "Unlimited coins",
+    "أموال غير محدودة": "Unlimited money",
+    "نقود غير محدودة": "Unlimited money",
+    "مفاتيح غير محدودة": "Unlimited keys",
+    "ذخيرة غير محدودة": "Unlimited ammo",
+    "طاقة غير محدودة": "Unlimited energy",
+    "حياة غير محدودة": "Unlimited lives",
+    "نقاط حياة غير محدودة": "Unlimited HP",
+    "نقاط خبرة غير محدودة": "Unlimited XP",
+    "معزّزات غير محدودة": "Unlimited boosters",
+    "معززات غير محدودة": "Unlimited boosters",
+    "نجوم غير محدودة": "Unlimited stars",
+    "نيترو غير محدود": "Unlimited nitro",
+    "قفزات غير محدودة": "Unlimited jumps",
+    "قفزة عالية": "High jump",
+    "فتح جميع الأسلحة": "All weapons unlocked",
+    "فتح جميع المستويات": "All levels unlocked",
+    "فتح جميع المحتويات المميزة": "All premium content unlocked",
+    "الوصول إلى أعلى مستوى": "Max level",
+    "المستوى الأقصى": "Max level",
+    "تسريع اللعبة": "Game speed",
+    "موارد مجانية": "Free resources",
+    "تجميد العملات": "Freeze coins",
+    "تجميد الجواهر": "Freeze gems",
+    "العملات والجواهر لا تنقص عند الاستخدام": "Coins and gems do not decrease when used",
+
     "شهادة مدفوعة": "paid certificate",
     "شهاده مدفوعه": "paid certificate",
     "شهادات مدفوعة": "paid certificates",
@@ -1134,23 +1245,67 @@ def _translate_via_google(protected_text):
 
 
 def _translate_line_to_english(text):
-    text = clean_text(text)
+    text = clean_text_keep_lines(text)
     if not text:
         return ""
 
     protected_text, glossary_tokens = _protect_glossary_terms(text)
 
     try:
-        result = _translate_via_mymemory(protected_text)
-    except Exception as mymemory_error:
+        # Google is usually faster and more consistent for technical app/mod descriptions.
+        result = _translate_via_google(protected_text)
+    except Exception as google_error:
         try:
-            result = _translate_via_google(protected_text)
-        except Exception as google_error:
+            result = _translate_via_mymemory(protected_text)
+        except Exception as mymemory_error:
             raise RuntimeError(
-                f"All translation providers failed — MyMemory: {mymemory_error} | Google: {google_error}"
+                f"All translation providers failed — Google: {google_error} | MyMemory: {mymemory_error}"
             )
 
     return _restore_glossary_terms(result, glossary_tokens)
+
+
+TRANSLATION_CHUNK_CHARS = int(os.getenv("TRANSLATION_CHUNK_CHARS", "800"))
+
+
+def _split_translation_chunks(text, limit=None):
+    """Split long descriptions into a few safe URL-sized chunks, never one request per bullet line."""
+    text = clean_text_keep_lines(text)
+    if not text:
+        return []
+
+    limit = max(300, int(limit or TRANSLATION_CHUNK_CHARS))
+    if len(text) <= limit:
+        return [text]
+
+    chunks = []
+    current = []
+    current_len = 0
+
+    # Keep line boundaries so feature lists remain readable, but pack many lines into one request.
+    for line in text.split("\n"):
+        piece_len = len(line) + (1 if current else 0)
+        if current and current_len + piece_len > limit:
+            chunks.append("\n".join(current).strip())
+            current = [line]
+            current_len = len(line)
+        elif len(line) > limit:
+            if current:
+                chunks.append("\n".join(current).strip())
+                current = []
+                current_len = 0
+            start = 0
+            while start < len(line):
+                chunks.append(line[start:start + limit])
+                start += limit
+        else:
+            current.append(line)
+            current_len += piece_len
+
+    if current:
+        chunks.append("\n".join(current).strip())
+
+    return [chunk for chunk in chunks if chunk]
 
 
 def translate_to_english(text):
@@ -1159,12 +1314,9 @@ def translate_to_english(text):
     if not text:
         return ""
 
-    lines = text.split("\n")
-    translated_lines = [
-        _translate_line_to_english(line) if line.strip() else ""
-        for line in lines
-    ]
-    return "\n".join(translated_lines).strip()
+    chunks = _split_translation_chunks(text)
+    translated_chunks = [_translate_line_to_english(chunk) for chunk in chunks]
+    return "\n".join(chunk for chunk in translated_chunks if chunk).strip()
 
 
 def app_identity_for_translation(app):
@@ -1181,7 +1333,7 @@ TRANSLATE_WORKERS = int(os.getenv("TRANSLATE_WORKERS", "3"))
 EN_SOURCE_URL = "https://ikiraplus.pages.dev/IPA-EN.json"
 
 
-TRANSLATION_FORMAT_VERSION = 3
+TRANSLATION_FORMAT_VERSION = 4
 
 
 def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
@@ -1238,7 +1390,7 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
 
     failed = 0
     if pending:
-        print(f"🌐 Translating {len(pending)} app(s) using up to {TRANSLATE_WORKERS} workers")
+        print(f"🌐 Translating {len(pending)} app(s) using up to {TRANSLATE_WORKERS} workers", flush=True)
         with ThreadPoolExecutor(max_workers=min(TRANSLATE_WORKERS, len(pending))) as executor:
             future_to_item = {
                 executor.submit(translate_to_english, arabic_description): (app, arabic_description, fallback_english)
@@ -1250,7 +1402,7 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
                 try:
                     app["localizedDescription"] = future.result()
                     translated += 1
-                    print(f"🌐 Translated ({translated}/{len(pending)}): {app_label}")
+                    print(f"🌐 Translated ({translated}/{len(pending)}): {app_label}", flush=True)
                 except Exception as exc:
                     failed += 1
                     if fallback_english:
