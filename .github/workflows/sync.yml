@@ -10,33 +10,33 @@ permissions:
 
 concurrency:
   group: sync-ipa-ar-en
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
-  sync:
+  sync-ar:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 20
 
     steps:
       - name: Checkout freeapps
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 2
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
+      - name: Preserve previous Arabic source for EN diff
+        run: |
+          cp IPA-AR.json previous_IPA-AR.json
+
       - name: Download latest jom.json
         shell: bash
         run: |
           set -euo pipefail
-          curl -fsSL \
-            --retry 3 \
-            --retry-delay 2 \
-            'https://raw.githubusercontent.com/ikiraplus/ipastore/main/jom.json' \
-            -o source_jom.json
+          curl -fsSL             --retry 5             --retry-delay 2             --retry-all-errors             'https://raw.githubusercontent.com/ikiraplus/ipastore/main/jom.json'             -o source_jom.json
 
           python - <<'PY'
           import json
@@ -48,53 +48,124 @@ jobs:
           print(f'✅ source apps downloaded: {len(apps)}')
           PY
 
-      - name: Sync IPA-AR.json + IPA-EN.json
+      - name: Sync Arabic source only
         env:
-          TRANSLATE_WORKERS: '3'
-          TRANSLATE_MAX_RPM: '20'
+          PYTHONUNBUFFERED: '1'
         run: |
           set -euo pipefail
-          python sync_apps.py \
-            --source source_jom.json \
-            --target IPA-AR.json \
-            --target-en IPA-EN.json
+          python -u sync_apps.py             --source source_jom.json             --target IPA-AR.json
 
-      - name: Show sync summary
+      - name: Validate Arabic source
         run: |
           python - <<'PY'
           import json
-          for path in ('IPA-AR.json', 'IPA-EN.json'):
-              with open(path, 'r', encoding='utf-8') as f:
-                  data = json.load(f)
-              apps = [a for a in data.get('apps', []) if isinstance(a, dict)]
-              two_versions = sum(1 for a in apps if len(a.get('versions', [])) == 2)
-              one_version = sum(1 for a in apps if len(a.get('versions', [])) == 1)
-              print(f'✅ apps in {path}: {len(apps)}')
-              print(f'✅ {path} apps with 2 versions: {two_versions}')
-              print(f'✅ {path} apps with 1 version: {one_version}')
-              print(f"✅ first app in {path}: {apps[0].get('name') if apps else 'NONE'}")
-
-          ar = json.load(open('IPA-AR.json', 'r', encoding='utf-8'))
-          en = json.load(open('IPA-EN.json', 'r', encoding='utf-8'))
-          if len(ar.get('apps', [])) != len(en.get('apps', [])):
-              raise SystemExit('❌ IPA-AR.json and IPA-EN.json have different app counts')
-          print('✅ AR/EN app counts match')
+          with open('IPA-AR.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+          apps = [a for a in data.get('apps', []) if isinstance(a, dict)]
+          if not apps:
+              raise SystemExit('❌ IPA-AR.json has no apps')
+          print(f'✅ IPA-AR apps: {len(apps)}')
+          print(f"✅ first app: {apps[0].get('name')}")
           PY
 
-      - name: Commit only when AR or EN changed
+      - name: Upload previous Arabic source for EN translation
+        uses: actions/upload-artifact@v4
+        with:
+          name: previous-ipa-ar
+          path: previous_IPA-AR.json
+          retention-days: 1
+          if-no-files-found: error
+
+      - name: Commit Arabic changes immediately
         shell: bash
         run: |
           set -euo pipefail
-          rm -f source_jom.json
+          rm -f source_jom.json previous_IPA-AR.json
 
-          if git diff --quiet -- IPA-AR.json IPA-EN.json; then
-            echo '✅ No changes in IPA-AR.json or IPA-EN.json — nothing to commit.'
+          if git diff --quiet -- IPA-AR.json; then
+            echo '✅ No Arabic changes — nothing to commit.'
             exit 0
           fi
 
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
-          git add IPA-AR.json IPA-EN.json
-          git commit -m 'Auto sync IPA-AR and IPA-EN source'
+          git add IPA-AR.json
+          git commit -m 'Auto sync IPA-AR source [skip ci]'
+          git pull --rebase origin main
+          git push
+
+  sync-en:
+    needs: sync-ar
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout latest freeapps
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 2
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download previous Arabic source
+        uses: actions/download-artifact@v4
+        with:
+          name: previous-ipa-ar
+          path: .
+
+      - name: Translate only changed descriptions to English
+        env:
+          PYTHONUNBUFFERED: '1'
+          TRANSLATE_WORKERS: '6'
+          TRANSLATE_MAX_RPM: '45'
+          TRANSLATION_CHUNK_CHARS: '800'
+        run: |
+          set -euo pipefail
+          python -u sync_apps.py             --translate-only             --target IPA-AR.json             --target-en IPA-EN.json             --old-target previous_IPA-AR.json
+
+      - name: Validate English source
+        run: |
+          python - <<'PY'
+          import json
+
+          with open('IPA-AR.json', 'r', encoding='utf-8') as f:
+              ar = json.load(f)
+          with open('IPA-EN.json', 'r', encoding='utf-8') as f:
+              en = json.load(f)
+
+          ar_apps = [a for a in ar.get('apps', []) if isinstance(a, dict)]
+          en_apps = [a for a in en.get('apps', []) if isinstance(a, dict)]
+
+          if len(ar_apps) != len(en_apps):
+              raise SystemExit(f'❌ AR/EN app counts differ: {len(ar_apps)} != {len(en_apps)}')
+
+          empty_en = sum(1 for a in en_apps if not str(a.get('localizedDescription') or '').strip())
+          print(f'✅ AR apps: {len(ar_apps)}')
+          print(f'✅ EN apps: {len(en_apps)}')
+          print(f'ℹ️ EN descriptions currently empty: {empty_en}')
+          print(f"✅ translation format: {en.get('translationFormatVersion')}")
+          PY
+
+      - name: Commit English changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -f previous_IPA-AR.json
+
+          if git diff --quiet -- IPA-EN.json; then
+            echo '✅ No English changes — nothing to commit.'
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add IPA-EN.json
+          git commit -m 'Auto sync IPA-EN source [skip ci]'
+          git pull --rebase origin main
           git push
