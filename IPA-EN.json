@@ -36,7 +36,8 @@
         {
           "version": "447.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/regramcracked-447.0.0-v6.1",
-          "date": "2026-09-21"
+          "date": "2026-09-22",
+          "size": 609432371
         },
         {
           "version": "445.0.0",
@@ -44,12 +45,12 @@
         }
       ],
       "version": "447.0.0",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-09-22",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/regramcracked-447.0.0-v6.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/regramcracked-447.0.0-v6.1",
-      "size": 0,
+      "size": 609432371,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-22",
       "_rowKey": 3
     },
     {
@@ -3380,19 +3381,23 @@
       "category": "games",
       "versions": [
         {
+          "version": "3.22.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.22.6",
+          "date": "2026-09-22",
+          "size": 455186841
+        },
+        {
           "version": "3.6.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control-hack",
-          "date": "2026-08-24",
-          "size": 209715200
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control-hack"
         }
       ],
-      "version": "3.6.2",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control-hack",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mob-control-hack",
-      "size": 209715200,
+      "version": "3.22.6",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.22.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.22.6",
+      "size": 455186841,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-22",
       "_rowKey": 130
     },
     {
@@ -10591,28 +10596,28 @@
       "name": "The Walking Dead AfterMath",
       "bundleIdentifier": "com.ares.twd",
       "bundleId": "com.ares.twd",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKmldMKimAo-62YgNy63w3Q6_P_wU2JEQ2QUflB8oCoRGRHiWFOfK3UuV&s=10",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/8e/46/458e4608-a28b-4506-f808-287335f800cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "Game features : - Double the damage. - Double the defense. - God Mode . - Unlimited ammo .",
       "category": "games",
       "versions": [
         {
-          "version": "2.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-aftermath_2.1.0",
-          "date": "2026-09-15",
-          "size": 988492595
+          "version": "2.1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-aftermath_2.1.3",
+          "date": "2026-09-22",
+          "size": 991533465
         },
         {
-          "version": "1.3.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-1.3.2"
+          "version": "2.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-aftermath_2.1.0"
         }
       ],
-      "version": "2.1.0",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-aftermath_2.1.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-aftermath_2.1.0",
-      "size": 988492595,
+      "version": "2.1.3",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-aftermath_2.1.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-walking-dead-aftermath_2.1.3",
+      "size": 991533465,
       "addedAt": "2026-08-30",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "APP-5893460136",
@@ -16311,25 +16316,30 @@
     {
       "id": "APP-8292441235",
       "name": "Guild of Heroes Legendary War",
-      "bundleIdentifier": "com.ikiraplus.apps.guild-of-heroes-legendary-war.b27bc74175",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/ce/f1/7ecef134-3269-9eaf-11aa-8703f7581ae8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "bundleIdentifier": "com.goplaytoday.guildofheroes",
+      "bundleId": "com.goplaytoday.guildofheroes",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/dd/86/68dd86cc-96db-335c-db8c-277d3ac544d8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "App features : - Double player damage from x1 to x10. - Double player defense from x1 to x10. - Ban protection ( Anti-Ban ). - Enemies automatically commit suicide. - Open AutoPlay. - Customize the selling price. - activation Premium. - Freezing resources. - Manufacture of potions for free . - Expanding the fields for free . - Revive at no cost. - Use skills immediately.",
       "category": "games",
       "versions": [
         {
+          "version": "1.194.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guildof-heroes-legendary-war_1.194.1",
+          "date": "2026-09-22",
+          "size": 499856179
+        },
+        {
           "version": "1.193.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guild-of-heroes-1",
-          "date": "2026-08-28",
-          "size": 279864934
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guild-of-heroes-1"
         }
       ],
-      "version": "1.193.2",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guild-of-heroes-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/guild-of-heroes-1",
-      "size": 279864934,
+      "version": "1.194.1",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guildof-heroes-legendary-war_1.194.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/guildof-heroes-legendary-war_1.194.1",
+      "size": 499856179,
       "addedAt": "2026-08-28",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-22",
       "_rowKey": 83
     },
     {
@@ -26889,6 +26899,317 @@
       "size": 611529523,
       "addedAt": "2026-09-22",
       "updatedAt": "2026-09-22"
+    },
+    {
+      "id": "app-1790101909728",
+      "name": "Alien Invasion Rpg Idle Space",
+      "bundleIdentifier": "com.multicastgames.venomSurvive",
+      "bundleId": "com.multicastgames.venomSurvive",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/6b/52/e06b5230-2b1b-e4a7-e061-3b19a510b188/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "4.49.00",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-invasion-rpg-idle-space_4.49.00",
+          "date": "2026-09-22",
+          "size": 358927564
+        }
+      ],
+      "version": "4.49.00",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-invasion-rpg-idle-space_4.49.00",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alien-invasion-rpg-idle-space_4.49.00",
+      "size": 358927564,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790101925004",
+      "name": "Trophy Hunter Sniper Game",
+      "bundleIdentifier": "trophy.hunter.hunting.games.sniper.shooting",
+      "bundleId": "trophy.hunter.hunting.games.sniper.shooting",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/d8/05/1cd8054a-15f9-c2e7-b90e-1930f753118e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "3.26.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/trophy-hunter-sniper-game_3.26.0",
+          "date": "2026-09-22",
+          "size": 418486681
+        }
+      ],
+      "version": "3.26.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/trophy-hunter-sniper-game_3.26.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/trophy-hunter-sniper-game_3.26.0",
+      "size": 418486681,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790101940460",
+      "name": "Dop 4 Draw One Part",
+      "bundleIdentifier": "com.playstrom.dop4",
+      "bundleId": "com.playstrom.dop4",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/da/ed/e2daedea-60ab-e60c-1667-b58972504f58/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dop-4-draw-one-part_1.2.0",
+          "date": "2026-09-22",
+          "size": 341206630
+        }
+      ],
+      "version": "1.2.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dop-4-draw-one-part_1.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dop-4-draw-one-part_1.2.0",
+      "size": 341206630,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102030035",
+      "name": "Match Factory",
+      "bundleIdentifier": "net.peakgames.match",
+      "bundleId": "net.peakgames.match",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/72/3f/34723fd4-2279-0768-4a07-78ad8c604272/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.77.119",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.77.119",
+          "date": "2026-09-22",
+          "size": 465043456
+        }
+      ],
+      "version": "1.77.119",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.77.119",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.77.119",
+      "size": 465043456,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102067934",
+      "name": "Ghost Sniper War Fps Shooter",
+      "bundleIdentifier": "sniper.war.target.soldier.shooter.aldagames.com",
+      "bundleId": "sniper.war.target.soldier.shooter.aldagames.com",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/bb/95/ffbb9563-75e6-eda8-ebb3-e678cc881946/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ghost-sniper-war-fps-shooter_1.2.0",
+          "date": "2026-09-22",
+          "size": 375075635
+        }
+      ],
+      "version": "1.2.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ghost-sniper-war-fps-shooter_1.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ghost-sniper-war-fps-shooter_1.2.0",
+      "size": 375075635,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102129066",
+      "name": "Kick The Buddy",
+      "bundleIdentifier": "com.chillfleet.buddy",
+      "bundleId": "com.chillfleet.buddy",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/6f/a4/4a6fa454-eb94-d8e7-8d21-55f13d6f3351/SK_AppIcon_New-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.9.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kick-the-buddy_2.9.0",
+          "date": "2026-09-22"
+        }
+      ],
+      "version": "2.9.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kick-the-buddy_2.9.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kick-the-buddy_2.9.0",
+      "size": 0,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102156929",
+      "name": "Age Of Spirits",
+      "bundleIdentifier": "leyi.ageofspirits",
+      "bundleId": "leyi.ageofspirits",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/bf/d6/38bfd667-87f2-c09f-0c75-be304673e166/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/age-of-spirits_1.0.11",
+          "date": "2026-09-22",
+          "size": 908905676
+        }
+      ],
+      "version": "1.0.11",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/age-of-spirits_1.0.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/age-of-spirits_1.0.11",
+      "size": 908905676,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102182710",
+      "name": "Fishdom",
+      "bundleIdentifier": "com.playrix.fishdom-freeplay",
+      "bundleId": "com.playrix.fishdom-freeplay",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/70/24/8e702439-70f3-8600-fe1e-6c29aaa9581a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "10.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fishdom_10.1.1",
+          "date": "2026-09-22",
+          "size": 358508134
+        }
+      ],
+      "version": "10.1.1",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fishdom_10.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fishdom_10.1.1",
+      "size": 358508134,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102202009",
+      "name": "Cat Pack Heroes",
+      "bundleIdentifier": "com.banpofri.catpackheroes",
+      "bundleId": "com.banpofri.catpackheroes",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/ef/6d/89ef6de5-8bab-03a9-e2a6-2d8152dc0449/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cat-pack-heroes_1.0.11",
+          "date": "2026-09-22",
+          "size": 343828070
+        }
+      ],
+      "version": "1.0.11",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cat-pack-heroes_1.0.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cat-pack-heroes_1.0.11",
+      "size": 343828070,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102229202",
+      "name": "Snipers Duel",
+      "bundleIdentifier": "com.AndreiGushchin.NoCoverClashSnipersDuel",
+      "bundleId": "com.AndreiGushchin.NoCoverClashSnipersDuel",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/b6/b2/71b6b2c6-6f95-54de-572e-7b5d44c928cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snipers-duel_1.8.0",
+          "date": "2026-09-22",
+          "size": 480876953
+        }
+      ],
+      "version": "1.8.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/snipers-duel_1.8.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/snipers-duel_1.8.0",
+      "size": 480876953,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102299409",
+      "name": "Ensemble Stars Music",
+      "bundleIdentifier": "com.happyelements.sakius",
+      "bundleId": "com.happyelements.sakius",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/e2/08/52e20881-9895-39b2-1dd2-b39e299cf506/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "4.5.6257",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ensemble-stars-music_4.5.6257",
+          "date": "2026-09-22",
+          "size": 1294467072
+        }
+      ],
+      "version": "4.5.6257",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ensemble-stars-music_4.5.6257",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ensemble-stars-music_4.5.6257",
+      "size": 1294467072,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102594195",
+      "name": "Idle Golf Club Manager Tycoon",
+      "bundleIdentifier": "com.neonplay.casualgolfclubtycoon",
+      "bundleId": "com.neonplay.casualgolfclubtycoon",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/e9/72/12e97260-8d04-0b87-44d8-19fe81334b87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "6.18.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-golf-club-manager-tycoon_6.18.0",
+          "date": "2026-09-22",
+          "size": 1026870476
+        }
+      ],
+      "version": "6.18.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-golf-club-manager-tycoon_6.18.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-golf-club-manager-tycoon_6.18.0",
+      "size": 1026870476,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790102613815",
+      "name": "Lilys Adventures",
+      "bundleIdentifier": "dk.tactile.lilysgardenportrait",
+      "bundleId": "dk.tactile.lilysgardenportrait",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/7d/0b/2a7d0b24-4f0d-d347-6990-9322b54f0537/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.1.0",
+          "date": "2026-09-22",
+          "size": 374236774
+        }
+      ],
+      "version": "0.1.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.1.0",
+      "size": 374236774,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
     }
   ],
   "translationFormatVersion": 4
