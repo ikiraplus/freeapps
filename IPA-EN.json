@@ -403,23 +403,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "1.5.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
-          "date": "2026-08-24",
-          "size": 92903833
+          "version": "1.5.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.4-mxgram-1.0.0",
+          "date": "2026-09-22",
+          "size": 105906176
         },
         {
-          "version": "1.5.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit_1.5.1_tgextra_1.7.6"
+          "version": "1.5.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4"
         }
       ],
-      "version": "1.5.2",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.2-lead-1.4.4",
-      "size": 92903833,
+      "version": "1.5.4",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.4-mxgram-1.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.4-mxgram-1.0.0",
+      "size": 105906176,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-22",
       "_rowKey": 16
     },
     {
@@ -625,23 +625,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "2.64.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.64.0-locket-gold-patched",
-          "date": "2026-09-12",
+          "version": "2.65.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.65.0-locket-gold-patched",
+          "date": "2026-09-22",
           "size": 101502156
         },
         {
-          "version": "2.63.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.63.0-locket-gold-patched"
+          "version": "2.64.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.64.0-locket-gold-patched"
         }
       ],
-      "version": "2.64.0",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.64.0-locket-gold-patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.64.0-locket-gold-patched",
+      "version": "2.65.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.65.0-locket-gold-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/locket-widget-v2.65.0-locket-gold-patched",
       "size": 101502156,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-22",
       "_rowKey": 25
     },
     {
@@ -1156,23 +1156,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "30.7.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.7.2_subscription_unlocked",
-          "date": "2026-09-12",
-          "size": 118279372
+          "version": "30.8.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.8.2_subscription_unlocked",
+          "date": "2026-09-22",
+          "size": 118698803
         },
         {
-          "version": "30.7.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor-_video_v30.7.1_subscription_unlocked"
+          "version": "30.7.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.7.2_subscription_unlocked"
         }
       ],
-      "version": "30.7.2",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.7.2_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.7.2_subscription_unlocked",
-      "size": 118279372,
+      "version": "30.8.2",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.8.2_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/picsart_ai_photo_editor_video_v30.8.2_subscription_unlocked",
+      "size": 118698803,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "APP-1159579568",
@@ -1395,23 +1395,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "1.278.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_reels_editor_v1.278.0_subscription_unlocked",
-          "date": "2026-09-14",
-          "size": 181823078
+          "version": "1.279.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_reels_editor_v1.279.0_subscription_unlocked",
+          "date": "2026-09-22",
+          "size": 182137651
         },
         {
-          "version": "1.277.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_-_reels_editor_v1.277.0_subscription_unlocked"
+          "version": "1.278.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_reels_editor_v1.278.0_subscription_unlocked"
         }
       ],
-      "version": "1.278.0",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_reels_editor_v1.278.0_subscription_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_reels_editor_v1.278.0_subscription_unlocked",
-      "size": 181823078,
+      "version": "1.279.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_reels_editor_v1.279.0_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mojo_ai_video_reels_editor_v1.279.0_subscription_unlocked",
+      "size": 182137651,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-22",
       "_rowKey": 54
     },
     {
@@ -1424,23 +1424,23 @@
       "category": "Study and artificial intelligence",
       "versions": [
         {
-          "version": "16.12",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12_pro_unlocked_patched",
-          "date": "2026-09-12",
-          "size": 261619712
+          "version": "16.12.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12.2_pro_unlocked_patched",
+          "date": "2026-09-22",
+          "size": 262773145
         },
         {
-          "version": "16.11",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_-_planner_v16.11_pro_unlocked_patched"
+          "version": "16.12",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12_pro_unlocked_patched"
         }
       ],
-      "version": "16.12",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12_pro_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12_pro_unlocked_patched",
-      "size": 261619712,
+      "version": "16.12.2",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12.2_pro_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/notability_ai_notes_planner_v16.12.2_pro_unlocked_patched",
+      "size": 262773145,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-22",
       "_rowKey": 55
     },
     {
@@ -3024,19 +3024,23 @@
       "category": "tools",
       "versions": [
         {
+          "version": "2.17.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dazz-cam-vintage-camera-v2.17.5-dazz-pro-patched",
+          "date": "2026-09-22",
+          "size": 123207680
+        },
+        {
           "version": "2.17",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dazz-cam---vintage-camera-v2.17-dazz-pro-",
-          "date": "2026-08-24",
-          "size": 115972505
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dazz-cam---vintage-camera-v2.17-dazz-pro-"
         }
       ],
-      "version": "2.17",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dazz-cam---vintage-camera-v2.17-dazz-pro-",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dazz-cam---vintage-camera-v2.17-dazz-pro-",
-      "size": 115972505,
+      "version": "2.17.5",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dazz-cam-vintage-camera-v2.17.5-dazz-pro-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dazz-cam-vintage-camera-v2.17.5-dazz-pro-patched",
+      "size": 123207680,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-22",
       "_rowKey": 116
     },
     {
@@ -3099,27 +3103,27 @@
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "bundleId": "com.intsig.CamScannerLite",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/2b/20/7a2b2005-16f7-8e45-c3ce-6f446785d98b/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "modded app from iosgods",
+      "localizedDescription": "All features and VIP membership unlocked . - Click buy, then cancel, or register via a Google account.",
       "category": "tools",
       "versions": [
         {
-          "version": "7.25.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.5_vip_unlocked_patched",
-          "date": "2026-09-07",
-          "size": 200907161
+          "version": "7.26.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.26.6_vip_unlocked_patched",
+          "date": "2026-09-22",
+          "size": 221354393
         },
         {
-          "version": "7.25.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.0_vip_unlocked_patched"
+          "version": "7.25.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.5_vip_unlocked_patched"
         }
       ],
-      "version": "7.25.5",
-      "versionDate": "2026-09-07",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.5_vip_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.25.5_vip_unlocked_patched",
-      "size": 200907161,
+      "version": "7.26.6",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.26.6_vip_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/camscanner_pdf_scanner_app_v7.26.6_vip_unlocked_patched",
+      "size": 221354393,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-07",
+      "updatedAt": "2026-09-22",
       "_rowKey": 119
     },
     {
@@ -3431,27 +3435,27 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "bundleId": "com.duolingo.DuolingoMobile",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/5d/4a/785d4a42-88aa-3c7c-5b2e-ba48816fdffe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "modded app from iosgods",
+      "localizedDescription": "All features and VIP membership unlocked . - Click buy, then cancel, or register via a Google account.",
       "category": "Study and artificial intelligence",
       "versions": [
         {
-          "version": "7.137.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.137.1_duolingo_max_unlocked",
-          "date": "2026-09-02",
-          "size": 213070643
+          "version": "7.141.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.141.0_duolingo_max_unlocked",
+          "date": "2026-09-22",
+          "size": 211602636
         },
         {
-          "version": "2.8.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polish_ai_photo_editor_v2.8.0_premium_unlocked_patched"
+          "version": "7.137.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.137.1_duolingo_max_unlocked"
         }
       ],
-      "version": "7.137.1",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.137.1_duolingo_max_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.137.1_duolingo_max_unlocked",
-      "size": 213070643,
+      "version": "7.141.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.141.0_duolingo_max_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/duolingo_language_lessons_v7.141.0_duolingo_max_unlocked",
+      "size": 211602636,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-22",
       "_rowKey": 132
     },
     {
@@ -4416,7 +4420,7 @@
     },
     {
       "id": "APP-1534121888",
-      "name": "VN video editor",
+      "name": "VN Video Editor",
       "bundleIdentifier": "com.frontrow.vlog",
       "bundleId": "com.frontrow.vlog",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/12/fd/d812fd37-aa2c-33f3-d553-8f604dc309fb/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
@@ -4424,23 +4428,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "2.19.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.19.0_subscription_unlocked_patched",
-          "date": "2026-09-02",
-          "size": 467455180
+          "version": "2.20.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_video_editor_v2.20.0_subscription_unlocked_patched",
+          "date": "2026-09-22",
+          "size": 469866905
         },
         {
-          "version": "2.18.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.18.0_subscription_unlocked_patched"
+          "version": "2.19.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.19.0_subscription_unlocked_patched"
         }
       ],
-      "version": "2.19.0",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.19.0_subscription_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vn_photo_-_video_editor_v2.19.0_subscription_unlocked_patched",
-      "size": 467455180,
+      "version": "2.20.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vn_photo_video_editor_v2.20.0_subscription_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vn_photo_video_editor_v2.20.0_subscription_unlocked_patched",
+      "size": 469866905,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-22",
       "_rowKey": 171
     },
     {
@@ -6636,7 +6640,7 @@
     },
     {
       "id": "APP-4983794336",
-      "name": "bazaart ai photo editor design",
+      "name": "Bazaart Ai Photo Editor Design",
       "bundleIdentifier": "co.bazaart.app",
       "bundleId": "co.bazaart.app",
       "iconURL": "https://play-lh.googleusercontent.com/5M15M4fZm5w7s7BhBAszwmz3VmgFwmTPH6Is_E5tWcdpOI96mCBnzCBP6t92TZ_is2DBxCUfI4S_a3paYgAdz0U",
@@ -6644,23 +6648,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "26.4.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v26.4.0_premium_unlocked",
-          "date": "2026-08-24",
-          "size": 107269324
+          "version": "27.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v27.0.2_premium_unlocked",
+          "date": "2026-09-22",
+          "size": 112721920
         },
         {
-          "version": "26.3.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v26.3.9_premium_unlocked"
+          "version": "26.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v26.4.0_premium_unlocked"
         }
       ],
-      "version": "26.4.0",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v26.4.0_premium_unlocked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v26.4.0_premium_unlocked",
-      "size": 107269324,
+      "version": "27.0.2",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v27.0.2_premium_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bazaart_ai_photo_editor_design_v27.0.2_premium_unlocked",
+      "size": 112721920,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-22",
       "_rowKey": 259
     },
     {
@@ -7507,23 +7511,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "46.8.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.8.0",
-          "date": "2026-09-12",
-          "size": 453299404
+          "version": "46.9.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.7.0-dyilb-2.0",
+          "date": "2026-09-22",
+          "size": 453404262
         },
         {
-          "version": "46.7.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.7.0-tweak-1.8.1"
+          "version": "46.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.8.0"
         }
       ],
-      "version": "46.8.0",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.8.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-46.8.0",
-      "size": 453299404,
+      "version": "46.9.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-46.7.0-dyilb-2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-46.7.0-dyilb-2.0",
+      "size": 453404262,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "APP-6203305465",
@@ -8748,23 +8752,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "9.53",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.53_subscription_unlocked_patched",
-          "date": "2026-09-12",
-          "size": 80320921
+          "version": "9.55",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.55_subscription_unlocked_patched",
+          "date": "2026-09-22",
+          "size": 80635494
         },
         {
-          "version": "9.52",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl-photo-collage-maker-v9.52"
+          "version": "9.53",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.53_subscription_unlocked_patched"
         }
       ],
-      "version": "9.53",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.53_subscription_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.53_subscription_unlocked_patched",
-      "size": 80320921,
+      "version": "9.55",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.55_subscription_unlocked_patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scrl_photo_collage_maker_v9.55_subscription_unlocked_patched",
+      "size": 80635494,
       "addedAt": "2026-09-17",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "APP-5833857214",
@@ -9312,23 +9316,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "1.7.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.5_subscription_unlocked_patched",
-          "date": "2026-09-02",
-          "size": 134112870
+          "version": "1.12.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.12.0_subscription_unlocked",
+          "date": "2026-09-22",
+          "size": 54211379
         },
         {
-          "version": "1.7.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.4_subscription_unlocked_patched"
+          "version": "1.7.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.5_subscription_unlocked_patched"
         }
       ],
-      "version": "1.7.5",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.5_subscription_unlocked_patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.7.5_subscription_unlocked_patched",
-      "size": 134112870,
+      "version": "1.12.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.12.0_subscription_unlocked",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/simply_draw_learn_to_draw_v1.12.0_subscription_unlocked",
+      "size": 54211379,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-22",
       "_rowKey": 361
     },
     {
@@ -9584,23 +9588,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "2026.37.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.37.0-redditfilter",
-          "date": "2026-09-18",
-          "size": 148373504
+          "version": "2026.38.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.38.0-redditfilter",
+          "date": "2026-09-22",
+          "size": 144284057
         },
         {
-          "version": "2026.36.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.36.0-redditfilter-1"
+          "version": "2026.37.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.37.0-redditfilter"
         }
       ],
-      "version": "2026.37.0",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.37.0-redditfilter",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.37.0-redditfilter",
-      "size": 148373504,
+      "version": "2026.38.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.38.0-redditfilter",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.38.0-redditfilter",
+      "size": 144284057,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-22",
       "_rowKey": 371
     },
     {
@@ -21103,19 +21107,23 @@
       "category": "tools",
       "versions": [
         {
+          "version": "2.23.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.4-subscription-unlocked-patched",
+          "date": "2026-09-22",
+          "size": 116391936
+        },
+        {
           "version": "2.23.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.1-subscription-unlocked-patched",
-          "date": "2026-09-07",
-          "size": 84934656
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.1-subscription-unlocked-patched"
         }
       ],
-      "version": "2.23.1",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.1-subscription-unlocked-patched",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.1-subscription-unlocked-patched",
-      "size": 84934656,
+      "version": "2.23.4",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.4-subscription-unlocked-patched",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/piano-v2.23.4-subscription-unlocked-patched",
+      "size": 116391936,
       "addedAt": "2026-09-07",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "app-1788802890790",
@@ -22562,23 +22570,27 @@
       "bundleIdentifier": "com.google.photos",
       "bundleId": "com.google.photos",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/14/38/51143806-7e44-3988-777b-1b795ce39ba5/Photos-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "All features and VIP membership unlocked . - Click buy, then cancel, or register via a Google account.",
+      "localizedDescription": "App features : - Upload photos and videos in original quality via Pixel 1 mode, with the request that they not be counted from the storage space. - Support Original Quality, Storage Saver, and Account Storage modes. - Manual and automatic backup routing via GoToHP. - Upload entire albums and large amounts of photos and videos at once. - Support uploading Live Photos with their full original components without re-encoding. - Queue system with progress display, retry, cancellation and recovery of uploads. - Automatically connect to the Google account registered within the app without copying Tokens or setting up the account manually. - The ability to upload from within Google Photos, the Photos application, and the sharing list in supported systems. -Sideloading, LiveContainer and Jailbreak support.",
       "category": "tools",
       "versions": [
         {
+          "version": "7.93.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/google-photos-7.93.0-gunshot-1",
+          "date": "2026-09-22",
+          "size": 179621068
+        },
+        {
           "version": "7.92.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/google-photos_v7.92.0_gunshot_0.2.2",
-          "date": "2026-09-14",
-          "size": 208876339
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/google-photos_v7.92.0_gunshot_0.2.2"
         }
       ],
-      "version": "7.92.0",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/google-photos_v7.92.0_gunshot_0.2.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/google-photos_v7.92.0_gunshot_0.2.2",
-      "size": 208876339,
+      "version": "7.93.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/google-photos-7.93.0-gunshot-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/google-photos-7.93.0-gunshot-1",
+      "size": 179621068,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "app-1789404366680",
@@ -26671,15 +26683,15 @@
       "versions": [
         {
           "version": "1.06",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chariot-rivals-1.06",
-          "date": "2026-09-21",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chariot-rivals-1.06-1",
+          "date": "2026-09-22",
           "size": 181927936
         }
       ],
       "version": "1.06",
       "versionDate": "2026-09-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chariot-rivals-1.06",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chariot-rivals-1.06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chariot-rivals-1.06-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chariot-rivals-1.06-1",
       "size": 181927936,
       "addedAt": "2026-09-22",
       "updatedAt": "2026-09-22"
@@ -27207,6 +27219,126 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.1.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.1.0",
       "size": 374236774,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790109555534",
+      "name": "Slots Daggers",
+      "bundleIdentifier": "com.Friedemann.SlotsAndDaggers",
+      "bundleId": "com.Friedemann.SlotsAndDaggers",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/a2/7c/85a27cac-3117-0225-bb77-9a5940865e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.24",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slots-daggers-v1.0.24",
+          "date": "2026-09-22",
+          "size": 101711872
+        }
+      ],
+      "version": "1.0.24",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slots-daggers-v1.0.24",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/slots-daggers-v1.0.24",
+      "size": 101711872,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790109583172",
+      "name": "Alien Shooter Survive",
+      "bundleIdentifier": "com.sigma-team.AlienShooter",
+      "bundleId": "com.sigma-team.AlienShooter",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/83/6a/e1/836ae1a4-2718-78a3-eb4a-8166859cfcaa/mzl.vjygxbqg.jpg/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.2.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-survive-v1.2.4",
+          "date": "2026-09-22",
+          "size": 46556774
+        }
+      ],
+      "version": "1.2.4",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-survive-v1.2.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-survive-v1.2.4",
+      "size": 46556774,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790109614974",
+      "name": "Alien Shooter 2 Reloaded",
+      "bundleIdentifier": "com.sigmateam.as2reloaded",
+      "bundleId": "com.sigmateam.as2reloaded",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/db/39/61/db39614e-e334-6827-b22d-f17a1b2fc866/AppIcon-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-2-reloaded-v1.1.1",
+          "date": "2026-09-22",
+          "size": 269903462
+        }
+      ],
+      "version": "1.1.1",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-2-reloaded-v1.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-2-reloaded-v1.1.1",
+      "size": 269903462,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790109641581",
+      "name": "Alien Shooter Last Hope",
+      "bundleIdentifier": "com.sigmateam.alienshooter.lasthope",
+      "bundleId": "com.sigmateam.alienshooter.lasthope",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f2/76/62/f276623e-140d-4fc3-b678-a9dc63e1aa58/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-last-hope",
+          "date": "2026-09-22",
+          "size": 94476697
+        }
+      ],
+      "version": "1.1.1",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-last-hope",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-last-hope",
+      "size": 94476697,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790109717945",
+      "name": "Alien Shooter World",
+      "bundleIdentifier": "com.sigma-team.alienshooterfree",
+      "bundleId": "com.sigma-team.alienshooterfree",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/80/f0/a480f071-00d3-34af-c237-ee94bd7a8f1a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.2.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-v1.2.7",
+          "date": "2026-09-22",
+          "size": 57776537
+        }
+      ],
+      "version": "1.2.7",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-v1.2.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alien-shooter-v1.2.7",
+      "size": 57776537,
       "addedAt": "2026-09-22",
       "updatedAt": "2026-09-22",
       "localizedDescription": ""
