@@ -4089,7 +4089,7 @@
     },
     {
       "id": "APP-4434364724",
-      "name": "airport city",
+      "name": "Airport City",
       "bundleIdentifier": "com.gameinsight.airportcity",
       "bundleId": "com.gameinsight.airportcity",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/fa/46/8ffa4674-ce86-4f34-6467-b76ba8c5dafc/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
@@ -4097,19 +4097,23 @@
       "category": "games",
       "versions": [
         {
+          "version": "8.51.00",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-city-8.51.00",
+          "date": "2026-09-21",
+          "size": 236244172
+        },
+        {
           "version": "8.47.03",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-city-[8.47.03]",
-          "date": "2026-08-24",
-          "size": 265080012
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-city-[8.47.03]"
         }
       ],
-      "version": "8.47.03",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-city-[8.47.03]",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/airport-city-[8.47.03]",
-      "size": 265080012,
+      "version": "8.51.00",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-city-8.51.00",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/airport-city-8.51.00",
+      "size": 236244172,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-22",
       "_rowKey": 158
     },
     {
@@ -5191,23 +5195,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "39.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/township_39.0.0",
-          "date": "2026-09-18",
-          "size": 349385523
+          "version": "39.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/township-39.0.2",
+          "date": "2026-09-21",
+          "size": 218418380
         },
         {
-          "version": "38.1.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/township-38.1.1"
+          "version": "39.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/township_39.0.0"
         }
       ],
-      "version": "39.0.0",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/township_39.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/township_39.0.0",
-      "size": 349385523,
+      "version": "39.0.2",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/township-39.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/township-39.0.2",
+      "size": 218418380,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-22",
       "_rowKey": 201
     },
     {
@@ -7988,23 +7992,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "7.4.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.4",
-          "date": "2026-09-15",
-          "size": 93008691
+          "version": "7.4.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.6",
+          "date": "2026-09-21",
+          "size": 93218406
         },
         {
-          "version": "7.4.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-v7.4.3"
+          "version": "7.4.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.4"
         }
       ],
-      "version": "7.4.4",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.4",
-      "size": 93008691,
+      "version": "7.4.6",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-blast-7.4.6",
+      "size": 93218406,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-22",
       "_rowKey": 310
     },
     {
@@ -8961,23 +8965,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "21.36.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.36.6",
-          "date": "2026-09-12",
-          "size": 134742016
+          "version": "21.37.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.37.5-v1.0.0",
+          "date": "2026-09-21",
+          "size": 136734310
         },
         {
-          "version": "21.33.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-21.33.6-ytkace-0.9.2"
+          "version": "21.36.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.36.6"
         }
       ],
-      "version": "21.36.6",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.36.6",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.36.6",
-      "size": 134742016,
+      "version": "21.37.5",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.37.5-v1.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.37.5-v1.0.0",
+      "size": 136734310,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "APP-7774854673",
@@ -26617,6 +26621,102 @@
       "size": 400975462,
       "addedAt": "2026-09-21",
       "updatedAt": "2026-09-21",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790022439407",
+      "name": "Isekai Reset Idle Rpg",
+      "bundleIdentifier": "com.supercandy.resetworld",
+      "bundleId": "com.supercandy.resetworld",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/e2/10/3fe210b9-7970-bf46-bc20-e912c553e5c1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.45",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/isekai-reset-idle-rpg-1.0.45",
+          "date": "2026-09-21",
+          "size": 513382809
+        }
+      ],
+      "version": "1.0.45",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/isekai-reset-idle-rpg-1.0.45",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/isekai-reset-idle-rpg-1.0.45",
+      "size": 513382809,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790022776044",
+      "name": "Chariot Rivals",
+      "bundleIdentifier": "com.ToweringTower.ChariotRivals",
+      "bundleId": "com.ToweringTower.ChariotRivals",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/5b/3d/015b3d6a-5e5e-bc7b-142d-fc6a79edadec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.06",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chariot-rivals-1.06",
+          "date": "2026-09-21",
+          "size": 181927936
+        }
+      ],
+      "version": "1.06",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chariot-rivals-1.06",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chariot-rivals-1.06",
+      "size": 181927936,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790022883037",
+      "name": "Dave The Diver",
+      "bundleIdentifier": "com.mintrocket.drmobile",
+      "bundleId": "com.mintrocket.drmobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/a1/d3/2ea1d3fc-579b-8780-f931-a15718ad4e5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.37",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dave-the-diver-1.0.37-1",
+          "date": "2026-09-21",
+          "size": 3233388953
+        }
+      ],
+      "version": "1.0.37",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dave-the-diver-1.0.37-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dave-the-diver-1.0.37-1",
+      "size": 3233388953,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790023532032",
+      "name": "Cinemana Hub",
+      "bundleIdentifier": "com.ikiraplus.apps.cinemana-hub.8420888ef6",
+      "bundleId": "",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_BDpxxChqM6EZH13lkhQ62T1z57VCKciZeeA4MaQI5w&s=10",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "5.3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-hub-5.3.0",
+          "date": "2026-09-21",
+          "size": 7864320
+        }
+      ],
+      "version": "5.3.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinemana-hub-5.3.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinemana-hub-5.3.0",
+      "size": 7864320,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22",
       "localizedDescription": ""
     }
   ],
