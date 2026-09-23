@@ -2132,24 +2132,28 @@
       "name": "Brawl Stars - Null's Brawl",
       "bundleIdentifier": "nt.nb.ios",
       "bundleId": "nt.nb.ios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/b1/d215b17b-b984-732c-0d74-41a45bbcb77d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/ca/61/23ca612e-3736-170a-5ba6-814bd45e0c02/Placeholder.mill/400x400bb-75.webp",
       "localizedDescription": "مميزات التطبيق:\n- فتح جميع الشخصيات.\n- فتح جميع السكنات.\n- فتح جميع الإيموجيات.\n- ترقية جميع الشخصيات.\n- سيرفر خاص Null's.",
       "category": "ألعاب",
       "versions": [
         {
+          "version": "68.279",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nulls-brawl_68.279",
+          "date": "2026-09-23",
+          "size": 1691562803
+        },
+        {
           "version": "65.165",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/null's-brawl-66.293",
-          "date": "2026-08-24",
-          "size": 1044696268
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/null's-brawl-66.293"
         }
       ],
-      "version": "65.165",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/null's-brawl-66.293",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/null's-brawl-66.293",
-      "size": 1044696268,
+      "version": "68.279",
+      "versionDate": "2026-09-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nulls-brawl_68.279",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nulls-brawl_68.279",
+      "size": 1691562803,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-24",
       "_rowKey": 83
     },
     {
