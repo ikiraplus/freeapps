@@ -3078,21 +3078,21 @@
       "category": "tools",
       "versions": [
         {
-          "version": "5.6.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-v5.6.8",
-          "date": "2026-08-24",
-          "size": 194196275
+          "version": "5.6.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-v5.6.9",
+          "date": "2026-09-23",
+          "size": 188848537
         },
         {
-          "version": "5.6.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-mdthlckipv-1"
+          "version": "5.6.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-v5.6.8"
         }
       ],
-      "version": "5.6.8",
+      "version": "5.6.9",
       "versionDate": "2026-09-23",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-v5.6.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-v5.6.8",
-      "size": 194196275,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-v5.6.9",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/djay-dj-app-ai-mixer-v5.6.9",
+      "size": 188848537,
       "addedAt": "2026-08-22",
       "updatedAt": "2026-09-23",
       "_rowKey": 118
@@ -5461,23 +5461,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "2026.37.01",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.37.01",
-          "date": "2026-09-07",
-          "size": 138307174
+          "version": "2026.39.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.39.01",
+          "date": "2026-09-23",
+          "size": 254699110
         },
         {
-          "version": "2026.36.01",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.36.01"
+          "version": "2026.37.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.37.01"
         }
       ],
-      "version": "2026.37.01",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.37.01",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.37.01",
-      "size": 138307174,
+      "version": "2026.39.01",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.39.01",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/photoroom-ai-photo-editor-v2026.39.01",
+      "size": 254699110,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-23",
       "_rowKey": 211
     },
     {
@@ -8698,23 +8698,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "6.6.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scores-live-scores-news-v6.6.6",
-          "date": "2026-09-12",
-          "size": 89548390
+          "version": "6.6.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scores-live-scores-news-v6.6.7",
+          "date": "2026-09-23",
+          "size": 89128960
         },
         {
-          "version": "6.6.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/365scores-live-scores-news-v6.6.4"
+          "version": "6.6.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scores-live-scores-news-v6.6.6"
         }
       ],
-      "version": "6.6.6",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scores-live-scores-news-v6.6.6",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scores-live-scores-news-v6.6.6",
-      "size": 89548390,
+      "version": "6.6.7",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scores-live-scores-news-v6.6.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scores-live-scores-news-v6.6.7",
+      "size": 89128960,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "_rowKey": 336
     },
     {
@@ -8838,23 +8838,23 @@
       "category": "tools",
       "versions": [
         {
-          "version": "26.08.24",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sofascore-live-sports-scores-v26.08.24",
-          "date": "2026-08-31",
-          "size": 99929292
+          "version": "26.09.14",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sofascore-live-sports-scores-v26.09.14",
+          "date": "2026-09-23",
+          "size": 103284736
         },
         {
-          "version": "26.08.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sofascore-live-sports-scores-v26.08.10"
+          "version": "26.08.24",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sofascore-live-sports-scores-v26.08.24"
         }
       ],
-      "version": "26.08.24",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sofascore-live-sports-scores-v26.08.24",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sofascore-live-sports-scores-v26.08.24",
-      "size": 99929292,
+      "version": "26.09.14",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sofascore-live-sports-scores-v26.09.14",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sofascore-live-sports-scores-v26.09.14",
+      "size": 103284736,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-23",
       "_rowKey": 341
     },
     {
@@ -9395,23 +9395,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "90",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure-90",
-          "date": "2026-09-03",
-          "size": 367001600
+          "version": "125",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_125",
+          "date": "2026-09-23",
+          "size": 599470899
         },
         {
-          "version": "65.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boy-s-adventure-65"
+          "version": "90",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure-90"
         }
       ],
-      "version": "90",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure-90",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure-90",
-      "size": 367001600,
+      "version": "125",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_125",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_125",
+      "size": 599470899,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-23"
     },
     {
       "id": "APP-7812157572",
@@ -18107,23 +18107,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "0.0.1066",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1066",
-          "date": "2026-09-05",
-          "size": 197342003
+          "version": "0.0.1072",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1072",
+          "date": "2026-09-23",
+          "size": 200068300
         },
         {
-          "version": "0.0.1054",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1054"
+          "version": "0.0.1066",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1066"
         }
       ],
-      "version": "0.0.1066",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1066",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1066",
-      "size": 197342003,
+      "version": "0.0.1072",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1072",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-match-traffic-puzzle-v0.0.1072",
+      "size": 200068300,
       "addedAt": "2026-08-31",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-09-23"
     },
     {
       "id": "APP-1139121438",
@@ -21059,19 +21059,23 @@
       "category": "communication",
       "versions": [
         {
+          "version": "21.38.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.38.2",
+          "date": "2026-09-23",
+          "size": 147849216
+        },
+        {
           "version": "21.32.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
-          "date": "2026-09-06",
-          "size": 135161446
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4"
         }
       ],
-      "version": "21.32.4",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.32.4",
-      "size": 135161446,
+      "version": "21.38.2",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.38.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.38.2",
+      "size": 147849216,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-09-23"
     },
     {
       "id": "app-1788772346807",
@@ -27342,6 +27346,293 @@
       "size": 57776537,
       "addedAt": "2026-09-22",
       "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "app-1790150765046",
+      "name": "سعراتي: AI لحساب السعرات",
+      "bundleIdentifier": "com.so3ratai.app",
+      "bundleId": "com.so3ratai.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/99/5e/73995ef7-0bd9-b3d1-b34b-ff3fd77ef91f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/saraty-ai_1.1.0",
+          "date": "2026-09-23",
+          "size": 58615398
+        }
+      ],
+      "version": "1.1.0",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/saraty-ai_1.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/saraty-ai_1.1.0",
+      "size": 58615398,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790150784841",
+      "name": "Ragdoll Gladiator",
+      "bundleIdentifier": "com.TornadoBear.RagdollGladiator",
+      "bundleId": "com.TornadoBear.RagdollGladiator",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/b4/92/75b49268-718b-39a9-3a0b-0f1547a47430/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "0.0.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ragdoll-gladiator_0.0.5",
+          "date": "2026-09-23",
+          "size": 193671987
+        }
+      ],
+      "version": "0.0.5",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ragdoll-gladiator_0.0.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ragdoll-gladiator_0.0.5",
+      "size": 193671987,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790150809486",
+      "name": "Leaf World",
+      "bundleIdentifier": "net.gameduo.hb",
+      "bundleId": "net.gameduo.hb",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/ea/9b/d3ea9bd8-d5ca-ceb6-0ec4-2f7c6e73374e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.9.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leaf-world_2.9.2",
+          "date": "2026-09-23",
+          "size": 791255449
+        }
+      ],
+      "version": "2.9.2",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leaf-world_2.9.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/leaf-world_2.9.2",
+      "size": 791255449,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790150841326",
+      "name": "7Billion Zombies: Final Stand",
+      "bundleIdentifier": "com.candysoft.SBZombiesRe5",
+      "bundleId": "com.candysoft.SBZombiesRe5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/28/ea/6228ea47-28eb-df18-7c85-38c5baa46d23/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.5.64",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/billion-zombies-final-stand_1.5.64",
+          "date": "2026-09-23",
+          "size": 547356672
+        }
+      ],
+      "version": "1.5.64",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/billion-zombies-final-stand_1.5.64",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/billion-zombies-final-stand_1.5.64",
+      "size": 547356672,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790151259726",
+      "name": "Swamp Attack",
+      "bundleIdentifier": "com.outfit7.movingeye.swampattack",
+      "bundleId": "com.outfit7.movingeye.swampattack",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/47/9e/bc479eae-6347-2393-87c1-2feee39bafb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "4.8.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swamp-attack_4.8.6",
+          "date": "2026-09-23",
+          "size": 254174822
+        }
+      ],
+      "version": "4.8.6",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swamp-attack_4.8.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swamp-attack_4.8.6",
+      "size": 254174822,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790151291326",
+      "name": "Reinforced Wooden Stick",
+      "bundleIdentifier": "com.studiolico.woodenstick",
+      "bundleId": "com.studiolico.woodenstick",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/62/70/1c62700b-3830-610c-5456-d637680a11d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "99.1.59",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reinforced-wooden-stick_99.1.59",
+          "date": "2026-09-23",
+          "size": 803733504
+        }
+      ],
+      "version": "99.1.59",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reinforced-wooden-stick_99.1.59",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reinforced-wooden-stick_99.1.59",
+      "size": 803733504,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790151341669",
+      "name": "Blade Shield Girl Idle Rpg",
+      "bundleIdentifier": "com.studiocodedragon.projectssglobal",
+      "bundleId": "com.studiocodedragon.projectssglobal",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ea/27/0fea27e5-7fd4-ef1a-964d-f63cc6c97191/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.82",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blade-shield-girl-idle-rpg_1.0.82",
+          "date": "2026-09-23",
+          "size": 408839782
+        }
+      ],
+      "version": "1.0.82",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blade-shield-girl-idle-rpg_1.0.82",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blade-shield-girl-idle-rpg_1.0.82",
+      "size": 408839782,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790151699101",
+      "name": "Found It Hidden Object Game",
+      "bundleIdentifier": "games.urmobi.found.it",
+      "bundleId": "games.urmobi.found.it",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/ae/21/45ae2128-fc38-84bc-c581-1dbcf1be97a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.75.108",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/found-it-hidden-object-game-v1.75.108",
+          "date": "2026-09-23"
+        }
+      ],
+      "version": "1.75.108",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/found-it-hidden-object-game-v1.75.108",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/found-it-hidden-object-game-v1.75.108",
+      "size": 0,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790151907157",
+      "name": "Apex Racers",
+      "bundleIdentifier": "com.pixeldev.APEXRacers",
+      "bundleId": "com.pixeldev.APEXRacers",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/68/0b/03680bc4-ddad-9ccb-5db7-b07cb1ced349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "0.9.70",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/apex-racers-v0.9.70",
+          "date": "2026-09-23",
+          "size": 187380531
+        }
+      ],
+      "version": "0.9.70",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/apex-racers-v0.9.70",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/apex-racers-v0.9.70",
+      "size": 187380531,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790151966614",
+      "name": "CarTV Pro",
+      "bundleIdentifier": "com.lyntra.player",
+      "bundleId": "com.lyntra.player",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/db/ae/0adbae72-9161-59bf-79d6-6bdb7728fe78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "1.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cartv-pro_1.0.8",
+          "date": "2026-09-23",
+          "size": 22649241
+        }
+      ],
+      "version": "1.0.8",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cartv-pro_1.0.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cartv-pro_1.0.8",
+      "size": 22649241,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790152550590",
+      "name": "Idle Dig Factory",
+      "bundleIdentifier": "com.solid.dig",
+      "bundleId": "com.solid.dig",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/c5/5e/83c55e0f-aefe-8aee-dcaa-bae12a2217ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle_dig_factory-v2.0.0",
+          "date": "2026-09-23",
+          "size": 80320921
+        }
+      ],
+      "version": "2.0.0",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle_dig_factory-v2.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle_dig_factory-v2.0.0",
+      "size": 80320921,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1790152596911",
+      "name": "Machine Gun Rush",
+      "bundleIdentifier": "com.taninty.machinegunrush",
+      "bundleId": "com.taninty.machinegunrush",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/e4/56/49e456fd-ed26-fb76-8c9e-9a1e4d0d5810/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.22",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/machine_gun_rush-v1.22",
+          "date": "2026-09-23",
+          "size": 99929292
+        }
+      ],
+      "version": "1.22",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/machine_gun_rush-v1.22",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/machine_gun_rush-v1.22",
+      "size": 99929292,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-09-23",
+      "localizedDescription": ""
     }
   ],
   "translationFormatVersion": 4
