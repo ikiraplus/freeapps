@@ -27644,6 +27644,7 @@
       "bundleIdentifier": "com.pgstudio.heroadventure",
       "bundleId": "com.pgstudio.heroadventure",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/9f/ed/219fedb9-b540-1885-8f7e-2d18d9e68eec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Unlimited coins when spending or earning.",
       "category": "games",
       "versions": [
         {
@@ -27654,13 +27655,12 @@
         }
       ],
       "version": "1.2.0",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hero-adventure-rogue-survivor_1.2.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hero-adventure-rogue-survivor_1.2.0",
       "size": 625475584,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191291231",
@@ -27668,6 +27668,7 @@
       "bundleIdentifier": "com.playgendary.dip",
       "bundleId": "com.playgendary.dip",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/c5/63/1fc56349-4f78-523b-fa57-04405096983e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Unlimited coins . - Unlimited stars . - Unlimited lives. - Unlimited boosters . - Unlimited boosters inside the game. - Unlimited movements that do not decrease.",
       "category": "games",
       "versions": [
         {
@@ -27678,13 +27679,12 @@
         }
       ],
       "version": "3.5.1",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/diy-projects-art-puzzle-game_3.5.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/diy-projects-art-puzzle-game_3.5.1",
       "size": 494298726,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191351423",
@@ -27692,6 +27692,7 @@
       "bundleIdentifier": "com.3g60.motoracepro",
       "bundleId": "com.3g60.motoracepro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/06/b2/5c06b216-7de7-bb98-2a1e-668e8eb91b87/AppIcon-motoracepro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "paid game in the official store AppStore.",
       "category": "games",
       "versions": [
         {
@@ -27702,13 +27703,12 @@
         }
       ],
       "version": "5.56",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moto-race-pro_5.56",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moto-race-pro_5.56",
       "size": 33764147,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191399315",
@@ -27716,6 +27716,7 @@
       "bundleIdentifier": "com.spawnstudios.DukeNukemMP",
       "bundleId": "com.spawnstudios.DukeNukemMP",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/90/60/8090605d-29b0-966a-69d0-322d155cc443/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "paid game in the official store AppStore.",
       "category": "games",
       "versions": [
         {
@@ -27726,13 +27727,12 @@
         }
       ],
       "version": "1.0.14",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duke-nukem-manhattan-project_1.0.14",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/duke-nukem-manhattan-project_1.0.14",
       "size": 247568793,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191433911",
@@ -27740,6 +27740,7 @@
       "bundleIdentifier": "com.nobodyshot.POLYWAR",
       "bundleId": "com.nobodyshot.POLYWAR",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ed/61/94ed61b9-88c7-2f58-2467-6d5e42e90c35/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Seeing enemies through walls. - installation weapon. - Eliminate recoil. - Eliminate dispersion of shots.",
       "category": "games",
       "versions": [
         {
@@ -27750,13 +27751,12 @@
         }
       ],
       "version": "2.6.0",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/polywar-3d-fps-online-shooter_2.6.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/polywar-3d-fps-online-shooter_2.6.0",
       "size": 727606886,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191570787",
@@ -27764,6 +27764,7 @@
       "bundleIdentifier": "com.gree.shadow",
       "bundleId": "com.gree.shadow",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyj-OVvEI-0V0t-f82VtuvmIL_jHPz1KVOGGGefG0eiw&s=10",
+      "localizedDescription": "Game features : -No bounce. - Unlimited ammo . - God Mode . -Radar.",
       "category": "games",
       "versions": [
         {
@@ -27774,13 +27775,12 @@
         }
       ],
       "version": "3.19.7",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/codeof-war-military-gun-game_3.19.7",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/codeof-war-military-gun-game_3.19.7",
       "size": 1205023539,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191621190",
@@ -27788,6 +27788,7 @@
       "bundleIdentifier": "com.JESoftware.LastHopeSniper2",
       "bundleId": "com.JESoftware.LastHopeSniper2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/7e/17/217e179b-0a64-6ef2-c500-a44e0404ea71/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Unlimited coins. - Unlimited crystals. - Unlimited consumables. - Unlimited ammo and without refilling.",
       "category": "games",
       "versions": [
         {
@@ -27798,13 +27799,12 @@
         }
       ],
       "version": "4.21",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-hope-sniper-zombie-war_4.21",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-hope-sniper-zombie-war_4.21",
       "size": 1198522368,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191666641",
@@ -27812,6 +27812,7 @@
       "bundleIdentifier": "com.ovilex.flightcombat",
       "bundleId": "com.ovilex.flightcombat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/d0/c5/b5d0c502-1728-98c3-8db5-32ea79ff5e89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Unlimited gold ; Spend freely on upgrades and planes. - Unlimited money ; Buy unlimited equipment and customizations.",
       "category": "games",
       "versions": [
         {
@@ -27822,13 +27823,12 @@
         }
       ],
       "version": "1.0.19",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fighter-jet-combat-warzone_1.0.19",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fighter-jet-combat-warzone_1.0.19",
       "size": 1199256371,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191703899",
@@ -27836,6 +27836,7 @@
       "bundleIdentifier": "com.hotheadgames.ios.survivors",
       "bundleId": "com.hotheadgames.ios.survivors",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/34/fc/cd34fce2-19ca-4678-f07d-18b2df07ead5/V2AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Unlimited ammo . - Without refilling. - Increased modded shooting. - Eliminate enemies with one hit. - Disable enemy attack.",
       "category": "games",
       "versions": [
         {
@@ -27846,13 +27847,12 @@
         }
       ],
       "version": "10.6",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hero-hunters-3d-shooter-wars_10.6",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hero-hunters-3d-shooter-wars_10.6",
       "size": 237712179,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191727837",
@@ -27860,6 +27860,7 @@
       "bundleIdentifier": "com.gnarlygamestudio.modernshooter",
       "bundleId": "com.gnarlygamestudio.modernshooter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/3a/f9/ca3af92f-9312-1ac6-7c0d-d9fcf9416959/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - 9 million money. - 9 million gems. - 9 million weapon cards. - 9 million Perk cards. - 9 million consumer cards. - 9 million Vest cards. - 9 million glove cards. - 9 million helmet cards. - 9 million belt cards. - 9 million energy. - Ads removed . Note: Activate the hack from Mod Menu , then close the game and open it again.",
       "category": "games",
       "versions": [
         {
@@ -27870,13 +27871,12 @@
         }
       ],
       "version": "9.1.0",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cartel-warfare_9.1.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cartel-warfare_9.1.0",
       "size": 607754649,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191753326",
@@ -27884,6 +27884,7 @@
       "bundleIdentifier": "com.aboutfun.warfriends",
       "bundleId": "com.aboutfun.warfriends",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/b8/73/5bb873b4-5d90-7a96-200e-5897e6777b44/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Without refilling and working online. - Connecting weapons for free . - Unlimited ammo .",
       "category": "games",
       "versions": [
         {
@@ -27894,13 +27895,12 @@
         }
       ],
       "version": "6.2.0",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/war-friends-pvp-shooter_6.2.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/war-friends-pvp-shooter_6.2.0",
       "size": 1498415104,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191775602",
@@ -27908,6 +27908,7 @@
       "bundleIdentifier": "com.wondergames.warpath.ios",
       "bundleId": "com.wondergames.warpath.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b9/6d/fdb96d53-c195-c205-6871-d745802ef940/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Without resetting download with Unlimited ammo . - Eliminate enemies with one hit. - God Mode . - Silent strike and complete objectives from any location. - Range Hack to deal full damage from any distance. -No bounce. - Rapid shooting. - Remove weapon and camera shake.",
       "category": "games",
       "versions": [
         {
@@ -27918,13 +27919,12 @@
         }
       ],
       "version": "14.20.0000",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/warpath-ace-shooter_14.20.0000",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/warpath-ace-shooter_14.20.0000",
       "size": 1891001958,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191817195",
@@ -27932,6 +27932,7 @@
       "bundleIdentifier": "com.pocketgems.dragon",
       "bundleId": "com.pocketgems.dragon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/54/eb/2b54eb57-80bd-2685-c510-89f51bf4261d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Unlimited ammo . - activation skills immediately. - God Mode . - Immediate custody.",
       "category": "games",
       "versions": [
         {
@@ -27942,13 +27943,12 @@
         }
       ],
       "version": "9.7.0",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/war-dragons_9.7.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/war-dragons_9.7.0",
       "size": 216006656,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     },
     {
       "id": "app-1790191838367",
@@ -27956,6 +27956,7 @@
       "bundleIdentifier": "com.mobirate.DeadAheadTactics",
       "bundleId": "com.mobirate.DeadAheadTactics",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/ed/b1/57edb132-091d-391d-79ed-f703ecfc849f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features : - Unlimited coins . - Unlimited fuel. - Unlimited items. -There is no cooldown period when spawning. - Exceed the level requirements. - Without repeating download .",
       "category": "games",
       "versions": [
         {
@@ -27966,13 +27967,12 @@
         }
       ],
       "version": "4.4.4",
-      "versionDate": "2026-09-23",
+      "versionDate": "2026-09-24",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-zombie-warfare_4.4.4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-zombie-warfare_4.4.4",
       "size": 317613670,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-23",
-      "localizedDescription": ""
+      "updatedAt": "2026-09-24"
     }
   ],
   "translationFormatVersion": 4
