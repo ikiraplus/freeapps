@@ -1499,7 +1499,7 @@
     },
     {
       "id": "APP-9044772991",
-      "name": "8ball-pool hack1",
+      "name": "8Ball Pool Hack 1",
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
       "bundleId": "com.miniclip.8ballpoolmult",
       "iconURL": "https://appstore.nabzclan.vip/images/icon_69a0574490269.jpg",
@@ -1507,24 +1507,23 @@
       "category": "games",
       "versions": [
         {
-          "version": "56.29.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ball-pool-56.29.2-hack",
-          "date": "2026-09-07",
-          "size": 91750400
+          "version": "56.30.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ball-pool-hack-56.30.0",
+          "date": "2026-09-24",
+          "size": 98566144
         },
         {
-          "version": "56.28.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-56.28.3-hacked"
+          "version": "56.29.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ball-pool-56.29.2-hack"
         }
       ],
-      "version": "56.29.2",
-      "versionDate": "2026-09-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ball-pool-56.29.2-hack",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ball-pool-56.29.2-hack",
-      "size": 91750400,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-24",
-      "_rowKey": 58
+      "version": "56.30.0",
+      "versionDate": "2026-09-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ball-pool-hack-56.30.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ball-pool-hack-56.30.0",
+      "size": 98566144,
+      "addedAt": "2026-09-25",
+      "updatedAt": "2026-09-25"
     },
     {
       "id": "APP-5874636765",
