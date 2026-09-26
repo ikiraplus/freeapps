@@ -178,23 +178,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "447.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_447.0.0",
-          "date": "2026-09-18",
-          "size": 303143321
+          "version": "448.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_448.0.0",
+          "date": "2026-09-26",
+          "size": 361549004
         },
         {
-          "version": "444.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_444.0.0-v3.1"
+          "version": "447.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_447.0.0"
         }
       ],
-      "version": "447.0.0",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_447.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram_447.0.0",
-      "size": 303143321,
+      "version": "448.0.0",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_448.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram_448.0.0",
+      "size": 361549004,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-09-26"
     },
     {
       "id": "APP-5013744483",
@@ -679,23 +679,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "446.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_446.0.0_threadsaver",
-          "date": "2026-09-07",
-          "size": 106954752
+          "version": "448.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_448.0.0_threadsaver",
+          "date": "2026-09-26",
+          "size": 110310195
         },
         {
-          "version": "445.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_445.1.0_threadsaver"
+          "version": "446.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_446.0.0_threadsaver"
         }
       ],
-      "version": "446.0.0",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_446.0.0_threadsaver",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads_446.0.0_threadsaver",
-      "size": 106954752,
+      "version": "448.0.0",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/threads_448.0.0_threadsaver",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/threads_448.0.0_threadsaver",
+      "size": 110310195,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-26",
       "_rowKey": 27
     },
     {
@@ -8992,23 +8992,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "21.38.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.38.2_v-1.0.1",
-          "date": "2026-09-22",
-          "size": 137048883
+          "version": "21.38.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkaceyoutube_21.38.3_v1.1.0",
+          "date": "2026-09-26",
+          "size": 137153740
         },
         {
-          "version": "21.37.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.37.5-v1.0.0"
+          "version": "21.38.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.38.2_v-1.0.1"
         }
       ],
-      "version": "21.38.2",
-      "versionDate": "2026-09-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.38.2_v-1.0.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ytkace_youtube_21.38.2_v-1.0.1",
-      "size": 137048883,
+      "version": "21.38.3",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkaceyoutube_21.38.3_v1.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ytkaceyoutube_21.38.3_v1.1.0",
+      "size": 137153740,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-22"
+      "updatedAt": "2026-09-26"
     },
     {
       "id": "APP-7774854673",
@@ -14196,23 +14196,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "21.34.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youmod_21.34.3_v2.0",
-          "date": "2026-08-25",
-          "size": 128555417
+          "version": "21.38.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youmod_21.38.3_v2.0.0",
+          "date": "2026-09-26",
+          "size": 130757427
         },
         {
-          "version": "21.33.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youmod_21.33.6_v2.0.0"
+          "version": "21.34.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youmod_21.34.3_v2.0"
         }
       ],
-      "version": "21.34.3",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youmod_21.34.3_v2.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youmod_21.34.3_v2.0",
-      "size": 128555417,
+      "version": "21.38.3",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youmod_21.38.3_v2.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youmod_21.38.3_v2.0.0",
+      "size": 130757427,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-26"
     },
     {
       "id": "APP-3682714667",
@@ -21862,19 +21862,23 @@
       "category": "تواصل",
       "versions": [
         {
+          "version": "9.38.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maxmusic_9.38.1-v2.4.1",
+          "date": "2026-09-26",
+          "size": 113770496
+        },
+        {
           "version": "9.36.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maxmusic_2.4.1.9.36.1",
-          "date": "2026-09-12",
-          "size": 106430464
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maxmusic_2.4.1.9.36.1"
         }
       ],
-      "version": "9.36.1",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maxmusic_2.4.1.9.36.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/maxmusic_2.4.1.9.36.1",
-      "size": 106430464,
+      "version": "9.38.1",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/maxmusic_9.38.1-v2.4.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/maxmusic_9.38.1-v2.4.1",
+      "size": 113770496,
       "addedAt": "2026-09-13",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-26"
     },
     {
       "id": "app-1789238785929",
@@ -23353,23 +23357,27 @@
       "bundleIdentifier": "com.psychozinteractive.forgottenmemories",
       "bundleId": "com.psychozinteractive.forgottenmemories",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/51/2d/a6/512da63f-7d64-0d30-b626-6745556bcf3e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي Appstore.",
       "category": "ألعاب",
       "versions": [
         {
-          "version": "1.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories",
-          "date": "2026-09-15",
-          "size": 1033476505
+          "version": "1.6.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories-v1.6.6-1",
+          "date": "2026-09-26",
+          "size": 1605894144
+        },
+        {
+          "version": "1.5.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories-v1.5-1"
         }
       ],
-      "version": "1.5",
-      "versionDate": "2026-09-15",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories",
-      "size": 1033476505,
+      "version": "1.6.6",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories-v1.6.6-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/forgotten-memories-v1.6.6-1",
+      "size": 1605894144,
       "addedAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-26"
     },
     {
       "id": "app-1789487787541",
@@ -30310,6 +30318,237 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/getaway-2-v1.5.097-2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/getaway-2-v1.5.097-2",
       "size": 162948710,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790420254677",
+      "name": "Haak",
+      "bundleIdentifier": "com.blingame.doomsday",
+      "bundleId": "com.blingame.doomsday",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/48/52/3f4852f8-49de-a482-1917-91c79a876881/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/haak_1.4.2-appstore",
+          "date": "2026-09-26",
+          "size": 534249472
+        }
+      ],
+      "version": "1.4.2",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/haak_1.4.2-appstore",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/haak_1.4.2-appstore",
+      "size": 534249472,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790420307379",
+      "name": "Slaughter The Lost Outpost",
+      "bundleIdentifier": "com.VenomizedArt.Slaughter4",
+      "bundleId": "com.VenomizedArt.Slaughter4",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/e7/b1/e2e7b1bb-906d-50cd-82b9-4dd98f224760/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slaughter-the-lost-outpost-v1.3-1",
+          "date": "2026-09-26",
+          "size": 747949260
+        }
+      ],
+      "version": "1.3",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slaughter-the-lost-outpost-v1.3-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/slaughter-the-lost-outpost-v1.3-1",
+      "size": 747949260,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790420464965",
+      "name": "Streets Of Rage 2 Classic",
+      "bundleIdentifier": "com.sega.streetsofrage2classic",
+      "bundleId": "com.sega.streetsofrage2classic",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq9D9thzfdrYWBQRBcKpdP9cpj65lDv3oqzyqQsUAAA&s=10",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "9.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/streets-of-rage-2-classic-v9.0.0",
+          "date": "2026-09-26",
+          "size": 42991616
+        }
+      ],
+      "version": "9.0.0",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/streets-of-rage-2-classic-v9.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/streets-of-rage-2-classic-v9.0.0",
+      "size": 42991616,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790422183022",
+      "name": "Slaughter",
+      "bundleIdentifier": "com.venomizedart.Slaughter",
+      "bundleId": "com.venomizedart.Slaughter",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/f7/f7/ccf7f7cd-ba3f-d667-f5f5-afc2aadb454b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.28",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slaughter-v2.28-1",
+          "date": "2026-09-26",
+          "size": 177838489
+        }
+      ],
+      "version": "2.28",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slaughter-v2.28-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/slaughter-v2.28-1",
+      "size": 177838489,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790422239920",
+      "name": "Slaughter 3 The Rebels",
+      "bundleIdentifier": "com.venomizedArt.SlaughterRebels",
+      "bundleId": "com.venomizedArt.SlaughterRebels",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/29/3f/48293f43-ce6a-ef2d-10f3-612f2c31d6f9/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.47",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slaughter-3-the-rebels-v1.47",
+          "date": "2026-09-26",
+          "size": 608278937
+        }
+      ],
+      "version": "1.47",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slaughter-3-the-rebels-v1.47",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/slaughter-3-the-rebels-v1.47",
+      "size": 608278937,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790422267640",
+      "name": "Slaughter 2 Prison Assault",
+      "bundleIdentifier": "com.venomizedArt.Slaughter2",
+      "bundleId": "com.venomizedArt.Slaughter2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/8b/f4/ab8bf42f-2aa6-1fbd-f430-2fc3b04f0818/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.30",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slaughter-2-prison-assault-v1.30",
+          "date": "2026-09-26",
+          "size": 460534579
+        }
+      ],
+      "version": "1.30",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/slaughter-2-prison-assault-v1.30",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/slaughter-2-prison-assault-v1.30",
+      "size": 460534579,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790422347712",
+      "name": "Sky Gamblers Storm Raiders 2",
+      "bundleIdentifier": "com.atypicalgames.sgsr2",
+      "bundleId": "com.atypicalgames.sgsr2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/2b/59/b22b59e8-a42d-646c-7f2c-fe0cfe95fa67/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sky-gamblers-storm-raiders-2-v1.1.5-1",
+          "date": "2026-09-26",
+          "size": 1473249280
+        }
+      ],
+      "version": "1.1.5",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sky-gamblers-storm-raiders-2-v1.1.5-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sky-gamblers-storm-raiders-2-v1.1.5-1",
+      "size": 1473249280,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790422363303",
+      "name": "The Forgotten Room",
+      "bundleIdentifier": "com.glitchgames.theforgottenroom",
+      "bundleId": "com.glitchgames.theforgottenroom",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a3/b2/b9a3b26a-bfc9-a59d-d4b3-22e7f654d3e5/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.2.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-forgotten-room-v1.2.4-1",
+          "date": "2026-09-26",
+          "size": 398039449
+        }
+      ],
+      "version": "1.2.4",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-forgotten-room-v1.2.4-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-forgotten-room-v1.2.4-1",
+      "size": 398039449,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790426873452",
+      "name": "Fati Score",
+      "bundleIdentifier": "com.fatiscore.fatiScore",
+      "bundleId": "com.fatiscore.fatiScore",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/cc/0d/cecc0d1c-095f-e11b-d654-c27f30aadb44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "تم إزالة جميع الإعلانات المزعجة.",
+      "category": "ترفيه",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fatiscore-1.1.1-noads",
+          "date": "2026-09-26",
+          "size": 14470348
+        }
+      ],
+      "version": "1.1.1",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fatiscore-1.1.1-noads",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fatiscore-1.1.1-noads",
+      "size": 14470348,
+      "addedAt": "2026-09-26",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "app-1790426946037",
+      "name": "Novagram",
+      "bundleIdentifier": "uz.fenixuz.app",
+      "bundleId": "uz.fenixuz.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/38/1b/53381b3b-cfe5-6cbc-d092-9b06e5e4e657/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
+      "category": "تواصل",
+      "versions": [
+        {
+          "version": "12.9.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/novagram-2.0.11",
+          "date": "2026-09-26",
+          "size": 91435827
+        }
+      ],
+      "version": "12.9.7",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/novagram-2.0.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/novagram-2.0.11",
+      "size": 91435827,
       "addedAt": "2026-09-26",
       "updatedAt": "2026-09-26"
     }
