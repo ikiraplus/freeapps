@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/ikiraplus/freeapps/releases/download/3.2/CinemaBox.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.moox.app</string>
+				<string>co.albox.cinema</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
