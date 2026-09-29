@@ -1065,7 +1065,7 @@
     },
     {
       "id": "APP-6102935193",
-      "name": "Red Dead Redemption (free paid)",
+      "name": "Red Dead Redemption",
       "bundleIdentifier": "com.rockstargames.rdr",
       "bundleId": "com.rockstargames.rdr",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8a/32/6f8a3229-8cba-326d-624a-55e900774f64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
@@ -1075,17 +1075,17 @@
         {
           "version": "1.50.6",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
-          "date": "2026-08-24",
+          "date": "2026-09-29",
           "size": 2883269427
         }
       ],
       "version": "1.50.6",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-09-29",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
       "size": 2883269427,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-09-29",
       "_rowKey": 42
     },
     {
@@ -3242,7 +3242,7 @@
       "bundleIdentifier": "com.epicgames.fortnite",
       "bundleId": "com.epicgames.fortnite",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/2e/d6/682ed612-d479-3387-c1a0-0f41247f8ff4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "localizedDescription": "working is implemented without app store , and does not require jailbreak (jailbreak)",
+      "localizedDescription": "-All costumes are open. - All back decorations are open. - All axes are open. - All gliders are open. -All kicks are open. -All condensate lines are open. - All circles are open. - All expressions are open. -All covers are open. -All lobby music is on. - All download screens are open. Note: It works on iPhone 11 Pro and above. The total game space is 13 GB.",
       "category": "games",
       "versions": [
         {
@@ -3253,12 +3253,12 @@
         }
       ],
       "version": "40.40.1",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-09-29",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortnite",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fortnite",
       "size": 2550765977,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-29",
       "_rowKey": 124
     },
     {
