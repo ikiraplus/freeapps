@@ -5502,7 +5502,7 @@
     },
     {
       "id": "APP-6778944485",
-      "name": "ai chat smith",
+      "name": "Chat Smith: AI Chatbot & Agent",
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "bundleId": "co.vulcanlabs.moodtracker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/8b/29/ec8b2987-07ac-8150-828b-44dd246192d4/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
@@ -5510,20 +5510,23 @@
       "category": "دراسة وذكاء اصطناعي",
       "versions": [
         {
+          "version": "9.260928.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chat-smith-ai-chatbot-agent_9.260928.1",
+          "date": "2026-10-02",
+          "size": 751933849
+        },
+        {
           "version": "5.0.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-chatsmith-5.0.8",
-          "date": "2026-08-24",
-          "size": 564343603
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-chatsmith-5.0.8"
         }
       ],
-      "version": "5.0.8",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ai-chatsmith-5.0.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ai-chatsmith-5.0.8",
-      "size": 564343603,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
-      "_rowKey": 212
+      "version": "9.260928.1",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chat-smith-ai-chatbot-agent_9.260928.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chat-smith-ai-chatbot-agent_9.260928.1",
+      "size": 751933849,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
     },
     {
       "id": "APP-8063292251",
@@ -24067,24 +24070,28 @@
       "name": "Hair Challenge",
       "bundleIdentifier": "com.Upperpik.HairChallenge",
       "bundleId": "com.Upperpik.HairChallenge",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/ae/e5/93aee5ab-9bfb-b725-cb5b-17c613f212e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/1f/ff/431fffaf-5bb2-15bb-a0e0-fe04f9bf51a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- ألماس غير محدود.\n- فتح جميع تسريحات الشعر.\n- فتح جميع المعززات.",
       "category": "ألعاب",
       "versions": [
         {
+          "version": "43.7.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hair-challenge_43.7.3",
+          "date": "2026-10-02",
+          "size": 403596902
+        },
+        {
           "version": "43.7.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hair-challenge_43.7.1",
-          "date": "2026-09-15",
-          "size": 403177472
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hair-challenge_43.7.1"
         }
       ],
-      "version": "43.7.1",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hair-challenge_43.7.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hair-challenge_43.7.1",
-      "size": 403177472,
+      "version": "43.7.3",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hair-challenge_43.7.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hair-challenge_43.7.3",
+      "size": 403596902,
       "addedAt": "2026-09-15",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-10-02"
     },
     {
       "id": "app-1789500367955",
@@ -28858,19 +28865,23 @@
       "category": "ألعاب",
       "versions": [
         {
+          "version": "7.14.59",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/offroad-outlaws_7.14.59",
+          "date": "2026-10-02",
+          "size": 1334417817
+        },
+        {
           "version": "7.13.81",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/offroad-outlaws_7.13.81",
-          "date": "2026-09-25",
-          "size": 1310300569
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/offroad-outlaws_7.13.81"
         }
       ],
-      "version": "7.13.81",
-      "versionDate": "2026-09-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/offroad-outlaws_7.13.81",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/offroad-outlaws_7.13.81",
-      "size": 1310300569,
+      "version": "7.14.59",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/offroad-outlaws_7.14.59",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/offroad-outlaws_7.14.59",
+      "size": 1334417817,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-10-02"
     },
     {
       "id": "app-1790345734116",
@@ -32723,6 +32734,236 @@
       "size": 536975769,
       "addedAt": "2026-10-01",
       "updatedAt": "2026-10-01"
+    },
+    {
+      "id": "app-1790951720647",
+      "name": "Vibe Cam Moments Never Fade",
+      "bundleIdentifier": "linsen.camera.app",
+      "bundleId": "linsen.camera.app",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f0/1b/9ef01bfd-cefc-eed7-c909-5abaa29f51b7/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "6.3.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vibe-cam-moments-never-fade_6.3.7",
+          "date": "2026-10-02",
+          "size": 451307110
+        }
+      ],
+      "version": "6.3.7",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vibe-cam-moments-never-fade_6.3.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vibe-cam-moments-never-fade_6.3.7",
+      "size": 451307110,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "app-1790951733831",
+      "name": "Dog Rescue Virtual Pet Games",
+      "bundleIdentifier": "gg.sunday.dog.escape.puzzle",
+      "bundleId": "gg.sunday.dog.escape.puzzle",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/fc/7b/30fc7b58-3cab-1d91-4dc3-603052cd088f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.58.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dog-rescue-virtual-pet-games_1.58.0",
+          "date": "2026-10-02",
+          "size": 341101772
+        }
+      ],
+      "version": "1.58.0",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dog-rescue-virtual-pet-games_1.58.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dog-rescue-virtual-pet-games_1.58.0",
+      "size": 341101772,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "app-1790951761051",
+      "name": "Inside Out Thought Bubbles",
+      "bundleIdentifier": "com.disney.thoughtbubbles",
+      "bundleId": "com.disney.thoughtbubbles",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/6d/af/8d6daf56-6c93-567b-d4bb-898985f91cf4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "2.9.92",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/inside-out-thought-bubbles_2.9.92",
+          "date": "2026-10-02",
+          "size": 529006592
+        }
+      ],
+      "version": "2.9.92",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/inside-out-thought-bubbles_2.9.92",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/inside-out-thought-bubbles_2.9.92",
+      "size": 529006592,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "app-1790951781213",
+      "name": "Ewa Learn Languages",
+      "bundleIdentifier": "com.ewa.ewaapp",
+      "bundleId": "com.ewa.ewaapp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/86/ce/7f86ce9d-8abe-ab2a-131b-ed47efe20599/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "26.1001.6575",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ewa-learn-languages_26.1001.6575",
+          "date": "2026-10-02",
+          "size": 214328934
+        }
+      ],
+      "version": "26.1001.6575",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ewa-learn-languages_26.1001.6575",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ewa-learn-languages_26.1001.6575",
+      "size": 214328934,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "app-1790951795702",
+      "name": "The Fame Game Celebrity Life",
+      "bundleIdentifier": "com.mwcompany.thefamegame",
+      "bundleId": "com.mwcompany.thefamegame",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/b7/43/0fb743d2-ac90-9afd-f8c4-a5511364f6c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.05",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-fame-game-celebrity-life_1.05",
+          "date": "2026-10-02",
+          "size": 620652134
+        }
+      ],
+      "version": "1.05",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-fame-game-celebrity-life_1.05",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-fame-game-celebrity-life_1.05",
+      "size": 620652134,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "app-1790951814663",
+      "name": "Hero Wars Alliance Fantasy",
+      "bundleIdentifier": "com.nexters.titanhunters",
+      "bundleId": "com.nexters.titanhunters",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/36/1e/0e361ecb-35d4-50c1-b711-113be9ff8c10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.290.204",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hero-wars-alliance-fantasy_1.290.204",
+          "date": "2026-10-02",
+          "size": 399822028
+        }
+      ],
+      "version": "1.290.204",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hero-wars-alliance-fantasy_1.290.204",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hero-wars-alliance-fantasy_1.290.204",
+      "size": 399822028,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "app-1790951978142",
+      "name": "Wonder Merge",
+      "bundleIdentifier": "com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge",
+      "bundleId": "com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/e0/64/63e06417-52b3-b8ff-1d65-47b82add9016/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.5.04",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wonder-merge_1.5.04",
+          "date": "2026-10-02",
+          "size": 455711129
+        }
+      ],
+      "version": "1.5.04",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wonder-merge_1.5.04",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wonder-merge_1.5.04",
+      "size": 455711129,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "app-1790951993880",
+      "name": "Bounce Defense",
+      "bundleIdentifier": "com.minigamelab.bouncedefense",
+      "bundleId": "com.minigamelab.bouncedefense",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/4d/20/4e4d204c-92d0-7444-807a-16586d906146/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.19.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bounce-defense_1.19.8",
+          "date": "2026-10-02",
+          "size": 498283315
+        }
+      ],
+      "version": "1.19.8",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bounce-defense_1.19.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bounce-defense_1.19.8",
+      "size": 498283315,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "app-1790952053559",
+      "name": "The Demonized Idle Rpg",
+      "bundleIdentifier": "com.deepgames.release.becamethedevil",
+      "bundleId": "com.deepgames.release.becamethedevil",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/49/cf/ce49cf4b-47e3-23e9-f369-8aac6ae217bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "7.28.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-demonized-idle-rpg_7.28.0",
+          "date": "2026-10-02",
+          "size": 911736832
+        }
+      ],
+      "version": "7.28.0",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/the-demonized-idle-rpg_7.28.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-demonized-idle-rpg_7.28.0",
+      "size": 911736832,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "app-1790952092859",
+      "name": "Monthly Entertainment",
+      "bundleIdentifier": "com.factory608.ME",
+      "bundleId": "com.factory608.ME",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/aa/a9/f6aaa91a-0971-96d5-d75d-1c543370be7e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.376",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monthly-entertainment_1.0.376",
+          "date": "2026-10-02",
+          "size": 325163417
+        }
+      ],
+      "version": "1.0.376",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monthly-entertainment_1.0.376",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monthly-entertainment_1.0.376",
+      "size": 325163417,
+      "addedAt": "2026-10-02",
+      "updatedAt": "2026-10-02"
     }
   ]
 }
