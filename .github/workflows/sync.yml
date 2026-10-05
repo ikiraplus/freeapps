@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '17 */4 * * *'
-  push:
-    paths:
-      - '.github/workflows/sync.yml'
 
 permissions:
   contents: write
