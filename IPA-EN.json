@@ -3868,32 +3868,31 @@
     },
     {
       "id": "APP-4038515753",
-      "name": "8ball-pool hack 2",
-      "bundleIdentifier": "com.fiksu",
-      "bundleId": "com.fiksu",
+      "name": "8ball pool Hack 2",
+      "bundleIdentifier": "com.miniclip.8ballpoolmult",
+      "bundleId": "com.miniclip.8ballpoolmult",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/85/2f/ae852f5b-3d53-e3ae-4f9a-5f6a32b06403/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Use of this application is at your own risk, and we do not guarantee the game nor do we know who developed it",
+      "localizedDescription": "",
       "category": "games",
       "versions": [
         {
-          "version": "56.28.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hackedikiraplus",
-          "date": "2026-08-29",
-          "size": 107374182
+          "version": "56.29.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/plya-8ball-pool-hack_56.29.2",
+          "date": "2026-10-11",
+          "size": 162004992
         },
         {
-          "version": "56.25.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8-ball-pool-hacked2"
+          "version": "56.28.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hackedikiraplus"
         }
       ],
-      "version": "56.28.2",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hackedikiraplus",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/8ballpool-hackedikiraplus",
-      "size": 107374182,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 149
+      "version": "56.29.2",
+      "versionDate": "2026-10-11",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/plya-8ball-pool-hack_56.29.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/plya-8ball-pool-hack_56.29.2",
+      "size": 162004992,
+      "addedAt": "2026-10-11",
+      "updatedAt": "2026-10-11"
     },
     {
       "id": "APP-3760722823",
