@@ -4,132 +4,16 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '17 */4 * * *'
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/sync.yml'
 
 permissions:
   contents: write
 
 concurrency:
   group: sync-ipa-ar-en
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
-  format-existing-en:
-    if: github.event_name == 'push'
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Checkout latest freeapps
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 2
-
-      - name: Arrange existing English descriptions into lines only
-        shell: python
-        run: |
-          import json
-          import re
-          from pathlib import Path
-
-          ar_path = Path('IPA-AR.json')
-          en_path = Path('IPA-EN.json')
-          ar = json.loads(ar_path.read_text(encoding='utf-8'))
-          en = json.loads(en_path.read_text(encoding='utf-8'))
-
-          def key(app):
-              app_id = str(app.get('id') or '').strip()
-              if app_id:
-                  return ('id', app_id)
-              bundle = str(app.get('bundleIdentifier') or app.get('bundleId') or '').strip()
-              name = str(app.get('name') or '').strip()
-              return ('fallback', bundle, name)
-
-          def collapse_ws(text):
-              return re.sub(r'\s+', ' ', str(text or '')).strip()
-
-          def reflow(ar_text, en_text):
-              ar_text = str(ar_text or '').replace('\r\n', '\n').replace('\r', '\n')
-              text = str(en_text or '').replace('\r\n', '\n').replace('\r', '\n').strip()
-              if not text or '\n' not in ar_text:
-                  return text
-
-              text = re.sub(r'[ \t]*\n[ \t]*', '\n', text)
-              text = re.sub(r'[ \t]+(?=-[ \t]+)', '\n', text)
-              text = re.sub(r'(?<=:)[ \t]*(?=-[ \t]+)', '\n', text)
-              text = re.sub(r'[ \t]+(?=\d+[ \t]*-[ \t]+)', '\n', text)
-
-              heading = r'(?:App features|Game features|Mod features|Activation|Installation|To enable the features)\s*:'
-              text = re.sub(r'(?<=[.!?])[ \t]+(?=' + heading + r')', '\n\n', text, flags=re.IGNORECASE)
-              text = re.sub(r'[ \t]+(?=(?:Installation|Activation|To enable the features)\s*:)', '\n\n', text, flags=re.IGNORECASE)
-              text = re.sub(r'[ \t]+(?=(?:Username|Password)\s*:?)', '\n', text, flags=re.IGNORECASE)
-
-              text = re.sub(r'[ \t]+\n', '\n', text)
-              text = re.sub(r'\n[ \t]+', '\n', text)
-              text = re.sub(r'\n{3,}', '\n\n', text)
-              return text.strip()
-
-          ar_by_key = {key(a): a for a in ar.get('apps', []) if isinstance(a, dict)}
-          changed = 0
-          inspected = 0
-
-          for app in en.get('apps', []):
-              if not isinstance(app, dict):
-                  continue
-              ar_app = ar_by_key.get(key(app))
-              if not ar_app:
-                  continue
-              ar_desc = str(ar_app.get('localizedDescription') or '')
-              old_desc = str(app.get('localizedDescription') or '')
-              if '\n' not in ar_desc or not old_desc.strip():
-                  continue
-              inspected += 1
-              new_desc = reflow(ar_desc, old_desc)
-              if collapse_ws(new_desc) != collapse_ws(old_desc):
-                  raise SystemExit(f'Wording changed unexpectedly: {app.get("name") or app.get("id")}')
-              if new_desc != old_desc:
-                  app['localizedDescription'] = new_desc
-                  changed += 1
-
-          en['translationFormatVersion'] = 5
-          en_path.write_text(json.dumps(en, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-          print(f'Inspected Arabic multiline descriptions: {inspected}')
-          print(f'Reformatted existing English descriptions: {changed}')
-          print('No translation service used. English wording preserved exactly.')
-
-      - name: Validate formatting only
-        shell: python
-        run: |
-          import json
-          with open('IPA-EN.json', 'r', encoding='utf-8') as f:
-              en = json.load(f)
-          if en.get('translationFormatVersion') != 5:
-              raise SystemExit('translationFormatVersion is not 5')
-          count = sum(1 for a in en.get('apps', []) if isinstance(a, dict) and '\n' in str(a.get('localizedDescription') or ''))
-          if count == 0:
-              raise SystemExit('No multiline English descriptions found after formatting')
-          print(f'Validated multiline descriptions: {count}')
-
-      - name: Commit formatted IPA-EN only
-        shell: bash
-        run: |
-          set -euo pipefail
-          if git diff --quiet -- IPA-EN.json; then
-            echo 'No English formatting changes needed.'
-            exit 0
-          fi
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add IPA-EN.json
-          git commit -m 'Format existing EN descriptions into lines'
-          git pull --rebase origin main
-          git push
-
   sync-ar:
-    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
@@ -212,7 +96,6 @@ jobs:
           git push
 
   sync-en:
-    if: github.event_name != 'push'
     needs: sync-ar
     runs-on: ubuntu-latest
     timeout-minutes: 180
