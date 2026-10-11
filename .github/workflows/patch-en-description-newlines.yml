@@ -1,0 +1,118 @@
+name: Patch EN description line breaks
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/patch-en-description-newlines.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Preserve Arabic description line breaks in English sync
+        shell: python
+        run: |
+          from pathlib import Path
+
+          path = Path('sync_apps.py')
+          text = path.read_text(encoding='utf-8')
+
+          old_restore = '''def _restore_glossary_terms(text, tokens):
+              for placeholder, english_term in tokens.items():
+                  loose_pattern = r"\\s*".join(re.escape(ch) for ch in placeholder)
+                  text = re.sub(loose_pattern, f" {english_term} ", text, flags=re.IGNORECASE)
+              return re.sub(r" {2,}", " ", text).strip()
+          '''
+          new_restore = '''def _restore_glossary_terms(text, tokens):
+              for placeholder, english_term in tokens.items():
+                  loose_pattern = r"\\s*".join(re.escape(ch) for ch in placeholder)
+                  text = re.sub(loose_pattern, f" {english_term} ", text, flags=re.IGNORECASE)
+              return re.sub(r" {2,}", " ", text).strip()
+
+
+          _NEWLINE_TOKEN = "QQNLZXQQ"
+
+
+          def _protect_line_breaks(text):
+              """Protect Arabic description line breaks so translation providers cannot flatten them."""
+              text = clean_text_keep_lines(text)
+              return text.replace("\\n", f" {_NEWLINE_TOKEN} ")
+
+
+          def _restore_line_breaks(text):
+              """Restore protected line breaks as real newlines; json.dump will serialize them as \\n."""
+              text = str(text or "")
+              loose_pattern = r"\\s*".join(re.escape(ch) for ch in _NEWLINE_TOKEN)
+              text = re.sub(loose_pattern, "\\n", text, flags=re.IGNORECASE)
+              return clean_text_keep_lines(text)
+          '''
+          if old_restore not in text:
+              raise SystemExit('Could not locate glossary restore block')
+          text = text.replace(old_restore, new_restore, 1)
+
+          old_line = '''    protected_text, glossary_tokens = _protect_glossary_terms(text)
+          '''
+          new_line = '''    protected_text, glossary_tokens = _protect_glossary_terms(_protect_line_breaks(text))
+          '''
+          if old_line not in text:
+              raise SystemExit('Could not locate translation protection line')
+          text = text.replace(old_line, new_line, 1)
+
+          old_return = '''    return _restore_glossary_terms(result, glossary_tokens)
+          '''
+          new_return = '''    return _restore_line_breaks(_restore_glossary_terms(result, glossary_tokens))
+          '''
+          if old_return not in text:
+              raise SystemExit('Could not locate translated result return')
+          text = text.replace(old_return, new_return, 1)
+
+          old_version = 'TRANSLATION_FORMAT_VERSION = 4'
+          new_version = 'TRANSLATION_FORMAT_VERSION = 5'
+          if old_version not in text:
+              raise SystemExit('Could not locate translation format version')
+          text = text.replace(old_version, new_version, 1)
+
+          path.write_text(text, encoding='utf-8')
+
+      - name: Validate syntax and newline preservation
+        shell: bash
+        run: |
+          python -m py_compile sync_apps.py
+          python - <<'PY'
+          import json
+          import sync_apps
+
+          sample = 'السطر الأول\n- السطر الثاني\n- السطر الثالث\n\nملاحظة أخيرة'
+          protected = sync_apps._protect_line_breaks(sample)
+          if '\n' in protected:
+              raise SystemExit('Protected text still contains raw newlines')
+          restored = sync_apps._restore_line_breaks(protected)
+          if restored != sample:
+              raise SystemExit(f'Line-break roundtrip failed: {restored!r}')
+          dumped = json.dumps({'localizedDescription': restored}, ensure_ascii=False)
+          if '\\n' not in dumped:
+              raise SystemExit('JSON output does not contain escaped newline markers')
+          if sync_apps.TRANSLATION_FORMAT_VERSION != 5:
+              raise SystemExit('Translation format version was not bumped')
+          print('EN description newline preservation validated')
+          PY
+
+      - name: Commit patch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sync_apps.py
+          if git diff --cached --quiet; then
+            echo "No changes needed."
+            exit 0
+          fi
+          git commit -m "Preserve EN description line breaks"
+          git push
