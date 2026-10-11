@@ -1,4 +1,4 @@
-name: Format existing EN descriptions only
+name: Clean EN description line formatting
 
 on:
   push:
@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  format-en:
+  cleanup-en:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -23,113 +23,53 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Reflow current English descriptions only
+      - name: Remove accidental word-level line breaks only
         shell: python
         run: |
           import json
           import re
           from pathlib import Path
 
-          ar_path = Path('IPA-AR.json')
-          en_path = Path('IPA-EN.json')
-          ar = json.loads(ar_path.read_text(encoding='utf-8'))
-          en = json.loads(en_path.read_text(encoding='utf-8'))
-
-          def key(app):
-              app_id = str(app.get('id') or '').strip()
-              if app_id:
-                  return ('id', app_id)
-              bundle = str(app.get('bundleIdentifier') or app.get('bundleId') or '').strip()
-              name = str(app.get('name') or '').strip()
-              return ('fallback', bundle, name)
-
-          ar_by_key = {key(a): a for a in ar.get('apps', []) if isinstance(a, dict)}
+          path = Path('IPA-EN.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
 
           def collapse_ws(text):
               return re.sub(r'\s+', ' ', str(text or '')).strip()
 
-          def reflow(ar_text, en_text):
-              ar_text = str(ar_text or '').replace('\r\n', '\n').replace('\r', '\n')
-              en_text = str(en_text or '').replace('\r\n', '\n').replace('\r', '\n').strip()
-              if not en_text or '\n' not in ar_text:
-                  return en_text
-
-              # Keep every English word exactly as-is; only replace whitespace with line breaks.
-              text = re.sub(r'[ \t]*\n[ \t]*', '\n', en_text)
-
-              # Existing translations kept bullet markers but old logic flattened their newlines.
-              text = re.sub(r'[ \t]+(?=-[ \t]+)', '\n', text)
-              text = re.sub(r'(?<=:)[ \t]*(?=-[ \t]+)', '\n', text)
-
-              # Numbered instruction lists: 1- ... 2- ... etc.
-              text = re.sub(r'[ \t]+(?=\d+[ \t]*-[ \t]+)', '\n', text)
-
-              # Restore obvious section headings when they follow a completed sentence/list item.
-              heading = r'(?:App features|Game features|Mod features|Activation|Installation|To enable the features)\s*:'
-              text = re.sub(r'(?<=[.!?])[ \t]+(?=' + heading + r')', '\n\n', text, flags=re.IGNORECASE)
-              text = re.sub(r'[ \t]+(?=(?:Installation|Activation|To enable the features)\s*:)', '\n\n', text, flags=re.IGNORECASE)
-
-              # Common credential labels in step-by-step descriptions.
-              text = re.sub(r'[ \t]+(?=(?:Username|Password)\s*:?)', '\n', text, flags=re.IGNORECASE)
-
-              # Clean spacing around newlines without touching wording.
-              text = re.sub(r'[ \t]+\n', '\n', text)
-              text = re.sub(r'\n[ \t]+', '\n', text)
-              text = re.sub(r'\n{3,}', '\n\n', text)
-              return text.strip()
-
           changed = 0
-          multiline_ar = 0
-          for app in en.get('apps', []):
+          for app in data.get('apps', []):
               if not isinstance(app, dict):
                   continue
-              ar_app = ar_by_key.get(key(app))
-              if not ar_app:
+              old = str(app.get('localizedDescription') or '')
+              if not old:
                   continue
-              ar_desc = str(ar_app.get('localizedDescription') or '')
-              old_desc = str(app.get('localizedDescription') or '')
-              if '\n' not in ar_desc or not old_desc.strip():
-                  continue
-              multiline_ar += 1
-              new_desc = reflow(ar_desc, old_desc)
-              if collapse_ws(new_desc) != collapse_ws(old_desc):
-                  raise SystemExit(f'Text changed, not just formatting: {app.get("name") or app.get("id")}')
-              if new_desc != old_desc:
-                  app['localizedDescription'] = new_desc
+
+              # A prior formatter could split lowercase words such as
+              # "the\nusername" or "and\npassword". Join only those
+              # accidental lowercase word breaks; keep real list/section lines.
+              new = re.sub(r'\n(?=(?:username|password)\b)', ' ', old)
+
+              if collapse_ws(new) != collapse_ws(old):
+                  raise SystemExit(f'Unexpected wording change: {app.get("name") or app.get("id")}')
+              if new != old:
+                  app['localizedDescription'] = new
                   changed += 1
 
-          # Mark the existing English source as migrated to the newline-preserving format.
-          en['translationFormatVersion'] = 5
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          print(f'Cleaned descriptions: {changed}')
+          print('No translation performed; only accidental whitespace breaks were joined.')
 
-          en_path.write_text(json.dumps(en, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-          print(f'Current EN descriptions reformatted: {changed}')
-          print(f'Arabic multiline descriptions inspected: {multiline_ar}')
-          print('No translation API was called; wording was preserved exactly.')
-
-      - name: Validate formatting-only migration
-        shell: python
-        run: |
-          import json
-          with open('IPA-EN.json', 'r', encoding='utf-8') as f:
-              en = json.load(f)
-          if en.get('translationFormatVersion') != 5:
-              raise SystemExit('translationFormatVersion is not 5')
-          multiline = sum(1 for a in en.get('apps', []) if isinstance(a, dict) and '\n' in str(a.get('localizedDescription') or ''))
-          if multiline == 0:
-              raise SystemExit('No English descriptions were converted to multiline format')
-          print(f'Validated multiline EN descriptions: {multiline}')
-
-      - name: Commit formatted IPA-EN only
+      - name: Commit cleanup
         shell: bash
         run: |
           set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add IPA-EN.json
-          if git diff --cached --quiet; then
-            echo "No EN formatting changes needed."
+          if git diff --quiet -- IPA-EN.json; then
+            echo 'No cleanup changes needed.'
             exit 0
           fi
-          git commit -m "Format existing EN descriptions into lines"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add IPA-EN.json
+          git commit -m 'Clean EN description line formatting'
           git pull --rebase origin main
           git push
