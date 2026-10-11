@@ -1143,6 +1143,23 @@ def _restore_glossary_terms(text, tokens):
     return re.sub(r" {2,}", " ", text).strip()
 
 
+_NEWLINE_TOKEN = "QQNLZXQQ"
+
+
+def _protect_line_breaks(text):
+    """Protect Arabic description line breaks so translation providers cannot flatten them."""
+    text = clean_text_keep_lines(text)
+    return text.replace("\n", f" {_NEWLINE_TOKEN} ")
+
+
+def _restore_line_breaks(text):
+    """Restore protected line breaks as real newlines; json.dump will serialize them as \n."""
+    text = str(text or "")
+    loose_pattern = r"\s*".join(re.escape(ch) for ch in _NEWLINE_TOKEN)
+    text = re.sub(loose_pattern, "\n", text, flags=re.IGNORECASE)
+    return clean_text_keep_lines(text)
+
+
 def _parse_google_translate_response(raw_body):
 
     data = json.loads(raw_body)
@@ -1249,7 +1266,7 @@ def _translate_line_to_english(text):
     if not text:
         return ""
 
-    protected_text, glossary_tokens = _protect_glossary_terms(text)
+    protected_text, glossary_tokens = _protect_glossary_terms(_protect_line_breaks(text))
 
     try:
         # Google is usually faster and more consistent for technical app/mod descriptions.
@@ -1262,7 +1279,7 @@ def _translate_line_to_english(text):
                 f"All translation providers failed — Google: {google_error} | MyMemory: {mymemory_error}"
             )
 
-    return _restore_glossary_terms(result, glossary_tokens)
+    return _restore_line_breaks(_restore_glossary_terms(result, glossary_tokens))
 
 
 TRANSLATION_CHUNK_CHARS = int(os.getenv("TRANSLATION_CHUNK_CHARS", "800"))
@@ -1333,7 +1350,7 @@ TRANSLATE_WORKERS = int(os.getenv("TRANSLATE_WORKERS", "3"))
 EN_SOURCE_URL = "https://ikiraplus.pages.dev/IPA-EN.json"
 
 
-TRANSLATION_FORMAT_VERSION = 4
+TRANSLATION_FORMAT_VERSION = 5
 
 
 def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
