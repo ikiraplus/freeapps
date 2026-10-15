@@ -14219,7 +14219,7 @@
       "bundleIdentifier": "com.everbytestudio.interactive.story.moonvale",
       "bundleId": "com.everbytestudio.interactive.story.moonvale",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/b4/b9/4bb4b98a-e77c-d245-c362-c4e5cb11bd2d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "Game features :\n- Unlock all maps, houses, furniture and clothes from the beginning.",
+      "localizedDescription": "- All purchases are active.\n- Maps, houses, furniture and clothing are fully open from the outset.",
       "category": "games",
       "versions": [
         {
@@ -14230,12 +14230,12 @@
         }
       ],
       "version": "1.3.9",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-15",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moonvale-1.3.9",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moonvale-1.3.9",
       "size": 356830412,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-15",
       "_rowKey": 551
     },
     {
@@ -25782,7 +25782,7 @@
       "bundleIdentifier": "studio.gameberry.idlehunter",
       "bundleId": "studio.gameberry.idlehunter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/e8/98/83e8986e-cbfa-1b6d-02c8-c5f3d057493b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Game features :\n- Double damage and defense.\n- Unlimited MP.\n- Freeze coins .\n- Unlimited coins upon exchange or increase.",
+      "localizedDescription": "Game features :\n- Multiply damage.\n- Double DEF;\n- Unlimited Magic Points.\n- Freeze coins Q .\n- Unlimited coins .",
       "category": "games",
       "versions": [
         {
@@ -29056,7 +29056,7 @@
       "bundleIdentifier": "com.dmg.carsalessimulator",
       "bundleId": "com.dmg.carsalessimulator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/d5/8c/1cd58cec-48f1-8728-4db7-1dcaeae2ebea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "- Infinite currency.\n- Fast level up.\n- ad-free .",
+      "localizedDescription": "- Unlimited coins Q ;\n- Upgrade quickly.\n- Ads removed .",
       "category": "games",
       "versions": [
         {
@@ -29067,12 +29067,12 @@
         }
       ],
       "version": "0.1.8",
-      "versionDate": "2026-09-26",
+      "versionDate": "2026-10-15",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-sales-simulator-25-v0.1.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-sales-simulator-25-v0.1.8",
       "size": 796498329,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1790345719340",
@@ -31380,7 +31380,7 @@
       "bundleIdentifier": "com.asobimo.seisainometria",
       "bundleId": "com.asobimo.seisainometria",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c6/ce/00c6ceab-dd96-7072-37a6-0045716e7f72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "- DMG multiplier to increase attack power.\n- Defense Multiplier to Reduce Received Damage.\n- Unlimited skill points to use skills without attrition.\n- Unlimited skills to freely use capabilities.",
+      "localizedDescription": "Game features :\n- Multiply damage.\n- Double DEF;\n- Unlimited Skill Points.\n- Use skills without attrition.",
       "category": "games",
       "versions": [
         {
@@ -31976,7 +31976,7 @@
       "bundleIdentifier": "com.sgn.cookiejamblast",
       "bundleId": "com.sgn.cookiejamblast",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/39/84/3639841a-38be-1a26-e7b2-bf9b1ff652ac/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Game features :\n- Unlimited movements.\n- Unlimited lives.\n- Unlimited boosters .",
+      "localizedDescription": "- Infinite number of moves.\n- An infinite number of lives.\n- Infinite number of boosters.",
       "category": "games",
       "versions": [
         {
@@ -32052,7 +32052,7 @@
       "bundleIdentifier": "com.puzzlemonsters.growninja",
       "bundleId": "com.puzzlemonsters.growninja",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/25/c6/6b25c6f4-16ca-8d89-68d8-1cf0fc52c334/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Game features :\n- Double the number of hits.\n- Disable enemy skills.\n- Double movement speed.\n- Double the attack speed.\n- Double the number of shuriken. -No waiting time for skills.\n- Shuriken penetrates all enemies.\n- Skills do not require mana.",
+      "localizedDescription": "- Multiplier of the number of hits.\n- Disable the skills of enemies.\n- Movement Speed Multiplier.\n- No waiting time for skills.\n- Use skills without consuming mana.",
       "category": "games",
       "versions": [
         {
@@ -32672,7 +32672,7 @@
       "bundleIdentifier": "com.klab.bleach",
       "bundleId": "com.klab.bleach",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/e4/0a/a0e40a4f-46b5-1eb1-d5f7-03cc21991fa5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Game features :\n- Disable enemies' attacks and make them stand without attacking.\n- God Mode .\n- The One-hit kill has high damage. -No waiting time for skills.\n- Switch characters without waiting time. Note: Perks only work in single player, and do not work in Co-Op.",
+      "localizedDescription": "Game features :\n- No waiting time to use the skills.\n- No waiting time to use the featured skills.\n- One-hit kill ;\n- Detoxification.\n\nNote:\n- Features only work in single-player mode.",
       "category": "games",
       "versions": [
         {
@@ -34980,23 +34980,23 @@
       "category": "communication",
       "versions": [
         {
-          "version": "1.2.16",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-unblock-1.2.16",
-          "date": "2026-10-08",
-          "size": 1992294
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitchunblock-1.4.0",
+          "date": "2026-10-15",
+          "size": 3879731
         },
         {
-          "version": "1.1.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitchunblock-1.1.6"
+          "version": "1.2.16",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-unblock-1.2.16"
         }
       ],
-      "version": "1.2.16",
-      "versionDate": "2026-10-09",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-unblock-1.2.16",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twitch-unblock-1.2.16",
-      "size": 1992294,
+      "version": "1.4.0",
+      "versionDate": "2026-10-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitchunblock-1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twitchunblock-1.4.0",
+      "size": 3879731,
       "addedAt": "2026-10-09",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1791482453479",
@@ -36767,7 +36767,7 @@
       "bundleIdentifier": "com.wonderlegend.cookingwonder",
       "bundleId": "com.wonderlegend.cookingwonder",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/b9/53/3db95320-e4b9-d3f0-e67b-e761b987f3e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Game features :\n- Freeze coins .",
+      "localizedDescription": "- Unlimited coins is increasing rather than decreasing.",
       "category": "games",
       "versions": [
         {
@@ -37566,6 +37566,7 @@
       "bundleIdentifier": "com.klab.heroaca.united.survival",
       "bundleId": "com.klab.heroaca.united.survival",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/43/e5/7343e554-d9f1-674d-0785-80ba50d40233/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- Reset Skills Without Limits.\n- Unlimited Special Abilities.",
       "category": "games",
       "versions": [
         {
@@ -37581,8 +37582,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mhaunitedsurvival_1.4.0",
       "size": 193042841,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792060340486",
@@ -37590,6 +37590,7 @@
       "bundleIdentifier": "com.foxieplay.trace.ordering.kids.games",
       "bundleId": "com.foxieplay.trace.ordering.kids.games",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/5a/68/ae5a686a-d4d8-ba17-395a-b2d4140caec9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Educational games for preschool and kindergarten.\n- Unlock all features.",
       "category": "games",
       "versions": [
         {
@@ -37605,8 +37606,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kiddo-verse-preschool-games_1.4",
       "size": 159068979,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792060386540",
@@ -37614,6 +37614,7 @@
       "bundleIdentifier": "com.medu.smith.legend.coop.idle.td.ios",
       "bundleId": "com.medu.smith.legend.coop.idle.td.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/0e/31/7f0e31e0-691f-96c6-342e-dd0dd6a473f2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- Multiply damage.",
       "category": "games",
       "versions": [
         {
@@ -37629,8 +37630,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/smith-legend-idle-rpg_1.0.46",
       "size": 337117184,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792060490630",
@@ -37638,6 +37638,7 @@
       "bundleIdentifier": "com.feralinteractive.alienisolation-ios",
       "bundleId": "com.feralinteractive.alienisolation-ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/f7/01/58f70113-7310-82af-dc05-619d6f520f37/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- ads free .\n- Edit HP.\n- Modify Attack Points.",
       "category": "games",
       "versions": [
         {
@@ -37653,8 +37654,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/space-quest-alien-invasion_4.2.2",
       "size": 588251136,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792060575060",
@@ -37662,6 +37662,7 @@
       "bundleIdentifier": "com.pixelpie.games.bubblemasters",
       "bundleId": "com.pixelpie.games.bubblemasters",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/4f/1c/b54f1c88-edf0-5e5f-2be3-149fbd50fa0d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- Unlimited Health.\n- Unlimited Bubbles.\n- Unlimited boosters .\n- Unlimited time.\n- Accelerate capacity charging.",
       "category": "games",
       "versions": [
         {
@@ -37677,8 +37678,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bubble-busters-pvp_1.25.48",
       "size": 473012633,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792060929175",
@@ -37686,6 +37686,7 @@
       "bundleIdentifier": "com.mobirix.mbbi",
       "bundleId": "com.mobirix.mbbi",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/78/4b/46784bd6-7802-1eb3-2b6d-378587d44fe3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- Multiply damage.\n- God Mode .\n- No skill wait time.\n- Instant Win;\n- Double the Speed of the Game.",
       "category": "games",
       "versions": [
         {
@@ -37701,8 +37702,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blade-idle_1.82.0",
       "size": 1181640294,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792060990072",
@@ -37710,6 +37710,7 @@
       "bundleIdentifier": "net.wooga.tropicats-tropical-cats-puzzle-paradise",
       "bundleId": "net.wooga.tropicats-tropical-cats-puzzle-paradise",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/f5/94/0ef5944e-1e56-cb27-da84-25a93ad2d1e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Unlimited diamonds.\n- Unlimited coins .\n- Infinite Life.\n- Unlimited boosters .\n- Breakthrough XP and Level.\n- Auto Win.",
       "category": "games",
       "versions": [
         {
@@ -37725,8 +37726,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tropicatsmatch3puzzlegame_2.5.11",
       "size": 317194240,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061049696",
@@ -37734,6 +37734,7 @@
       "bundleIdentifier": "com.Agonalea.Punko.io",
       "bundleId": "com.Agonalea.Punko.io",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9b/32/f19b3215-c712-f72e-45dc-f681c7caab41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Never die.\n- Knockout.\n- Infinite Card Energy.\n- Instant Card Deployment.\n- store free .",
       "category": "games",
       "versions": [
         {
@@ -37749,8 +37750,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/punko-tower-defense_1.2.5",
       "size": 1210895564,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061091917",
@@ -37758,6 +37758,7 @@
       "bundleIdentifier": "co.noory.books",
       "bundleId": "co.noory.books",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ba/98/02ba987b-503d-3e3f-a1ab-7d6f3faa5f77/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Assorted Arabic Stories;\n- Unlock paid features; click Buy and then Cancel.",
       "category": "games",
       "versions": [
         {
@@ -37773,8 +37774,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/booksbaby-2026.09.40",
       "size": 64277708,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061467694",
@@ -37782,6 +37782,7 @@
       "bundleIdentifier": "com.rebelbinary.onlyone",
       "bundleId": "com.rebelbinary.onlyone",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/31/67/bc316748-9bc1-5685-1a52-285cc2ebf826/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- in-app purchases free operations to unlock the distinctive content for free .",
       "category": "games",
       "versions": [
         {
@@ -37797,8 +37798,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/only-one_1.3052",
       "size": 83047219,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061488287",
@@ -37806,6 +37806,7 @@
       "bundleIdentifier": "com.netflix.NGP.BloonsTDSix",
       "bundleId": "com.netflix.NGP.BloonsTDSix",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/13/f8/d413f8eb-2f7a-0546-5f82-00dd1c96c977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- God Mode Q ;\n- Unlimited money ;\n- Monkey money is unlimited.\n- Unlimited Consumables.\n- Open all towers.\n- Unlock All Heroes.",
       "category": "games",
       "versions": [
         {
@@ -37821,8 +37822,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bloons-td6-netflix_57.1",
       "size": 342360064,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061508549",
@@ -37830,6 +37830,7 @@
       "bundleIdentifier": "com.ubisoft.hungrysharkworld",
       "bundleId": "com.ubisoft.hungrysharkworld",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/0e/3f/4b0e3f66-cf8f-ffa5-1d04-9b5a72a88b79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Unlimited coins Q .\n- Unlimited gems .\n- Unlimited Pearls.\n- Unlimited Reinforcements.\n- Season Ticket has been opened.",
       "category": "games",
       "versions": [
         {
@@ -37845,8 +37846,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hungry-shark-world_8.2.6",
       "size": 447846809,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061522188",
@@ -37854,6 +37854,7 @@
       "bundleIdentifier": "com.gentlemens.onemagearmy",
       "bundleId": "com.gentlemens.onemagearmy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/0f/27/a80f27c1-9037-5416-0724-39cbd87e3654/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "",
       "category": "games",
       "versions": [
         {
@@ -37869,8 +37870,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/one-mage-army-clone-merge_0.1.5",
       "size": 1068289228,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061617484",
@@ -37878,6 +37878,7 @@
       "bundleIdentifier": "com.nanotribe.games.cashier3d",
       "bundleId": "com.nanotribe.games.cashier3d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f4/6d/07f46d6b-9b35-cacb-99a0-1925a2373add/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "debugger",
       "category": "games",
       "versions": [
         {
@@ -37893,8 +37894,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cashie-3d_63.17.0",
       "size": 333761740,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061645939",
@@ -37902,6 +37902,7 @@
       "bundleIdentifier": "ahf.dummynation",
       "bundleId": "ahf.dummynation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/6f/f7/3d6ff7d5-b6ad-b237-71f3-584dd5d7c018/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Premium and ad-free ;\n- Unfinished Search Points.\n- Infinite Liquidity (Gold).",
       "category": "games",
       "versions": [
         {
@@ -37917,8 +37918,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dummynation_4.2.3",
       "size": 325897420,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061726265",
@@ -37926,6 +37926,7 @@
       "bundleIdentifier": "com.fortisgames.mergefarmadventure",
       "bundleId": "com.fortisgames.mergefarmadventure",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/18/1c/e1181c04-05d0-8730-255a-54e7846c1619/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Freezing the golden energy.",
       "category": "games",
       "versions": [
         {
@@ -37941,8 +37942,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bloom-breakfast-merge-town_0.32.0",
       "size": 705167360,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061755309",
@@ -37950,6 +37950,7 @@
       "bundleIdentifier": "com.mobage.ww.a1171.motorworldcarfactoryios",
       "bundleId": "com.mobage.ww.a1171.motorworldcarfactoryios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/df/a5/4fdfa540-d145-6b55-e95b-163426000fd9/AppIcon-car-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Unlimited money Q ;\n- Spend part of the cash for activation ha.\n- The highest level.",
       "category": "games",
       "versions": [
         {
@@ -37965,8 +37966,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/motor-world-car-factory_1.9044",
       "size": 143759769,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061893376",
@@ -37974,6 +37974,7 @@
       "bundleIdentifier": "com.alpsestudio.pjct",
       "bundleId": "com.alpsestudio.pjct",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/ce/39/32ce399f-8e70-0e18-90c4-3516eb37ea66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- A permanent win in every match.",
       "category": "games",
       "versions": [
         {
@@ -37989,8 +37990,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/captain-tsubasa-my-golden-ximg-1.4.0",
       "size": 354942976,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792061914420",
@@ -38022,6 +38022,7 @@
       "bundleIdentifier": "jp.co.bandainamcoent.BNEI0423",
       "bundleId": "jp.co.bandainamcoent.BNEI0423",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/f5/f6/73f5f6e9-1cfa-e6cf-2f38-36f3565c80cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- DMG Multiplier;\n- DEF Multiplier.",
       "category": "games",
       "versions": [
         {
@@ -38037,8 +38038,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mobilesuitgundamucengage_1.9.5",
       "size": 480562380,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792086681439",
@@ -38094,6 +38094,7 @@
       "bundleIdentifier": "com.mouaadouajib.mangago",
       "bundleId": "com.mouaadouajib.mangago",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/4a/05/304a0535-0c7a-7744-2ae0-cda1de0e2dca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- ad-free .",
       "category": "entertainment",
       "versions": [
         {
@@ -38109,8 +38110,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/manga-go-ultimate-manga-app_5.2",
       "size": 83886080,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792091059248",
@@ -38118,6 +38118,7 @@
       "bundleIdentifier": "jp.co.bandainamcoent.BNEI0405",
       "bundleId": "jp.co.bandainamcoent.BNEI0405",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/5c/11/8b5c11da-6668-0078-8756-ebf9b6479b1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- DMG Multiplier;\n- DEF Multiplier.\n- Unlimited Skill Power.",
       "category": "games",
       "versions": [
         {
@@ -38133,8 +38134,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sd-gundam-g-generation-eternal_2.7.0",
       "size": 1031274496,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792091116838",
@@ -38142,6 +38142,7 @@
       "bundleIdentifier": "com.casualgamesempire.BingoMastery",
       "bundleId": "com.casualgamesempire.BingoMastery",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f6/1b/bff61b74-af71-b8c9-9463-f308aedb5ba9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Everything is free .",
       "category": "games",
       "versions": [
         {
@@ -38157,8 +38158,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bingo-mastery-bingo-games_1.292",
       "size": 239389900,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792091179700",
@@ -38166,6 +38166,7 @@
       "bundleIdentifier": "com.iaa.iosgl",
       "bundleId": "com.iaa.iosgl",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/4f/54/d14f544b-6a0a-588c-f946-2277bccba1a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- God Mode ;\n- the One-hit kill .",
       "category": "games",
       "versions": [
         {
@@ -38181,8 +38182,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/duck-defense-rogue-rush_1.0.7",
       "size": 187904819,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792091195578",
@@ -38190,6 +38190,7 @@
       "bundleIdentifier": "com.pu.dream.hospital",
       "bundleId": "com.pu.dream.hospital",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/c5/01/abc5018d-4394-7956-2b6f-8d87fd1f9cb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Instant industry free .\n- free gift boxes, also give you diamonds when you buy.\n- free Staff .\n- free Gold Coins, Buy with Diamonds.\n- Premium feature that allows to receive the rewards of all funds.\n- Dedicated Experience Reward.",
       "category": "games",
       "versions": [
         {
@@ -38205,8 +38206,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dream-hospital-medical-tycoon_5.0.3",
       "size": 890555596,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792091234538",
@@ -38262,6 +38262,7 @@
       "bundleIdentifier": "com.brewgames.dropaway",
       "bundleId": "com.brewgames.dropaway",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/50/ab/f250ab89-ce61-ea0f-545a-c97ad436a39d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Fake IAP enabled Q ;\n- Everything is unlimited.\n- Game speed .\n- ad-free .\n\nNote: Activate the hack from the mods menu, then exit the game and reopen it.",
       "category": "games",
       "versions": [
         {
@@ -38277,8 +38278,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/drop-away-color-puzzle_1.32.0",
       "size": 619079270,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792091524365",
@@ -38286,6 +38286,7 @@
       "bundleIdentifier": "linkdesks.match.fashionmatch",
       "bundleId": "linkdesks.match.fashionmatch",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/4d/db/ee4ddb5b-e725-8dc8-6dce-62caf20b8db4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- activation Operations Fake IAP E.\n- Ads removed Q.\n\nNote: Activate the hack feature from the modifier list.",
       "category": "games",
       "versions": [
         {
@@ -38300,8 +38301,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fashion-match-makeover-story_1.48.12",
       "size": 0,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792093252839",
@@ -38333,6 +38333,7 @@
       "bundleIdentifier": "com.ikiraplus.apps.little-kitty-big-city.3a52973aae",
       "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/c1/b5/4dc1b505-a634-38bc-acd1-4a21e45f6b03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Unlock the full game.\n- Access all content without the need for in-app purchases.",
       "category": "games",
       "versions": [
         {
@@ -38348,8 +38349,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/little-kitty-big-city-1261008.7592",
       "size": 627572736,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792093520071",
@@ -38357,6 +38357,7 @@
       "bundleIdentifier": "com.sevenseas.formularide",
       "bundleId": "com.sevenseas.formularide",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/bc/6f/46bc6f2d-b7e8-9fe6-e30c-b14e5a320666/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- Modify cash to earn coins freely.\n- Modify tokens to earn tokens freely.\n- Open all tracks and access all tracks immediately.\n- ad-free .",
       "category": "games",
       "versions": [
         {
@@ -38372,8 +38373,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/formula-ride-1.0.3",
       "size": 335963750,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792093551482",
@@ -38381,6 +38381,7 @@
       "bundleIdentifier": "com.playdigious.9kings",
       "bundleId": "com.playdigious.9kings",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/67/75/14677591-4fc6-fcb4-83f7-a09a3a0f6457/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Unlock the full game.\n- Access to all kings, missions, multiplayer and premium content.",
       "category": "games",
       "versions": [
         {
@@ -38396,8 +38397,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kings-1.0.3",
       "size": 171022745,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792093802190",
