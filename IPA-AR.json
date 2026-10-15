@@ -14219,7 +14219,7 @@
       "bundleIdentifier": "com.everbytestudio.interactive.story.moonvale",
       "bundleId": "com.everbytestudio.interactive.story.moonvale",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/b4/b9/4bb4b98a-e77c-d245-c362-c4e5cb11bd2d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "localizedDescription": "مميزات اللعبة:\n- فتح جميع الخرائط والمنازل والأثاث والملابس من البداية.",
+      "localizedDescription": "- جميع المشتريات مفعلة.\n- الخرائط والمنازل والأثاث والملابس مفتوحة بالكامل منذ البداية.",
       "category": "ألعاب",
       "versions": [
         {
@@ -14230,12 +14230,12 @@
         }
       ],
       "version": "1.3.9",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-15",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moonvale-1.3.9",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moonvale-1.3.9",
       "size": 356830412,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-15",
       "_rowKey": 551
     },
     {
@@ -25782,7 +25782,7 @@
       "bundleIdentifier": "studio.gameberry.idlehunter",
       "bundleId": "studio.gameberry.idlehunter",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/e8/98/83e8986e-cbfa-1b6d-02c8-c5f3d057493b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر والدفاع.\n- MP غير محدود.\n- تجميد العملات.\n- عملات غير محدودة عند الصرف أو الزيادة.",
+      "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- مضاعفة الدفاع.\n- نقاط سحرية غير محدودة.\n- تجميد العملات.\n- عملات غير محدودة.",
       "category": "ألعاب",
       "versions": [
         {
@@ -29056,7 +29056,7 @@
       "bundleIdentifier": "com.dmg.carsalessimulator",
       "bundleId": "com.dmg.carsalessimulator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/d5/8c/1cd58cec-48f1-8728-4db7-1dcaeae2ebea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "- عملة لا نهائية.\n- رفع مستوى سريع.\n- بدون إعلانات.",
+      "localizedDescription": "- عملات غير محدودة.\n- رفع المستوى بسرعة.\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "versions": [
         {
@@ -29067,12 +29067,12 @@
         }
       ],
       "version": "0.1.8",
-      "versionDate": "2026-09-26",
+      "versionDate": "2026-10-15",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-sales-simulator-25-v0.1.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-sales-simulator-25-v0.1.8",
       "size": 796498329,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1790345719340",
@@ -31380,7 +31380,7 @@
       "bundleIdentifier": "com.asobimo.seisainometria",
       "bundleId": "com.asobimo.seisainometria",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c6/ce/00c6ceab-dd96-7072-37a6-0045716e7f72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "- مضاعف الضرر لزيادة قوة الهجوم.\n- مضاعف الدفاع لتقليل الضرر المتلقى.\n- نقاط مهارة غير محدودة لاستخدام المهارات دون استنزاف.\n- مهارات غير محدودة لاستخدام القدرات بحرية.",
+      "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- مضاعفة الدفاع.\n- نقاط مهارة غير محدودة.\n- استخدام المهارات دون استنزاف.",
       "category": "ألعاب",
       "versions": [
         {
@@ -31976,7 +31976,7 @@
       "bundleIdentifier": "com.sgn.cookiejamblast",
       "bundleId": "com.sgn.cookiejamblast",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/39/84/3639841a-38be-1a26-e7b2-bf9b1ff652ac/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات اللعبة:\n- حركات غير محدودة.\n- أرواح غير محدودة.\n- معززات غير محدودة.",
+      "localizedDescription": "- عدد غير نهائي من الحركات.\n- عدد غير نهائي من الأرواح.\n- عدد غير نهائي من المعززات.",
       "category": "ألعاب",
       "versions": [
         {
@@ -32052,7 +32052,7 @@
       "bundleIdentifier": "com.puzzlemonsters.growninja",
       "bundleId": "com.puzzlemonsters.growninja",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/25/c6/6b25c6f4-16ca-8d89-68d8-1cf0fc52c334/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات اللعبة:\n- مضاعفة عدد الضربات.\n- تعطيل مهارات العدو.\n- مضاعفة سرعة الحركة.\n- مضاعفة سرعة الهجوم.\n- مضاعفة عدد الشوريكين.\n- بدون وقت انتظار للمهارات.\n- الشوريكين تخترق جميع الأعداء.\n- المهارات لا تتطلب مانا.",
+      "localizedDescription": "- مضاعف لعدد الضربات.\n- تعطيل مهارات الأعداء.\n- مضاعف لسرعة الحركة.\n- لا يوجد وقت انتظار للمهارات.\n- استخدام المهارات دون استهلاك المانا.",
       "category": "ألعاب",
       "versions": [
         {
@@ -32672,7 +32672,7 @@
       "bundleIdentifier": "com.klab.bleach",
       "bundleId": "com.klab.bleach",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/e4/0a/a0e40a4f-46b5-1eb1-d5f7-03cc21991fa5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات اللعبة:\n- تعطيل هجوم الأعداء وجعلهم يقفون دون هجوم.\n- وضع عدم الموت.\n- القتل بضربة واحدة وضرر مرتفع.\n- بدون وقت انتظار للمهارات.\n- تبديل الشخصيات بدون وقت انتظار.\n\nملاحظة: تعمل المميزات في اللعب الفردي فقط، ولا تعمل في Co-Op.",
+      "localizedDescription": "مميزات اللعبة:\n- بدون وقت انتظار لاستخدام المهارات.\n- بدون وقت انتظار لاستخدام المهارات المميزة.\n- قتل بضربة واحدة.\n- إزالة تأثير السم.\n\nملاحظة:\n- تعمل المميزات في طور اللعب الفردي فقط.",
       "category": "ألعاب",
       "versions": [
         {
@@ -34979,23 +34979,23 @@
       "category": "تواصل",
       "versions": [
         {
-          "version": "1.2.16",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-unblock-1.2.16",
-          "date": "2026-10-08",
-          "size": 1992294
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitchunblock-1.4.0",
+          "date": "2026-10-15",
+          "size": 3879731
         },
         {
-          "version": "1.1.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitchunblock-1.1.6"
+          "version": "1.2.16",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-unblock-1.2.16"
         }
       ],
-      "version": "1.2.16",
-      "versionDate": "2026-10-09",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitch-unblock-1.2.16",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twitch-unblock-1.2.16",
-      "size": 1992294,
+      "version": "1.4.0",
+      "versionDate": "2026-10-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twitchunblock-1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twitchunblock-1.4.0",
+      "size": 3879731,
       "addedAt": "2026-10-09",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1791482453479",
@@ -36766,7 +36766,7 @@
       "bundleIdentifier": "com.wonderlegend.cookingwonder",
       "bundleId": "com.wonderlegend.cookingwonder",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/b9/53/3db95320-e4b9-d3f0-e67b-e761b987f3e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات اللعبة:\n- تجميد العملات.",
+      "localizedDescription": "- عملات غير محدودة تزداد بدلاً من أن تنقص.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37564,6 +37564,7 @@
       "bundleIdentifier": "com.klab.heroaca.united.survival",
       "bundleId": "com.klab.heroaca.united.survival",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/43/e5/7343e554-d9f1-674d-0785-80ba50d40233/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات اللعبة:\n- إعادة تعيين المهارات دون حدود.\n- قدرات خاصة غير محدودة.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37587,6 +37588,7 @@
       "bundleIdentifier": "com.foxieplay.trace.ordering.kids.games",
       "bundleId": "com.foxieplay.trace.ordering.kids.games",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/5a/68/ae5a686a-d4d8-ba17-395a-b2d4140caec9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- ألعاب تعليمية لمرحلة ما قبل المدرسة ورياض الأطفال.\n- فتح جميع الميزات.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37610,6 +37612,7 @@
       "bundleIdentifier": "com.medu.smith.legend.coop.idle.td.ios",
       "bundleId": "com.medu.smith.legend.coop.idle.td.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/0e/31/7f0e31e0-691f-96c6-342e-dd0dd6a473f2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37633,6 +37636,7 @@
       "bundleIdentifier": "com.feralinteractive.alienisolation-ios",
       "bundleId": "com.feralinteractive.alienisolation-ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/f7/01/58f70113-7310-82af-dc05-619d6f520f37/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات اللعبة:\n- مكافآت الإعلانات مجانية.\n- تعديل نقاط الصحة.\n- تعديل نقاط الهجوم.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37656,6 +37660,7 @@
       "bundleIdentifier": "com.pixelpie.games.bubblemasters",
       "bundleId": "com.pixelpie.games.bubblemasters",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/4f/1c/b54f1c88-edf0-5e5f-2be3-149fbd50fa0d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات اللعبة:\n- صحة غير محدودة.\n- فقاعات غير محدودة.\n- معززات غير محدودة.\n- وقت غير محدود.\n- تسريع شحن القدرات.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37679,6 +37684,7 @@
       "bundleIdentifier": "com.mobirix.mbbi",
       "bundleId": "com.mobirix.mbbi",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/78/4b/46784bd6-7802-1eb3-2b6d-378587d44fe3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- وضع عدم الموت.\n- بدون وقت انتظار للمهارات.\n- فوز فوري.\n- مضاعفة سرعة اللعبة.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37702,6 +37708,7 @@
       "bundleIdentifier": "net.wooga.tropicats-tropical-cats-puzzle-paradise",
       "bundleId": "net.wooga.tropicats-tropical-cats-puzzle-paradise",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/f5/94/0ef5944e-1e56-cb27-da84-25a93ad2d1e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- ماسات غير محدودة.\n- عملات غير محدودة.\n- حياة لا نهائية.\n- معززات غير محدودة.\n- اختراق نقاط الخبرة والمستوى.\n- فوز تلقائي.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37725,6 +37732,7 @@
       "bundleIdentifier": "com.Agonalea.Punko.io",
       "bundleId": "com.Agonalea.Punko.io",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9b/32/f19b3215-c712-f72e-45dc-f681c7caab41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- لا تموت أبداً.\n- ضربة قاضية.\n- طاقة بطاقات لا نهائية.\n- نشر فوري للبطاقات.\n- متجر مجاني.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37748,6 +37756,7 @@
       "bundleIdentifier": "co.noory.books",
       "bundleId": "co.noory.books",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ba/98/02ba987b-503d-3e3f-a1ab-7d6f3faa5f77/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- قصص عربية متنوعة.\n- فتح الميزات المدفوعة؛ اضغط على شراء ثم إلغاء.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37771,6 +37780,7 @@
       "bundleIdentifier": "com.rebelbinary.onlyone",
       "bundleId": "com.rebelbinary.onlyone",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/31/67/bc316748-9bc1-5685-1a52-285cc2ebf826/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عمليات الشراء داخل التطبيق مجانية لفتح المحتوى المميز مجاناً.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37794,6 +37804,7 @@
       "bundleIdentifier": "com.netflix.NGP.BloonsTDSix",
       "bundleId": "com.netflix.NGP.BloonsTDSix",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/13/f8/d413f8eb-2f7a-0546-5f82-00dd1c96c977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت.\n- أموال غير محدودة.\n- أموال القرد غير محدودة.\n- مستهلكات غير محدودة.\n- فتح جميع الأبراج.\n- فتح جميع الأبطال.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37817,6 +37828,7 @@
       "bundleIdentifier": "com.ubisoft.hungrysharkworld",
       "bundleId": "com.ubisoft.hungrysharkworld",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/0e/3f/4b0e3f66-cf8f-ffa5-1d04-9b5a72a88b79/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة.\n- جواهر غير محدودة.\n- لآلئ غير محدودة.\n- تعزيزات غير محدودة.\n- تم فتح تذكرة الموسم.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37840,6 +37852,7 @@
       "bundleIdentifier": "com.gentlemens.onemagearmy",
       "bundleId": "com.gentlemens.onemagearmy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/0f/27/a80f27c1-9037-5416-0724-39cbd87e3654/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فوز تلقائي لإكمال المعارك تلقائياً.\n- فتح جميع شخصيات الأبطال.\n- تفعيل جميع العروض المتاحة داخل اللعبة.\n- إزالة الإعلانات أو تخطيها.\n- إضافة الذهب للحصول على عملة غير محدودة.\n- إضافة الأحجار الكريمة للحصول على العملة المميزة مجاناً.\n- إضافة المانا لتجديد مخزون المانا فوراً.\n- إضافة بطاقات الأبطال لفتح مسار تطوير بطاقات الأبطال.\n- إضافة قوة النسخ لتعزيز قوة وفعالية النسخ المستنسخة.\n- إضافة العناصر للحصول على المعدات والعناصر.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37863,6 +37876,7 @@
       "bundleIdentifier": "com.nanotribe.games.cashier3d",
       "bundleId": "com.nanotribe.games.cashier3d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f4/6d/07f46d6b-9b35-cacb-99a0-1925a2373add/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مصحح الأخطاء.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37886,6 +37900,7 @@
       "bundleIdentifier": "ahf.dummynation",
       "bundleId": "ahf.dummynation",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/6f/f7/3d6ff7d5-b6ad-b237-71f3-584dd5d7c018/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- بريميوم وبدون إعلانات.\n- نقاط بحث غير نهائية.\n- سيولة غير نهائية (الذهب).",
       "category": "ألعاب",
       "versions": [
         {
@@ -37909,6 +37924,7 @@
       "bundleIdentifier": "com.fortisgames.mergefarmadventure",
       "bundleId": "com.fortisgames.mergefarmadventure",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/18/1c/e1181c04-05d0-8730-255a-54e7846c1619/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تجميد الطاقة الذهبية.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37932,6 +37948,7 @@
       "bundleIdentifier": "com.mobage.ww.a1171.motorworldcarfactoryios",
       "bundleId": "com.mobage.ww.a1171.motorworldcarfactoryios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/df/a5/4fdfa540-d145-6b55-e95b-163426000fd9/AppIcon-car-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- نقود غير محدودة.\n- أنفق جزءاً من النقود لتفعيلها.\n- أعلى مستوى.",
       "category": "ألعاب",
       "versions": [
         {
@@ -37955,6 +37972,7 @@
       "bundleIdentifier": "com.alpsestudio.pjct",
       "bundleId": "com.alpsestudio.pjct",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/ce/39/32ce399f-8e70-0e18-90c4-3516eb37ea66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فوز دائم في كل مباراة.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38001,6 +38019,7 @@
       "bundleIdentifier": "jp.co.bandainamcoent.BNEI0423",
       "bundleId": "jp.co.bandainamcoent.BNEI0423",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/f5/f6/73f5f6e9-1cfa-e6cf-2f38-36f3565c80cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر.\n- مضاعف الدفاع.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38071,6 +38090,7 @@
       "bundleIdentifier": "com.mouaadouajib.mangago",
       "bundleId": "com.mouaadouajib.mangago",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/4a/05/304a0535-0c7a-7744-2ae0-cda1de0e2dca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- بدون إعلانات.",
       "category": "ترفيه",
       "versions": [
         {
@@ -38094,6 +38114,7 @@
       "bundleIdentifier": "jp.co.bandainamcoent.BNEI0405",
       "bundleId": "jp.co.bandainamcoent.BNEI0405",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/5c/11/8b5c11da-6668-0078-8756-ebf9b6479b1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر.\n- مضاعف الدفاع.\n- طاقة مهارات غير محدودة.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38117,6 +38138,7 @@
       "bundleIdentifier": "com.casualgamesempire.BingoMastery",
       "bundleId": "com.casualgamesempire.BingoMastery",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f6/1b/bff61b74-af71-b8c9-9463-f308aedb5ba9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- كل شيء مجاني.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38140,6 +38162,7 @@
       "bundleIdentifier": "com.iaa.iosgl",
       "bundleId": "com.iaa.iosgl",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/4f/54/d14f544b-6a0a-588c-f946-2277bccba1a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت.\n- القتل بضربة واحدة.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38163,6 +38186,7 @@
       "bundleIdentifier": "com.pu.dream.hospital",
       "bundleId": "com.pu.dream.hospital",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/c5/01/abc5018d-4394-7956-2b6f-8d87fd1f9cb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- صناعة فورية مجانية.\n- صناديق هدايا مجانية، وتمنحك أيضاً ماسات عند الشراء.\n- طاقم عمل مجاني.\n- عملات ذهبية مجانية، اشترِ بالماس.\n- ميزة مميزة تتيح استلام مكافآت جميع الصناديق.\n- مكافأة خبرة مخصصة.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38232,6 +38256,7 @@
       "bundleIdentifier": "com.brewgames.dropaway",
       "bundleId": "com.brewgames.dropaway",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/50/ab/f250ab89-ce61-ea0f-545a-c97ad436a39d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل الشراء الوهمي.\n- كل شيء غير محدود.\n- تسريع اللعبة.\n- بدون إعلانات.\n\nملاحظة: فعّل الاختراق من قائمة التعديلات، ثم اخرج من اللعبة وأعد فتحها.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38255,6 +38280,7 @@
       "bundleIdentifier": "linkdesks.match.fashionmatch",
       "bundleId": "linkdesks.match.fashionmatch",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/4d/db/ee4ddb5b-e725-8dc8-6dce-62caf20b8db4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل عمليات الشراء الوهمية.\n- إزالة الإعلانات.\n\nملاحظة: فعّل خاصية الاختراق من قائمة التعديلات.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38300,6 +38326,7 @@
       "bundleIdentifier": "com.ikiraplus.apps.little-kitty-big-city.3a52973aae",
       "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/c1/b5/4dc1b505-a634-38bc-acd1-4a21e45f6b03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فتح اللعبة كاملة.\n- الوصول إلى جميع المحتويات دون الحاجة إلى مشتريات داخل التطبيق.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38323,6 +38350,7 @@
       "bundleIdentifier": "com.sevenseas.formularide",
       "bundleId": "com.sevenseas.formularide",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/bc/6f/46bc6f2d-b7e8-9fe6-e30c-b14e5a320666/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- تعديل النقود لكسب العملات بحرية.\n- تعديل التوكنات لكسب التوكنات بحرية.\n- فتح جميع الحلبات والوصول إلى كل المسارات فوراً.\n- بدون إعلانات.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38346,6 +38374,7 @@
       "bundleIdentifier": "com.playdigious.9kings",
       "bundleId": "com.playdigious.9kings",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/67/75/14677591-4fc6-fcb4-83f7-a09a3a0f6457/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فتح اللعبة كاملة.\n- الوصول إلى جميع الملوك والمهام ونمط اللعب الجماعي والمحتوى المميز.",
       "category": "ألعاب",
       "versions": [
         {
