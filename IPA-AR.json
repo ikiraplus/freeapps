@@ -29056,7 +29056,7 @@
       "bundleIdentifier": "com.dmg.carsalessimulator",
       "bundleId": "com.dmg.carsalessimulator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/d5/8c/1cd58cec-48f1-8728-4db7-1dcaeae2ebea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "- عملات غير محدودة.\n- رفع المستوى بسرعة.\n- إزالة الإعلانات.",
+      "localizedDescription": "- عملة لا نهائية.\n- رفع مستوى سريع.\n- بدون إعلانات.",
       "category": "ألعاب",
       "versions": [
         {
@@ -29067,12 +29067,12 @@
         }
       ],
       "version": "0.1.8",
-      "versionDate": "2026-10-15",
+      "versionDate": "2026-10-16",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/car-sales-simulator-25-v0.1.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-sales-simulator-25-v0.1.8",
       "size": 796498329,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-16"
     },
     {
       "id": "app-1790345719340",
@@ -37996,6 +37996,7 @@
       "bundleIdentifier": "com.playrix.manor-matters",
       "bundleId": "com.playrix.manor-matters",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/38/bd/6638bd9c-f71d-32f6-1b6d-69e581fbaf3b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- طاقة لا نهائية.\n- عملات لا نهائية.\n- معززات لا نهائية.\n- استخدم العملات لشراء المعززات.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38006,12 +38007,12 @@
         }
       ],
       "version": "7.0.0",
-      "versionDate": "2026-10-15",
+      "versionDate": "2026-10-16",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/manor-matters-adventure-game_7.0.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/manor-matters-adventure-game_7.0.0",
       "size": 335754035,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-16"
     },
     {
       "id": "app-1792062009045",
@@ -38067,6 +38068,7 @@
       "bundleIdentifier": "br.com.tapps.bidwars2",
       "bundleId": "br.com.tapps.bidwars2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/39/8f/7d398f66-41e8-97df-aa61-d8665b72333d/iOS_AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عمليات الشراء داخل التطبيق مجانية.\n- فعّل الميزة أولاً من قائمة تعديل iOSGods.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38077,12 +38079,12 @@
         }
       ],
       "version": "2.45",
-      "versionDate": "2026-10-15",
+      "versionDate": "2026-10-16",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bid-wars-2-pawn-shop-tycoon_2.45",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bid-wars-2-pawn-shop-tycoon_2.45",
       "size": 295279001,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-16"
     },
     {
       "id": "app-1792090998056",
@@ -38210,6 +38212,7 @@
       "bundleIdentifier": "bg.devar.rusevets.instsave",
       "bundleId": "bg.devar.rusevets.instsave",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/53/6c/b3536c99-5161-72dd-8318-dbb971eebf97/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فتح جميع مميزات VIP المدفوعة.",
       "category": "أدوات",
       "versions": [
         {
@@ -38220,12 +38223,12 @@
         }
       ],
       "version": "1.5",
-      "versionDate": "2026-10-15",
+      "versionDate": "2026-10-16",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instant-saver-story-reels_1.5",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instant-saver-story-reels_1.5",
       "size": 58510540,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-16"
     },
     {
       "id": "app-1792091494426",
@@ -38233,6 +38236,7 @@
       "bundleIdentifier": "com.crazylabs.ladybug",
       "bundleId": "com.crazylabs.ladybug",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/a0/46/d2a046e5-648a-c2ef-3e96-1c1a1c97c740/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني.\n- اضغط شراء ثم إلغاء لتفعيل الميزة.",
       "category": "ألعاب",
       "versions": [
         {
@@ -38243,12 +38247,12 @@
         }
       ],
       "version": "5.9.62",
-      "versionDate": "2026-10-15",
+      "versionDate": "2026-10-16",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/miraculous-ladybug-cat-noir_5.9.62",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/miraculous-ladybug-cat-noir_5.9.62",
       "size": 412090368,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-16"
     },
     {
       "id": "app-1792091511177",
@@ -38303,6 +38307,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f0/b2/d8f0b203-3968-dd77-07ff-70134b89f7c1/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة جميع الإعلانات وإعلانات الإحالة.\n- تنزيل الصور والفيديوهات من المنشورات والقصص والتعليقات والرسائل الخاصة.\n- تنزيل الفيديوهات بجودة عالية تصل إلى 4K و60FPS وHDR عند توفرها.\n- تنزيل الفيديوهات الخاصة بجودة عالية عند متابعة الحساب.\n- إزالة العلامة المائية من الصور والفيديوهات.\n- اختيار موقع الحفظ عبر نافذة المشاركة.\n- عرض معلومات وإحصائيات الفيديو، بما في ذلك تاريخ الرفع والمنطقة وعدد الإعجابات والمشاهدات والتعليقات والمشاركات والتنزيلات.\n- مشاهدة الملفات الشخصية بشكل مجهول.\n- إخفاء حالة النشاط للمشاهدة بخصوصية أكبر.\n- حفظ صور الملفات الشخصية ونسخ النبذة التعريفية.\n- إخفاء عناصر وأزرار الواجهة غير المرغوبة ومقاطع المتجر والبث المباشر واقتراحات الأصدقاء.\n- تشغيل الفيديو التالي تلقائياً وإظهار التمرير التلقائي حتى في المناطق غير المدعومة.\n- تشغيل الفيديو داخل المشغل الأصلي للنظام.\n- تخصيص نص إعادة النشر وإظهار أسماء المستخدمين بدلاً من الأسماء المستعارة.\n- تعطيل تحذيرات المحتوى الحساس والاستبيانات والتنبيهات غير الضرورية.\n- تعطيل النقر المزدوج في الخلاصة والقصص.\n- تعطيل مؤشر الكتابة واكتشاف لقطات الشاشة وتسجيل الشاشة في الرسائل الخاصة.\n- تنزيل وسائط الرسائل الخاصة وتنظيم المحادثات في مجلدات وتثبيت المحادثات.\n- دعم الرسائل الصوتية والملصقات وميزات السلسلة والحيوانات المرتبطة بها حسب المنطقة.\n- البدء مباشرة من تبويب المتابَعون.\n- تخصيص حد تنزيل الفيديوهات للاستخدام دون اتصال.\n- استيراد وتصدير وإعادة ضبط إعدادات RX وحفظ الإعدادات في Keychain.\n- تغيير لغة RX بسرعة ودعم عدة لغات.",
       "category": "تواصل",
       "versions": [
         {
@@ -38313,12 +38318,12 @@
         }
       ],
       "version": "43.9.0",
-      "versionDate": "2026-10-15",
+      "versionDate": "2026-10-16",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok-rx-crack-v43.9.0-v1.6.6",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktok-rx-crack-v43.9.0-v1.6.6",
       "size": 361653862,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-16"
     },
     {
       "id": "app-1792093301679",
