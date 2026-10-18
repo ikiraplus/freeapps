@@ -38426,6 +38426,54 @@
       "addedAt": "2026-10-15",
       "updatedAt": "2026-10-15",
       "localizedDescription": ""
+    },
+    {
+      "id": "app-1792325103178",
+      "name": "Gta V Port",
+      "bundleIdentifier": "io.github.playgta5ios.app",
+      "bundleId": "io.github.playgta5ios.app",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1792325103178.png",
+      "category": "Other",
+      "versions": [
+        {
+          "version": "1.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta5port-v1.4.1",
+          "date": "2026-10-18",
+          "size": 87765811
+        }
+      ],
+      "version": "1.4.1",
+      "versionDate": "2026-10-18",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta5port-v1.4.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gta5port-v1.4.1",
+      "size": 87765811,
+      "addedAt": "2026-10-18",
+      "updatedAt": "2026-10-18",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1792325251340",
+      "name": "GTA 5 File",
+      "bundleIdentifier": "com.ikiraplus.apps.gta-5-file.2ac7dd2b9d",
+      "bundleId": "",
+      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1792325251340.png",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta5-portable-20gb",
+          "date": "2026-10-18",
+          "size": 21193398681
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-10-18",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta5-portable-20gb",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gta5-portable-20gb",
+      "size": 21193398681,
+      "addedAt": "2026-10-18",
+      "updatedAt": "2026-10-18",
+      "localizedDescription": ""
     }
   ],
   "translationFormatVersion": 5
