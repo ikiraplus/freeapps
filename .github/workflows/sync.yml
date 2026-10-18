@@ -32,11 +32,33 @@ jobs:
         run: |
           cp IPA-AR.json previous_IPA-AR.json
 
-      - name: Download latest jom.json
+      - name: Download latest private source
         shell: bash
+        env:
+          SOURCE_REPO: ${{ secrets.FREEAPPS }}
+          SOURCE_TOKEN: ${{ secrets.FREEAPPS_TOKEN }}
         run: |
           set -euo pipefail
-          curl -fsSL             --retry 5             --retry-delay 2             --retry-all-errors             'https://raw.githubusercontent.com/ikiraplus/ipastore/main/jom.json'             -o source_jom.json
+
+          if [ -z "${SOURCE_REPO:-}" ]; then
+            echo '❌ Missing FREEAPPS secret'
+            exit 1
+          fi
+
+          if [ -z "${SOURCE_TOKEN:-}" ]; then
+            echo '❌ Missing FREEAPPS_TOKEN secret'
+            exit 1
+          fi
+
+          curl -fsSL \
+            --retry 5 \
+            --retry-delay 2 \
+            --retry-all-errors \
+            -H "Authorization: Bearer ${SOURCE_TOKEN}" \
+            -H 'Accept: application/vnd.github.raw+json' \
+            -H 'X-GitHub-Api-Version: 2022-11-28' \
+            "https://api.github.com/repos/${SOURCE_REPO}/contents/jom.json?ref=main" \
+            -o source_jom.json
 
           python - <<'PY'
           import json
@@ -53,7 +75,9 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: |
           set -euo pipefail
-          python -u sync_apps.py             --source source_jom.json             --target IPA-AR.json
+          python -u sync_apps.py \
+            --source source_jom.json \
+            --target IPA-AR.json
 
       - name: Validate Arabic source
         run: |
@@ -126,7 +150,11 @@ jobs:
           TRANSLATION_CHUNK_CHARS: '800'
         run: |
           set -euo pipefail
-          python -u sync_apps.py             --translate-only             --target IPA-AR.json             --target-en IPA-EN.json             --old-target previous_IPA-AR.json
+          python -u sync_apps.py \
+            --translate-only \
+            --target IPA-AR.json \
+            --target-en IPA-EN.json \
+            --old-target previous_IPA-AR.json
 
       - name: Validate English source
         run: |
