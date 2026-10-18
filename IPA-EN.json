@@ -1316,23 +1316,23 @@
       "bundleIdentifier": "com.ideploy-storage.25a6a8",
       "bundleId": "com.ideploy-storage.25a6a8",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773510394623.png",
-      "localizedDescription": "App features :\n- signing and installation IPA files using signing certificates.\n- Import and manage applications and certificates from within the application.\n- Suitable for installation applications outside the App Store.",
+      "localizedDescription": "App features :\n- signing and installation IPA files using signing certificates.\n- Import and manage applications and certificates from within the application.\n- Suitable for installation Apps outside the App Store",
       "category": "Other",
       "versions": [
         {
           "version": "1.6",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gbox-4",
-          "date": "2026-08-24",
+          "date": "2026-10-18",
           "size": 19293798
         }
       ],
       "version": "1.6",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-18",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gbox-4",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gbox-4",
       "size": 19293798,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-18",
       "_rowKey": 51
     },
     {
@@ -37490,23 +37490,23 @@
       "bundleIdentifier": "vn.iosvn.muguet",
       "bundleId": "vn.iosvn.muguet",
       "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1791899389629.png",
+      "localizedDescription": "- Install the Muguet IPA file on device as\n- Prepare the game files and they should contain the data and b folders\n- Open the Files application and go to On My iPhone then Muguet\n- Create a new folder inside the Muguet folder named game\n- Move the data and b folders to the game folder\n- Make sure that the data and b folders are b are located inside the game folder\n- Wait until all files are completely transferred before opening the application\n- Open Muguet and the game files will be recognized and run automatically\n- The first run may take longer due to checking and preparing the game files\n- If the game files are compressed with a size of approximately 22GB, it is preferable to decompress them on the computer first, then transfer the files to the iPhone to save storage space",
       "category": "Other",
       "versions": [
         {
           "version": "0.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/muguet-8.8",
-          "date": "2026-10-13",
+          "date": "2026-10-18",
           "size": 73819750
         }
       ],
       "version": "0.1",
-      "versionDate": "2026-10-13",
+      "versionDate": "2026-10-18",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/muguet-8.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/muguet-8.8",
       "size": 73819750,
       "addedAt": "2026-10-13",
-      "updatedAt": "2026-10-13",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-18"
     },
     {
       "id": "app-1791920686718",
@@ -38433,6 +38433,7 @@
       "bundleIdentifier": "io.github.playgta5ios.app",
       "bundleId": "io.github.playgta5ios.app",
       "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1792325103178.png",
+      "localizedDescription": "- Install the GTA V Port application on device as\n- Prepare the game files and they must contain a data folder and a b folder\n- Open the files application and go to On My iPhone\n- Move the game files folder into the GTA V Port folder\n- Wait until all files are completely transferred before opening the application\n- Open the GTA V Port application\n- If the application does not automatically detect the game files, open the Game files section\n- Click Choose a folder and choose the folder containing the game files\n- Wait until the application completes scanning the game files and ensure that there are no missing or damaged files\n- Choose Story Mode to run the story mode or Sandbox mode for free roaming\n- Click Play to start playing the game\n- After the game files are fully prepared, it can be played from the device directly without the need for the Internet",
       "category": "Other",
       "versions": [
         {
@@ -38448,8 +38449,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gta5port-v1.4.1",
       "size": 87765811,
       "addedAt": "2026-10-18",
-      "updatedAt": "2026-10-18",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-18"
     },
     {
       "id": "app-1792325251340",
