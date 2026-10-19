@@ -1,4 +1,4 @@
-# one-time trigger
+# one-time trigger via merge
 name: Restore old TikTok install link
 
 on:
