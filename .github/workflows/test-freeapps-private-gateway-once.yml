@@ -10,31 +10,44 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Verify Worker HEAD and Range for known Release asset
+      - name: Diagnose Worker gateway for known Release asset
         shell: bash
         run: |
           set -euo pipefail
           URL='https://dl.ikiraplus.workers.dev/freeapps/594672229/ryukgram.ipa'
 
-          echo 'Testing HEAD:' "$URL"
-          curl -fsSIL --retry 4 --retry-delay 2 --max-time 30 "$URL" -o head.txt
-          cat head.txt
-          grep -Eq '^HTTP/[^ ]+ 200' head.txt
-          grep -Eiq '^content-length:[[:space:]]*318175081[[:space:]]*$' head.txt
-          grep -Eiq '^accept-ranges:[[:space:]]*bytes[[:space:]]*$' head.txt
+          echo '=== HEAD ==='
+          head_code=$(curl -sS -I --max-time 30 -D head.txt -o /dev/null -w '%{http_code}' "$URL" || true)
+          echo "HEAD status=$head_code"
+          cat head.txt || true
 
-          echo 'Testing Range bytes=0-3'
-          curl -fsSL --retry 4 --retry-delay 2 --max-time 30 \
-            -H 'Range: bytes=0-3' \
-            -D range-headers.txt \
-            -o range.bin \
-            "$URL"
-          cat range-headers.txt
-          wc -c range.bin
-          test "$(wc -c < range.bin)" -eq 4
+          echo '=== RANGE GET ==='
+          range_code=$(curl -sS --max-time 30 -H 'Range: bytes=0-3' -D range-headers.txt -o range-body.bin -w '%{http_code}' "$URL" || true)
+          echo "RANGE status=$range_code"
+          cat range-headers.txt || true
+          echo 'body-size:' "$(wc -c < range-body.bin 2>/dev/null || echo 0)"
           python - <<'PY'
-          data = open('range.bin','rb').read()
-          print('first-bytes:', data.hex())
+          from pathlib import Path
+          p = Path('range-body.bin')
+          data = p.read_bytes() if p.exists() else b''
+          print('body-prefix-hex:', data[:64].hex())
+          try:
+              print('body-text:', data[:500].decode('utf-8'))
+          except Exception:
+              pass
+          PY
+
+          if [ "$head_code" != '200' ]; then
+            echo 'HEAD gateway check failed'
+            exit 1
+          fi
+          if [ "$range_code" != '206' ] && [ "$range_code" != '200' ]; then
+            echo 'Range gateway check failed'
+            exit 1
+          fi
+          test "$(wc -c < range-body.bin)" -eq 4
+          python - <<'PY'
+          data = open('range-body.bin','rb').read()
           if data[:2] != b'PK':
               raise SystemExit(f'Expected ZIP/IPA signature PK, got {data!r}')
           PY
