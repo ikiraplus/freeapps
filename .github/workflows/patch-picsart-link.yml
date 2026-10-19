@@ -1,0 +1,35 @@
+name: One-time PicsArt install link update
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/patch-picsart-link.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update PicsArt install link
+        shell: python
+        run: |
+          from pathlib import Path
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+          old = 'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vYm90LmlwYXNpZ24uY2MvZGwvMjAyNjA5MjgxNDM2NTQ4Mzg3ZGU0Lzd5ZlBzOGRFUllhNC5wbGlzdA=='
+          new = 'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vY2xvdWRzaWduZXIubWUvZG93bmxvYWRzL2ViYjlkYzY5LTM1Ny9tYW5pZmVzdC5wbGlzdA=='
+          if s.count(old) != 1:
+              raise SystemExit(f'Expected exactly 1 PicsArt link, found {s.count(old)}')
+          p.write_text(s.replace(old, new, 1), encoding='utf-8')
+      - name: Commit update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Update PicsArt install link"
+          git pull --rebase origin main
+          git push
