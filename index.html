@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 
-<script>var CERT_POPUP_ENABLED = false;</script>
 <html dir="rtl" lang="ar">
 <head>
 <meta charset="utf-8"/>
@@ -765,39 +764,6 @@
 </style>
 </head>
 <body>
-<div id="cert-popup-overlay">
-<div id="cert-popup-box">
-<button aria-label="إغلاق" id="cert-popup-close" title="إغلاق">
-<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2.5" viewbox="0 0 24 24"><line x1="18" x2="6" y1="6" y2="18"></line><line x1="6" x2="18" y1="6" y2="18"></line></svg>
-</button>
-<div class="popup-icon-wrap">
-<svg fill="none" stroke="#ef4444" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24">
-<path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
-<line x1="12" x2="12" y1="9" y2="13"></line><line x1="12" x2="12.01" y1="17" y2="17"></line>
-</svg>
-</div>
-<div class="popup-title">تنويه هام — الشهادة المجانية غير متاحة</div>
-<div class="popup-body">
-        في الوقت الحالي لا توجد أي شهادة مجانية مؤقتة متاحة، وبالتالي لن تتمكن من تثبيت التطبيقات حتى يتم تجديدها.
-      </div>
-<div class="popup-divider"></div>
-<div class="popup-solution-label">
-<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24">
-<circle cx="12" cy="12" r="10"></circle><line x1="12" x2="12" y1="8" y2="12"></line><line x1="12" x2="12.01" y1="16" y2="16"></line>
-</svg>
-        الحل المتاح
-      </div>
-<div class="popup-solution-text">
-        يمكنك الحصول على شهادة سنوية مدفوعة تتيح لك تثبيت جميع التطبيقات على مدار السنة بشكل مستمر دون انقطاع.
-      </div>
-<a href="https://t.me/ikira18?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%B4%D8%B1%D8%A7%D8%A1%20%D8%B4%D9%87%D8%A7%D8%AF%D8%A9%20%D8%B3%D9%86%D9%88%D9%8A%D8%A9%20%D9%85%D8%AF%D9%81%D9%88%D8%B9%D8%A9%20%0A%D9%85%D8%A7%20%D9%87%D9%8A%20%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%B6%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D8%B1%D8%A9%20%D8%9F" id="cert-popup-buy-btn" rel="noopener noreferrer" target="_blank">
-<svg fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24">
-<rect height="14" rx="2" width="20" x="2" y="5"></rect><line x1="2" x2="22" y1="10" y2="10"></line>
-</svg>
-        شراء الشهادة
-      </a>
-</div>
-</div>
 <canvas id="bg"></canvas>
 <div id="toast"></div>
 <button aria-label="تغيير الثيم" class="theme-toggle" id="themeToggle" title="تغيير الثيم">🌙</button>
@@ -1172,7 +1138,6 @@
     (function(){
       const overlay=document.getElementById('cert-popup-overlay');
       if(!overlay)return;
-      if(!CERT_POPUP_ENABLED){overlay.hidden=true;return;}
       const closeBtn=document.getElementById('cert-popup-close');
       let isClosing=false;
       function closePopup(){
