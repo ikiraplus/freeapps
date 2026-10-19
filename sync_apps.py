@@ -1528,7 +1528,7 @@ def translate_categories(output, old_ar_source=None, old_en_source=None):
 
 
 EN_NEWS_IMAGE_OVERRIDES = {
-    "com.ikiraplus.certpaid": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert-en.png",
+    "com.ikiraplus.certpaid": "https://ikiraplus-assets.pages.dev/images/cert-en.png",
 }
 
 
