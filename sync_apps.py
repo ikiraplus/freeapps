@@ -91,8 +91,8 @@ DEFAULT_SOURCE_META = {
     "name": "iKiraPlus - IPA Store",
     "identifier": "com.ikiraplus.store",
     "sourceURL": _unpack("=UmcvR3chBXav4Wah12LlNmc192cvA3brN2Yhp2Lt92YuQnblRnbvNmclNXdiVHa0l2ZucXYy9yL6MHc0RHa"),
-    "iconURL": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
-    "sourceIcon": "https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png",
+    "iconURL": "https://ikiraplus-assets.pages.dev/images/kiraplus.png",
+    "sourceIcon": "https://ikiraplus-assets.pages.dev/images/kiraplus.png",
     "website": "https://t.me/iKiraPlus",
     "news": [
         {
@@ -100,7 +100,7 @@ DEFAULT_SOURCE_META = {
             "identifier": "com.ikiraplus.certpaid",
             "caption": "تتوفر لدينا ميزة شراء شهادات مدفوعة بأنسب سعر",
             "date": "2026-08-22",
-            "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert-ar.png",
+            "imageURL": "https://ikiraplus-assets.pages.dev/images/cert-ar.png",
             "url": "https://t.me/ikira18",
         },
         {
@@ -108,7 +108,7 @@ DEFAULT_SOURCE_META = {
             "identifier": "com.ikiraplus.card",
             "caption": "قناة كيرا بلس للتطبيقات والشهادات",
             "date": "2026-05-11",
-            "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/ikiraplus.jpg",
+            "imageURL": "https://ikiraplus-assets.pages.dev/images/ikiraplus.jpg",
             "url": "https://t.me/iKiraPlus",
         }
     ],
@@ -143,6 +143,24 @@ def clean_text(value):
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
+
+
+PUBLIC_ASSET_BASE_URL = "https://ikiraplus-assets.pages.dev/images/"
+PRIVATE_IPASTORE_IMAGE_PREFIXES = (
+    "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/",
+    "https://raw.githubusercontent.com/ikiraplus/ipastore/refs/heads/main/images/",
+    "https://github.com/ikiraplus/ipastore/raw/main/images/",
+    "https://github.com/ikiraplus/ipastore/raw/refs/heads/main/images/",
+)
+
+def publicize_ipastore_image_url(value):
+    text = clean_text(value)
+    if not text:
+        return text
+    for prefix in PRIVATE_IPASTORE_IMAGE_PREFIXES:
+        if text.startswith(prefix):
+            return PUBLIC_ASSET_BASE_URL + text[len(prefix):].lstrip("/")
+    return text
 
 def clean_text_keep_lines(value):
 
@@ -422,6 +440,9 @@ def normalize_app(app, used_bundles, fallback_bundle=None, used_ids=None):
     if is_empty(fixed.get("iconURL")) and not is_empty(fixed.get("icon")):
         fixed["iconURL"] = fixed.get("icon")
     if is_empty(fixed.get("icon")) and not is_empty(fixed.get("iconURL")):
+        fixed["icon"] = fixed.get("iconURL")
+    if not is_empty(fixed.get("iconURL")):
+        fixed["iconURL"] = publicize_ipastore_image_url(fixed.get("iconURL"))
         fixed["icon"] = fixed.get("iconURL")
     if is_empty(fixed.get("localizedDescription")) and not is_empty(fixed.get("note")):
         fixed["localizedDescription"] = fixed.get("note")

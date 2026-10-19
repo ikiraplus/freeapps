@@ -2,8 +2,8 @@
   "name": "iKiraPlus - IPA Store",
   "identifier": "com.ikiraplus.store",
   "sourceURL": "https://ikiraplus.pages.dev/IPA-AR.json",
-  "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/kiraplus.png",
-  "sourceIcon": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/kiraplus.png",
+  "iconURL": "https://ikiraplus-assets.pages.dev/images/kiraplus.png",
+  "sourceIcon": "https://ikiraplus-assets.pages.dev/images/kiraplus.png",
   "website": "https://t.me/iKiraPlus",
   "news": [
     {
@@ -11,7 +11,7 @@
       "identifier": "com.ikiraplus.certpaid",
       "caption": "تتوفر لدينا ميزة شراء شهادات مدفوعة بأنسب سعر",
       "date": "2026-08-22",
-      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/cert-ar.png",
+      "imageURL": "https://ikiraplus-assets.pages.dev/images/cert-ar.png",
       "url": "https://t.me/ikira18"
     },
     {
@@ -19,7 +19,7 @@
       "identifier": "com.ikiraplus.card",
       "caption": "قناة كيرا بلس للتطبيقات والشهادات",
       "date": "2026-05-11",
-      "imageURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/ikiraplus.jpg",
+      "imageURL": "https://ikiraplus-assets.pages.dev/images/ikiraplus.jpg",
       "url": "https://t.me/iKiraPlus"
     }
   ],
@@ -29,7 +29,7 @@
       "name": "ريكرام",
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773401165477.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773401165477.png",
       "localizedDescription": "لتفعيل مميزات التطبيق:\n- قم بتغيير لغة التطبيق من الإنكليزية إلى العربية أو العكس\n\nمميزات التطبيق:\n- وضع الشبح للرسائل والقصص والملاحظات.\n- الاحتفاظ بالرسائل المحذوفة.\n- تنزيل المحتوى مباشرة من Instagram.\n- رفع المقاطع الصوتية من الملفات أو مقاطع الفيديو.\n- نسخ اسم المستخدم والتعليق والنبذة والاسم.\n- تنزيل الوسائط المعروضة لمرة واحدة.\n- تنزيل الرسائل الصوتية.\n- إظهار الإشارات المخفية.\n- عرض الوسائط المعروضة لمرة واحدة من دون قيود.\n- إزالة إعلانات Instagram.\n- دعم التعليق من خلال روابط GIF.",
       "category": "تواصل",
       "versions": [
@@ -87,7 +87,7 @@
       "name": "WhatsApp Gold",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "bundleId": "net.whatsapp.WhatsApp",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773436028095.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773436028095.png",
       "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط\nيتضمن التطبيق عدة إضافات مثل تغيير الموقع الجغرافي وتغيير الخط\n\nمميزات التطبيق:\n- التخفي عند مشاهدة الحالات.\n- مشاهدة الحالات محلياً.\n- وضع الشبح للرسائل.\n- استلام الرسائل بشكل مخفي.\n- عرض الرسائل المعدّلة.\n- حفظ الحالات المحذوفة.\n- الاحتفاظ بالرسائل المحذوفة.\n- تنزيل الحالات.\n- تنزيل الوسائط المؤقتة.\n- وضع الشبح للوسائط المؤقتة.\n- رفع المقاطع الصوتية من الاستوديو.\n- دعم تعدد الحسابات.",
       "category": "تواصل",
       "versions": [
@@ -116,7 +116,7 @@
       "name": "Telegram Dark",
       "bundleIdentifier": "app.teledark",
       "bundleId": "app.teledark",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773512283014.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773512283014.png",
       "localizedDescription": "هذا التطبيق يدعم الإشعارات، ثبته مباشرة ولا تكرر تثبيته ولا تغير معرف الباندل الخاص به",
       "category": "تواصل",
       "versions": [
@@ -173,7 +173,7 @@
       "name": "بيكرام",
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773402346513.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773402346513.png",
       "localizedDescription": "مميزات التطبيق:\n- وضع الشبح للرسائل والقصص والملاحظات.\n- الاحتفاظ بالرسائل المحذوفة.\n- تنزيل المحتوى مباشرة من Instagram.\n- رفع المقاطع الصوتية من الملفات أو مقاطع الفيديو.\n- نسخ اسم المستخدم والتعليق والنبذة والاسم.\n- تنزيل الوسائط المعروضة لمرة واحدة.\n- تنزيل الرسائل الصوتية.\n- إظهار الإشارات المخفية.\n- عرض الوسائط المعروضة لمرة واحدة من دون قيود.\n- إزالة إعلانات Instagram.\n- دعم التعليق من خلال روابط GIF.",
       "category": "تواصل",
       "versions": [
@@ -257,7 +257,7 @@
       "name": "WhatsApp Business - Gold",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
       "bundleId": "net.whatsapp.WhatsAppSMB",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773436028095.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773436028095.png",
       "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط\n\nمميزات التطبيق:\n- التخفي عند مشاهدة الحالات.\n- مشاهدة الحالات محلياً.\n- وضع الشبح للرسائل.\n- استلام الرسائل بشكل مخفي.\n- عرض الرسائل المعدّلة.\n- حفظ الحالات المحذوفة.\n- الاحتفاظ بالرسائل المحذوفة.\n- تنزيل الحالات.\n- تنزيل الوسائط المؤقتة.\n- وضع الشبح للوسائط المؤقتة.\n- رفع المقاطع الصوتية من الاستوديو.\n- دعم تعدد الحسابات.",
       "category": "تواصل",
       "versions": [
@@ -887,7 +887,7 @@
       "name": "Youtube killer plus",
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777314094685.png",
       "localizedDescription": "مميزات التطبيق:\n- تنزيل الفيديوهات والصوتيات والترجمات والصور المصغرة.\n- تشغيل الفيديو والصوت في الخلفية.\n- دعم SponsorBlock لتخطي المقاطع الدعائية والرعايات.\n- تخصيص بعض عناصر المشغل وواجهة YouTube.\n- إضافة زر لكتم الصوت داخل المشغل.\n- إضافة زر لقفل الشاشة أثناء المشاهدة.\n- الحفاظ على مستوى صوت مستقر عند تشغيل الوسائط.\n- إزالة المعرّفات الإضافية من روابط المشاركة.\n- تنزيل فيديوهات Shorts مباشرة من المعاينات.\n- تضمين الصور المصغرة داخل الفيديوهات التي تم تنزيلها.\n- يتضمن خيار Fix Playback Issues لمعالجة بعض مشاكل تشغيل المحتوى.\n\nملاحظة:\n- النسخة مكركة، وقد تتعطل بعض الخصائص أحياناً.",
       "category": "تواصل",
       "versions": [
@@ -916,7 +916,7 @@
       "name": "سينمانا",
       "bundleIdentifier": "com.kira.cinemanaa.fixed",
       "bundleId": "com.kira.cinemanaa.fixed",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773226791309.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773226791309.png",
       "localizedDescription": "نسخة حديثة من سينمانا تدعم تحميل الحلقات وتسجيل الدخول.\n\nمميزات التطبيق:\n- تم إصلاح مشكلة الاتصال.",
       "category": "ترفيه",
       "versions": [
@@ -990,7 +990,7 @@
       "name": "Air movie",
       "bundleIdentifier": "com.airmovie.ikiraplus",
       "bundleId": "com.airmovie.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/air-movie.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/air-movie.png",
       "localizedDescription": "- يعمل على جميع الشبكات\n- يدعم التحميل\n- بدون إعلانات",
       "category": "ترفيه",
       "versions": [
@@ -1093,7 +1093,7 @@
       "name": "lok tv premium",
       "bundleIdentifier": "com.loktv.ikiraplus",
       "bundleId": "com.loktv.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773437480214.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773437480214.png",
       "localizedDescription": "نسخة معدلة تم فتح جميع ميزاتها واضافه بعش الخصائص :\n\n- ازالة جميع الاعلانات المزعجة\n- دعم وضع pip بالكامل\n- جميع انواع الدقة مفتوحة للمشاهدة والتحميل\n- اضافة زر لنسخ  نبذة الافلام\n- اضافة زر لحفظ غلاف الافلام",
       "category": "ترفيه",
       "versions": [
@@ -1179,7 +1179,7 @@
       "name": "VideoStar Hacked 1",
       "bundleIdentifier": "com.frontierdesign.videostar",
       "bundleId": "com.frontierdesign.videostar",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773546788287.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773546788287.png",
       "localizedDescription": "مميزات التطبيق:\n- تصدير الفيديو بدقة تصل إلى 4K وبمعدل 60FPS.\n- فتح محرر الصوت بالكامل.\n- دعم حتى 30 طبقة في المشاريع متعددة الطبقات.\n- فتح أكثر من 1300 تأثير.\n- فتح أكثر من 50 نمط للنصوص المتحركة.\n- فتح أكثر من 20 Overlay.\n- فتح أكثر من 75 شكلاً ثلاثي الأبعاد.\n- فتح أكثر من 200 عنصر ثلاثي الأبعاد.\n- إنشاء واستخدام رموز QR بدون قيود.\n- فتح مساحة التحرير ثلاثية الأبعاد.\n- فتح أدوات Velocity للتحكم بسرعة الفيديو.\n- فتح أدوات Timing للتحكم بالتوقيت.\n- فتح أدوات تخصيص الألوان.\n- دعم Tracking وتتبع الحركة.\n- دعم Motion Blur.\n- فتح المميزات الإضافية المدفوعة.\n- لا يتطلب تسجيل الدخول إلى حساب.\n- دعم الأجهزة بدون جيلبريك ومع الجيلبريك.\n- تحسينات لتقليل مشاكل التعطل والكراش.\n- التفعيل دائم بدون مدة محددة.",
       "category": "أدوات",
       "versions": [
@@ -1237,7 +1237,7 @@
       "name": "Netflix - مقلد",
       "bundleIdentifier": "com.chengzu.book",
       "bundleId": "com.chengzu.book",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773510045224.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773510045224.png",
       "localizedDescription": "تطبيق لمشاهدة الأفلام والمسلسلات بواجهة مشابهة لنتفلكس.\n\nمميزات التطبيق:\n- عدة مواقع ومصادر للمشاهدة.\n- بدون إعلانات.",
       "category": "ترفيه",
       "versions": [
@@ -1262,7 +1262,7 @@
       "name": "iQTv",
       "bundleIdentifier": "night.ntv1.iQTv",
       "bundleId": "night.ntv1.iQTv",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/night.ntv1.iQTv.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/night.ntv1.iQTv.png",
       "localizedDescription": "تطبيق لمشاهدة الأفلام والمسلسلات والبث المباشر.\n\nمميزات التطبيق:\n- سيرفرات متعددة للمشاهدة.\n- إمكانية تغيير السيرفر.",
       "category": "ترفيه",
       "versions": [
@@ -1315,7 +1315,7 @@
       "name": "Gbox",
       "bundleIdentifier": "com.ideploy-storage.25a6a8",
       "bundleId": "com.ideploy-storage.25a6a8",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773510394623.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773510394623.png",
       "localizedDescription": "مميزات التطبيق:\n- توقيع وتثبيت ملفات IPA باستخدام شهادات التوقيع.\n- استيراد وإدارة التطبيقات والشهادات من داخل التطبيق.\n- مناسب لتثبيت التطبيقات خارج App Store",
       "category": "أخرى",
       "versions": [
@@ -1340,7 +1340,7 @@
       "name": "Esign",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
       "bundleId": "p3.xyz.yyyue.esign",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773511219130.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773511219130.png",
       "localizedDescription": "مميزات التطبيق:\n- توقيع وتثبيت ملفات IPA باستخدام شهادات التوقيع.\n- استيراد وإدارة التطبيقات والشهادات من داخل التطبيق.\n- مناسب لتثبيت التطبيقات خارج App Store.",
       "category": "أخرى",
       "versions": [
@@ -1365,7 +1365,7 @@
       "name": "Ksign",
       "bundleIdentifier": "nya.asami.ksign",
       "bundleId": "nya.asami.ksign",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773511257862.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773511257862.png",
       "localizedDescription": "مميزات التطبيق:\n- توقيع وتثبيت ملفات IPA باستخدام شهادات التوقيع.\n- استيراد وإدارة التطبيقات والشهادات من داخل التطبيق.\n- مناسب لتثبيت التطبيقات خارج App Store.",
       "category": "أخرى",
       "versions": [
@@ -2450,7 +2450,7 @@
       "name": "Genral Pro",
       "bundleIdentifier": "com.genral.ikiraplus",
       "bundleId": "com.genral.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773437364033.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773437364033.png",
       "localizedDescription": "تطبيق لمشاهدة القنوات المشفرة\nويحتوي على قسم خاص بالأفلام\nكود التفعيل: 5050",
       "category": "ترفيه",
       "versions": [
@@ -3716,7 +3716,7 @@
       "name": "Anime Land noads",
       "bundleIdentifier": "com.anime.animeRiftApp",
       "bundleId": "com.anime.animeRiftApp",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777652764722.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777652764722.png",
       "localizedDescription": "تم حذف جميع الاعلانات وتطبيق محذوف من الابستور.",
       "category": "ترفيه",
       "versions": [
@@ -3845,7 +3845,7 @@
       "name": "سينمانا القديمة",
       "bundleIdentifier": "com.ikiraplus.cinemana",
       "bundleId": "com.ikiraplus.cinemana",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1778255829394.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1778255829394.png",
       "localizedDescription": "يدعم التحميل ويدعم تسجيل الدخول\n\nمميزات التطبيق:\n- نسخة قديمة من سينمانا تدعم تنزيل الحلقات.\n- دعم تسجيل الدخول.\n- إصلاح مشكلة الاتصال التي كانت تظهر للمستخدم كأنه غير مشترك في خدمة شبكتي.",
       "category": "ترفيه",
       "versions": [
@@ -4234,7 +4234,7 @@
       "name": "Youtube OLED",
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777315108415.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777315108415.png",
       "localizedDescription": "مميزات التطبيق:\n- تنزيل الفيديوهات وShorts والصوتيات والترجمات والصور المصغرة ومعلومات الفيديو، مع دعم جودة تصل إلى 1080p60.\n- اختيار جودة الفيديو ومعرفة حجم الملف قبل التنزيل.\n- تشغيل الفيديو والصوت في الخلفية.\n- مشاهدة الفيديوهات بدقة عالية.\n- إزالة الإعلانات من YouTube وShorts.\n- تنزيل الوسائط بسرعة.\n- دعم SponsorBlock لتخطي المقاطع الدعائية والرعايات تلقائياً.\n- تخصيص المشغل وواجهة Shorts وشريط التنقل والتبويبات وإضافة إجراءات مخصصة.\n- نسخ النصوص من Shorts وإخفاء زر إنشاء الفيديو.\n- دعم الوضع الداكن OLED بكامل واجهة التطبيق مع لوحة مفاتيح OLED داكنة.",
       "category": "تواصل",
       "versions": [
@@ -4258,7 +4258,7 @@
       "name": "Youtube DL",
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777315159741.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777315159741.png",
       "localizedDescription": "مميزات التطبيق:\n- تنزيل فيديوهات YouTube.\n- تنزيل Shorts.\n- اختيار جودة الفيديو ومعرفة حجم الملف.\n- تشغيل الصوت في الخلفية.\n- مشاهدة الفيديوهات بدقة عالية.\n- إزالة الإعلانات.\n- إزالة الإعلانات من Shorts.\n- تنزيل الوسائط بسرعة.\n- نسخ النصوص من Shorts.\n- إخفاء زر إنشاء الفيديو.",
       "category": "تواصل",
       "versions": [
@@ -4369,7 +4369,7 @@
       "name": "Streameast no ads",
       "bundleIdentifier": "com.dreamora",
       "bundleId": "com.dreamora",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773597157329.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773597157329.png",
       "localizedDescription": "تطبيق يحتوي على جميع القنوات المشفرة مجانا (بين سبورت، الثامنة، الكأس، MBC، شاهد)",
       "category": "ترفيه",
       "versions": [
@@ -4505,7 +4505,7 @@
       "name": "bawa",
       "bundleIdentifier": "ali.Bawa",
       "bundleId": "ali.Bawa",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1774779049196.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1774779049196.png",
       "localizedDescription": "تطبيق لمشاهدة الأفلام والمسلسلات.\n\nمميزات التطبيق:\n- سيرفرات متعددة للمشاهدة.",
       "category": "ترفيه",
       "versions": [
@@ -4827,7 +4827,7 @@
       "name": "موفي بوكس",
       "bundleIdentifier": "com.forfun.MovieBox-TV",
       "bundleId": "com.forfun.MovieBox-TV",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1774779141279.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1774779141279.png",
       "localizedDescription": "تم تحويل الموقع الى تطبيق وتمت ازالة كافة الاعلانات.",
       "category": "ترفيه",
       "versions": [
@@ -4930,7 +4930,7 @@
       "name": "Minichat",
       "bundleIdentifier": "com.minichat",
       "bundleId": "com.minichat",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1779560424696.jpg",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1779560424696.jpg",
       "localizedDescription": "مميزات التطبيق:\n- دعم الكاميرا الوهمية.\n- استخدام الصور أو مقاطع الفيديو من الاستوديو بدلاً من الكاميرا المباشرة.\n- أداة مدمجة لتغيير الموقع الجغرافي GPS.\n- إمكانية اختيار دولة مختلفة داخل المحادثات.\n- نظام لتجاوز الحظر وتقليل قيود الحساب.\n- إمكانية حذف الحساب المحظور من خلال الأداة.\n- تعطيل Safe Mode.\n- تعطيل التحقق وكشف الوجه.\n- تجاوز قيود العمر.\n- فتح فلترة الجنس مجاناً بالكامل.",
       "category": "تواصل",
       "versions": [
@@ -5198,7 +5198,7 @@
       "name": "Feather",
       "bundleIdentifier": "thewonderofyou.Feather",
       "bundleId": "thewonderofyou.Feather",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1780341277232.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1780341277232.png",
       "localizedDescription": "مميزات التطبيق:\n- توقيع وتثبيت ملفات IPA باستخدام شهادات التوقيع.\n- استيراد وإدارة التطبيقات والشهادات من داخل التطبيق.\n- مناسب لتثبيت التطبيقات خارج App Store.",
       "category": "أخرى",
       "versions": [
@@ -6032,7 +6032,7 @@
       "name": "angry birds friends",
       "bundleIdentifier": "com.rovio.angrybirdsfriends",
       "bundleId": "com.rovio.angrybirdsfriends",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1781375497727.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1781375497727.png",
       "localizedDescription": "مميزات اللعبة:\n- عدم استهلاك التعزيزات.\n- استخدام التعزيزات مجاناً دون قيود على عدد مرات الاستخدام.\n- تعزيزات غير محدودة.\n- بدء كل مرحلة بـ 10 تعزيزات مجانية.\n- زيادة قوة المقلاع.",
       "category": "ألعاب",
       "versions": [
@@ -6396,7 +6396,7 @@
       "name": "nba 2k 25",
       "bundleIdentifier": "com.2ksports.nba2k25arcade",
       "bundleId": "com.2ksports.nba2k25arcade",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/APP-4827681193.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/APP-4827681193.png",
       "localizedDescription": "مميزات اللعبة:\n- تشغيل نسخة Apple Arcade بدون الحاجة إلى اشتراك Apple Arcade.",
       "category": "ألعاب",
       "versions": [
@@ -6734,7 +6734,7 @@
       "name": "MadPlay",
       "bundleIdentifier": "com.madplay.ikiraplus",
       "bundleId": "com.madplay.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777652894490.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777652894490.png",
       "localizedDescription": "تطبيق لمشاهدة القنوات الرياضية المشفرة (بين سبورت، الثامنة، شاهد، وغيرها)\nويحتوي على قسم خاص بالأفلام والمسلسلات\nبدون إعلانات",
       "category": "ترفيه",
       "versions": [
@@ -7283,7 +7283,7 @@
       "name": "Tiktok Na",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "bundleId": "com.zhiliaoapp.musically",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783131285163.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1783131285163.png",
       "localizedDescription": "مميزات التطبيق:\n- إزالة الإعلانات من صفحة الفيديوهات.\n- إضافة زر لتنزيل الفيديوهات مباشرة.\n- تنزيل الفيديوهات بجودة HD بضغطة واحدة.\n- تنزيل القصص والصور والفيديوهات من Stories.\n- مشاهدة القصص بدون تسجيل المشاهدة.\n- قراءة الرسائل بدون إرسال إيصال قراءة.\n- إخفاء مؤشر الكتابة في المحادثات.\n- حفظ الصور والفيديوهات من داخل المحادثات عبر الضغط المطول.\n- حفظ صور التعليقات.\n- حفظ صورة الملف الشخصي ونسخ معلومات الحساب.\n- زيارة الملفات الشخصية بدون تسجيل الزيارة.\n- عرض اسم المستخدم بدلاً من الاسم الظاهر.\n- عرض دولة أو منطقة المحتوى.\n- عرض تاريخ رفع الفيديو.\n- عرض عدد فيديوهات الحساب وعدد الإعجابات على فيديوهاته.\n- إظهار حالة المتابعة بين الحسابات.\n- رفع الفيديوهات دائماً بجودة HD.\n- التحكم بسرعة تشغيل الفيديو وحفظ السرعة بين المقاطع.\n- منع تكرار تشغيل الفيديو تلقائياً.\n- تجاوز تحذيرات وفلترة المحتوى الحساس.\n- فتح الروابط مباشرة في Safari.\n- زيادة الحد المسموح لأحرف النبذة والتعليقات.\n- قفل التطبيق برمز مرور.\n- إضافة تأكيد قبل الإعجاب أو المتابعة لتجنب الضغط بالخطأ.",
       "category": "تواصل",
       "versions": [
@@ -7307,7 +7307,7 @@
       "name": "يلا شوت",
       "bundleIdentifier": "com.yalla-shoot.Yalla",
       "bundleId": "com.yalla-shoot.Yalla",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777653026917.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777653026917.png",
       "localizedDescription": "تم ازالة جميع الاعلانات المزعجة.",
       "category": "ترفيه",
       "versions": [
@@ -7652,7 +7652,7 @@
       "name": "Hitv pro",
       "bundleIdentifier": "com.hitv.ikiraplus",
       "bundleId": "com.hitv.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541382806.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1783541382806.png",
       "localizedDescription": "نسخة معدلة تم فتح جميع ميزاتها واضافه بعش الخصائص :\n\n- ازالة جميع الاعلانات المزعجة\n- دعم وضع pip بالكامل\n- جميع انواع الدقة مفتوحة للمشاهدة والتحميل\n- اضافة زر لنسخ  نبذة الافلام\n- اضافة زر لحفظ غلاف الافلام",
       "category": "ترفيه",
       "versions": [
@@ -7701,7 +7701,7 @@
       "name": "فاصل بلس",
       "bundleIdentifier": "com.fasilplus.ikiraplus",
       "bundleId": "com.fasilplus.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541434135.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1783541434135.png",
       "localizedDescription": "تم تحويل الموقع الى تطبيق وتمت ازالة كافة الاعلانات.",
       "category": "ترفيه",
       "versions": [
@@ -7726,7 +7726,7 @@
       "name": "قصة عشق - قرمزي",
       "bundleIdentifier": "com.qissateshqplus.ikiraplus",
       "bundleId": "com.qissateshqplus.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1783541492552.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1783541492552.png",
       "localizedDescription": "تم تحويل الموقع الى تطبيق وتمت ازالة كافة الاعلانات.",
       "category": "ترفيه",
       "versions": [
@@ -7918,7 +7918,7 @@
       "name": "WolfTube",
       "bundleIdentifier": "com.google.ios.youtubeee",
       "bundleId": "com.google.ios.youtubeee",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777314094685.png",
       "localizedDescription": "مميزات التطبيق:\n- تنزيل الفيديوهات والصوتيات والصور المصغرة مباشرة من YouTube مع اختيار الجودة ودعم الدقات العالية عند توفرها.\n- مكتبة وسائط مدمجة لتنظيم وتشغيل ومشاركة وحذف المحتوى المحمّل، مع البحث واستئناف التشغيل من آخر موضع.\n- إنشاء قوائم تشغيل محلية للفيديو والصوت مع تثبيتها ومشاركتها وإمكانية التراجع عن حذفها.\n- تشغيل الفيديو والصوت في الخلفية ودعم وضع PiP مع التحكم من شاشة القفل ومركز التحكم.\n- دعم SponsorBlock وتقليل الإعلانات وتخطي الإعلانات القابلة للتخطي.\n- أدوات إضافية لـ Shorts والفيديوهات والقنوات تشمل تنزيل الوسائط ونسخ معلومات الفيديو والقناة وتنزيل صور الملفات الشخصية.\n- إدارة عدة ملفات دفعة واحدة ومشاركة أو حذف مجموعة من التنزيلات معاً.\n- دعم النسخ الاحتياطي والاستعادة للمكتبة والتنزيلات والقوائم ومواضع التشغيل.\n- دعم العربية والإنكليزية مع إمكانية التحكم في ظهور أدوات WolfTube داخل YouTube.",
       "category": "تواصل",
       "versions": [
@@ -7947,7 +7947,7 @@
       "name": "Aflame Tv",
       "bundleIdentifier": "com.rumaisahassan.CineMap",
       "bundleId": "com.rumaisahassan.CineMap",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1784023070606.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1784023070606.png",
       "localizedDescription": "تم ازالة جميع الاعلانات المزعجة.",
       "category": "ترفيه",
       "versions": [
@@ -7972,7 +7972,7 @@
       "name": "Youpro",
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777314094685.png",
       "localizedDescription": "مميزات التطبيق:\n- تنزيل الفيديوهات من YouTube.\n- تنزيل Shorts.\n- تنزيل الصوتيات.\n- إنشاء مكتبة تنزيل مدمجة داخل YouTube.\n- تشغيل الفيديوهات الموجودة في مكتبة التنزيل بجودة تصل إلى 4K.\n- إزالة إعلانات YouTube.\n- تشغيل الفيديوهات في الخلفية.\n- دعم تسجيل الدخول في النسخ المكررة.\n- تحسينات على نظام التنزيل والاستقرار.",
       "category": "تواصل",
       "versions": [
@@ -8108,7 +8108,7 @@
       "name": "PineBox Premium",
       "bundleIdentifier": "com.pinebox.app",
       "bundleId": "com.pinebox.app",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1784023216713.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1784023216713.png",
       "localizedDescription": "نسخة معدلة تم فتح جميع ميزاتها واضافه بعش الخصائص :\n\n- ازالة جميع الاعلانات المزعجة\n- دعم وضع pip بالكامل\n- جميع انواع الدقة مفتوحة للمشاهدة والتحميل\n- اضافة زر لنسخ  نبذة الافلام\n- اضافة زر لحفظ غلاف الافلام",
       "category": "ترفيه",
       "versions": [
@@ -9465,7 +9465,7 @@
       "name": "Soulterra",
       "bundleIdentifier": "jp.co.bandainamcoent.BNEI0447",
       "bundleId": "jp.co.bandainamcoent.BNEI0447",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1786556382126.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1786556382126.png",
       "localizedDescription": "مميزات التطبيق:\n- مضاعفة الضرر.\n- مضاعفة الدفاع.\n- وضع عدم الموت (God Mode).\n- تجميد مؤقت اللعبة.",
       "category": "ألعاب",
       "versions": [
@@ -10115,7 +10115,7 @@
       "name": "LcSign",
       "bundleIdentifier": "com.huami.LoadController",
       "bundleId": "com.huami.LoadController",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.huami.LoadController.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/com.huami.LoadController.png",
       "localizedDescription": "مميزات التطبيق:\n- توقيع وتثبيت ملفات IPA باستخدام شهادات التوقيع.\n- استيراد وإدارة التطبيقات والشهادات من داخل التطبيق.\n- مناسب لتثبيت التطبيقات خارج App Store.",
       "category": "أخرى",
       "versions": [
@@ -11755,7 +11755,7 @@
       "name": "Infantry Attack",
       "bundleIdentifier": "com.niklas.fpsdefense",
       "bundleId": "com.niklas.fpsdefense",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787299352868.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787299352868.png",
       "localizedDescription": "مميزات اللعبة:\n- أموال وذهب غير محدودة.\n- ذخيرة غير محدودة.\n- موارد ونقاط غير محدودة.",
       "category": "ألعاب",
       "versions": [
@@ -13392,7 +13392,7 @@
       "name": "Survivalist invasion zombie",
       "bundleIdentifier": "com.megaloot.survivalist",
       "bundleId": "com.megaloot.survivalist",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787381589097.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787381589097.png",
       "localizedDescription": "مميزات اللعبة:\n- أموال غير محدودة.",
       "category": "ألعاب",
       "versions": [
@@ -13470,7 +13470,7 @@
       "name": "Awakening Of Dragon",
       "bundleIdentifier": "com.vqw.aelh",
       "bundleId": "com.vqw.aelh",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787381811686.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787381811686.png",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- مضاعفة الدفاع.\n- وضع عدم الموت (God Mode).\n- أموال وجواهر وألماس غير محدودة.\n- فتح الشخصيات.",
       "category": "ألعاب",
       "versions": [
@@ -13839,7 +13839,7 @@
       "name": "Magicka",
       "bundleIdentifier": "com.hhimhira.magicka",
       "bundleId": "com.hhimhira.magicka",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787382912839.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787382912839.png",
       "localizedDescription": "لعبة محذوفة من المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "versions": [
@@ -13962,7 +13962,7 @@
       "name": "Dream League Soccer",
       "bundleIdentifier": "com.firsttouch.dls7",
       "bundleId": "com.firsttouch.dls7",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787384138503.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787384138503.png",
       "localizedDescription": "مميزات اللعبة:\n- عملات غير محدودة.",
       "category": "ألعاب",
       "versions": [
@@ -14243,7 +14243,7 @@
       "name": "Youmod",
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777314094685.png",
       "localizedDescription": "مميزات التطبيق:\n- تنزيل الفيديوهات والصوتيات والترجمات والصور المصغرة ومعلومات الفيديو، مع دعم جودة تصل إلى 1080p60.\n- تشغيل الفيديو والصوت في الخلفية مع مجموعة كبيرة من تحسينات المشغل.\n- OLED Theme مع دعم OLED Keyboard.\n- إخفاء وتخصيص عناصر وأزرار شريط التنقل.\n- تخصيص عناصر وأزرار المشغل وإضافة Custom Actions.\n- تخصيص واجهة Shorts وإخفاء عناصرها وإضافة إجراءات مخصصة.\n- إعادة ترتيب تبويبات YouTube وإخفاء العناصر غير المرغوبة من Tab Bar.\n- SponsorBlock مدمج لتخطي المقاطع الدعائية والرعايات تلقائياً.\n- دمج العديد من تحسينات جودة الاستخدام المستوحاة من YTLite وتعديلات YouTube الأخرى.\n- دعم إصدارات YouTube الحديثة مع خيارات تخصيص واسعة للواجهة والتشغيل.",
       "category": "تواصل",
       "versions": [
@@ -15712,7 +15712,7 @@
       "id": "APP-9285750924",
       "name": "Metal Slug 3",
       "bundleIdentifier": "com.ikiraplus.apps.metal-slug-3.0b69336b6a",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787928147810.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787928147810.png",
       "localizedDescription": "لعبة مدفوعة في المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "versions": [
@@ -15736,7 +15736,7 @@
       "id": "APP-4352127297",
       "name": "Champion Wars",
       "bundleIdentifier": "com.ikiraplus.apps.champion-wars.427167d506",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787930502746.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787930502746.png",
       "localizedDescription": "مميزات اللعبة:\n- وضع عدم الموت.\n- مضاعفة قوة الهجوم.",
       "category": "ألعاب",
       "versions": [
@@ -15760,7 +15760,7 @@
       "id": "APP-7112043340",
       "name": "Zoo Island",
       "bundleIdentifier": "com.ikiraplus.apps.zoo-island.f67517f394",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787930545404.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787930545404.png",
       "localizedDescription": "مميزات اللعبة:\n- لا حاجة للعملات أثناء اللعب.\n- لا حاجة للموارد أثناء اللعب.\n- تسريع رفع المستوى بحيث يتطلب نقطة خبرة واحدة.",
       "category": "ألعاب",
       "versions": [
@@ -15808,7 +15808,7 @@
       "id": "APP-2109502705",
       "name": "City Island 6 Building Life",
       "bundleIdentifier": "com.ikiraplus.apps.city-island-6-building-life.542b873006",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787930624293.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787930624293.png",
       "localizedDescription": "مميزات اللعبة:\n- عملات غير محدودة.\n- أموال غير محدودة.\n- فتح جميع الجزر.\n- فتح وترقية المباني بالكامل.\n- فتح جميع الترقيات.\n- الحصول على جميع المكافآت.",
       "category": "ألعاب",
       "versions": [
@@ -15832,7 +15832,7 @@
       "id": "APP-1085674055",
       "name": "Deep Rock Galactic Survivor",
       "bundleIdentifier": "com.ikiraplus.apps.deep-rock-galactic-survivor.ab65d2e297",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787930691425.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787930691425.png",
       "localizedDescription": "مميزات اللعبة:\n- وضع عدم الموت.\n- مضاعفة الهجوم.\n- إضعاف الأعداء.\n- متجر مجاني.\n- فتح مزايا Premium.",
       "category": "ألعاب",
       "versions": [
@@ -16169,7 +16169,7 @@
       "id": "APP-8955133650",
       "name": "Battle Legion - Mass Battler",
       "bundleIdentifier": "com.ikiraplus.apps.battle-legion-mass-battler.70642da2ca",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787931488145.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787931488145.png",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة الهجوم والدفاع.\n- فوز فوري.\n- تجميد حركة الأعداء.\n- منع الأعداء من الهجوم.",
       "category": "ألعاب",
       "versions": [
@@ -16390,7 +16390,7 @@
       "id": "APP-1574040048",
       "name": "Gun Force Action Shooting",
       "bundleIdentifier": "com.ikiraplus.apps.gun-force-action-shooting.ddc66a574d",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787932013587.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787932013587.png",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- وضع عدم الموت (God Mode).",
       "category": "ألعاب",
       "versions": [
@@ -16414,7 +16414,7 @@
       "id": "APP-9865136358",
       "name": "The Idle Forces Army Tycoon",
       "bundleIdentifier": "com.ikiraplus.apps.the-idle-forces-army-tycoon.446c02ca3c",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1787932065743.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787932065743.png",
       "localizedDescription": "مميزات اللعبة:\n- أموال غير محدودة ولا تنقص عند الاستخدام.",
       "category": "ألعاب",
       "versions": [
@@ -16799,7 +16799,7 @@
       "id": "APP-1278726155",
       "name": "Grand Strike Battle Royale",
       "bundleIdentifier": "com.ikiraplus.apps.grand-strike-battle-royale.c7263c5cbe",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788008881670.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788008881670.png",
       "localizedDescription": "مميزات اللعبة:\n- زيادة سرعة اللعب الجماعي.\n- قفز غير محدود.",
       "category": "ألعاب",
       "versions": [
@@ -17328,7 +17328,7 @@
       "id": "APP-1993418182",
       "name": "Pdf Editor",
       "bundleIdentifier": "com.ikiraplus.apps.pdf-editor.56821e0f87",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788012340255.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788012340255.png",
       "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
       "category": "أدوات",
       "versions": [
@@ -17445,7 +17445,7 @@
       "id": "APP-7388210386",
       "name": "Shadow Fight 4 Arena",
       "bundleIdentifier": "com.ikiraplus.apps.shadow-fight-4-arena.70fb3ce1c2",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788023761465.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788023761465.png",
       "localizedDescription": "مميزات اللعبة:\n- تجميد الخصم.",
       "category": "ألعاب",
       "versions": [
@@ -17543,7 +17543,7 @@
       "name": "RyukSign",
       "bundleIdentifier": "ryuk2.anoxclan.com",
       "bundleId": "ryuk2.anoxclan.com",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788077338735.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788077338735.png",
       "localizedDescription": "مميزات التطبيق:\n- توقيع وتثبيت ملفات IPA باستخدام شهادات التوقيع.\n- استيراد وإدارة التطبيقات والشهادات من داخل التطبيق.\n- مناسب لتثبيت التطبيقات خارج App Store.",
       "category": "أخرى",
       "versions": [
@@ -18265,7 +18265,7 @@
       "name": "Itorrent",
       "bundleIdentifier": "com.xitrix.iTorrent2",
       "bundleId": "com.xitrix.iTorrent2",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.xitrix.iTorrent2.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/com.xitrix.iTorrent2.png",
       "localizedDescription": "مميزات التطبيق:\n- تنزيل ملفات Torrent ودعم روابط Magnet والروابط المباشرة.\n- دعم التنزيل في الخلفية مع Live Activity وDynamic Island لمتابعة التقدم.\n- مشغل VLC مدمج مع AirPlay وPiP ودعم التنزيل المتسلسل لمشاهدة الفيديو أثناء التحميل.\n- حفظ الملفات في تطبيق Files ومشاركتها، مع دعم WebDAV وRSS واختيار الملفات المطلوب تنزيلها.",
       "category": "أخرى",
       "versions": [
@@ -18705,7 +18705,7 @@
       "name": "حمل - Hammel",
       "bundleIdentifier": "app.hammel.com",
       "bundleId": "app.hammel.com",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app.hammel.com.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app.hammel.com.png",
       "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "أدوات",
       "versions": [
@@ -18945,7 +18945,7 @@
       "name": "Nba 2k23 Arcade Edition",
       "bundleIdentifier": "com.2ksports.nba2k23arcade",
       "bundleId": "com.2ksports.nba2k23arcade",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.2ksports.nba2k23arcade.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/com.2ksports.nba2k23arcade.png",
       "localizedDescription": "لعبة محذوفة من المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "versions": [
@@ -18969,7 +18969,7 @@
       "name": "Mental Hospital iv",
       "bundleIdentifier": "com.agaming.mentalhospitalivhd",
       "bundleId": "com.agaming.mentalhospitalivhd",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.agaming.mentalhospitalivhd.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/com.agaming.mentalhospitalivhd.png",
       "localizedDescription": "لعبة مدفوعة في المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "versions": [
@@ -19185,7 +19185,7 @@
       "name": "Five Nights At Freddys Hw",
       "bundleIdentifier": "com.steelwoolstudios.fnafhw",
       "bundleId": "com.steelwoolstudios.fnafhw",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.steelwoolstudios.fnafhw.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/com.steelwoolstudios.fnafhw.png",
       "localizedDescription": "لعبة مدفوعة في المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "versions": [
@@ -19209,7 +19209,7 @@
       "name": "Heroish",
       "bundleIdentifier": "com.SunblinkEntertainment.HeroesFate",
       "bundleId": "com.SunblinkEntertainment.HeroesFate",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.SunblinkEntertainment.HeroesFate.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/com.SunblinkEntertainment.HeroesFate.png",
       "localizedDescription": "لعبة محذوفة من المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "versions": [
@@ -19429,7 +19429,7 @@
       "name": "Lortv Pro",
       "bundleIdentifier": "com.typhon6.halo.bridge4",
       "bundleId": "com.typhon6.halo.bridge4",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/com.typhon6.halo.bridge4.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/com.typhon6.halo.bridge4.png",
       "localizedDescription": "نسخة معدلة تم فتح جميع ميزاتها واضافه بعش الخصائص :\n\n- ازالة جميع الاعلانات المزعجة\n- دعم وضع pip بالكامل\n- جميع انواع الدقة مفتوحة للمشاهدة والتحميل\n- اضافة زر لنسخ  نبذة الافلام\n- اضافة زر لحفظ غلاف الافلام",
       "category": "ترفيه",
       "versions": [
@@ -19957,7 +19957,7 @@
       "name": "FlashCards",
       "bundleIdentifier": "ReadyRaccoonSoftware.Flashcards",
       "bundleId": "ReadyRaccoonSoftware.Flashcards",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788461014169.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788461014169.png",
       "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
       "category": "دراسة وذكاء اصطناعي",
       "versions": [
@@ -20153,7 +20153,7 @@
       "name": "Esign Neo",
       "bundleIdentifier": "com.esign.neo",
       "bundleId": "com.esign.neo",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788461998494.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788461998494.png",
       "localizedDescription": "مميزات التطبيق:\n- توقيع وتثبيت ملفات IPA باستخدام شهادات التوقيع.\n- استيراد وإدارة التطبيقات والشهادات من داخل التطبيق.\n- مناسب لتثبيت التطبيقات خارج App Store.",
       "category": "أخرى",
       "versions": [
@@ -20177,7 +20177,7 @@
       "name": "Sound Cloud GT",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "bundleId": "com.soundcloud.TouchApp",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788462381512.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788462381512.png",
       "localizedDescription": "مميزات التطبيق:\n- تفعيل اشتراك SoundCloud GO+.\n- رفع مستوى الصوت حتى 250% مع Equalizer وReverb للتحكم المتقدم بالصوت.\n- تغيير سرعة تشغيل الأغاني مع جعل النغمة تتبع السرعة ودعم التشغيل البطيء مع Reverb.\n- تخطي بداية الأغنية لمدة تصل إلى 30 ثانية وتخطي المقاطع التجريبية التي لا تتجاوز 30 ثانية.\n- تخصيص خلفية الأغاني وإضافة OLED Theme بما في ذلك لوحة مفاتيح OLED.\n- تغيير لون التطبيق الرئيسي والخط.\n- تغيير ترتيب وأسماء تبويبات شريط التنقل.\n- إخفاء بانر Try Artist Pro.\n- فتح الروابط مباشرة في Safari مع خيار تأكيد الإعجاب بالأغاني.\n- قفل الدخول إلى التطبيق باستخدام كلمة مرور أو Face ID أو Touch ID.",
       "category": "ترفيه",
       "versions": [
@@ -20281,7 +20281,7 @@
       "name": "Whitegram Multi",
       "bundleIdentifier": "ph.telegra.Telegraph",
       "bundleId": "ph.telegra.Telegraph",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788636495918.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788636495918.png",
       "localizedDescription": "تطبيق وايتكرام مع اداة Multi \nطريقة تفعيل الاداة : اضغط ب 3 اصابع على الشاشه وفعل الادوات التي تريدها.",
       "category": "تواصل",
       "versions": [
@@ -20305,7 +20305,7 @@
       "name": "Teledark Multi",
       "bundleIdentifier": "app.teledark",
       "bundleId": "app.teledark",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1773512283014.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773512283014.png",
       "localizedDescription": "تطبيق تليدارك مع اداة Multi \nطريقة تفعيل الاداة : اضغط ب 3 اصابع على الشاشه وفعل الادوات التي تريدها.",
       "category": "تواصل",
       "versions": [
@@ -20401,7 +20401,7 @@
       "name": "سبورتيفا",
       "bundleIdentifier": "com.tolba.sportiva",
       "bundleId": "com.tolba.sportiva",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788637245244.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788637245244.png",
       "localizedDescription": "تم حذف جميع الاعلانات وتطبيق محذوف من الابستور.",
       "category": "ترفيه",
       "versions": [
@@ -20425,7 +20425,7 @@
       "name": "Video To Frames",
       "bundleIdentifier": "com.videoToFrame.dh",
       "bundleId": "com.videoToFrame.dh",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788637442059.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788637442059.png",
       "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
       "category": "أدوات",
       "versions": [
@@ -20809,7 +20809,7 @@
       "name": "لوكات",
       "bundleIdentifier": "com.raeed.lokat",
       "bundleId": "com.raeed.lokat",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1788691379709.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788691379709.png",
       "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "أدوات",
       "versions": [
@@ -21173,7 +21173,7 @@
       "name": "ASJ YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "bundleId": "com.google.ios.youtube",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1777314094685.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1777314094685.png",
       "localizedDescription": "مميزات التطبيق:\n- تنزيل الفيديوهات وShorts بالجودات المتاحة.\n- مكتبة خاصة لإدارة التنزيلات وقوائم التشغيل والمشاهدة لاحقاً.\n- تشغيل الصوت في الخلفية.\n- دعم Picture in Picture.\n- تشغيل الفيديو بأعلى جودة متاحة.\n- إزالة الإعلانات من الصفحة الرئيسية والبحث وShorts والمشغل.\n- تخطي الإعلانات القابلة وغير القابلة للتخطي.\n- عرض كلمات الأغاني.\n- نسخ وترجمة العناوين والأوصاف والتعليقات والردود.\n- إخفاء Shorts وزر الإنشاء وفتح الروابط في Safari وقفل التطبيق بـ Face ID.",
       "category": "تواصل",
       "versions": [
@@ -22761,7 +22761,7 @@
       "name": "Ghostgram",
       "bundleIdentifier": "org.ghostgram.app",
       "bundleId": "org.ghostgram.app",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1789404366680.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1789404366680.png",
       "localizedDescription": "مميزات التطبيق:\n- اشتراك Ghostgram مدمج مع إمكانية تفعيل جميع المميزات.\n- الاحتفاظ بالرسائل المحذوفة.\n- Ghost Mode لإخفاء النشاط وتحسين الخصوصية أثناء استخدام Telegram.\n- ترجمة الرسائل داخل التطبيق.\n- قفل المحادثات بكلمات مرور.\n- تغيير معلومات الجهاز الظاهرة للتطبيق.\n- Fake Location لتغيير الموقع الجغرافي.\n- تغيير الصوت وإضافة خيارات صوتية إضافية.\n- Local Premium مع خيارات تخصيص للخط والواجهة وإعدادات إضافية.\n- حفظ وإعادة توجيه المحتوى وأخذ لقطات شاشة من المحادثات والمجموعات والقنوات المقيدة، مع دمج Swiftgram داخل النسخة.\n\nلتفعيل جميع المميزات:\n- افتح Safari وأدخل الأمر: ghostgram://feature/unlock-all\n\nإعدادات Ghostgram:\n- الإعدادات ← Ghostgram.",
       "category": "تواصل",
       "versions": [
@@ -23289,7 +23289,7 @@
       "name": "واعي - للتعافي من الادمان",
       "bundleIdentifier": "com.mo.helala.wa3y",
       "bundleId": "com.mo.helala.wa3y",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1789407530294.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1789407530294.png",
       "localizedDescription": "تطبيق مدفوع في المتجر الرسمي.",
       "category": "أدوات",
       "versions": [
@@ -23533,7 +23533,7 @@
       "name": "Locks Quest",
       "bundleIdentifier": "com.hg.locksquest",
       "bundleId": "com.hg.locksquest",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1789487966780.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1789487966780.png",
       "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
       "category": "ألعاب",
       "versions": [
@@ -23773,7 +23773,7 @@
       "name": "Little Fox Nursery Rhymes",
       "bundleIdentifier": "com.shapeminds.FoxMusicBox",
       "bundleId": "com.shapeminds.FoxMusicBox",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1789488505012.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1789488505012.png",
       "localizedDescription": "لعبة مدفوعة في المتجر الرسمي.",
       "category": "ألعاب",
       "versions": [
@@ -30519,7 +30519,7 @@
       "name": "Angry Birds Seasons",
       "bundleIdentifier": "com.rovio.AngryBirdsHalloween",
       "bundleId": "com.rovio.AngryBirdsHalloween",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1790370212031.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1790370212031.png",
       "localizedDescription": "- عناصر غير محدودة.\n- فتح المحتوى المقفول.",
       "category": "ألعاب",
       "versions": [
@@ -30543,7 +30543,7 @@
       "name": "Angry Birds Space",
       "bundleIdentifier": "com.rovio.AngryBirdsSpace",
       "bundleId": "com.rovio.AngryBirdsSpace",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1790370261223.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1790370261223.png",
       "localizedDescription": "- Space Eagles غير محدودة.\n- مشتريات داخل اللعبة مجانية.",
       "category": "ألعاب",
       "versions": [
@@ -33603,7 +33603,7 @@
       "name": "Armsx2 iOS",
       "bundleIdentifier": "com.armsx2.ios",
       "bundleId": "com.armsx2.ios",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1790958417916.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1790958417916.png",
       "category": "أخرى",
       "versions": [
         {
@@ -36665,7 +36665,7 @@
       "name": "Wrappin",
       "bundleIdentifier": "com.suversal.wrappin",
       "bundleId": "com.suversal.wrappin",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1791796423378.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1791796423378.png",
       "localizedDescription": "تطبيق لمحاكاة وتغيير الموقع الجغرافي على أجهزة iPhone.\n- تحديد موقع وهمي من الخريطة أو عبر الإحداثيات والبحث باستخدام خرائط Apple.\n- محاكاة المشي والقيادة على مسارات مع التحكم بسرعة الحركة وإيقافها واستكمالها.\n- تغيير الموقع أثناء الجلسة دون إعادة الاتصال والعودة عبر نفس المسار.\n- حفظ المواقع المفضلة وسجل المواقع الأخيرة ونسخ العنوان أو الإحداثيات.\n- استعادة الموقع الحقيقي عند إيقاف المحاكاة ودعم أنماط الخرائط والوضعين الفاتح والداكن.\n- يتطلب iOS 27 أو أحدث مع تفعيل وضع المطور.",
       "category": "أدوات",
       "versions": [
@@ -37488,7 +37488,7 @@
       "name": "Muguet",
       "bundleIdentifier": "vn.iosvn.muguet",
       "bundleId": "vn.iosvn.muguet",
-      "iconURL": "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/app-1791899389629.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1791899389629.png",
       "localizedDescription": "- ثبت ملف Muguet IPA على جهازك\n- جهز ملفات اللعبة ويجب ان تحتوي على مجلدي data و b\n- افتح تطبيق الملفات وانتقل الى On My iPhone ثم Muguet\n- انشئ داخل مجلد Muguet مجلدا جديدا باسم game\n- انقل مجلدي data و b الى داخل مجلد game\n- تاكد ان مجلدي data و b موجودان داخل مجلد game\n- انتظر حتى يكتمل نقل جميع الملفات بالكامل قبل فتح التطبيق\n- افتح Muguet وسيتم التعرف على ملفات اللعبة وتشغيلها تلقائيا\n- قد يستغرق التشغيل الاول وقتا اطول بسبب فحص وتجهيز ملفات اللعبة\n- اذا كانت ملفات اللعبة مضغوطة بحجم يقارب 22GB يفضل فك الضغط على الكمبيوتر اولا ثم نقل الملفات الى الايفون لتوفير مساحة التخزين",
       "category": "أخرى",
       "versions": [
