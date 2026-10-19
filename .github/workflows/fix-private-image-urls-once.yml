@@ -40,7 +40,9 @@ jobs:
               s = s.replace(prefix + 'cert-ar.png', pages_base + 'cert-ar.png')
               s = s.replace(prefix + 'ikiraplus.jpg', pages_base + 'ikiraplus.jpg')
 
-          # Future-proof every app icon synced from jom.json.
+          # Future-proof every app icon synced from jom.json.  The old raw prefixes
+          # intentionally remain only in this conversion table so legacy jom entries
+          # are rewritten to the public Pages image host during every future sync.
           if 'def publicize_ipastore_image_url(value):' not in s:
               marker = '\ndef clean_text_keep_lines(value):\n'
               helper = '''\n\nPUBLIC_ASSET_BASE_URL = "https://ikiraplus-assets.pages.dev/images/"\nPRIVATE_IPASTORE_IMAGE_PREFIXES = (\n    "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/",\n    "https://raw.githubusercontent.com/ikiraplus/ipastore/refs/heads/main/images/",\n    "https://github.com/ikiraplus/ipastore/raw/main/images/",\n    "https://github.com/ikiraplus/ipastore/raw/refs/heads/main/images/",\n)\n\ndef publicize_ipastore_image_url(value):\n    text = clean_text(value)\n    if not text:\n        return text\n    for prefix in PRIVATE_IPASTORE_IMAGE_PREFIXES:\n        if text.startswith(prefix):\n            return PUBLIC_ASSET_BASE_URL + text[len(prefix):].lstrip("/")\n    return text\n'''
@@ -82,15 +84,17 @@ jobs:
               print(filename, 'Pages image refs=', after.count('ikiraplus-assets.pages.dev/images/'))
               news = fixed.get('news', []) if isinstance(fixed, dict) else []
               print(filename, 'news image URLs=', [n.get('imageURL') for n in news if isinstance(n, dict)])
+              if after.count('raw.githubusercontent.com/ikiraplus/ipastore') != 0:
+                  raise SystemExit(f'{filename} still contains private raw image URLs')
 
-          # Static/future configuration must no longer point image metadata to private raw GitHub.
+          # Verify permanent static metadata + future conversion logic.
           final_script = path.read_text(encoding='utf-8')
-          if 'raw.githubusercontent.com/ikiraplus/ipastore/main/images/' in final_script:
-              raise SystemExit('Private raw image URL remains in sync_apps.py')
           if 'https://ikiraplus-assets.pages.dev/images/cert-ar.png' not in final_script:
               raise SystemExit('Public cert news image missing from sync_apps.py')
           if 'https://ikiraplus-assets.pages.dev/images/ikiraplus.jpg' not in final_script:
               raise SystemExit('Public Kira news image missing from sync_apps.py')
+          if 'https://ikiraplus-assets.pages.dev/images/kiraplus.png' not in final_script:
+              raise SystemExit('Public source icon missing from sync_apps.py')
           if 'publicize_ipastore_image_url' not in final_script:
               raise SystemExit('Future icon normalizer missing')
 
