@@ -14,6 +14,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          # Retest after rotating FREEAPPS_PRIVATE_RELEASES_TOKEN.
           URL='https://dl.ikiraplus.workers.dev/freeapps/594672229/ryukgram.ipa'
 
           echo '=== HEAD ==='
