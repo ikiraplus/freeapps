@@ -1,0 +1,112 @@
+name: Fix private image URLs once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fix-private-image-urls-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Make AR EN image sync private-repo safe
+        shell: python
+        run: |
+          from pathlib import Path
+          import json
+
+          pages_base = 'https://ikiraplus-assets.pages.dev/images/'
+          raw_prefixes = [
+              'https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/',
+              'https://raw.githubusercontent.com/ikiraplus/ipastore/refs/heads/main/images/',
+              'https://github.com/ikiraplus/ipastore/raw/main/images/',
+              'https://github.com/ikiraplus/ipastore/raw/refs/heads/main/images/',
+          ]
+          old_source_icon = 'https://raw.githubusercontent.com/ikira18/feather/main/images/kiraplus.png'
+          new_source_icon = pages_base + 'kiraplus.png'
+
+          path = Path('sync_apps.py')
+          s = path.read_text(encoding='utf-8')
+
+          # Move source/news artwork away from raw GitHub so ipastore may stay private.
+          s = s.replace(old_source_icon, new_source_icon)
+          for prefix in raw_prefixes:
+              s = s.replace(prefix + 'cert-ar.png', pages_base + 'cert-ar.png')
+              s = s.replace(prefix + 'ikiraplus.jpg', pages_base + 'ikiraplus.jpg')
+
+          # Future-proof every app icon synced from jom.json.
+          if 'def publicize_ipastore_image_url(value):' not in s:
+              marker = '\ndef clean_text_keep_lines(value):\n'
+              helper = '''\n\nPUBLIC_ASSET_BASE_URL = "https://ikiraplus-assets.pages.dev/images/"\nPRIVATE_IPASTORE_IMAGE_PREFIXES = (\n    "https://raw.githubusercontent.com/ikiraplus/ipastore/main/images/",\n    "https://raw.githubusercontent.com/ikiraplus/ipastore/refs/heads/main/images/",\n    "https://github.com/ikiraplus/ipastore/raw/main/images/",\n    "https://github.com/ikiraplus/ipastore/raw/refs/heads/main/images/",\n)\n\ndef publicize_ipastore_image_url(value):\n    text = clean_text(value)\n    if not text:\n        return text\n    for prefix in PRIVATE_IPASTORE_IMAGE_PREFIXES:\n        if text.startswith(prefix):\n            return PUBLIC_ASSET_BASE_URL + text[len(prefix):].lstrip("/")\n    return text\n'''
+              if marker not in s:
+                  raise SystemExit('Could not locate helper insertion point')
+              s = s.replace(marker, helper + marker, 1)
+
+          normalize_marker = '''    if is_empty(fixed.get("icon")) and not is_empty(fixed.get("iconURL")):\n        fixed["icon"] = fixed.get("iconURL")\n'''
+          normalize_repl = normalize_marker + '''    if not is_empty(fixed.get("iconURL")):\n        fixed["iconURL"] = publicize_ipastore_image_url(fixed.get("iconURL"))\n        fixed["icon"] = fixed.get("iconURL")\n'''
+          if 'fixed["iconURL"] = publicize_ipastore_image_url' not in s:
+              if normalize_marker not in s:
+                  raise SystemExit('Could not locate normalize_app icon block')
+              s = s.replace(normalize_marker, normalize_repl, 1)
+
+          path.write_text(s, encoding='utf-8')
+
+          def publicize(value):
+              if isinstance(value, str):
+                  if value == old_source_icon:
+                      return new_source_icon
+                  for prefix in raw_prefixes:
+                      if value.startswith(prefix):
+                          return pages_base + value[len(prefix):].lstrip('/')
+                  return value
+              if isinstance(value, list):
+                  return [publicize(v) for v in value]
+              if isinstance(value, dict):
+                  return {k: publicize(v) for k, v in value.items()}
+              return value
+
+          for filename in ('IPA-AR.json', 'IPA-EN.json'):
+              p = Path(filename)
+              data = json.loads(p.read_text(encoding='utf-8'))
+              before = json.dumps(data, ensure_ascii=False)
+              fixed = publicize(data)
+              after = json.dumps(fixed, ensure_ascii=False)
+              p.write_text(json.dumps(fixed, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+              print(filename, 'raw ipastore image refs before=', before.count('raw.githubusercontent.com/ikiraplus/ipastore'), 'after=', after.count('raw.githubusercontent.com/ikiraplus/ipastore'))
+              print(filename, 'Pages image refs=', after.count('ikiraplus-assets.pages.dev/images/'))
+              news = fixed.get('news', []) if isinstance(fixed, dict) else []
+              print(filename, 'news image URLs=', [n.get('imageURL') for n in news if isinstance(n, dict)])
+
+          # Static/future configuration must no longer point image metadata to private raw GitHub.
+          final_script = path.read_text(encoding='utf-8')
+          if 'raw.githubusercontent.com/ikiraplus/ipastore/main/images/' in final_script:
+              raise SystemExit('Private raw image URL remains in sync_apps.py')
+          if 'https://ikiraplus-assets.pages.dev/images/cert-ar.png' not in final_script:
+              raise SystemExit('Public cert news image missing from sync_apps.py')
+          if 'https://ikiraplus-assets.pages.dev/images/ikiraplus.jpg' not in final_script:
+              raise SystemExit('Public Kira news image missing from sync_apps.py')
+          if 'publicize_ipastore_image_url' not in final_script:
+              raise SystemExit('Future icon normalizer missing')
+
+      - name: Syntax check sync script
+        run: python -m py_compile sync_apps.py
+
+      - name: Commit permanent fix
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add sync_apps.py IPA-AR.json IPA-EN.json
+          if git diff --cached --quiet; then
+            echo 'No changes needed'
+            exit 0
+          fi
+          git commit -m 'Use public Pages image URLs in AR EN sources'
+          git push
