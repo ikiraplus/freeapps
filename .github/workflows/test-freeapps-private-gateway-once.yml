@@ -1,0 +1,42 @@
+name: Test freeapps private gateway once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/test-freeapps-private-gateway-once.yml'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify Worker HEAD and Range for known Release asset
+        shell: bash
+        run: |
+          set -euo pipefail
+          URL='https://dl.ikiraplus.workers.dev/freeapps/594672229/ryukgram.ipa'
+
+          echo 'Testing HEAD:' "$URL"
+          curl -fsSIL --retry 4 --retry-delay 2 --max-time 30 "$URL" -o head.txt
+          cat head.txt
+          grep -Eq '^HTTP/[^ ]+ 200' head.txt
+          grep -Eiq '^content-length:[[:space:]]*318175081[[:space:]]*$' head.txt
+          grep -Eiq '^accept-ranges:[[:space:]]*bytes[[:space:]]*$' head.txt
+
+          echo 'Testing Range bytes=0-3'
+          curl -fsSL --retry 4 --retry-delay 2 --max-time 30 \
+            -H 'Range: bytes=0-3' \
+            -D range-headers.txt \
+            -o range.bin \
+            "$URL"
+          cat range-headers.txt
+          wc -c range.bin
+          test "$(wc -c < range.bin)" -eq 4
+          python - <<'PY'
+          data = open('range.bin','rb').read()
+          print('first-bytes:', data.hex())
+          if data[:2] != b'PK':
+              raise SystemExit(f'Expected ZIP/IPA signature PK, got {data!r}')
+          PY
+
+          echo 'FREEAPPS WORKER GATEWAY OK'
