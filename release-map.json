@@ -1,14 +1,7 @@
 {
-  "manifest-airmovie.plist": {
-    "aliases": [
-      [
-        "air",
-        "movie"
-      ],
-      [
-        "air",
-        "mov"
-      ]
+  "manifest-mooxtv.plist": {
+    "keywords": [
+      "mooxtv"
     ]
   },
   "manifest-cinemana.plist": {
@@ -72,4 +65,3 @@
     ]
   }
 }
-
