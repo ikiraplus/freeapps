@@ -38585,6 +38585,7 @@
       "bundleIdentifier": "com.elektron.sho3lah",
       "bundleId": "com.elektron.sho3lah",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/ee/54/0aee543b-fc13-9056-4b8d-a86d8c654b21/AppIconNewAr-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Unlock features",
       "category": "games",
       "versions": [
         {
@@ -38600,8 +38601,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/shala-11.9",
       "size": 221668966,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792486016373",
@@ -38801,6 +38801,7 @@
       "bundleIdentifier": "se.maginteractive.crozzle",
       "bundleId": "se.maginteractive.crozzle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/c8/c0/1dc8c0a5-4d5a-50dc-47de-9d40cee99596/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Automatically stop ads\n- Unlimited coins ← Visualization working\n- Unlimited Resources ← Visualization working",
       "category": "games",
       "versions": [
         {
@@ -38816,8 +38817,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/crozzle-crossword-puzzles_2.3.1",
       "size": 365323878,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792486676666",
@@ -38969,6 +38969,7 @@
       "bundleIdentifier": "jp.co.goodroid.fairy",
       "bundleId": "jp.co.goodroid.fairy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/da/dd/4bdaddcb-5010-5302-57d3-05f78f15f6b8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- Damage multiplier\n- Defense multiplier",
       "category": "games",
       "versions": [
         {
@@ -38984,8 +38985,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fairytail-wizard-chronicle_1.29.1",
       "size": 1219703603,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792487480074",
@@ -38993,6 +38993,7 @@
       "bundleIdentifier": "com.bloomingfates.novels",
       "bundleId": "com.bloomingfates.novels",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/17/e2/5017e256-0590-eed5-4070-b97ca870feb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Unlimited coins ← Spend it freely on story choices and character interactions",
       "category": "games",
       "versions": [
         {
@@ -39008,8 +39009,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blooming-fates_1.1.0",
       "size": 665111756,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792487570810",
@@ -39113,6 +39113,7 @@
       "bundleIdentifier": "jp.gree.greeapp3179",
       "bundleId": "jp.gree.greeapp3179",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/16/bf/0f16bf8b-406c-11e9-d8c8-9407af3d3d88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Damage multiplier\n- God Mode",
       "category": "games",
       "versions": [
         {
@@ -39128,8 +39129,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/girls-knights-squadrpg_4.48",
       "size": 692689305,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792487864733",
@@ -39161,6 +39161,7 @@
       "bundleIdentifier": "com.TechTreeGames.TheTower",
       "bundleId": "com.TechTreeGames.TheTower",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/96/f2/a596f2e7-3571-c8b8-5d12-b045f86194d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- In-App Purchases (IAP) for free ← Press Cancel upon purchase, activate it from iOSGods menu first if necessary\n- Enable cheat engine iGameGod ← Modify in-game currency and speed up the stage",
       "category": "games",
       "versions": [
         {
@@ -39176,8 +39177,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/the-tower-idle-tower-defense_29.1.2",
       "size": 480876953,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792488229053",
@@ -39185,6 +39185,7 @@
       "bundleIdentifier": "com.TeamSparta.WiggleDefender",
       "bundleId": "com.TeamSparta.WiggleDefender",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/70/99/f7709919-5054-6804-9112-b97dd5fa4a5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Attack multiplier\n- store free ← Without operations in-app purchases\n- activation Distinctive features",
       "category": "games",
       "versions": [
         {
@@ -39200,8 +39201,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wiggle-defender-strategy-td_1.0.7",
       "size": 581330534,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792488244766",
@@ -39353,6 +39353,7 @@
       "bundleIdentifier": "com.dalakgames.slitherrush",
       "bundleId": "com.dalakgames.slitherrush",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/8b/b3/0e8bb3be-b677-8437-29bd-5fd6d466c4a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Fake IAP enabled\n- Requires activation hack from Mod Menu",
       "category": "games",
       "versions": [
         {
@@ -39368,8 +39369,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gecko-out_28.0.1",
       "size": 437990195,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792505395296",
@@ -39401,6 +39401,7 @@
       "bundleIdentifier": "com.hejmadi.husk",
       "bundleId": "com.hejmadi.husk",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792506052804.png",
+      "localizedDescription": "- Run Android apps and games on iPhone\n- Run games via a live translation layer or via emulation of a full Android system\n- Support APKs,",
       "category": "Other",
       "versions": [
         {
@@ -39416,8 +39417,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/husk-3.0",
       "size": 140089753,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792506241520",
@@ -39449,6 +39449,7 @@
       "bundleIdentifier": "com.spotify.client",
       "bundleId": "com.spotify.client",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/ed/61/b7ed610e-a3ef-4684-4862-935158e58f07/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Unlock Spotify Premium features\n- Liquid Glass interface with new design on iOS 26 and later\n- Ads removed and promotional windows\n- Block tracking and improve privacy\n- Lyrics from multiple sources with lock screen and Live Activity support\n- Control speed and pitch and add sound effects\n- Customize the player and navigation bar And appearance with AMOLED and distinctive color\n- Block artists and skip their songs automatically",
       "category": "entertainment",
       "versions": [
         {
@@ -39464,8 +39465,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-taurus-0.60.2",
       "size": 138621747,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792506896987",
@@ -39617,6 +39617,7 @@
       "bundleIdentifier": "com.spotify.client",
       "bundleId": "com.spotify.client",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/ed/61/b7ed610e-a3ef-4684-4862-935158e58f07/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Download songs, albums and playlists for offline use\n- Pixie download manager built into Vitrine settings\n- Download album of currently playing song from download manager\n- Liquid Glass interface via Vitrine\n- Improved controls for albums, playlists and mixes\n- Save downloads inside Spotify offline storage",
       "category": "entertainment",
       "versions": [
         {
@@ -39632,8 +39633,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-pixie",
       "size": 131491430,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     }
   ],
   "translationFormatVersion": 5
