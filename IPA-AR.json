@@ -3315,32 +3315,31 @@
     },
     {
       "id": "APP-9089839388",
-      "name": "Sniper 3D",
+      "name": "Sniper 3D: Gun Shooting Games",
       "bundleIdentifier": "com.fungames.sniper3d",
       "bundleId": "com.fungames.sniper3d",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/91/f2/3791f28d-c252-3236-9553-f7d7484c78c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/ac/c5/10acc5f0-d970-8651-60ef-572dec03ed1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- عملات لا نهائية، تُستخدم في ترقية السلاح وتسريع التسليم.\n- طاقة لا نهائية.\n- إزالة تشتت الرصاص.\n- القضاء على الأعداء بضربة واحدة.\n- تم تمكين محرك الغش iGameGod.",
       "category": "ألعاب",
       "versions": [
         {
-          "version": "7.11.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sniper-3d-gun-shooting-games_7.11.2",
-          "date": "2026-10-12",
-          "size": 477521510
+          "version": "7.12.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sniper3-d-gun-shooting-games_7.12.0",
+          "date": "2026-10-20",
+          "size": 467035750
         },
         {
-          "version": "7.8.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sniper-3d-gun-shootingg-ames_7.8.0"
+          "version": "7.11.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sniper-3d-gun-shooting-games_7.11.2"
         }
       ],
-      "version": "7.11.2",
-      "versionDate": "2026-10-12",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sniper-3d-gun-shooting-games_7.11.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sniper-3d-gun-shooting-games_7.11.2",
-      "size": 477521510,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-12",
-      "_rowKey": 127
+      "version": "7.12.0",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sniper3-d-gun-shooting-games_7.12.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sniper3-d-gun-shooting-games_7.12.0",
+      "size": 467035750,
+      "addedAt": "2026-10-20",
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "APP-2100599956",
@@ -7997,32 +7996,31 @@
     },
     {
       "id": "APP-1180254406",
-      "name": "Armada",
+      "name": "Armada: Warships Legends",
       "bundleIdentifier": "com.pandagaming.armada",
       "bundleId": "com.pandagaming.armada",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/01/4b/c2014b8c-9d29-9fa2-15ff-dfffc128d859/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/4e/e5/464ee524-86e1-0cc2-237d-cf243ca321f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- وضع عدم الموت.\n- مضاعفة قوة الهجوم.",
       "category": "ألعاب",
       "versions": [
         {
-          "version": "4.0.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-4.0.1",
-          "date": "2026-09-12",
-          "size": 481925529
+          "version": "4.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-warships-legends_4.2.0",
+          "date": "2026-10-20",
+          "size": 692899020
         },
         {
-          "version": "3.9.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-3.9.0"
+          "version": "4.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-4.0.1"
         }
       ],
-      "version": "4.0.1",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-4.0.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/armada-4.0.1",
-      "size": 481925529,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
-      "_rowKey": 309
+      "version": "4.2.0",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/armada-warships-legends_4.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/armada-warships-legends_4.2.0",
+      "size": 692899020,
+      "addedAt": "2026-10-20",
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "APP-5927014832",
@@ -39181,6 +39179,144 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-cafe-restaurant-game_2026110.2.970",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-cafe-restaurant-game_2026110.2.970",
       "size": 818728140,
+      "addedAt": "2026-10-20",
+      "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "app-1792502299679",
+      "name": "Rs Boxing Champions",
+      "bundleIdentifier": "com.reliancegames.rschampions",
+      "bundleId": "com.reliancegames.rschampions",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/f5/9a/29f59acc-7f45-53fc-e8ea-2450e92db1e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "84.84.101",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rs-boxing-champions_84.84.101",
+          "date": "2026-10-20",
+          "size": 941096960
+        }
+      ],
+      "version": "84.84.101",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rs-boxing-champions_84.84.101",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rs-boxing-champions_84.84.101",
+      "size": 941096960,
+      "addedAt": "2026-10-20",
+      "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "app-1792502675062",
+      "name": "Monsters Lab Freaky Running",
+      "bundleIdentifier": "com.monsters.lab",
+      "bundleId": "com.monsters.lab",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/9f/2d/709f2d0e-7839-ab3a-76a7-dbffc2512986/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.31",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monsters-lab-freaky-running_1.1.31",
+          "date": "2026-10-20",
+          "size": 321807974
+        }
+      ],
+      "version": "1.1.31",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monsters-lab-freaky-running_1.1.31",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monsters-lab-freaky-running_1.1.31",
+      "size": 321807974,
+      "addedAt": "2026-10-20",
+      "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "app-1792502707535",
+      "name": "Joseon Exorcist Idle Rpg",
+      "bundleIdentifier": "com.leoncorp.joseon",
+      "bundleId": "com.leoncorp.joseon",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/96/33/1e9633a9-ee18-afc5-c8cb-7cfb26518e65/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joseon-exorcist-idle-rpg_1.0.0",
+          "date": "2026-10-20",
+          "size": 233937305
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joseon-exorcist-idle-rpg_1.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/joseon-exorcist-idle-rpg_1.0.0",
+      "size": 233937305,
+      "addedAt": "2026-10-20",
+      "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "app-1792502724879",
+      "name": "They Are Coming",
+      "bundleIdentifier": "com.luna.theyarecoming",
+      "bundleId": "com.luna.theyarecoming",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/84/50/a1845025-4496-021f-8d0e-e8aa03c2d59a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "4.28.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/they-are-coming_4.28.0",
+          "date": "2026-10-20",
+          "size": 504994201
+        }
+      ],
+      "version": "4.28.0",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/they-are-coming_4.28.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/they-are-coming_4.28.0",
+      "size": 504994201,
+      "addedAt": "2026-10-20",
+      "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "app-1792502751802",
+      "name": "Wingrush: Glide & Graze",
+      "bundleIdentifier": "com.alejandroonieva.wingrush",
+      "bundleId": "com.alejandroonieva.wingrush",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/93/73/51937381-aa6c-9278-c297-9fc3eaca87e7/AppIcon-0-0-1x_U007ephone-0-3-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wingrush-glide-graze_1.1.1",
+          "date": "2026-10-20",
+          "size": 659239731
+        }
+      ],
+      "version": "1.1.1",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wingrush-glide-graze_1.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wingrush-glide-graze_1.1.1",
+      "size": 659239731,
+      "addedAt": "2026-10-20",
+      "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "app-1792502770462",
+      "name": "Gecko Out",
+      "bundleIdentifier": "com.dalakgames.slitherrush",
+      "bundleId": "com.dalakgames.slitherrush",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/8b/b3/0e8bb3be-b677-8437-29bd-5fd6d466c4a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "versions": [
+        {
+          "version": "28.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gecko-out_28.0.1",
+          "date": "2026-10-20",
+          "size": 437990195
+        }
+      ],
+      "version": "28.0.1",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gecko-out_28.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gecko-out_28.0.1",
+      "size": 437990195,
       "addedAt": "2026-10-20",
       "updatedAt": "2026-10-20"
     }
