@@ -1,0 +1,50 @@
+name: Use Kiraplus items links once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/use-kiraplus-items-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 5
+
+      - name: Replace external items links
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          from pathlib import Path
+
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+          replacements = {
+              'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vZ2l0aHViLmNvbS9hY2hhbDM4OTU5LWRvdC9pcGEtaG9zdC9yZWxlYXNlcy9kb3dubG9hZC92MzUvN2FmYmRmZDItNjM5Ni00ZmRjLWFlNmYtNWVkMzg5ODk0MzIzLnBsaXN0': 'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC13aGF0c2FwcGdvbGQucGxpc3Q=',
+              'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vY2xvdWRzaWduZXIubWUvZG93bmxvYWRzL2ViYjlkYzY5LTM1Ny9tYW5pZmVzdC5wbGlzdA==': 'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1waWNzYXJ0LnBsaXN0',
+          }
+          for old, new in replacements.items():
+              if old not in s:
+                  raise SystemExit(f'Expected external link not found: {old[:32]}...')
+              s = s.replace(old, new, 1)
+          p.write_text(s, encoding='utf-8')
+          PY
+
+          rm -f .github/workflows/use-kiraplus-items-once.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Use Kiraplus plist links for WhatsApp Gold and PicsArt'
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main || true
+            if git push; then exit 0; fi
+            sleep 2
+          done
+          exit 1
