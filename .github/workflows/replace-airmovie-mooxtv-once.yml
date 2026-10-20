@@ -1,0 +1,78 @@
+name: Replace Air Movie with MooxTV once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/replace-airmovie-mooxtv-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  replace:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 2
+
+      - name: Replace Air Movie with MooxTV
+        run: |
+          python3 <<'PY'
+          import base64
+          import json
+          import plistlib
+          from pathlib import Path
+
+          old_plist = Path('manifest-airmovie.plist')
+          new_plist = Path('manifest-mooxtv.plist')
+
+          with old_plist.open('rb') as f:
+              data = plistlib.load(f)
+
+          item = data['items'][0]
+          package = next(a for a in item['assets'] if a.get('kind') == 'software-package')
+          metadata = item['metadata']
+          package['url'] = 'https://dl.ikiraplus.workers.dev/freeapps/658278734/MooxTv.-.Signed.ipa'
+          metadata['bundle-identifier'] = ''
+          metadata['title'] = 'MooxTV'
+
+          with new_plist.open('wb') as f:
+              plistlib.dump(data, f, sort_keys=False)
+          old_plist.unlink()
+
+          map_path = Path('release-map.json')
+          mapping = json.loads(map_path.read_text(encoding='utf-8'))
+          new_mapping = {}
+          for key, value in mapping.items():
+              if key == 'manifest-airmovie.plist':
+                  new_mapping['manifest-mooxtv.plist'] = {'keywords': ['mooxtv']}
+              else:
+                  new_mapping[key] = value
+          map_path.write_text(json.dumps(new_mapping, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          index_path = Path('index.html')
+          html = index_path.read_text(encoding='utf-8')
+          replacements = {
+              'https://i.ibb.co/QjH0kx3F/59540802-D97-C-481-E-BC57-8-E48-B8-B32-FF6.png': 'https://i.ibb.co/nsN3Z9qG/mooxtv.png',
+              'alt="air movie"': 'alt="MooxTV"',
+              '<div class="app-name">Air Movie</div>': '<div class="app-name">MooxTV</div>',
+              'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1haXJtb3ZpZS5wbGlzdA==': 'aXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vaWtpcmFwbHVzLnBhZ2VzLmRldi9tYW5pZmVzdC1tb294dHYucGxpc3Q='
+          }
+          for old, new in replacements.items():
+              if old not in html:
+                  raise SystemExit(f'Missing expected index value: {old}')
+              html = html.replace(old, new)
+          index_path.write_text(html, encoding='utf-8')
+          PY
+
+          rm -f .github/workflows/replace-airmovie-mooxtv-once.yml
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Replace Air Movie with MooxTV'
+          git pull --rebase origin main
+          git push
