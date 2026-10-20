@@ -38582,6 +38582,7 @@
       "bundleIdentifier": "com.elektron.sho3lah",
       "bundleId": "com.elektron.sho3lah",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/ee/54/0aee543b-fc13-9056-4b8d-a86d8c654b21/AppIconNewAr-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فتح المميزات",
       "category": "ألعاب",
       "versions": [
         {
@@ -38797,6 +38798,7 @@
       "bundleIdentifier": "se.maginteractive.crozzle",
       "bundleId": "se.maginteractive.crozzle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/c8/c0/1dc8c0a5-4d5a-50dc-47de-9d40cee99596/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إيقاف الإعلانات تلقائيًا\n- عملات غير محدودة ← العرض المرئي يعمل\n- موارد غير محدودة ← العرض المرئي يعمل",
       "category": "ألعاب",
       "versions": [
         {
@@ -38964,6 +38966,7 @@
       "bundleIdentifier": "jp.co.goodroid.fairy",
       "bundleId": "jp.co.goodroid.fairy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/da/dd/4bdaddcb-5010-5302-57d3-05f78f15f6b8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر\n- مضاعف الدفاع",
       "category": "ألعاب",
       "versions": [
         {
@@ -38987,6 +38990,7 @@
       "bundleIdentifier": "com.bloomingfates.novels",
       "bundleId": "com.bloomingfates.novels",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/17/e2/5017e256-0590-eed5-4070-b97ca870feb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة ← أنفقها بحرية على خيارات القصة وتفاعلات الشخصيات",
       "category": "ألعاب",
       "versions": [
         {
@@ -39106,6 +39110,7 @@
       "bundleIdentifier": "jp.gree.greeapp3179",
       "bundleId": "jp.gree.greeapp3179",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/16/bf/0f16bf8b-406c-11e9-d8c8-9407af3d3d88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر\n- عدم الموت",
       "category": "ألعاب",
       "versions": [
         {
@@ -39153,6 +39158,7 @@
       "bundleIdentifier": "com.TechTreeGames.TheTower",
       "bundleId": "com.TechTreeGames.TheTower",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/96/f2/a596f2e7-3571-c8b8-5d12-b045f86194d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- المشتريات داخل التطبيق (IAP) مجانًا ← اضغط إلغاء عند الشراء، وفعّلها من قائمة iOSGods أولًا إذا لزم الأمر\n- تمكين محرك الغش iGameGod ← تعديل العملة داخل اللعبة وتسريع المرحلة",
       "category": "ألعاب",
       "versions": [
         {
@@ -39176,6 +39182,7 @@
       "bundleIdentifier": "com.TeamSparta.WiggleDefender",
       "bundleId": "com.TeamSparta.WiggleDefender",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/70/99/f7709919-5054-6804-9112-b97dd5fa4a5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الهجوم\n- متجر مجاني ← بدون عمليات شراء داخل التطبيق\n- تفعيل المميزات المميزة",
       "category": "ألعاب",
       "versions": [
         {
@@ -39343,6 +39350,7 @@
       "bundleIdentifier": "com.dalakgames.slitherrush",
       "bundleId": "com.dalakgames.slitherrush",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/8b/b3/0e8bb3be-b677-8437-29bd-5fd6d466c4a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل الشراء الوهمي\n- يتطلب تفعيل الهاك من قائمة المود",
       "category": "ألعاب",
       "versions": [
         {
@@ -39390,6 +39398,7 @@
       "bundleIdentifier": "com.hejmadi.husk",
       "bundleId": "com.hejmadi.husk",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792506052804.png",
+      "localizedDescription": "- تشغيل تطبيقات وألعاب Android على iPhone\n- تشغيل الألعاب عبر طبقة ترجمة مباشرة أو عبر محاكاة نظام Android كامل\n- دعم ملفات APK وحزم XAPK وAPKM وAPKS\n- دعم محركات Unity وUnreal Engine 4 وGodot وSDL وغيرها\n- نسخ احتياطي واستعادة ملفات حفظ الألعاب\n- دعم عدة طرق لتفعيل JIT",
       "category": "أخرى",
       "versions": [
         {
@@ -39437,6 +39446,7 @@
       "bundleIdentifier": "com.spotify.client",
       "bundleId": "com.spotify.client",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/ed/61/b7ed610e-a3ef-4684-4862-935158e58f07/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فتح مميزات Spotify Premium\n- واجهة Liquid Glass مع تصميم جديد على iOS 26 فأحدث\n- إزالة الإعلانات والنوافذ الترويجية\n- حظر التتبع وتحسين الخصوصية\n- كلمات أغاني من مصادر متعددة مع دعم شاشة القفل وLive Activity\n- التحكم بسرعة ونبرة الصوت وإضافة تأثيرات صوتية\n- تخصيص المشغل وشريط التنقل والمظهر مع AMOLED ولون مميز\n- حظر الفنانين وتخطي أغانيهم تلقائيًا",
       "category": "ترفيه",
       "versions": [
         {
@@ -39604,6 +39614,7 @@
       "bundleIdentifier": "com.spotify.client",
       "bundleId": "com.spotify.client",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/ed/61/b7ed610e-a3ef-4684-4862-935158e58f07/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تنزيل الأغاني والألبومات وقوائم التشغيل للاستخدام دون اتصال\n- مدير تنزيل Pixie مدمج داخل إعدادات Vitrine\n- تنزيل ألبوم الأغنية المشغلة حاليًا من مدير التنزيل\n- واجهة Liquid Glass عبر Vitrine\n- عناصر تحكم محسنة للألبومات وقوائم التشغيل والمكسات\n- حفظ التنزيلات داخل تخزين Spotify دون اتصال",
       "category": "ترفيه",
       "versions": [
         {
