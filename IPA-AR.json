@@ -728,7 +728,7 @@
       "name": "X - Twitter - TWIGalaxy",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "bundleId": "com.atebits.Tweetie2",
-      "iconURL": "https://appstore.nabzclan.vip/images/icon_690aa6dcd1f26.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/65/60/f76560b0-13df-84b6-fb7f-9b40319c4018/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات التطبيق:\n- إزالة الإعلانات.\n- تنزيل مقاطع الفيديو بجودة HD.\n- تنزيل الرسائل الصوتية بصيغة MP3 أو MP4.\n- تشغيل الفيديو في الخلفية.\n- عرض العدد الكامل للمتابعين والمتابَعين والتغريدات بدون اختصار.\n- قراءة المحادثات بدون إرسال إشعار القراءة.\n- الكتابة المخفية بدون إظهار حالة الكتابة.\n- دعم XChat وبعض خصائص XPremium.\n- إخفاء إعادة التغريد والردود وتخصيص عرض التغريدات.\n- إضافة خيارات تلقائية للإعجاب وإعادة التغريد.",
       "category": "تواصل",
       "versions": [
@@ -744,12 +744,12 @@
         }
       ],
       "version": "12.14",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twigalaxyv1.14",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/twigalaxyv1.14",
       "size": 238026752,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "APP-4614449641",
@@ -941,7 +941,7 @@
       "name": "فودو كيرا",
       "bundleIdentifier": "com.vodu.ikiraplus",
       "bundleId": "com.vodu.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1773657791706.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773657791706.png",
       "localizedDescription": "مميزات التطبيق:\n- إضافة وضع Picture in Picture (PiP) للمشاهدة المصغرة.\n- إزالة واجهة الحاسبة من التطبيق.\n- إضافة زر لنسخ نبذة الفيلم.\n- إضافة زر لحفظ غلاف الفيلم.\n- إضافة خيار للتحكم بسرعة المشاهدة.\n- إضافة ميزة ذكية للتقديم والرجوع أثناء المشاهدة.\n- إصلاح مشكلة تسجيل الدخول.",
       "category": "ترفيه",
       "versions": [
@@ -953,12 +953,12 @@
         }
       ],
       "version": "2.1.2",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vodu-kira_2.1.2-last",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vodu-kira_2.1.2-last",
       "size": 42152755,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 95
     },
     {
@@ -1290,7 +1290,7 @@
       "name": "Hitv Kira",
       "bundleIdentifier": "com.hitvneo.ikiraplus",
       "bundleId": "com.hitvneo.ikiraplus",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786039385843.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1786039385843.png",
       "localizedDescription": "نسخة معدلة تم فتح جميع ميزاتها واضافه بعش الخصائص :\n\n- ازالة جميع الاعلانات المزعجة\n- دعم وضع pip بالكامل\n- جميع انواع الدقة مفتوحة للمشاهدة والتحميل\n- اضافة زر لنسخ  نبذة الافلام\n- اضافة زر لحفظ غلاف الافلام",
       "category": "ترفيه",
       "versions": [
@@ -1302,12 +1302,12 @@
         }
       ],
       "version": "2.4",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4-new",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hitv-kira_2.4-new",
       "size": 32820428,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-10-20",
       "_rowKey": 344
     },
     {
@@ -1587,7 +1587,7 @@
       "id": "APP-7231432023",
       "name": "Human Anatomy Atlas 2026",
       "bundleIdentifier": "com.ikiraplus.apps.human-anatomy-atlas-2026.86ec510f37",
-      "iconURL": "https://appstore.nabzclan.vip/images/icon_6903d56ecb606.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b2/8b/10b28bc7-8d86-7c5a-177d-1d17a6bbf710/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "تطبيق مدفوع.",
       "category": "دراسة وذكاء اصطناعي",
       "versions": [
@@ -1599,12 +1599,12 @@
         }
       ],
       "version": "2026.0.19",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/human-anatomy-atlas-2026_v2026019",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/human-anatomy-atlas-2026_v2026019",
       "size": 746271539,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-10-20",
       "_rowKey": 61
     },
     {
@@ -2006,7 +2006,7 @@
       "name": "Six Pack in 30 Days - 6 Pack (Hacked)",
       "bundleIdentifier": "com.abishkking.sixpack",
       "bundleId": "com.abishkking.sixpack",
-      "iconURL": "https://appstore.nabzclan.vip/images/icon_691a9bda268bd.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/9d/bf/d99dbfd9-f5b4-b8f6-f2db-a9c1bd19eb25/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "أدوات",
       "versions": [
@@ -2018,12 +2018,12 @@
         }
       ],
       "version": "1.41.0",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/six-pack-in-30-days-6-pack-hacked_v1460-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/six-pack-in-30-days-6-pack-hacked_v1460-1",
       "size": 398563737,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 78
     },
     {
@@ -2031,7 +2031,7 @@
       "name": "Adobe Illustrator: Graphic Art (hacked)",
       "bundleIdentifier": "com.adobe.ailogo",
       "bundleId": "com.adobe.ailogo",
-      "iconURL": "https://appstore.nabzclan.vip/images/icon_69061cbb3a2e3.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/9f/bb/c89fbbff-23ab-fa49-fef0-7c96ca0023b9/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "أدوات",
       "versions": [
@@ -2043,12 +2043,12 @@
         }
       ],
       "version": "3.0.10",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adobe-illustrator-graphic-art-hacked_v3010-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adobe-illustrator-graphic-art-hacked_v3010-1",
       "size": 479408947,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-10-20",
       "_rowKey": 79
     },
     {
@@ -2056,7 +2056,7 @@
       "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
       "bundleId": "com.virtualapplications.play",
-      "iconURL": "https://appstore.nabzclan.vip/images/1761539074.png",
+      "iconURL": "https://raw.githubusercontent.com/jpd002/Play-/master/icons/icon_base_512x512.png",
       "localizedDescription": "محاكي ألعاب PlayStation 2 على iOS، والتطبيق محذوف من App Store.",
       "category": "أخرى",
       "versions": [
@@ -2068,12 +2068,12 @@
         }
       ],
       "version": "1.58",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/play_v058-8-g70a126e3-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/play_v058-8-g70a126e3-1",
       "size": 13631488,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 80
     },
     {
@@ -2193,7 +2193,7 @@
       "name": "CodebySMS",
       "bundleIdentifier": "com.codebysms",
       "bundleId": "com.codebysms",
-      "iconURL": "https://appstore.nabzclan.vip/images/1761380695.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/31/11/653111d6-34a8-224c-b5c2-5b09ee8f4f4c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "أدوات",
       "versions": [
@@ -2205,12 +2205,12 @@
         }
       ],
       "version": "1.0",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/codebysms_v10-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/codebysms_v10-1",
       "size": 6081740,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 85
     },
     {
@@ -2296,7 +2296,7 @@
       "name": "VivaCut",
       "bundleIdentifier": "com.vivacut.videoeditor",
       "bundleId": "com.vivacut.videoeditor",
-      "iconURL": "https://appstore.nabzclan.vip/images/1761375464.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/98/48/179848d6-b00e-f519-f086-b9d591b6af71/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "أدوات",
       "versions": [
@@ -2308,12 +2308,12 @@
         }
       ],
       "version": "4.6.0",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vivacut-ai-video-editor",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vivacut-ai-video-editor",
       "size": 221773824,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-10-20",
       "_rowKey": 89
     },
     {
@@ -2321,7 +2321,7 @@
       "name": "Smallpdf",
       "bundleIdentifier": "com.smallpdf.app.ios",
       "bundleId": "com.smallpdf.app.ios",
-      "iconURL": "https://appstore.nabzclan.vip/images/1761373688.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/62/81/4a628170-36c6-3c95-1394-7c056c60c57f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "أدوات",
       "versions": [
@@ -2333,12 +2333,12 @@
         }
       ],
       "version": "1.53.60",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/smallpdf_v15360-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/smallpdf_v15360-1",
       "size": 105381888,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 90
     },
     {
@@ -2475,7 +2475,7 @@
       "name": "Tomb Raider I",
       "bundleIdentifier": "com.squareenix.tombraider1classic",
       "bundleId": "com.squareenix.tombraider1classic",
-      "iconURL": "https://appstore.nabzclan.vip/images/1761694053.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/8a/c0/538ac023-03a6-31a5-5156-2cb23dbb2da3/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "لعبة محذوفة من المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "versions": [
@@ -2487,12 +2487,12 @@
         }
       ],
       "version": "1.0.4",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tomb-raider-i_v104-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tomb-raider-i_v104-1",
       "size": 300626739,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-10-20",
       "_rowKey": 96
     },
     {
@@ -2500,7 +2500,7 @@
       "name": "Tomb Raider II",
       "bundleIdentifier": "com.squareenix.tombraider2classic",
       "bundleId": "com.squareenix.tombraider2classic",
-      "iconURL": "https://appstore.nabzclan.vip/images/1761692787.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/8a/c0/538ac023-03a6-31a5-5156-2cb23dbb2da3/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "لعبة محذوفة من المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "versions": [
@@ -2512,12 +2512,12 @@
         }
       ],
       "version": "1.0.3",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tomb-raider-ii_v103-1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tomb-raider-ii_v103-1",
       "size": 239494758,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-10-20",
       "_rowKey": 97
     },
     {
@@ -3770,7 +3770,7 @@
       "name": "Cinema box - سينما بوكس",
       "bundleIdentifier": "co.albox.cinema",
       "bundleId": "co.albox.cinema",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784193262599.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1784193262599.png",
       "localizedDescription": "تطبيق محذوف من App Store\n- تمت إزالة جميع الإعلانات منه",
       "category": "ترفيه",
       "versions": [
@@ -3782,12 +3782,12 @@
         }
       ],
       "version": "4.6.8",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cinema-box_4.6.8",
       "size": 28626124,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-10-20",
       "_rowKey": 301
     },
     {
@@ -7751,7 +7751,7 @@
       "name": "WhiteGram Arabic",
       "bundleIdentifier": "ph.telegra.Telegraph",
       "bundleId": "ph.telegra.Telegraph",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784188165660.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1784188165660.png",
       "localizedDescription": "تطبيق \"وايت كرام\" أحد أفضل تطبيقات تيليجرام المعدلة\nهذه النسخة تحتوي عدة لغات وتعريب كامل\nطريقة تغيير لغة المميزات كالتالي\nالإعدادات = WhiteGram= اضغط على الشاشة بأصبعين",
       "category": "تواصل",
       "versions": [
@@ -7767,12 +7767,12 @@
         }
       ],
       "version": "12.9.2",
-      "versionDate": "2026-09-09",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2-tweak-7.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-arabic_12.9.2-tweak-7.0",
       "size": 145856921,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-09",
+      "updatedAt": "2026-10-20",
       "_rowKey": 300
     },
     {
@@ -7780,7 +7780,7 @@
       "name": "MoviaQuill",
       "bundleIdentifier": "com.cinee.trend",
       "bundleId": "com.cinee.trend",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1783945603082.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1783945603082.png",
       "localizedDescription": "التطبيق محذوف من App Store، وتمت إزالة جميع الإعلانات.",
       "category": "ترفيه",
       "versions": [
@@ -7792,12 +7792,12 @@
         }
       ],
       "version": "1.1.3",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moviaquill-noads",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moviaquill-noads",
       "size": 27158118,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 296
     },
     {
@@ -8653,7 +8653,7 @@
       "name": "Elemental",
       "bundleIdentifier": "com.daerigame.elemental",
       "bundleId": "com.daerigame.elemental",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1785684789295.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1785684789295.png",
       "localizedDescription": "مميزات التطبيق:\n- مضاعفة الضرر.\n- مضاعفة المكافآت.\n- مضاعفة الذهب.\n- مضاعفة نقاط الخبرة (EXP).",
       "category": "ألعاب",
       "versions": [
@@ -8665,12 +8665,12 @@
         }
       ],
       "version": "0.195",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elemental-195",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elemental-195",
       "size": 195244851,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 333
     },
     {
@@ -8954,7 +8954,7 @@
       "name": "PinaTv Pro",
       "bundleIdentifier": "com.kevin.pinatv",
       "bundleId": "com.kevin.pinatv",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784914075063.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1784914075063.png",
       "localizedDescription": "تطبيق PinaTv Pro، الإصدار المحدث مع أبرز الإضافات والتعديلات:\n\n- فتح جميع مميزات VIP\n- منع جميع الإعلانات والتوقفات\n- إضافة زر PIP (يمكنك الخروج من التطبيق أثناء المشاهدة فيتفعل وضع PIP، أو يمكنك الضغط على زر Feedback لتفعيل وضع PIP)\n- إضافة زر لحفظ غلاف الفيلم\n- تحميل ومشاهدة بدقة 1080",
       "category": "ترفيه",
       "versions": [
@@ -8970,12 +8970,12 @@
         }
       ],
       "version": "2.6",
-      "versionDate": "2026-09-02",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6-new",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinatv-pro_2.6-new",
       "size": 22334668,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-10-20",
       "_rowKey": 307
     },
     {
@@ -9064,7 +9064,7 @@
       "name": "Anime Slayer Neo",
       "bundleIdentifier": "com.rahiazathar.animequest",
       "bundleId": "com.rahiazathar.animequest",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1785076089849.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1785076089849.png",
       "localizedDescription": "التطبيق محذوف من App Store، وتمت إزالة جميع الإعلانات.",
       "category": "ترفيه",
       "versions": [
@@ -9076,12 +9076,12 @@
         }
       ],
       "version": "4.2",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/anime-slayer-neo_4.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/anime-slayer-neo_4.2",
       "size": 26109542,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 313
     },
     {
@@ -9114,7 +9114,7 @@
       "name": "Moox TV Premium",
       "bundleIdentifier": "com.moox.app",
       "bundleId": "com.moox.app",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786196047646.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1786196047646.png",
       "localizedDescription": "نسخة معدلة تم فتح جميع ميزاتها واضافه بعش الخصائص :\n\n- ازالة جميع الاعلانات المزعجة\n- دعم وضع pip بالكامل\n- جميع انواع الدقة مفتوحة للمشاهدة والتحميل\n- اضافة زر لنسخ  نبذة الافلام\n- اضافة زر لحفظ غلاف الافلام",
       "category": "ترفيه",
       "versions": [
@@ -9126,12 +9126,12 @@
         }
       ],
       "version": "1.9.5",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moox-tv-premium_1.9.5",
       "size": 48968499,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-10-20",
       "_rowKey": 348
     },
     {
@@ -9630,7 +9630,7 @@
       "name": "Reddit Filter",
       "bundleIdentifier": "com.reddit.Reddit",
       "bundleId": "com.reddit.Reddit",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786608841597.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1786608841597.png",
       "localizedDescription": "مميزات التطبيق:\n- إزالة المنشورات المروجة والإعلانات من الخلاصة والتعليقات.\n- فلترة وإخفاء المنشورات المقترحة والمحتوى الموصى به.\n- إمكانية فلترة محتوى NSFW من الخلاصة.\n- إخفاء الجوائز من المنشورات والتعليقات.\n- إخفاء عدد الأصوات من المنشورات والتعليقات.\n- طي تعليقات AutoMod تلقائياً.\n- فتح إعدادات RedditFilter بالضغط المطول بثلاثة أصابع لمدة نصف ثانية.",
       "category": "تواصل",
       "versions": [
@@ -9646,12 +9646,12 @@
         }
       ],
       "version": "2026.41.0",
-      "versionDate": "2026-10-13",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.41.0-redditfilter",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reddit-2026.41.0-redditfilter",
       "size": 147429785,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-20",
       "_rowKey": 371
     },
     {
@@ -9767,7 +9767,7 @@
       "name": "Plants vs. Zombies 3",
       "bundleIdentifier": "com.ea.ios.pvzn3xt",
       "bundleId": "com.ea.ios.pvzn3xt",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786953444104.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1786953444104.png",
       "localizedDescription": "لعبة محذوفة من المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "versions": [
@@ -9783,12 +9783,12 @@
         }
       ],
       "version": "32.0.10",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v32.0.10",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v32.0.10",
       "size": 168611020,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-10-20",
       "_rowKey": 376
     },
     {
@@ -9925,7 +9925,7 @@
       "name": "Qurmzi",
       "bundleIdentifier": "krmzi.dfms.free",
       "bundleId": "krmzi.dfms.free",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786954236382.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1786954236382.png",
       "localizedDescription": "تم تحويل الموقع الى تطبيق وتمت ازالة كافة الاعلانات.",
       "category": "ترفيه",
       "versions": [
@@ -9937,12 +9937,12 @@
         }
       ],
       "version": "1.0",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/qurmzi",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/qurmzi",
       "size": 838860,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 382
     },
     {
@@ -9950,7 +9950,7 @@
       "name": "Alooytv",
       "bundleIdentifier": "alooytv.dfms.free",
       "bundleId": "alooytv.dfms.free",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786954324328.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1786954324328.png",
       "localizedDescription": "تم تحويل الموقع الى تطبيق وتمت ازالة كافة الاعلانات.",
       "category": "ترفيه",
       "versions": [
@@ -9962,12 +9962,12 @@
         }
       ],
       "version": "1.0",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alooytv",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alooytv",
       "size": 838860,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 383
     },
     {
@@ -9975,7 +9975,7 @@
       "name": "Kumoflix",
       "bundleIdentifier": "com.man.kuuflix.app",
       "bundleId": "com.man.kuuflix.app",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1786972033317.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1786972033317.png",
       "localizedDescription": "نسخة معدلة تم فتح جميع ميزاتها واضافه بعش الخصائص :\n\n- ازالة جميع الاعلانات المزعجة\n- دعم وضع pip بالكامل\n- جميع انواع الدقة مفتوحة للمشاهدة والتحميل\n- اضافة زر لنسخ  نبذة الافلام\n- اضافة زر لحفظ غلاف الافلام",
       "category": "ترفيه",
       "versions": [
@@ -9987,12 +9987,12 @@
         }
       ],
       "version": "2.2",
-      "versionDate": "2026-09-19",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kumoflix_2.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kumoflix_2.2",
       "size": 32400998,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-10-20",
       "_rowKey": 384
     },
     {
@@ -10087,7 +10087,7 @@
       "name": "Whitegram Original",
       "bundleIdentifier": "ph.telegra.Telegraph",
       "bundleId": "ph.telegra.Telegraph",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1784188165660.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1784188165660.png",
       "localizedDescription": "مميزات التطبيق:\n- وضع الشبح وإخفاء نشاط المستخدم.\n- الاحتفاظ بالرسائل المحذوفة والمعدلة.\n- تصدير المحادثات بصيغ TXT وJSON وHTML.\n- قفل المحادثات برمز PIN أو Pattern.\n- تجاوز قيود الحفظ وإعادة التوجيه في القنوات.\n- تفعيل مميزات Telegram Premium المحلية.\n- تحويل الرسائل الصوتية والفيديو الدائري إلى نص.\n- ترجمة الرسائل والتعليقات وإرسال الرسائل مترجمة تلقائياً.\n- تغيير الصوت في الرسائل الصوتية والفيديو.\n- مساعد ذكاء اصطناعي مدمج Gemini وGroq.\n- تصوير الفيديو وVideo Messages حتى 4K و60FPS.\n- إرسال الفيديو على شكل رسالة صوتية.\n- استخدام واجهة Telegram القديمة.\n- إمكانية تزوير الرسائل المرسلة إليك.\n- تغيير خط Telegram بالكامل إلى أي خط تختاره.",
       "category": "تواصل",
       "versions": [
@@ -10103,12 +10103,12 @@
         }
       ],
       "version": "12.9.2",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.2-tweak-7.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.2-tweak-7.0",
       "size": 139984896,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "APP-2183114966",
@@ -13987,7 +13987,7 @@
       "name": "Hello Weather Forecast",
       "bundleIdentifier": "com.apple.compilers.llvm.clang.1_0",
       "bundleId": "com.apple.compilers.llvm.clang.1_0",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1787456655981.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1787456655981.png",
       "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "أدوات",
       "versions": [
@@ -13999,12 +13999,12 @@
         }
       ],
       "version": "3.13.15",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hello_weather_forecast_v3.13.7",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hello_weather_forecast_v3.13.7",
       "size": 7549747,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-20",
       "_rowKey": 542
     },
     {
@@ -21125,7 +21125,7 @@
       "name": "German Galaxy Premium",
       "bundleIdentifier": "com.germangalaxy.ios",
       "bundleId": "com.germangalaxy.ios",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1788713068762.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1788713068762.png",
       "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "أدوات",
       "versions": [
@@ -21137,12 +21137,12 @@
         }
       ],
       "version": "1.1.2",
-      "versionDate": "2026-09-21",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/german-galaxy-premium-v1.1.2",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/german-galaxy-premium-v1.1.2",
       "size": 94057267,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1788713116293",
@@ -32843,7 +32843,7 @@
       "name": "Date Alive Love Limit Break",
       "bundleIdentifier": "jp.clyre.pjda",
       "bundleId": "jp.clyre.pjda",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1790807086641.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1790807086641.png",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- مضاعفة الدفاع.",
       "category": "ألعاب",
       "versions": [
@@ -32855,12 +32855,12 @@
         }
       ],
       "version": "1.6.0",
-      "versionDate": "2026-10-02",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hdatealive-love-limit-break_1.6.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hdatealive-love-limit-break_1.6.0",
       "size": 301255884,
       "addedAt": "2026-10-01",
-      "updatedAt": "2026-10-02"
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1790807178108",
@@ -38430,7 +38430,7 @@
       "name": "Gta V Port",
       "bundleIdentifier": "io.github.playgta5ios.app",
       "bundleId": "io.github.playgta5ios.app",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1792325103178.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792325103178.png",
       "localizedDescription": "- ثبت تطبيق GTA V Port على جهازك\n- جهز ملفات اللعبة ويجب ان تحتوي على مجلد data ومجلد b\n- افتح تطبيق الملفات وانتقل الى On My iPhone\n- انقل مجلد ملفات اللعبة الى داخل مجلد GTA V Port\n- انتظر حتى يكتمل نقل جميع الملفات بالكامل قبل فتح التطبيق\n- افتح تطبيق GTA V Port\n- اذا لم يكتشف التطبيق ملفات اللعبة تلقائيا افتح قسم Game files\n- اضغط Choose a folder واختر المجلد الذي يحتوي على ملفات اللعبة\n- انتظر حتى يكمل التطبيق فحص ملفات اللعبة والتاكد من عدم وجود ملفات ناقصة او تالفة\n- اختر Story Mode لتشغيل طور القصة او Sandbox للتجول الحر\n- اضغط Play لبدء تشغيل اللعبة\n- بعد تجهيز ملفات اللعبة بشكل كامل يمكن تشغيلها من الجهاز مباشرة بدون الحاجة الى الانترنت",
       "category": "أخرى",
       "versions": [
@@ -38442,19 +38442,19 @@
         }
       ],
       "version": "1.4.1",
-      "versionDate": "2026-10-18",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta5port-v1.4.1",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gta5port-v1.4.1",
       "size": 87765811,
       "addedAt": "2026-10-18",
-      "updatedAt": "2026-10-18"
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792325251340",
       "name": "GTA 5 File",
       "bundleIdentifier": "com.ikiraplus.apps.gta-5-file.2ac7dd2b9d",
       "bundleId": "",
-      "iconURL": "https://raw.githubusercontent.com/iKiraPlus/ipastore/main/images/app-1792325251340.png",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792325251340.png",
       "category": "ألعاب",
       "versions": [
         {
@@ -38465,12 +38465,12 @@
         }
       ],
       "version": "1.0",
-      "versionDate": "2026-10-18",
+      "versionDate": "2026-10-20",
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta5-portable-20gb",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gta5-portable-20gb",
       "size": 21193398681,
       "addedAt": "2026-10-18",
-      "updatedAt": "2026-10-18"
+      "updatedAt": "2026-10-20"
     }
   ]
 }
