@@ -1,0 +1,44 @@
+name: Update FatiScore icon once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-fatiscore-icon-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-icon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 2
+
+      - name: Replace FatiScore icon and remove one-time workflow
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('index.html')
+          text = p.read_text(encoding='utf-8')
+          old = 'https://i.ibb.co/vvdRnTW8/voziplay.png'
+          new = 'https://i.ibb.co/k2QYCXrz/fatiscore.png'
+          if old not in text:
+              raise SystemExit('Old Vozi icon URL not found in index.html')
+          text = text.replace(old, new)
+          p.write_text(text, encoding='utf-8')
+          PY
+          rm -f .github/workflows/update-fatiscore-icon-once.yml
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html .github/workflows/update-fatiscore-icon-once.yml
+          git commit -m 'Update FatiScore icon'
+          git pull --rebase origin main
+          git push
