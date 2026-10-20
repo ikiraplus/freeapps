@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.ikiraplus.workers.dev/freeapps/656830629/telegram.ipa</string>
+					<string>https://dl.ikiraplus.workers.dev/freeapps/658323385/telegram.-.Signed.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ph.telegra.Telegraph4</string>
+				<string>ph.telegra.Telegraph1</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
