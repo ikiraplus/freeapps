@@ -40682,6 +40682,29 @@
       "size": 322961408,
       "addedAt": "2026-10-21",
       "updatedAt": "2026-10-21"
+    },
+    {
+      "id": "app-1792623690332",
+      "name": "Mushare",
+      "bundleIdentifier": "com.ali.Mushare",
+      "bundleId": "com.ali.Mushare",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792623690332.png",
+      "category": "أدوات",
+      "versions": [
+        {
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mushare_1.1",
+          "date": "2026-10-21",
+          "size": 11744051
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2026-10-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mushare_1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mushare_1.1",
+      "size": 11744051,
+      "addedAt": "2026-10-22",
+      "updatedAt": "2026-10-22"
     }
   ]
 }
