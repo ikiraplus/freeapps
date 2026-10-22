@@ -27,30 +27,34 @@ jobs:
         with:
           fetch-depth: 2
 
+      - name: Checkout private DEB source
+        uses: actions/checkout@v4
+        with:
+          repository: ikiraplus/store
+          token: ${{ secrets.FREEAPPS_TOKEN }}
+          path: source-store
+          sparse-checkout: |
+            deb.json
+          sparse-checkout-cone-mode: false
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Download latest DEB source
+      - name: Validate downloaded DEB source
         shell: bash
         run: |
           set -euo pipefail
-          curl -fsSL \
-            --retry 5 \
-            --retry-delay 2 \
-            --retry-all-errors \
-            'https://raw.githubusercontent.com/ikiraplus/store/main/deb.json' \
-            -o source_deb.json
-
+          cp source-store/deb.json source_deb.json
           python - <<'PY'
           import json
           with open('source_deb.json', 'r', encoding='utf-8') as f:
               data = json.load(f)
           apps = data.get('apps', [])
           if not isinstance(apps, list) or not apps:
-              raise SystemExit('❌ source deb.json has no apps')
-          print(f'✅ source DEB apps downloaded: {len(apps)}')
+              raise SystemExit('source deb.json has no apps')
+          print(f'source DEB apps downloaded: {len(apps)}')
           PY
 
       - name: Build deb-AR.json
@@ -72,11 +76,11 @@ jobs:
 
           apps = [a for a in data.get('apps', []) if isinstance(a, dict)]
           if not apps:
-              raise SystemExit('❌ deb-AR.json has no apps')
+              raise SystemExit('deb-AR.json has no apps')
 
           bad_size = [a.get('name') for a in apps if not isinstance(a.get('size'), int)]
           if bad_size:
-              raise SystemExit(f'❌ Non-integer sizes: {bad_size[:20]}')
+              raise SystemExit(f'Non-integer sizes: {bad_size[:20]}')
 
           def empty(value):
               return value is None or (isinstance(value, str) and not value.strip())
@@ -88,22 +92,22 @@ jobs:
                       empty_optional.append(f"{app.get('name')}: {field}")
 
           if empty_optional:
-              raise SystemExit(f'❌ Empty optional fields: {empty_optional[:20]}')
+              raise SystemExit(f'Empty optional fields: {empty_optional[:20]}')
 
-          print(f'✅ deb-AR apps: {len(apps)}')
-          print(f"✅ recommended present: {sum(1 for a in apps if 'recommended' in a)}")
-          print(f"✅ toolVersion present: {sum(1 for a in apps if 'toolVersion' in a)}")
-          print(f"✅ with versions history: {sum(1 for a in apps if a.get('versions'))}")
+          print(f'deb-AR apps: {len(apps)}')
+          print(f"recommended present: {sum(1 for a in apps if 'recommended' in a)}")
+          print(f"toolVersion present: {sum(1 for a in apps if 'toolVersion' in a)}")
+          print(f"with versions history: {sum(1 for a in apps if a.get('versions'))}")
           PY
 
       - name: Commit deb-AR changes
         shell: bash
         run: |
           set -euo pipefail
-          rm -f source_deb.json
+          rm -rf source-store source_deb.json
 
           if git diff --quiet -- deb-AR.json; then
-            echo '✅ No deb-AR changes — nothing to commit.'
+            echo 'No deb-AR changes — nothing to commit.'
             exit 0
           fi
 
