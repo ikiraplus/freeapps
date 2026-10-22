@@ -1,0 +1,2094 @@
+{
+  "apps": [
+    {
+      "id": "dylib-1784533287609",
+      "name": "مانع الاعلانات",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0f/da/850fda4c-ee32-e36f-bdc4-d8258ef9ba92/default-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/noads-ikiraplus",
+          "date": "2026-07-20",
+          "size": 524288
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/noads-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/noads-ikiraplus",
+      "size": 524288,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784533142811",
+      "name": "تغيير الموقع",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/bb/be/9bbbbed3-1f97-5eb8-ea12-513dac1d4853/AppIcon-0-0-1x_U007emarketing-0-0-0-11-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gpsfake-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gpsfake-ikiraplus",
+      "size": 104857,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784533726471",
+      "name": "اصلاح مشاكل التطبيقات",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d8/60/41d860c9-0961-099c-3488-9cc8a09f48fd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sideload-fixer-ikiraplus",
+          "date": "2026-07-20",
+          "size": 104857
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sideload-fixer-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sideload-fixer-ikiraplus",
+      "size": 104857,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784533857169",
+      "name": "فتح جواهر ومتاجر الالعاب",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/bc/90/0abc9006-32cc-8058-c6b6-9ccd16c8fa9b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hackgames-ikiraplus",
+          "date": "2026-07-20",
+          "size": 629145
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hackgames-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hackgames-ikiraplus",
+      "size": 629145,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784534301942",
+      "name": "تسريع الاعلانات",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/64/d2/3564d218-84dc-2995-5335-578369f8ba64/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/adsfast",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/adsfast",
+      "size": 3670016,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784534341196",
+      "name": "اختيار خط للتطبيق",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/0f/25/7d0f25d9-a030-8fc9-f842-921b71e58410/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/na9fonts-1",
+          "date": "2026-08-11",
+          "size": 104857
+        },
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/na9fonts"
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2026-08-11",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/na9fonts-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/na9fonts-1",
+      "size": 104857,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-08-11"
+    },
+    {
+      "id": "dylib-1784534372441",
+      "name": "حظر التطبيق من الانترنت",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/10/f0/7110f0e3-24a7-cb1b-1fa1-e0f00cab2bec/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/networkblocker",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/networkblocker",
+      "size": 629145,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784534620404",
+      "name": "مسح الكاش تلقائياُ",
+      "iconURL": "https://lh3.googleusercontent.com/vBLSdWUJaKbvuKwY5HLsHnhJiD9sFBefNGoPLg8uJTjohiPx8ZJRXbqAVRgFLxZG920",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/na9cleaner",
+          "date": "2026-08-11",
+          "size": 314572
+        },
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/theoscleaner"
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-08-11",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/na9cleaner",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/na9cleaner",
+      "size": 314572,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-08-11"
+    },
+    {
+      "id": "dylib-1784535162788",
+      "name": "لقطة شاشة مطولة",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/35/8c/ba358cea-fead-dbf2-404b-f15e16576c96/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chatcapture",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chatcapture",
+      "size": 1153433,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784535226534",
+      "name": "ازالة اشعارت كاب كات",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/4d/7e/534d7ea2-2aa7-b897-683a-7fc2ea1e3753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ccbypass_capcut",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ccbypass_capcut",
+      "size": 419430,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784535962494",
+      "name": "Regram Tweak",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773401165477.png",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "6.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Regramcracked6.5-ikiraplus",
+          "date": "2026-10-21",
+          "size": 5872025
+        },
+        {
+          "version": "6.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Regramcracked-6.4"
+        }
+      ],
+      "version": "6.5",
+      "versionDate": "2026-10-21",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Regramcracked6.5-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Regramcracked6.5-ikiraplus",
+      "size": 5872025,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-21"
+    },
+    {
+      "id": "dylib-1784536015470",
+      "name": "Ryukgram Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "1.4.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.4.5",
+          "date": "2026-10-12",
+          "size": 6815744
+        },
+        {
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.4.0"
+        }
+      ],
+      "version": "1.4.5",
+      "versionDate": "2026-10-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.4.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.4.5",
+      "size": 6815744,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-12"
+    },
+    {
+      "id": "dylib-1784536072141",
+      "name": "Beegram Tweak",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773402346513.png",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.4",
+          "date": "2026-09-26",
+          "size": 2306867
+        },
+        {
+          "version": "3.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.2"
+        }
+      ],
+      "version": "3.4",
+      "versionDate": "2026-09-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.4",
+      "size": 2306867,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-09-26"
+    },
+    {
+      "id": "dylib-1784536158392",
+      "name": "Sparkle Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.5.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Sparkle-1.5.1",
+          "date": "2026-10-13",
+          "size": 5138022
+        },
+        {
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Sparkle-1.4.0"
+        }
+      ],
+      "version": "1.5.1",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Sparkle-1.5.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Sparkle-1.5.1",
+      "size": 5138022,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-13"
+    },
+    {
+      "id": "dylib-1784536205774",
+      "name": "Igformat Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.6.0",
+          "date": "2026-09-07",
+          "size": 2936012
+        },
+        {
+          "version": "2.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.5.0"
+        }
+      ],
+      "version": "2.6.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.6.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.6.0",
+      "size": 2936012,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "dylib-1784536265162",
+      "name": "Theta Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/theta",
+          "date": "2026-07-20",
+          "size": 4404019
+        }
+      ],
+      "version": "6.0",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/theta",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/theta",
+      "size": 4404019,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784536323285",
+      "name": "Rvx Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RVXInsta-beta3",
+          "date": "2026-08-04",
+          "size": 2621440
+        },
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RYX-Beta2"
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2026-08-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RVXInsta-beta3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/RVXInsta-beta3",
+      "size": 2621440,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-08-04"
+    },
+    {
+      "id": "dylib-1784536418315",
+      "name": "BH Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bhinstagram",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bhinstagram",
+      "size": 314572,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784536448571",
+      "name": "Oled Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instaoled",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instaoled",
+      "size": 734003,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1786009794186",
+      "name": "Rocket Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/be/de/4cbedeca-02d7-e15c-9e14-b0ac165eeb5a/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "4.3.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Instagramrocket-dyilb4.3.3",
+          "date": "2026-08-06",
+          "size": 1153433
+        }
+      ],
+      "version": "4.3.3",
+      "versionDate": "2026-08-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Instagramrocket-dyilb4.3.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Instagramrocket-dyilb4.3.3",
+      "size": 1153433,
+      "addedAt": "2026-08-06",
+      "updatedAt": "2026-08-06"
+    },
+    {
+      "id": "dylib-1786292511461",
+      "name": "DL Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dlinsta",
+          "date": "2026-08-09",
+          "size": 1153433
+        }
+      ],
+      "version": "2.5",
+      "versionDate": "2026-08-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dlinsta",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dlinsta",
+      "size": 1153433,
+      "addedAt": "2026-08-09",
+      "updatedAt": "2026-08-09"
+    },
+    {
+      "id": "dylib-1784547808102",
+      "name": "Vibetok Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "1.77",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/VibeTok-1.77",
+          "date": "2026-10-13",
+          "size": 1572864
+        },
+        {
+          "version": "1.76",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/VibeTok-V1.76"
+        }
+      ],
+      "version": "1.77",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/VibeTok-1.77",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/VibeTok-1.77",
+      "size": 1572864,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-13"
+    },
+    {
+      "id": "dylib-1784548116417",
+      "name": "DL Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "2.1.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dltiktok-1",
+          "date": "2026-08-09",
+          "size": 734003
+        },
+        {
+          "version": "2.1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dltiktok"
+        }
+      ],
+      "version": "2.1.4",
+      "versionDate": "2026-08-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dltiktok-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dltiktok-1",
+      "size": 734003,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-08-09"
+    },
+    {
+      "id": "dylib-1784548604361",
+      "name": "BH++ Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "4.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/BHTikTok-4.6",
+          "date": "2026-09-28",
+          "size": 943718
+        },
+        {
+          "version": "4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bhtiktok"
+        }
+      ],
+      "version": "4.6",
+      "versionDate": "2026-09-28",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/BHTikTok-4.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/BHTikTok-4.6",
+      "size": 943718,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-09-28"
+    },
+    {
+      "id": "dylib-1784547884625",
+      "name": "Rust Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RustCrack-8.0",
+          "date": "2026-09-23",
+          "size": 273154048
+        },
+        {
+          "version": "6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RUSTCARCK-6.0"
+        }
+      ],
+      "version": "8.0",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RustCrack-8.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/RustCrack-8.0",
+      "size": 273154048,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": "dylib-1784547960530",
+      "name": "R3tok Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/r3tok-2.2",
+          "date": "2026-09-28",
+          "size": 2621440
+        },
+        {
+          "version": "2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/r3tok-v2.1"
+        }
+      ],
+      "version": "2.2",
+      "versionDate": "2026-09-28",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/r3tok-2.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/r3tok-2.2",
+      "size": 2621440,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-09-28"
+    },
+    {
+      "id": "dylib-1784548675710",
+      "name": "ASD Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asdtweak",
+          "date": "2026-07-20",
+          "size": 1887436
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asdtweak",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asdtweak",
+      "size": 1887436,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784547990981",
+      "name": "LRD Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktoklrd",
+          "date": "2026-07-20",
+          "size": 7130316
+        }
+      ],
+      "version": "3.3",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktoklrd",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiktoklrd",
+      "size": 7130316,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784548028285",
+      "name": "Tikdog Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tikdog",
+          "date": "2026-07-20",
+          "size": 629145
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tikdog",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tikdog",
+      "size": 629145,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784548216569",
+      "name": "NA9 Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/NA9TikTok-3.0",
+          "date": "2026-10-20",
+          "size": 2831155
+        },
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/na9tiktok"
+        }
+      ],
+      "version": "3.0",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/NA9TikTok-3.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/NA9TikTok-3.0",
+      "size": 2831155,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "dylib-1784548288746",
+      "name": "Gtok Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-2.4",
+          "date": "2026-10-20",
+          "size": 18350080
+        },
+        {
+          "version": "2.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GTok-2.3"
+        }
+      ],
+      "version": "2.4",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-2.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-2.4",
+      "size": 18350080,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "dylib-1784548435618",
+      "name": "Eos Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eos",
+          "date": "2026-07-20",
+          "size": 5872025
+        }
+      ],
+      "version": "2.3",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eos",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/eos",
+      "size": 5872025,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784812711653",
+      "name": "InfiniTok Tweak",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/dylib-1784812711653.png",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Dylib-infinitok-v2.0",
+          "date": "2026-08-06",
+          "size": 1048576
+        },
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Infinitok-dylib-v1.0"
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-08-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Dylib-infinitok-v2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Dylib-infinitok-v2.0",
+      "size": 1048576,
+      "addedAt": "2026-07-23",
+      "updatedAt": "2026-08-06"
+    },
+    {
+      "id": "dylib-1784548545325",
+      "name": "Doux Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/doux",
+          "date": "2026-07-20",
+          "size": 314572
+        }
+      ],
+      "version": "2.1",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/doux",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/doux",
+      "size": 314572,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784548709452",
+      "name": "AC Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/actiktok2.1",
+          "date": "2026-07-20",
+          "size": 524288
+        }
+      ],
+      "version": "2.1",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/actiktok2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/actiktok2.1",
+      "size": 524288,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784548733590",
+      "name": "RX Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.6.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RXTikTok-v1.6.6",
+          "date": "2026-10-15",
+          "size": 16986931
+        },
+        {
+          "version": "1.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/___rxtiktok"
+        }
+      ],
+      "version": "1.6.6",
+      "versionDate": "2026-10-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RXTikTok-v1.6.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/RXTikTok-v1.6.6",
+      "size": 16986931,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-15"
+    },
+    {
+      "id": "dylib-1784549021202",
+      "name": "Lead Tweak",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/dylib-1784549021202.png",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "1.4.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lead",
+          "date": "2026-07-20",
+          "size": 26004684
+        }
+      ],
+      "version": "1.4.3",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lead",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lead",
+      "size": 26004684,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784549070319",
+      "name": "Tgextra Tweak",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/dylib-1784549021202.png",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.7.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tgextra",
+          "date": "2026-07-20",
+          "size": 3460300
+        }
+      ],
+      "version": "1.7.7",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tgextra",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tgextra",
+      "size": 3460300,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1785404543683",
+      "name": "iQ Tweak",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/dylib-1784549021202.png",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQTele_1.4",
+          "date": "2026-09-25",
+          "size": 2097152
+        },
+        {
+          "version": "1.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQTele-1.3.1-fixed"
+        }
+      ],
+      "version": "1.4",
+      "versionDate": "2026-09-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQTele_1.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iQTele_1.4",
+      "size": 2097152,
+      "addedAt": "2026-07-30",
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "dylib-1784549355048",
+      "name": "Gold Tweak",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773436028095.png",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "3.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold3.4",
+          "date": "2026-10-08",
+          "size": 419430
+        },
+        {
+          "version": "2.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold-2.9"
+        }
+      ],
+      "version": "3.4",
+      "versionDate": "2026-10-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold3.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/WGold3.4",
+      "size": 419430,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-08"
+    },
+    {
+      "id": "dylib-1784549134052",
+      "name": "Watusi Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b2/8a/e3b28a99-2fc5-641f-7b35-0a8094337b1a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Watusi-V3.0",
+          "date": "2026-10-08",
+          "size": 2726297
+        },
+        {
+          "version": "3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Watusi-v3.0"
+        }
+      ],
+      "version": "3.1",
+      "versionDate": "2026-10-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Watusi-V3.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Watusi-V3.0",
+      "size": 2726297,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-08"
+    },
+    {
+      "id": "dylib-1784549200982",
+      "name": "Reaval Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b2/8a/e3b28a99-2fc5-641f-7b35-0a8094337b1a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wareaval-ikiraplus",
+          "date": "2026-07-20",
+          "size": 1992294
+        }
+      ],
+      "version": "2.2",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wareaval-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wareaval-ikiraplus",
+      "size": 1992294,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784549276712",
+      "name": "Enjoy Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b2/8a/e3b28a99-2fc5-641f-7b35-0a8094337b1a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/waenjoy-ikiraplus",
+          "date": "2026-07-20",
+          "size": 314572
+        }
+      ],
+      "version": "3.6",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/waenjoy-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/waenjoy-ikiraplus",
+      "size": 314572,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784549585630",
+      "name": "Kilier Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/4f/e2/8a4fe2b3-3b8d-ff90-7a34-fadbf2f39c3d/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "5.2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkilier-ikiraplus",
+          "date": "2026-07-20",
+          "size": 8598323
+        }
+      ],
+      "version": "5.2.2",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytkilier-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ytkilier-ikiraplus",
+      "size": 8598323,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784549681346",
+      "name": "Kace Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/4f/e2/8a4fe2b3-3b8d-ff90-7a34-fadbf2f39c3d/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.2",
+          "date": "2026-10-08",
+          "size": 5138022
+        },
+        {
+          "version": "1.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.1"
+        }
+      ],
+      "version": "1.1.2",
+      "versionDate": "2026-10-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.2",
+      "size": 5138022,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-10-08"
+    },
+    {
+      "id": "dylib-1784795898576",
+      "name": "IQ Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/ef/4c/deef4c28-359a-c51d-2585-f7f186cf28b1/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQGram-1.2",
+          "date": "2026-09-25",
+          "size": 2097152
+        },
+        {
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Iqgram-beta1.1"
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2026-09-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQGram-1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iQGram-1.2",
+      "size": 2097152,
+      "addedAt": "2026-07-23",
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "dylib-1784549742778",
+      "name": "Oled Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/4f/e2/8a4fe2b3-3b8d-ff90-7a34-fadbf2f39c3d/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "4.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytoled-ikiraplus",
+          "date": "2026-07-20",
+          "size": 7444889
+        }
+      ],
+      "version": "4.5",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytoled-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ytoled-ikiraplus",
+      "size": 7444889,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784549804640",
+      "name": "Youpro Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/4f/e2/8a4fe2b3-3b8d-ff90-7a34-fadbf2f39c3d/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youpro",
+          "date": "2026-07-24",
+          "size": 419430
+        }
+      ],
+      "version": "1.3",
+      "versionDate": "2026-07-24",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youpro",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youpro",
+      "size": 419430,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-24"
+    },
+    {
+      "id": "dylib-1784821433327",
+      "name": "WolfTube Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/4f/e2/8a4fe2b3-3b8d-ff90-7a34-fadbf2f39c3d/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.38.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WolfTube-1.38.2",
+          "date": "2026-10-15",
+          "size": 5767168
+        },
+        {
+          "version": "1.28.13",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WolfTube-1.28.13"
+        }
+      ],
+      "version": "1.38.2",
+      "versionDate": "2026-10-15",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WolfTube-1.38.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/WolfTube-1.38.2",
+      "size": 5767168,
+      "addedAt": "2026-07-23",
+      "updatedAt": "2026-10-15"
+    },
+    {
+      "id": "dylib-1786177412753",
+      "name": "iQ Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQTube-1.3",
+          "date": "2026-09-25",
+          "size": 18664652
+        },
+        {
+          "version": "1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQTube-1.2"
+        }
+      ],
+      "version": "1.3",
+      "versionDate": "2026-09-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQTube-1.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iQTube-1.3",
+      "size": 18664652,
+      "addedAt": "2026-08-08",
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "dylib-1786292570271",
+      "name": "DL Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.16.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dltube",
+          "date": "2026-08-09",
+          "size": 838860
+        }
+      ],
+      "version": "2.16.3",
+      "versionDate": "2026-08-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dltube",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dltube",
+      "size": 838860,
+      "addedAt": "2026-08-09",
+      "updatedAt": "2026-08-09"
+    },
+    {
+      "id": "dylib-1788076649750",
+      "name": "YouMod Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/4f/e2/8a4fe2b3-3b8d-ff90-7a34-fadbf2f39c3d/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YouMod-2.0",
+          "date": "2026-08-30",
+          "size": 734003
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YouMod-2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/YouMod-2.0",
+      "size": 734003,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "dylib-1784549927643",
+      "name": "Xlogin Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/65/60/f76560b0-13df-84b6-fb7f-9b40319c4018/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/xlogin-ikiraplus",
+          "date": "2026-07-20",
+          "size": 943718
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/xlogin-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/xlogin-ikiraplus",
+      "size": 943718,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784549965063",
+      "name": "BH Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/65/60/f76560b0-13df-84b6-fb7f-9b40319c4018/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bhtwitter",
+          "date": "2026-07-20",
+          "size": 4928307
+        }
+      ],
+      "version": "3.5",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bhtwitter",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bhtwitter",
+      "size": 4928307,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784550013585",
+      "name": "DL Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/65/60/f76560b0-13df-84b6-fb7f-9b40319c4018/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.1.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dltwitter-1",
+          "date": "2026-08-09",
+          "size": 13736345
+        },
+        {
+          "version": "2.1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dltwitter"
+        }
+      ],
+      "version": "2.1.6",
+      "versionDate": "2026-08-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dltwitter-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dltwitter-1",
+      "size": 13736345,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-08-09"
+    },
+    {
+      "id": "dylib-1784550081354",
+      "name": "Twigalaxy Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/65/60/f76560b0-13df-84b6-fb7f-9b40319c4018/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.14",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Galaxy-Tweak-v1.14",
+          "date": "2026-08-06",
+          "size": 1887436
+        },
+        {
+          "version": "1.13",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/twigalaxy"
+        }
+      ],
+      "version": "1.14",
+      "versionDate": "2026-08-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Galaxy-Tweak-v1.14",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Galaxy-Tweak-v1.14",
+      "size": 1887436,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-08-06"
+    },
+    {
+      "id": "dylib-1784550130418",
+      "name": "NeoFreeBird Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/65/60/f76560b0-13df-84b6-fb7f-9b40319c4018/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bhtwitternfb",
+          "date": "2026-07-20",
+          "size": 3040870
+        }
+      ],
+      "version": "2.3",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bhtwitternfb",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bhtwitternfb",
+      "size": 3040870,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1785421016701",
+      "name": "XEnhancer Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/65/60/f76560b0-13df-84b6-fb7f-9b40319c4018/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/XEnhancer-1.0",
+          "date": "2026-07-30",
+          "size": 3460300
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-07-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/XEnhancer-1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/XEnhancer-1.0",
+      "size": 3460300,
+      "addedAt": "2026-07-30",
+      "updatedAt": "2026-07-30"
+    },
+    {
+      "id": "dylib-1784550313793",
+      "name": "Glow Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/38/f6/2e38f637-d73e-7125-2534-06e9ede567b6/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/glow",
+          "date": "2026-07-20",
+          "size": 16672358
+        }
+      ],
+      "version": "4.2",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/glow",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/glow",
+      "size": 16672358,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784550344023",
+      "name": "Wolf Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/38/f6/2e38f637-d73e-7125-2534-06e9ede567b6/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wolf-ikiraplus",
+          "date": "2026-07-20",
+          "size": 3774873
+        }
+      ],
+      "version": "3.1",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wolf-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wolf-ikiraplus",
+      "size": 3774873,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1788076542359",
+      "name": "IQ Tweak",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjFci3eT3k3U9WkNX-755UlBs8hH0t5QBXUHeB9-jyyRNFgVUp1o7hG4&s=10",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQFace-1.2-dyilb",
+          "date": "2026-09-25",
+          "size": 17196646
+        },
+        {
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQFace-1.1"
+        }
+      ],
+      "version": "1.2",
+      "versionDate": "2026-09-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQFace-1.2-dyilb",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iQFace-1.2-dyilb",
+      "size": 17196646,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-09-25"
+    },
+    {
+      "id": "dylib-1784550464409",
+      "name": "Msgplusx",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/86/a8/8586a8e9-16da-41f4-1fe0-bf376b4261ed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/msgplusx",
+          "date": "2026-07-20",
+          "size": 419430
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/msgplusx",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/msgplusx",
+      "size": 419430,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784550492190",
+      "name": "Flow Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/86/a8/8586a8e9-16da-41f4-1fe0-bf376b4261ed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/flow",
+          "date": "2026-07-20",
+          "size": 314572
+        }
+      ],
+      "version": "4.1",
+      "versionDate": "2026-07-20",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/flow",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/flow",
+      "size": 314572,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-07-20"
+    },
+    {
+      "id": "dylib-1784550567071",
+      "name": "Rain Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/bd/8e/b5bd8ea9-2301-b2d5-956a-f28b6b87ed94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.10.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RainTweak-0.10.0",
+          "date": "2026-09-30"
+        },
+        {
+          "version": "0.9.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Rain-0.9.6"
+        }
+      ],
+      "version": "0.10.0",
+      "versionDate": "2026-09-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RainTweak-0.10.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/RainTweak-0.10.0",
+      "size": 0,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "dylib-1784550532923",
+      "name": "Kettu Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/bd/8e/b5bd8ea9-2301-b2d5-956a-f28b6b87ed94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Kettu-Tweak-v2.0",
+          "date": "2026-08-30",
+          "size": 104857
+        },
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kettutweak"
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Kettu-Tweak-v2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Kettu-Tweak-v2.0",
+      "size": 104857,
+      "addedAt": "2026-07-20",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "dylib-1788076686628",
+      "name": "Unbound Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/bd/8e/b5bd8ea9-2301-b2d5-956a-f28b6b87ed94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.5.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Unbound-2.5.1",
+          "date": "2026-09-01",
+          "size": 419430
+        },
+        {
+          "version": "2.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Unbound-v1.0"
+        }
+      ],
+      "version": "2.5.1",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Unbound-2.5.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Unbound-2.5.1",
+      "size": 419430,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-09-01"
+    },
+    {
+      "id": "dylib-1786441706284",
+      "name": "تغيير موقع الخريطة",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/0d/aa/e50daa3e-a739-faa7-058e-f30d4c3b0a59/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Changelocation-1.0",
+          "date": "2026-08-11",
+          "size": 524288
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-08-11",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Changelocation-1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Changelocation-1.0",
+      "size": 524288,
+      "addedAt": "2026-08-11",
+      "updatedAt": "2026-08-11"
+    },
+    {
+      "id": "dylib-1786480592693",
+      "name": "نسخ احتياطي للملفات",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/ea/16/49ea16e6-6798-1ba4-e05f-b66127a4d7eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "احقن ملف الدايلب في اي تطبيق لأخذ واستعادة وادارة النسخ الاحتياطي لمجلدات بيانات التطبيق\nDocuments\nLibrary\nStoreKit\nSystemData\ntmp\nو الـAppGroups المصرّح بالوصول لها",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/na9backup",
+          "date": "2026-08-11",
+          "size": 314572
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-08-11",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/na9backup",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/na9backup",
+      "size": 314572,
+      "addedAt": "2026-08-11",
+      "updatedAt": "2026-08-11"
+    },
+    {
+      "id": "dylib-1788076732181",
+      "name": "MoesReddit Tweak",
+      "iconURL": "https://play-lh.googleusercontent.com/YlsjgA1pFEUqNaypaxE5ajushTBOt8IxVk_UEqzaXT7_n3JDgFq6KgtuE8tPBpvaCntB",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "4.6.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.6.1",
+          "date": "2026-10-13",
+          "size": 1153433
+        },
+        {
+          "version": "4.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.3"
+        }
+      ],
+      "version": "4.6.1",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.6.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.6.1",
+      "size": 1153433,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-10-13"
+    },
+    {
+      "id": "dylib-1788077646553",
+      "name": "Filter Tweak",
+      "iconURL": "https://play-lh.googleusercontent.com/YlsjgA1pFEUqNaypaxE5ajushTBOt8IxVk_UEqzaXT7_n3JDgFq6KgtuE8tPBpvaCntB",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Filter-v1.0",
+          "date": "2026-08-30",
+          "size": 104857
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Filter-v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Filter-v1.0",
+      "size": 104857,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "dylib-1788077460750",
+      "name": "GT Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/74/07/42740742-a513-c1f3-ae00-b4b0a7d56ba5/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GT-Tweak-v1.0",
+          "date": "2026-08-30",
+          "size": 419430
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GT-Tweak-v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/GT-Tweak-v1.0",
+      "size": 419430,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "dylib-1788077520393",
+      "name": "Eevee Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/74/07/42740742-a513-c1f3-ae00-b4b0a7d56ba5/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/EeveeSpotify-7.0",
+          "date": "2026-10-08",
+          "size": 4089446
+        },
+        {
+          "version": "6.6.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Eevee-v6.6.8"
+        }
+      ],
+      "version": "7.0",
+      "versionDate": "2026-10-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/EeveeSpotify-7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/EeveeSpotify-7.0",
+      "size": 4089446,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-10-08"
+    },
+    {
+      "id": "dylib-1788077582285",
+      "name": "Nexa Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f9/36/22f936bd-f61d-d1e1-8227-7352688e9367/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/NexaSC-V4.0",
+          "date": "2026-09-07",
+          "size": 1572864
+        },
+        {
+          "version": "3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Nexa-v3.0"
+        }
+      ],
+      "version": "4.0",
+      "versionDate": "2026-09-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/NexaSC-V4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/NexaSC-V4.0",
+      "size": 1572864,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-09-07"
+    },
+    {
+      "id": "dylib-1788077902689",
+      "name": "GT Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f9/36/22f936bd-f61d-d1e1-8227-7352688e9367/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GTSoundCloud-1.1",
+          "date": "2026-09-06",
+          "size": 314572
+        },
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GT-Tweak-v1.0.0"
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GTSoundCloud-1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/GTSoundCloud-1.1",
+      "size": 314572,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-09-06"
+    },
+    {
+      "id": "dylib-1788077670768",
+      "name": "YTMusicUltimate Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/9f/f5/8c9ff57a-8a9f-30ca-3b1a-a53406a1fc2b/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTMusicUltimate-2.4.1",
+          "date": "2026-08-30",
+          "size": 8388608
+        }
+      ],
+      "version": "2.4.1",
+      "versionDate": "2026-08-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTMusicUltimate-2.4.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/YTMusicUltimate-2.4.1",
+      "size": 8388608,
+      "addedAt": "2026-08-30",
+      "updatedAt": "2026-08-30"
+    },
+    {
+      "id": "dylib-1788251706112",
+      "name": "TwCrack Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/98/f7/da98f76a-b494-11ef-df3a-2ee81e8a67e8/TwitchAppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Tweach-2.4-crack",
+          "date": "2026-09-01",
+          "size": 20342374
+        }
+      ],
+      "version": "2.4",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Tweach-2.4-crack",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Tweach-2.4-crack",
+      "size": 20342374,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01"
+    },
+    {
+      "id": "dylib-1788251761053",
+      "name": "TwControl Tweak",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx2nJn4bk6RJcYzjdm9Ai0xwKx1ldsrRvKwQlFnGTbaw&s=10",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.0.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/TwitchControl-0.0.6",
+          "date": "2026-09-01",
+          "size": 838860
+        }
+      ],
+      "version": "0.0.6",
+      "versionDate": "2026-09-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/TwitchControl-0.0.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/TwitchControl-0.0.6",
+      "size": 838860,
+      "addedAt": "2026-09-01",
+      "updatedAt": "2026-09-01"
+    },
+    {
+      "id": "dylib-1788692269638",
+      "name": "ASJ Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTok-1.3",
+          "date": "2026-09-30",
+          "size": 2621440
+        },
+        {
+          "version": "1.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTikTok_1.2.1"
+        }
+      ],
+      "version": "1.3",
+      "versionDate": "2026-09-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTok-1.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ASJTok-1.3",
+      "size": 2621440,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "dylib-1788716499972",
+      "name": "ASJ Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.4",
+          "date": "2026-10-08",
+          "size": 6081740
+        },
+        {
+          "version": "1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.3"
+        }
+      ],
+      "version": "1.4",
+      "versionDate": "2026-10-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.4",
+      "size": 6081740,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-10-08"
+    },
+    {
+      "id": "dylib-1788716565135",
+      "name": "Sada Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/f6/9e/b4f69e23-a20c-784c-7f41-400fd8ab3d1c/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/SadaTik-2.0",
+          "date": "2026-09-06",
+          "size": 419430
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/SadaTik-2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/SadaTik-2.0",
+      "size": 419430,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06"
+    },
+    {
+      "id": "dylib-1788716814412",
+      "name": "MX Tweak",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/dylib-1784549021202.png",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MX-1.0",
+          "date": "2026-09-06",
+          "size": 40160460
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MX-1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/MX-1.0",
+      "size": 40160460,
+      "addedAt": "2026-09-06",
+      "updatedAt": "2026-09-06"
+    },
+    {
+      "id": "dylib-1789407153138",
+      "name": "FBPLUS Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/1d/be/5e1dbe24-886f-0e03-0874-2b7c2fdfd594/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/FacebookPlus-1.0.1",
+          "date": "2026-09-18",
+          "size": 419430
+        },
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/FBPLUS-1.0"
+        }
+      ],
+      "version": "1.0.1",
+      "versionDate": "2026-09-18",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/FacebookPlus-1.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/FacebookPlus-1.0.1",
+      "size": 419430,
+      "addedAt": "2026-09-14",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": "dylib-1790109436487",
+      "name": "MaxTube",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/b1/78/13b17848-b698-3724-af84-0b284dd4c54e/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "5.2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MaxTube-5.2.2",
+          "date": "2026-09-22",
+          "size": 9122611
+        }
+      ],
+      "version": "5.2.2",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MaxTube-5.2.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/MaxTube-5.2.2",
+      "size": 9122611,
+      "addedAt": "2026-09-22",
+      "updatedAt": "2026-09-22"
+    },
+    {
+      "id": "dylib-1790193291301",
+      "name": "GunShot Tweak",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShLCSbO_Sxc-wif6ioeFKMah5pY6l6YDGfezfFtLQbw&s",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.2.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GunshotJailed-0.2.6",
+          "date": "2026-10-02",
+          "size": 9646899
+        },
+        {
+          "version": "0.2.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GunShot-0.2.5"
+        }
+      ],
+      "version": "0.2.6",
+      "versionDate": "2026-10-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GunshotJailed-0.2.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/GunshotJailed-0.2.6",
+      "size": 9646899,
+      "addedAt": "2026-09-23",
+      "updatedAt": "2026-10-02"
+    },
+    {
+      "id": "dylib-1790608848286",
+      "name": "Eos Tweak",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/dylib-1790608848286.png",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Eos-2.0",
+          "date": "2026-09-28",
+          "size": 5872025
+        }
+      ],
+      "version": "2.0",
+      "versionDate": "2026-09-28",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Eos-2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Eos-2.0",
+      "size": 5872025,
+      "addedAt": "2026-09-28",
+      "updatedAt": "2026-09-28"
+    },
+    {
+      "id": "dylib-1790796229700",
+      "name": "R3 Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/86/1c/77861cb6-0f87-5220-d6a5-5f11c8fcad7f/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/r3yt-1.0",
+          "date": "2026-09-30",
+          "size": 838860
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-09-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/r3yt-1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/r3yt-1.0",
+      "size": 838860,
+      "addedAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "dylib-1791796472391",
+      "name": "RVX Tweak",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/ad/b8/57adb8ea-6380-3224-e4bd-d291fd824d81/Placeholder.mill/400x400bb-75.webp",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RVXTikTok-1.0",
+          "date": "2026-10-12",
+          "size": 3250585
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-10-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RVXTikTok-1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/RVXTikTok-1.0",
+      "size": 3250585,
+      "addedAt": "2026-10-12",
+      "updatedAt": "2026-10-12"
+    }
+  ]
+}
