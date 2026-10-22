@@ -75,7 +75,7 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: |
           set -euo pipefail
-          python -u sync_apps_rules.py \
+          python -u sync_apps.py \
             --source source_jom.json \
             --target IPA-AR.json
 
@@ -167,7 +167,7 @@ jobs:
           TRANSLATION_CHUNK_CHARS: '800'
         run: |
           set -euo pipefail
-          python -u sync_apps_rules.py \
+          python -u sync_apps.py \
             --translate-only \
             --target IPA-AR.json \
             --target-en IPA-EN.json \
