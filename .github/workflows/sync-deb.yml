@@ -27,6 +27,188 @@ jobs:
         with:
           fetch-depth: 2
 
+      - name: Merge IPA sync rules
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          p = Path('sync_apps.py')
+          s = p.read_text(encoding='utf-8')
+
+          app_order = '''APP_FIELD_ORDER = [
+              "id",
+              "name",
+              "bundleIdentifier",
+              "bundleId",
+              "developerName",
+              "iconURL",
+              "localizedDescription",
+              "category",
+              "recommended",
+              "toolVersion",
+              "versions",
+              "version",
+              "versionDate",
+              "downloadURL",
+              "ipaUrl",
+              "size",
+              "addedAt",
+              "updatedAt",
+          ]
+          '''
+          s, n = re.subn(r'APP_FIELD_ORDER = \[.*?\n\]\n', app_order, s, count=1, flags=re.S)
+          if n != 1:
+              raise SystemExit('APP_FIELD_ORDER not found')
+
+          tracked = '''TRACKED_UPDATE_FIELDS = [
+              "id",
+              "name",
+              "bundleIdentifier",
+              "bundleId",
+              "developerName",
+              "version",
+              "downloadURL",
+              "ipaUrl",
+              "iconURL",
+              "localizedDescription",
+              "size",
+              "category",
+              "versions",
+              "previousVersions",
+              "recommended",
+              "toolVersion",
+          ]
+          '''
+          s, n = re.subn(r'TRACKED_UPDATE_FIELDS = \[.*?\n\]\n', tracked, s, count=1, flags=re.S)
+          if n != 1:
+              raise SystemExit('TRACKED_UPDATE_FIELDS not found')
+
+          s, n = re.subn(r'FIELDS_TO_DROP = \([^\n]*\)', 'FIELDS_TO_DROP = ("note", "icon", "hidden")', s, count=1)
+          if n != 1:
+              raise SystemExit('FIELDS_TO_DROP not found')
+
+          drop_fn = '''def drop_removed_fields(app):
+              if isinstance(app, dict):
+                  for key in FIELDS_TO_DROP:
+                      app.pop(key, None)
+                  for key in ("recommended", "toolVersion"):
+                      if key not in app or is_empty(app.get(key)):
+                          app.pop(key, None)
+              return app
+          '''
+          s, n = re.subn(r'def drop_removed_fields\(app\):.*?\n\s*return app\n', drop_fn, s, count=1, flags=re.S)
+          if n != 1:
+              raise SystemExit('drop_removed_fields not found')
+
+          merge_block = '''def latest_version_entry(app):
+              versions = app.get("versions") if isinstance(app, dict) else None
+              if isinstance(versions, list) and versions and isinstance(versions[0], dict):
+                  return versions[0]
+              return {}
+
+
+          def release_signature(app):
+              latest = latest_version_entry(app)
+              return (
+                  clean_text(app.get("version")) if isinstance(app, dict) else "",
+                  clean_text(app.get("downloadURL")) if isinstance(app, dict) else "",
+                  clean_text(app.get("ipaUrl")) if isinstance(app, dict) else "",
+                  clean_text(latest.get("version")),
+                  clean_text(first_non_empty(latest.get("downloadURL"), latest.get("ipaUrl"))),
+              )
+
+
+          def version_item_key(item):
+              if not isinstance(item, dict):
+                  return None
+              version = clean_text(item.get("version"))
+              url = clean_text(first_non_empty(item.get("downloadURL"), item.get("ipaUrl")))
+              if not version and not url:
+                  return None
+              return (version, url)
+
+
+          def preserve_version_dates(old_app, new_app, release_changed, today):
+              old_versions = old_app.get("versions") if isinstance(old_app, dict) else None
+              new_versions = new_app.get("versions") if isinstance(new_app, dict) else None
+              if not isinstance(new_versions, list):
+                  return
+
+              old_dates = {}
+              if isinstance(old_versions, list):
+                  for item in old_versions:
+                      key = version_item_key(item)
+                      if key is not None and isinstance(item, dict) and "date" in item:
+                          old_dates[key] = item.get("date")
+
+              for index, item in enumerate(new_versions):
+                  if not isinstance(item, dict):
+                      continue
+                  key = version_item_key(item)
+                  if index == 0 and release_changed:
+                      item["date"] = today
+                  elif key in old_dates:
+                      if old_dates[key] is None:
+                          item.pop("date", None)
+                      else:
+                          item["date"] = old_dates[key]
+
+
+          def merge_existing_app(existing_app, incoming_app, today):
+              updated = copy.deepcopy(existing_app)
+              original_dates = {key: updated.get(key) for key in DATE_FIELDS if key in updated}
+
+              for key in TRACKED_UPDATE_FIELDS:
+                  if key in updated and key not in incoming_app:
+                      updated.pop(key, None)
+
+              for key, value in incoming_app.items():
+                  if key in DATE_FIELDS:
+                      continue
+                  updated[key] = copy.deepcopy(value)
+
+              changed = changed_field_names(existing_app, updated)
+              release_changed = release_signature(existing_app) != release_signature(updated)
+
+              for key in DATE_FIELDS:
+                  updated.pop(key, None)
+                  if key in original_dates:
+                      updated[key] = original_dates[key]
+
+              if release_changed:
+                  updated["versionDate"] = today
+                  updated["updatedAt"] = today
+
+              preserve_version_dates(existing_app, updated, release_changed, today)
+              drop_removed_fields(updated)
+              return order_dict(updated, APP_FIELD_ORDER), changed
+
+
+          def new_app_with_dates'''
+          s, n = re.subn(r'def merge_existing_app\(existing_app, incoming_app, today\):.*?\ndef new_app_with_dates', merge_block, s, count=1, flags=re.S)
+          if n != 1:
+              raise SystemExit('merge_existing_app not found')
+
+          p.write_text(s, encoding='utf-8')
+
+          w = Path('.github/workflows/sync.yml')
+          ws = w.read_text(encoding='utf-8').replace('sync_apps_rules.py', 'sync_apps.py')
+          w.write_text(ws, encoding='utf-8')
+
+          d = Path('sync_deb.py')
+          ds = d.read_text(encoding='utf-8')
+          ds = re.sub(r'(?m)^(?!#!)[ \t]*#.*\n', '', ds)
+          ds = re.sub(r'(def seed_from_source\(incoming\):\n)[ \t]+""".*?"""\n', r'\1', ds, count=1, flags=re.S)
+          d.write_text(ds, encoding='utf-8')
+
+          r = Path('sync_apps_rules.py')
+          if r.exists():
+              r.unlink()
+          PY
+
       - name: Checkout private DEB source
         uses: actions/checkout@v4
         with:
@@ -66,6 +248,10 @@ jobs:
             --source source_deb.json \
             --target deb-AR.json
 
+      - name: Validate Python syntax
+        run: |
+          python -m py_compile sync_apps.py sync_deb.py
+
       - name: Validate deb-AR.json
         run: |
           python - <<'PY'
@@ -93,28 +279,23 @@ jobs:
 
           if empty_optional:
               raise SystemExit(f'Empty optional fields: {empty_optional[:20]}')
-
-          print(f'deb-AR apps: {len(apps)}')
-          print(f"recommended present: {sum(1 for a in apps if 'recommended' in a)}")
-          print(f"toolVersion present: {sum(1 for a in apps if 'toolVersion' in a)}")
-          print(f"with versions history: {sum(1 for a in apps if a.get('versions'))}")
           PY
 
-      - name: Commit deb-AR changes
+      - name: Commit changes
         shell: bash
         run: |
           set -euo pipefail
-          rm -rf source-store source_deb.json
+          rm -rf source-store source_deb.json __pycache__
 
-          if [ -z "$(git status --porcelain -- deb-AR.json)" ]; then
-            echo 'No deb-AR changes — nothing to commit.'
+          git add -A -- sync_apps.py sync_deb.py .github/workflows/sync.yml sync_apps_rules.py deb-AR.json
+
+          if git diff --cached --quiet; then
+            echo 'No changes — nothing to commit.'
             exit 0
           fi
 
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-
-          git add deb-AR.json
-          git commit -m 'Auto sync deb-AR source'
+          git commit -m 'Merge IPA sync rules into main script'
           git pull --rebase origin main
           git push
