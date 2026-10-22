@@ -2,11 +2,8 @@ name: Sync deb-AR from iKiraPlus store
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '27 */4 * * *'
   push:
     paths:
-      - 'sync_deb.py'
       - '.github/workflows/sync-deb.yml'
 
 permissions:
@@ -19,7 +16,6 @@ concurrency:
 jobs:
   sync-deb:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
 
     steps:
       - name: Checkout freeapps
@@ -194,10 +190,6 @@ jobs:
 
           p.write_text(s, encoding='utf-8')
 
-          w = Path('.github/workflows/sync.yml')
-          ws = w.read_text(encoding='utf-8').replace('sync_apps_rules.py', 'sync_apps.py')
-          w.write_text(ws, encoding='utf-8')
-
           d = Path('sync_deb.py')
           ds = d.read_text(encoding='utf-8')
           ds = re.sub(r'(?m)^(?!#!)[ \t]*#.*\n', '', ds)
@@ -209,93 +201,23 @@ jobs:
               r.unlink()
           PY
 
-      - name: Checkout private DEB source
-        uses: actions/checkout@v4
-        with:
-          repository: ikiraplus/store
-          token: ${{ secrets.FREEAPPS_TOKEN }}
-          path: source-store
-          sparse-checkout: |
-            deb.json
-          sparse-checkout-cone-mode: false
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Validate downloaded DEB source
-        shell: bash
-        run: |
-          set -euo pipefail
-          cp source-store/deb.json source_deb.json
-          python - <<'PY'
-          import json
-          with open('source_deb.json', 'r', encoding='utf-8') as f:
-              data = json.load(f)
-          apps = data.get('apps', [])
-          if not isinstance(apps, list) or not apps:
-              raise SystemExit('source deb.json has no apps')
-          print(f'source DEB apps downloaded: {len(apps)}')
-          PY
-
-      - name: Build deb-AR.json
-        env:
-          PYTHONUNBUFFERED: '1'
-        run: |
-          set -euo pipefail
-          python -u sync_deb.py \
-            --source source_deb.json \
-            --target deb-AR.json
-
       - name: Validate Python syntax
         run: |
           python -m py_compile sync_apps.py sync_deb.py
 
-      - name: Validate deb-AR.json
-        run: |
-          python - <<'PY'
-          import json
-
-          with open('deb-AR.json', 'r', encoding='utf-8') as f:
-              data = json.load(f)
-
-          apps = [a for a in data.get('apps', []) if isinstance(a, dict)]
-          if not apps:
-              raise SystemExit('deb-AR.json has no apps')
-
-          bad_size = [a.get('name') for a in apps if not isinstance(a.get('size'), int)]
-          if bad_size:
-              raise SystemExit(f'Non-integer sizes: {bad_size[:20]}')
-
-          def empty(value):
-              return value is None or (isinstance(value, str) and not value.strip())
-
-          empty_optional = []
-          for app in apps:
-              for field in ('recommended', 'toolVersion'):
-                  if field in app and empty(app.get(field)):
-                      empty_optional.append(f"{app.get('name')}: {field}")
-
-          if empty_optional:
-              raise SystemExit(f'Empty optional fields: {empty_optional[:20]}')
-          PY
-
-      - name: Commit changes
+      - name: Commit Python cleanup
         shell: bash
         run: |
           set -euo pipefail
-          rm -rf source-store source_deb.json __pycache__
-
-          git add -A -- sync_apps.py sync_deb.py .github/workflows/sync.yml sync_apps_rules.py deb-AR.json
+          rm -rf __pycache__
+          git add -A -- sync_apps.py sync_deb.py sync_apps_rules.py
 
           if git diff --cached --quiet; then
-            echo 'No changes — nothing to commit.'
             exit 0
           fi
 
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Merge IPA sync rules into main script'
+          git commit -m 'Merge IPA sync rules into sync_apps'
           git pull --rebase origin main
           git push
