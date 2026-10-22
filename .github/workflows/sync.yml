@@ -75,7 +75,7 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: |
           set -euo pipefail
-          python -u sync_apps.py \
+          python -u sync_apps_rules.py \
             --source source_jom.json \
             --target IPA-AR.json
 
@@ -83,13 +83,30 @@ jobs:
         run: |
           python - <<'PY'
           import json
+
           with open('IPA-AR.json', 'r', encoding='utf-8') as f:
               data = json.load(f)
+
           apps = [a for a in data.get('apps', []) if isinstance(a, dict)]
           if not apps:
               raise SystemExit('❌ IPA-AR.json has no apps')
+
+          def empty_optional(value):
+              return value is None or (isinstance(value, str) and not value.strip())
+
+          bad_optional = []
+          for app in apps:
+              for field in ('recommended', 'toolVersion'):
+                  if field in app and empty_optional(app.get(field)):
+                      bad_optional.append(f"{app.get('name')}: {field}")
+
+          if bad_optional:
+              raise SystemExit(f'❌ Empty optional metadata fields found: {bad_optional[:20]}')
+
           print(f'✅ IPA-AR apps: {len(apps)}')
           print(f"✅ first app: {apps[0].get('name')}")
+          print(f"✅ recommended fields present: {sum(1 for a in apps if 'recommended' in a)}")
+          print(f"✅ toolVersion fields present: {sum(1 for a in apps if 'toolVersion' in a)}")
           PY
 
       - name: Upload previous Arabic source for EN translation
@@ -150,7 +167,7 @@ jobs:
           TRANSLATION_CHUNK_CHARS: '800'
         run: |
           set -euo pipefail
-          python -u sync_apps.py \
+          python -u sync_apps_rules.py \
             --translate-only \
             --target IPA-AR.json \
             --target-en IPA-EN.json \
@@ -172,11 +189,23 @@ jobs:
           if len(ar_apps) != len(en_apps):
               raise SystemExit(f'❌ AR/EN app counts differ: {len(ar_apps)} != {len(en_apps)}')
 
+          metadata_mismatches = []
+          for index, (ar_app, en_app) in enumerate(zip(ar_apps, en_apps)):
+              for field in ('recommended', 'toolVersion'):
+                  if (field in ar_app) != (field in en_app) or ar_app.get(field) != en_app.get(field):
+                      metadata_mismatches.append(
+                          f"#{index} {ar_app.get('name')}: {field} AR={ar_app.get(field)!r} EN={en_app.get(field)!r}"
+                      )
+
+          if metadata_mismatches:
+              raise SystemExit(f'❌ AR/EN optional metadata mismatch: {metadata_mismatches[:20]}')
+
           empty_en = sum(1 for a in en_apps if not str(a.get('localizedDescription') or '').strip())
           print(f'✅ AR apps: {len(ar_apps)}')
           print(f'✅ EN apps: {len(en_apps)}')
           print(f'ℹ️ EN descriptions currently empty: {empty_en}')
           print(f"✅ translation format: {en.get('translationFormatVersion')}")
+          print('✅ recommended/toolVersion copied identically from AR to EN when present')
           PY
 
       - name: Commit English changes
