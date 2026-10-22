@@ -49,6 +49,8 @@ APP_FIELD_ORDER = [
     "iconURL",
     "localizedDescription",
     "category",
+    "recommended",
+    "toolVersion",
     "versions",
     "version",
     "versionDate",
@@ -74,15 +76,20 @@ TRACKED_UPDATE_FIELDS = [
     "category",
     "versions",
     "previousVersions",
+    "recommended",
+    "toolVersion",
 ]
 
-FIELDS_TO_DROP = ("toolVersion", "recommended", "note", "icon", "hidden")
+FIELDS_TO_DROP = ("note", "icon", "hidden")
 
 
 def drop_removed_fields(app):
     if isinstance(app, dict):
         for key in FIELDS_TO_DROP:
             app.pop(key, None)
+        for key in ("recommended", "toolVersion"):
+            if key not in app or is_empty(app.get(key)):
+                app.pop(key, None)
     return app
 
 DATE_FIELDS = {"versionDate", "addedAt", "updatedAt"}
@@ -576,6 +583,60 @@ def changed_field_names(old_app, new_app):
     return changed
 
 
+def latest_version_entry(app):
+    versions = app.get("versions") if isinstance(app, dict) else None
+    if isinstance(versions, list) and versions and isinstance(versions[0], dict):
+        return versions[0]
+    return {}
+
+
+def release_signature(app):
+    latest = latest_version_entry(app)
+    return (
+        clean_text(app.get("version")) if isinstance(app, dict) else "",
+        clean_text(app.get("downloadURL")) if isinstance(app, dict) else "",
+        clean_text(app.get("ipaUrl")) if isinstance(app, dict) else "",
+        clean_text(latest.get("version")),
+        clean_text(first_non_empty(latest.get("downloadURL"), latest.get("ipaUrl"))),
+    )
+
+
+def version_item_key(item):
+    if not isinstance(item, dict):
+        return None
+    version = clean_text(item.get("version"))
+    url = clean_text(first_non_empty(item.get("downloadURL"), item.get("ipaUrl")))
+    if not version and not url:
+        return None
+    return (version, url)
+
+
+def preserve_version_dates(old_app, new_app, release_changed, today):
+    old_versions = old_app.get("versions") if isinstance(old_app, dict) else None
+    new_versions = new_app.get("versions") if isinstance(new_app, dict) else None
+    if not isinstance(new_versions, list):
+        return
+
+    old_dates = {}
+    if isinstance(old_versions, list):
+        for item in old_versions:
+            key = version_item_key(item)
+            if key is not None and isinstance(item, dict) and "date" in item:
+                old_dates[key] = item.get("date")
+
+    for index, item in enumerate(new_versions):
+        if not isinstance(item, dict):
+            continue
+        key = version_item_key(item)
+        if index == 0 and release_changed:
+            item["date"] = today
+        elif key in old_dates:
+            if old_dates[key] is None:
+                item.pop("date", None)
+            else:
+                item["date"] = old_dates[key]
+
+
 def merge_existing_app(existing_app, incoming_app, today):
     updated = copy.deepcopy(existing_app)
     original_dates = {key: updated.get(key) for key in DATE_FIELDS if key in updated}
@@ -587,35 +648,22 @@ def merge_existing_app(existing_app, incoming_app, today):
     for key, value in incoming_app.items():
         if key in DATE_FIELDS:
             continue
-        updated[key] = value
+        updated[key] = copy.deepcopy(value)
 
     changed = changed_field_names(existing_app, updated)
+    release_changed = release_signature(existing_app) != release_signature(updated)
 
     for key in DATE_FIELDS:
-        if key in updated:
-            updated.pop(key, None)
+        updated.pop(key, None)
         if key in original_dates:
             updated[key] = original_dates[key]
 
-    if changed:
+    if release_changed:
         updated["versionDate"] = today
         updated["updatedAt"] = today
-        if is_empty(updated.get("addedAt")):
-            updated["addedAt"] = today
-    else:
-        if is_empty(updated.get("versionDate")):
-            updated["versionDate"] = normalize_version_date(incoming_app.get("versionDate")) or today
-        if is_empty(updated.get("updatedAt")) and not is_empty(incoming_app.get("updatedAt")):
-            updated["updatedAt"] = normalize_version_date(incoming_app.get("updatedAt"))
-        if is_empty(updated.get("addedAt")) and not is_empty(incoming_app.get("addedAt")):
-            updated["addedAt"] = normalize_version_date(incoming_app.get("addedAt"))
 
-    updated["versionDate"] = normalize_version_date(updated.get("versionDate")) or today
-    if not is_empty(updated.get("addedAt")):
-        updated["addedAt"] = normalize_version_date(updated.get("addedAt"))
-    if not is_empty(updated.get("updatedAt")):
-        updated["updatedAt"] = normalize_version_date(updated.get("updatedAt"))
-
+    preserve_version_dates(existing_app, updated, release_changed, today)
+    drop_removed_fields(updated)
     return order_dict(updated, APP_FIELD_ORDER), changed
 
 

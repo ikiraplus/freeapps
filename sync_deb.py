@@ -209,7 +209,6 @@ def normalize_app(raw):
     if "name" in app:
         app["name"] = clean_text(app.get("name"))
 
-    # Match IPA-AR naming/format rules.
     if is_empty(app.get("downloadURL")) and not is_empty(app.get("ipaUrl")):
         app["downloadURL"] = clean_text(app.get("ipaUrl"))
     if is_empty(app.get("ipaUrl")) and not is_empty(app.get("downloadURL")):
@@ -247,15 +246,12 @@ def normalize_app(raw):
     else:
         app.pop("versions", None)
 
-    # Keep optional metadata only when the source actually has a value.
-    # False is a real value for recommended and must be preserved.
     for field in OPTIONAL_FIELDS:
         if field not in raw or is_empty(raw.get(field)):
             app.pop(field, None)
         else:
             app[field] = raw.get(field)
 
-    # Empty bundle fields are not useful in the public feed.
     for field in ("bundleIdentifier", "bundleId", "developerName", "category", "fileType", "version"):
         if field in app and isinstance(app.get(field), str):
             cleaned = clean_text(app.get(field))
@@ -345,8 +341,6 @@ def merge_existing(old_app, incoming, today):
     merged = copy.deepcopy(incoming)
     release_changed = release_signature(old_app) != release_signature(merged)
 
-    # Existing dates survive metadata-only edits. Only version / app URL /
-    # current-release URL changes count as a real update.
     for field in DATE_FIELDS:
         if field in old_app:
             merged[field] = old_app.get(field)
@@ -364,7 +358,6 @@ def merge_existing(old_app, incoming, today):
 
 
 def seed_from_source(incoming):
-    """First creation keeps the source's historical dates instead of stamping everything today."""
     return order_dict(copy.deepcopy(incoming), APP_FIELD_ORDER)
 
 
