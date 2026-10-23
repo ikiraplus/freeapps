@@ -2642,23 +2642,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.8.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agar.io_sharkmod_1.8.8",
-          "date": "2026-09-15",
-          "size": 142291763
+          "version": "2.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agario-shark-mod-2.0.0",
+          "date": "2026-10-23",
+          "size": 135685734
         },
         {
-          "version": "2.24.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agario-shark"
+          "version": "1.8.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agar.io_sharkmod_1.8.8",
+          "date": "2026-09-15"
         }
       ],
-      "version": "1.8.8",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agar.io_sharkmod_1.8.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/agar.io_sharkmod_1.8.8",
-      "size": 142291763,
+      "version": "2.0.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/agario-shark-mod-2.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/agario-shark-mod-2.0.0",
+      "size": 135685734,
       "addedAt": "2026-09-15",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "APP-4624948966",
@@ -3503,29 +3504,30 @@
       "name": "Mob Control",
       "bundleIdentifier": "com.vincentb.MobControl",
       "bundleId": "com.vincentb.MobControl",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/47/9f/b9479f72-3bd6-4b1f-4817-b6ea30d05832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ef/f3/3beff359-037c-610c-74f3-257027a0085e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- عملات غير محدودة.\n- Skip’Its غير محدودة.\n- نجوم غير محدودة.\n- Bricks غير محدودة.\n- Earned Bricks غير محدودة.\n- Cards غير محدودة وتزداد بدلاً من أن تنقص.\n- إزالة متطلبات البطاقات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "3.23.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.23.4",
-          "date": "2026-10-13",
-          "size": 420478976
+          "version": "3.24.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.24.3",
+          "date": "2026-10-23",
+          "size": 422156697
         },
         {
-          "version": "3.22.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.22.6"
+          "version": "3.23.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.23.4",
+          "date": "2026-10-13"
         }
       ],
-      "version": "3.23.4",
-      "versionDate": "2026-10-13",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.23.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.23.4",
-      "size": 420478976,
+      "version": "3.24.3",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.24.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mob-control_3.24.3",
+      "size": 422156697,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-23",
       "_rowKey": 130
     },
     {
@@ -4194,29 +4196,30 @@
       "name": "CSR 2 - Realistic Drag Racing",
       "bundleIdentifier": "com.naturalmotion.customstreetracer2",
       "bundleId": "com.naturalmotion.customstreetracer2",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/0e/44/e30e44aa-062b-2957-638d-06b498c990fb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/08/ae/8808aef7-35fe-6a80-763a-25b2c8920ea7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- نقود غير محدودة.\n- ذهب غير محدود.\n- مفاتيح غير محدودة.\n- وقود مجاني.\n- الوصول إلى أعلى مستوى.\n- إضعاف الذكاء الاصطناعي للمنافسين.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "6.7.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr2-realistic-drag-racing_6.7.2",
-          "date": "2026-09-30",
-          "size": 1847590912
+          "version": "6.8.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr-racing-2.6.8.0",
+          "date": "2026-10-23",
+          "size": 1511732019
         },
         {
-          "version": "6.7.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr-racing-2.6.7.1"
+          "version": "6.7.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr2-realistic-drag-racing_6.7.2",
+          "date": "2026-09-30"
         }
       ],
-      "version": "6.7.2",
-      "versionDate": "2026-09-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr2-realistic-drag-racing_6.7.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/csr2-realistic-drag-racing_6.7.2",
-      "size": 1847590912,
+      "version": "6.8.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/csr-racing-2.6.8.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/csr-racing-2.6.8.0",
+      "size": 1511732019,
       "addedAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "APP-9834711314",
@@ -8576,29 +8579,30 @@
       "name": "Coin Master",
       "bundleIdentifier": "com.mobile-softing.coinmaster",
       "bundleId": "com.mobile-softing.coinmaster",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/22/5b/3b225b5b-df7e-2f5e-fbc5-1727a1cfa4d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/da/7a/27da7aa5-d3fb-a1dc-ce09-6e92750053e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- إضافة iGameGod للتحكم بسرعة اللعبة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "3.5.2703",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2703",
-          "date": "2026-09-15",
-          "size": 118698803
+          "version": "3.5.2751",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2751",
+          "date": "2026-10-23",
+          "size": 113141350
         },
         {
-          "version": "3.5.2670",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2670"
+          "version": "3.5.2703",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2703",
+          "date": "2026-09-15"
         }
       ],
-      "version": "3.5.2703",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2703",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2703",
-      "size": 118698803,
+      "version": "3.5.2751",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2751",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coin-master-3.5.2751",
+      "size": 113141350,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-23",
       "_rowKey": 321
     },
     {
@@ -9447,29 +9451,30 @@
       "name": "Last Asylum: Plague",
       "bundleIdentifier": "com.phs.global.ios",
       "bundleId": "com.phs.global.ios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/54/18/3c5418f2-060c-1680-3ac2-4210a983f94a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/21/40/71214016-90e2-fa58-f446-3bf6788a11d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- سرعة حركة فائقة.\n- شفاء سريع للشخصية.\n- زيادة مدى الشفاء وجمع العملات.\n- جمع العملات بسرعة أكبر.\n- شفاء عدة غرف في الوقت نفسه.\n- القضاء الفوري على الفئران في الفعاليات المخصّصة لذلك.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.0.65",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.65",
-          "date": "2026-09-22",
-          "size": 513068236
+          "version": "1.0.66",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-plague_1.0.66",
+          "date": "2026-10-23",
+          "size": 719113420
         },
         {
-          "version": "1.0.64",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-plague_1.0.64"
+          "version": "1.0.65",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.65",
+          "date": "2026-09-22"
         }
       ],
-      "version": "1.0.65",
-      "versionDate": "2026-09-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.65",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-asylum-1.0.65",
-      "size": 513068236,
+      "version": "1.0.66",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-asylum-plague_1.0.66",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-asylum-plague_1.0.66",
+      "size": 719113420,
       "addedAt": "2026-09-22",
-      "updatedAt": "2026-09-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "APP-2536239727",
@@ -9783,33 +9788,32 @@
     },
     {
       "id": "APP-6250762961",
-      "name": "Dragoncity",
+      "name": "Dragon City",
       "bundleIdentifier": "es.socialpoint.dragoncity",
       "bundleId": "es.socialpoint.dragoncity",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/b0/dd/09b0ddd9-0911-0301-719d-7fdf2043a862/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/APP-6250762961.png",
       "localizedDescription": "مميزات اللعبة:\n- وضع عدم الموت.\n- القضاء على الأعداء بضربة واحدة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "26.12.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragoncity-26.12.0-1",
-          "date": "2026-09-12",
-          "size": 196712857
+          "version": "26.14.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragon-city-battle-adventure_26.14.0",
+          "date": "2026-10-23",
+          "size": 407476633
         },
         {
-          "version": "26.10.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragoncity-26.10.4"
+          "version": "26.12.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragoncity-26.12.0-1"
         }
       ],
-      "version": "26.12.0",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragoncity-26.12.0-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragoncity-26.12.0-1",
-      "size": 196712857,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
-      "_rowKey": 366
+      "version": "26.14.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragon-city-battle-adventure_26.14.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragon-city-battle-adventure_26.14.0",
+      "size": 407476633,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "APP-8273658564",
@@ -10081,23 +10085,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "32.0.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v32.0.10",
-          "date": "2026-08-30",
-          "size": 168611020
+          "version": "34.0.27",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v34.0.27",
+          "date": "2026-10-23",
+          "size": 157600972
         },
         {
-          "version": "30.4.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz3-v30.4.9"
+          "version": "32.0.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v32.0.10",
+          "date": "2026-08-30"
         }
       ],
-      "version": "32.0.10",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v32.0.10",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v32.0.10",
-      "size": 168611020,
+      "version": "34.0.27",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v34.0.27",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pvz-3-v34.0.27",
+      "size": 157600972,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-20",
+      "updatedAt": "2026-10-23",
       "_rowKey": 376
     },
     {
@@ -11464,29 +11469,30 @@
       "name": "Power Zone: PvP Online Shooter",
       "bundleIdentifier": "com.sensusgames.powerzone",
       "bundleId": "com.sensusgames.powerzone",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/a2/a7/b7a2a717-fef5-d668-07b2-b8e184300ab2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/b5/66/bfb5665b-cc95-4214-9e4b-6cc265901ebc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- المشتريات داخل اللعبة مجاناً.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-zone-pv-p-online-shooter_3.0",
-          "date": "2026-10-08",
-          "size": 909115392
+          "version": "3.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-zone-pv-p-online-shooter_3.0.2",
+          "date": "2026-10-23",
+          "size": 915616563
         },
         {
-          "version": "1.7.30",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power_zone_battle_royale_hack"
+          "version": "3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-zone-pv-p-online-shooter_3.0",
+          "date": "2026-10-08"
         }
       ],
-      "version": "3.0",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-zone-pv-p-online-shooter_3.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/power-zone-pv-p-online-shooter_3.0",
-      "size": 909115392,
+      "version": "3.0.2",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-zone-pv-p-online-shooter_3.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/power-zone-pv-p-online-shooter_3.0.2",
+      "size": 915616563,
       "addedAt": "2026-10-08",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "APP-9118449335",
@@ -13330,29 +13336,30 @@
       "name": "Monster Legends - RPG game",
       "bundleIdentifier": "es.socialpoint.MonsterCity",
       "bundleId": "es.socialpoint.MonsterCity",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/84/c4/2584c45e-3f29-df47-9c08-5befe29ec5ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/APP-5674410804.png",
       "localizedDescription": "مميزات التطبيق:\n- قتل بضربة واحدة.\n- تخطي دور العدو.\n- الحصول دائماً على 3 نجوم.\n- استخدام المهارات بدون تكلفة.\n- مضاعفة قوة الهجوم.\n- مضاعفة قوة الدفاع.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "20.3.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monster-legends-battle-game_20.3.1",
-          "date": "2026-10-08",
-          "size": 289511833
+          "version": "20.4.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monster-legends-battle-game_20.4.3",
+          "date": "2026-10-23",
+          "size": 335334604
         },
         {
-          "version": "20.2.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monsters-20.2.8"
+          "version": "20.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monster-legends-battle-game_20.3.1",
+          "date": "2026-10-08"
         }
       ],
-      "version": "20.3.1",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monster-legends-battle-game_20.3.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monster-legends-battle-game_20.3.1",
-      "size": 289511833,
+      "version": "20.4.3",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monster-legends-battle-game_20.4.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monster-legends-battle-game_20.4.3",
+      "size": 335334604,
       "addedAt": "2026-10-08",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "APP-2965198718",
@@ -14031,29 +14038,30 @@
       "name": "Zooba: Zoo Battle Royale Games",
       "bundleIdentifier": "com.fungames.battleroyale",
       "bundleId": "com.fungames.battleroyale",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/b9/67/7cb9672e-ae94-a320-4dff-a812a05383f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a6/a3/5ea6a37c-7bcd-c64f-29b3-1b932a8ba2a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- خريطة معدلة لعرض مواقع اللاعبين.\n- إمكانية إطلاق النار أثناء التواجد في الماء.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "7.3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zooba-zoo-battle-royale-games_7.3.0",
-          "date": "2026-10-11",
-          "size": 404645478
+          "version": "7.4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zooba-zoo-battle-royale-games_7.4.2",
+          "date": "2026-10-23",
+          "size": 397620019
         },
         {
-          "version": "6.22.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zooba_zoo"
+          "version": "7.3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zooba-zoo-battle-royale-games_7.3.0",
+          "date": "2026-10-11"
         }
       ],
-      "version": "7.3.0",
-      "versionDate": "2026-10-11",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zooba-zoo-battle-royale-games_7.3.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zooba-zoo-battle-royale-games_7.3.0",
-      "size": 404645478,
+      "version": "7.4.2",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zooba-zoo-battle-royale-games_7.4.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zooba-zoo-battle-royale-games_7.4.2",
+      "size": 397620019,
       "addedAt": "2026-10-11",
-      "updatedAt": "2026-10-11"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "APP-9181011313",
@@ -14256,29 +14264,30 @@
       "name": "Cooking Diary",
       "bundleIdentifier": "com.mytonallc.cookingdiary",
       "bundleId": "com.mytonallc.cookingdiary",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/72/1e/41721efa-38ac-4c0f-7dd3-167f026efe7e/AppIcon-1x_U007emarketing-0-10-0-P3-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/e3/ba/dde3ba78-7863-5587-60c1-b1202bc16626/AppIcon-1x_U007emarketing-0-10-0-P3-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "مميزات التطبيق:\n- عملات غير محدودة.\n- تجميد المعززات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "2.58.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cooking-diary-restaurant-game_2.58.1",
-          "date": "2026-10-20",
-          "size": 845781401
+          "version": "2.58.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cooking-diary-restaurant-game_2.58.2",
+          "date": "2026-10-23",
+          "size": 845257113
         },
         {
-          "version": "2.58.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cookingdiary-v2.58.0"
+          "version": "2.58.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cooking-diary-restaurant-game_2.58.1",
+          "date": "2026-10-20"
         }
       ],
-      "version": "2.58.1",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cooking-diary-restaurant-game_2.58.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cooking-diary-restaurant-game_2.58.1",
-      "size": 845781401,
+      "version": "2.58.2",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cooking-diary-restaurant-game_2.58.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cooking-diary-restaurant-game_2.58.2",
+      "size": 845257113,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-20",
+      "updatedAt": "2026-10-23",
       "_rowKey": 534
     },
     {
@@ -14655,25 +14664,30 @@
       "name": "Kamnyang Knight",
       "bundleIdentifier": "com.cloverdy.cat",
       "bundleId": "com.cloverdy.cat",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/ab/04/21ab0435-cee2-8982-139d-6d9bdb86c5c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/38/fe/5538fe98-1fd0-0269-af15-71ad09ff7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- رفع قوة الهجوم والصحة إلى الحد الأقصى.\n- زيادة الضرر الحرج.\n- زيادة سرعة الهجوم والحركة.\n- زيادة الذهب المكتسب.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.0.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.0.10",
+          "date": "2026-10-23",
+          "size": 296537292
+        },
+        {
           "version": "0.9.12",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-0.9.12",
-          "date": "2026-08-24",
-          "size": 153406668
+          "date": "2026-08-24"
         }
       ],
-      "version": "0.9.12",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-0.9.12",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-0.9.12",
-      "size": 153406668,
+      "version": "1.0.10",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.0.10",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.0.10",
+      "size": 296537292,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-23",
       "_rowKey": 549
     },
     {
@@ -27038,29 +27052,30 @@
       "name": "Elite Auto Brasil : Moto Grau",
       "bundleIdentifier": "com.SoltyGames.EliteAutoBrasil",
       "bundleId": "com.SoltyGames.EliteAutoBrasil",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/73/44/d4734486-fe19-fc9d-b453-2220342fa031/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/97/02/8197022c-9a8d-f73a-2c32-63d8763c4d9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- إضافة 10,000,000 من المال.\n- بعد التفعيل افتح المتجر لتحديث الرصيد.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elite-auto-brasil-1.1",
-          "date": "2026-10-08",
-          "size": 429706444
+          "version": "1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elite-auto-brasil-moto-grau_1.3",
+          "date": "2026-10-23",
+          "size": 1193384345
         },
         {
-          "version": "0.99",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elite-auto-brasil-0.99"
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elite-auto-brasil-1.1",
+          "date": "2026-10-08"
         }
       ],
-      "version": "1.1",
-      "versionDate": "2026-10-09",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elite-auto-brasil-1.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elite-auto-brasil-1.1",
-      "size": 429706444,
+      "version": "1.3",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elite-auto-brasil-moto-grau_1.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elite-auto-brasil-moto-grau_1.3",
+      "size": 1193384345,
       "addedAt": "2026-09-18",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1789715711722",
@@ -27073,19 +27088,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "0.776.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dungeon-slasher_0.776.2",
+          "date": "2026-10-23",
+          "size": 1350985318
+        },
+        {
           "version": "0.774.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dungeonslasher-0.774.2",
-          "date": "2026-09-18",
-          "size": 534983475
+          "date": "2026-09-18"
         }
       ],
-      "version": "0.774.2",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dungeonslasher-0.774.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dungeonslasher-0.774.2",
-      "size": 534983475,
+      "version": "0.776.2",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dungeon-slasher_0.776.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dungeon-slasher_0.776.2",
+      "size": 1350985318,
       "addedAt": "2026-09-18",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1789715755600",
@@ -27430,28 +27450,33 @@
     },
     {
       "id": "app-1789761374341",
-      "name": "Blue Lock Pwc",
+      "name": "BLUE LOCK PWC",
       "bundleIdentifier": "jp.pjfbgl",
       "bundleId": "jp.pjfbgl",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/cb/d1/73cbd14d-4516-5f45-e5ff-4745b9c08889/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/11/77/fa11779f-2d17-0345-dbee-37ff4965d508/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة إحصائيات اللاعب.\n- تقليل إحصائيات الخصم.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "5.9.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bluelockpwc_5.9.0",
+          "date": "2026-10-23",
+          "size": 340053196
+        },
+        {
           "version": "5.8.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blue-lock-pwc_5.8.0",
-          "date": "2026-09-18",
-          "size": 340158054
+          "date": "2026-09-18"
         }
       ],
-      "version": "5.8.0",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blue-lock-pwc_5.8.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blue-lock-pwc_5.8.0",
-      "size": 340158054,
+      "version": "5.9.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bluelockpwc_5.9.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bluelockpwc_5.9.0",
+      "size": 340053196,
       "addedAt": "2026-09-19",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1789761439540",
@@ -27592,25 +27617,30 @@
       "name": "Train Station 3 Rail Tycoon",
       "bundleIdentifier": "com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator",
       "bundleId": "com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/e1/98/62e19861-67fa-359f-0205-78cca90d4be7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/75/2a/e1752a33-6668-e005-77cc-71481d901f6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- تخطّي الإعلانات والحصول على مكافآتها.\n- الحصول على مكافآت الإعلانات من دون وقت انتظار.\n- وقود غير محدود عملياً.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "2.5.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/trainstation3railtycoon_2.5.1",
+          "date": "2026-10-23",
+          "size": 548510105
+        },
+        {
           "version": "2.4.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/train-station-3-rail-tycoon_2.4.1",
-          "date": "2026-09-18",
-          "size": 542113792
+          "date": "2026-09-18"
         }
       ],
-      "version": "2.4.1",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/train-station-3-rail-tycoon_2.4.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/train-station-3-rail-tycoon_2.4.1",
-      "size": 542113792,
+      "version": "2.5.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/trainstation3railtycoon_2.5.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/trainstation3railtycoon_2.5.1",
+      "size": 548510105,
       "addedAt": "2026-09-19",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1789761837892",
@@ -28387,29 +28417,30 @@
       "name": "Match Factory",
       "bundleIdentifier": "net.peakgames.match",
       "bundleId": "net.peakgames.match",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/a8/f0/96a8f01a-d130-f69b-0a3e-0e8347de7e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/05/0e/7b050ea0-6b65-38d8-96ee-836fcc83eb08/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- كل شيء غير محدود ويزداد بدلاً من أن ينقص عند استخدام العملات المعدنية للطاقة.\n- فوز تلقائي عند التقاط عنصر.\n- وقت غير محدود ولا ينقص.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.78.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.78.4",
-          "date": "2026-10-08",
-          "size": 465567744
+          "version": "1.79.79",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.79.79",
+          "date": "2026-10-23",
+          "size": 455920844
         },
         {
-          "version": "1.77.119",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.77.119"
+          "version": "1.78.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.78.4",
+          "date": "2026-10-08"
         }
       ],
-      "version": "1.78.4",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.78.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.78.4",
-      "size": 465567744,
+      "version": "1.79.79",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.79.79",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/match-factory_1.79.79",
+      "size": 455920844,
       "addedAt": "2026-09-22",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790102067934",
@@ -29806,29 +29837,30 @@
       "name": "Eternal Hero Action Rpg",
       "bundleIdentifier": "games.rivvy.eternalherorpg",
       "bundleId": "games.rivvy.eternalherorpg",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/1b/d2/511bd203-cc8b-bed6-34d2-66d09b6e8a27/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/00/5c/0c005cff-437d-7a54-6e5c-913b3de1f940/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- مضاعفة الضرر.\n- مضاعفة الدفاع.\n- مضاعفة XP.\n- مضاعفة Adventure Mastery XP.\n- مضاعفة Profession XP.\n- مضاعفة الغنائم.\n- تجميد العملات.\n- تجميد Labour Points.\n- Tower Entries غير محدودة.\n- Eternal Rift Entries غير محدودة.\n- Labyrinth Entries غير محدودة.\n- Proving Grounds Entries غير محدودة.\n- بدون إعلانات.\n- فتح Hero Pass.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "4.2.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eternal-hero-action-rpg_4.2.0",
-          "date": "2026-10-12",
+          "version": "4.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eternal-hero-action-rpg_4.2.1",
+          "date": "2026-10-23",
           "size": 816735846
         },
         {
-          "version": "4.1.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eternal-hero-action-rpg_4.1.3"
+          "version": "4.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eternal-hero-action-rpg_4.2.0",
+          "date": "2026-10-12"
         }
       ],
-      "version": "4.2.0",
-      "versionDate": "2026-10-12",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eternal-hero-action-rpg_4.2.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/eternal-hero-action-rpg_4.2.0",
+      "version": "4.2.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/eternal-hero-action-rpg_4.2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/eternal-hero-action-rpg_4.2.1",
       "size": 816735846,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790324281745",
@@ -29939,25 +29971,30 @@
       "name": "Deepstash Smarter Every Day",
       "bundleIdentifier": "com.deepstash.application",
       "bundleId": "com.deepstash.application",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/cf/36/e8cf368e-a7eb-c2d0-b1ab-b23b4a8ade07/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/c0/85/26c08554-8ee6-1b7f-0e48-d16926936a0a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "localizedDescription": "تم فتح جميع المميزات.\n- سجل الدخول بأي حساب لتفعيلها.",
       "category": "أدوات",
       "recommended": false,
       "versions": [
         {
+          "version": "33.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/deepstash-smarter-every-day_33.1.0",
+          "date": "2026-10-23",
+          "size": 164626432
+        },
+        {
           "version": "32.7.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/deepstash-smarter-every-day_32.7.2",
-          "date": "2026-09-25",
-          "size": 209086054
+          "date": "2026-09-25"
         }
       ],
-      "version": "32.7.2",
-      "versionDate": "2026-09-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/deepstash-smarter-every-day_32.7.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/deepstash-smarter-every-day_32.7.2",
-      "size": 209086054,
+      "version": "33.1.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/deepstash-smarter-every-day_33.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/deepstash-smarter-every-day_33.1.0",
+      "size": 164626432,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790324427970",
@@ -30384,25 +30421,30 @@
       "name": "I'm Dead",
       "bundleIdentifier": "com.naddic.iamdead",
       "bundleId": "com.naddic.iamdead",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/04/5b/51045bdf-63d9-c192-9392-67695a3cbf31/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1790345809137.png",
       "localizedDescription": "- مضاعفة الضرر.\n- مضاعفة الدفاع.\n- مضاعفة العملة.\n- مضاعفة الخبرة.\n- مضاعفة سرعة الحركة.\n- بدون تصويب (ADS).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "0.1.229",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/im-dead_0.1.229",
+          "date": "2026-10-23",
+          "size": 509188505
+        },
+        {
           "version": "0.1.219",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/im-dead_0.1.219",
-          "date": "2026-09-25",
-          "size": 536766054
+          "date": "2026-09-25"
         }
       ],
-      "version": "0.1.219",
-      "versionDate": "2026-09-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/im-dead_0.1.219",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/im-dead_0.1.219",
-      "size": 536766054,
+      "version": "0.1.229",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/im-dead_0.1.229",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/im-dead_0.1.229",
+      "size": 509188505,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790345826192",
@@ -30768,23 +30810,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "2.6.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/salatuk_2.6.0",
-          "date": "2026-10-08",
-          "size": 182661939
+          "version": "2.6.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/salatuk_2.6.1",
+          "date": "2026-10-23",
+          "size": 201326592
         },
         {
-          "version": "2.5.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/salatuk_2.5.8"
+          "version": "2.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/salatuk_2.6.0",
+          "date": "2026-10-08"
         }
       ],
-      "version": "2.6.0",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/salatuk_2.6.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/salatuk_2.6.0",
-      "size": 182661939,
+      "version": "2.6.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/salatuk_2.6.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/salatuk_2.6.1",
+      "size": 201326592,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790347905360",
@@ -31636,22 +31679,27 @@
       "localizedDescription": "- تنزيل الفيديوهات والصوتيات والترجمات والصور المصغرة ومعلومات الفيديو بجودة تصل إلى 1080p60.\n- تشغيل الفيديو والصوت في الخلفية.\n- دعم SponsorBlock لتخطي المقاطع الدعائية والرعايات تلقائياً.\n- ثيم OLED مع دعم OLED Keyboard.\n- تخصيص وإخفاء عناصر شريط التنقل والواجهة والمشغل وإضافة Custom Actions.\n- تخصيص واجهة Shorts وإخفاء عناصرها وتنزيل Shorts مباشرة من المعاينات.\n- إعادة ترتيب تبويبات YouTube وإخفاء العناصر غير المرغوبة.\n- إضافة زر لكتم الصوت وزر لقفل الشاشة أثناء المشاهدة.\n- الحفاظ على مستوى صوت مستقر أثناء تشغيل الوسائط.\n- إزالة المعرّفات الإضافية من روابط المشاركة.\n- تضمين الصور المصغرة داخل الفيديوهات التي تم تنزيلها.\n- يتضمن Fix Playback Issues لمعالجة بعض مشاكل تشغيل المحتوى.\n- تحسينات إضافية مستوحاة من YouMod وKillerPlus.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "6.0",
+      "toolVersion": "6.0.2",
       "versions": [
+        {
+          "version": "21.42.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-21.42.4-ytplus-6.0b2",
+          "date": "2026-10-23",
+          "size": 156028108
+        },
         {
           "version": "21.38.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytplus_6.0",
-          "date": "2026-09-25",
-          "size": 147849216
+          "date": "2026-09-25"
         }
       ],
-      "version": "21.38.2",
-      "versionDate": "2026-09-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ytplus_6.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ytplus_6.0",
-      "size": 147849216,
+      "version": "21.42.4",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/youtube-21.42.4-ytplus-6.0b2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/youtube-21.42.4-ytplus-6.0b2",
+      "size": 156028108,
       "addedAt": "2026-09-26",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790368944021",
@@ -31683,25 +31731,30 @@
       "name": "Power Rangers: Legacy Wars",
       "bundleIdentifier": "com.nway.powerrangerslegacywars",
       "bundleId": "com.nway.powerrangerslegacywars",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/c1/b5/e1c1b527-721a-c199-2a96-b4e20705d53b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/fa/b1/b8fab12b-6e79-d44f-7b21-cbb6a7517b64/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "- مضاعف الضرر لزيادة قوة الهجوم.\n- مضاعف الدفاع لتقليل الضرر المستلم.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "3.8.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-rangers-legacy-wars_3.8.11",
+          "date": "2026-10-23",
+          "size": 321493401
+        },
+        {
           "version": "3.8.9",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-rangers-3.8.9-1",
-          "date": "2026-09-25",
-          "size": 167143014
+          "date": "2026-09-25"
         }
       ],
-      "version": "3.8.9",
-      "versionDate": "2026-09-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-rangers-3.8.9-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/power-rangers-3.8.9-1",
-      "size": 167143014,
+      "version": "3.8.11",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/power-rangers-legacy-wars_3.8.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/power-rangers-legacy-wars_3.8.11",
+      "size": 321493401,
       "addedAt": "2026-09-26",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790369877853",
@@ -32637,25 +32690,30 @@
       "name": "Pixel Defenders Merge Td Game",
       "bundleIdentifier": "com.ondi.fortias.defense",
       "bundleId": "com.ondi.fortias.defense",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/c1/7b/fac17b3b-5578-0814-f247-658bff64c316/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/57/85/e85785f0-5728-8465-a41e-4d0dc1c419ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- مضاعف ضرر الوحدة.\n- مضاعف دفاع الوحدة.\n- وضع الخلود للوحدة.\n- مضاعف دفاع القلعة.\n- القلعة خالدة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.0.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.11",
+          "date": "2026-10-23",
+          "size": 697303040
+        },
+        {
           "version": "1.0.8",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.8",
-          "date": "2026-09-28",
-          "size": 672976076
+          "date": "2026-09-28"
         }
       ],
-      "version": "1.0.8",
-      "versionDate": "2026-09-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.8",
-      "size": 672976076,
+      "version": "1.0.11",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.11",
+      "size": 697303040,
       "addedAt": "2026-09-28",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790604533428",
@@ -33212,25 +33270,30 @@
       "name": "Kingdom Reborn Life Simulator",
       "bundleIdentifier": "com.kingdomreborn.app",
       "bundleId": "com.kingdomreborn.app",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/86/d6/d886d651-d21f-15ec-386c-d10074256a45/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/66/7d/bf667de7-beb2-f019-cae8-8d1fcbeea821/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- العملات.\n- الشخصيات المهمة.\n- الباقات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kingdom-reborn-life-simulator_1.4.2",
+          "date": "2026-10-23",
+          "size": 390909132
+        },
+        {
           "version": "1.3.4",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kingdom-reborn-life-simulator_1.3.4",
-          "date": "2026-09-30",
-          "size": 380737945
+          "date": "2026-09-30"
         }
       ],
-      "version": "1.3.4",
-      "versionDate": "2026-10-01",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kingdom-reborn-life-simulator_1.3.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kingdom-reborn-life-simulator_1.3.4",
-      "size": 380737945,
+      "version": "1.4.2",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kingdom-reborn-life-simulator_1.4.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kingdom-reborn-life-simulator_1.4.2",
+      "size": 390909132,
       "addedAt": "2026-09-30",
-      "updatedAt": "2026-10-01"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790793187266",
@@ -33666,29 +33729,30 @@
       "name": "Fortblox Mobile Fortress Go",
       "bundleIdentifier": "global.hyperrise.wl",
       "bundleId": "global.hyperrise.wl",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/d9/58/e7d958d1-572a-eb17-a3c1-97c64f8cdcec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/a6/3b/11a63bc0-3635-d25e-fe12-284e97feb365/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- مضاعفة الدفاع.\n- مضاعفة سرعة الهجوم.\n- مضاعفة سرعة الحركة.\n- بدون تصويب (ADS).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.2.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortblox-mobile-fortress-go_1.2.9",
-          "date": "2026-10-20",
-          "size": 403701760
+          "version": "1.2.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortblox-mobile-fortress-go_1.2.11",
+          "date": "2026-10-23",
+          "size": 397095731
         },
         {
-          "version": "1.2.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortblox-mobile-fortress-go_1.2.5"
+          "version": "1.2.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortblox-mobile-fortress-go_1.2.9",
+          "date": "2026-10-20"
         }
       ],
-      "version": "1.2.9",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortblox-mobile-fortress-go_1.2.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fortblox-mobile-fortress-go_1.2.9",
-      "size": 403701760,
+      "version": "1.2.11",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortblox-mobile-fortress-go_1.2.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fortblox-mobile-fortress-go_1.2.11",
+      "size": 397095731,
       "addedAt": "2026-09-30",
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790794186713",
@@ -34605,25 +34669,30 @@
       "name": "Hero Wars Alliance Fantasy",
       "bundleIdentifier": "com.nexters.titanhunters",
       "bundleId": "com.nexters.titanhunters",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/36/1e/0e361ecb-35d4-50c1-b711-113be9ff8c10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1790951814663.png",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- مضاعفة الدفاع.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.292.300",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hero-wars-alliance-fantasy_1.292.300",
+          "date": "2026-10-23",
+          "size": 454662553
+        },
+        {
           "version": "1.290.204",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hero-wars-alliance-fantasy_1.290.204",
-          "date": "2026-10-02",
-          "size": 399822028
+          "date": "2026-10-02"
         }
       ],
-      "version": "1.290.204",
-      "versionDate": "2026-10-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hero-wars-alliance-fantasy_1.290.204",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hero-wars-alliance-fantasy_1.290.204",
-      "size": 399822028,
+      "version": "1.292.300",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hero-wars-alliance-fantasy_1.292.300",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hero-wars-alliance-fantasy_1.292.300",
+      "size": 454662553,
       "addedAt": "2026-10-02",
-      "updatedAt": "2026-10-02"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790951978142",
@@ -35117,25 +35186,30 @@
       "name": "Hunters Origin: MMORPG",
       "bundleIdentifier": "com.hunters.legacy",
       "bundleId": "com.hunters.legacy",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/21/20/192120f4-74e9-ba09-65e4-d59e84004f33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/e1/ec/37e1eca2-b89f-721a-c744-5728ee461d87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- مضاعفة الدفاع.\n- وضع الإله.\n- تخطي البرنامج التعليمي.\n- ملاحظة: استخدام هذه المميزات قد يعرض الحساب للحظر.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "2.0.10",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hunters-origin_2.0.10",
+          "date": "2026-10-23",
+          "size": 486434406
+        },
+        {
           "version": "2.0.8",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hunters-origin-2.0.8",
-          "date": "2026-10-02",
-          "size": 206988902
+          "date": "2026-10-02"
         }
       ],
-      "version": "2.0.8",
-      "versionDate": "2026-10-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hunters-origin-2.0.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hunters-origin-2.0.8",
-      "size": 206988902,
+      "version": "2.0.10",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hunters-origin_2.0.10",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hunters-origin_2.0.10",
+      "size": 486434406,
       "addedAt": "2026-10-02",
-      "updatedAt": "2026-10-02"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1790958729355",
@@ -35912,25 +35986,30 @@
       "name": "Pocket Love",
       "bundleIdentifier": "com.hyperbeard.pocketlove",
       "bundleId": "com.hyperbeard.pocketlove",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/3e/6b/fc3e6bf6-78fa-2512-a9bb-a497ed89e27e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1791464875560.png",
       "localizedDescription": "مميزات اللعبة:\n- عملات غير محدودة.\n- عمليات الشراء داخل التطبيق مجانية بعد تفعيلها من قائمة تعديل iOSGods.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "4.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-love_4.8",
+          "date": "2026-10-23",
+          "size": 637743923
+        },
+        {
           "version": "4.7",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-love_4.7",
-          "date": "2026-10-08",
-          "size": 635856486
+          "date": "2026-10-08"
         }
       ],
-      "version": "4.7",
-      "versionDate": "2026-10-09",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-love_4.7",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pocket-love_4.7",
-      "size": 635856486,
+      "version": "4.8",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-love_4.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pocket-love_4.8",
+      "size": 637743923,
       "addedAt": "2026-10-08",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1791464974333",
@@ -36416,25 +36495,30 @@
       "name": "Sand Loop",
       "bundleIdentifier": "com.pc.sand.loop",
       "bundleId": "com.pc.sand.loop",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/7d/65/a67d650c-9a87-5784-3abd-0ba51de8f6ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/40/ae/5340aeb6-67be-dad7-36ca-4a507337434b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- الإنفاق يزيد الموارد بدلاً من إنقاصها.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.15.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sand-loop_1.15.1",
+          "date": "2026-10-23",
+          "size": 419220684
+        },
+        {
           "version": "1.14.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sand-loop_1.14.0",
-          "date": "2026-10-08",
-          "size": 390175129
+          "date": "2026-10-08"
         }
       ],
-      "version": "1.14.0",
-      "versionDate": "2026-10-09",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sand-loop_1.14.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sand-loop_1.14.0",
-      "size": 390175129,
+      "version": "1.15.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sand-loop_1.15.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sand-loop_1.15.1",
+      "size": 419220684,
       "addedAt": "2026-10-08",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1791466931441",
@@ -36622,28 +36706,29 @@
       "bundleId": "com.spotify.client",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/af/e8/b2afe87d-2d6a-8e4b-01bf-73b5752996dc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات التطبيق:\n- واجهة Liquid Glass حديثة مع لمسات مستوحاة من Apple Music.\n- إزالة الإعلانات وتفعيل حالة Premium عبر تعديلات EeveeSpotify.\n- كلمات أغاني محسنة مع عدة مصادر ودعم نمط Apple Music.\n- دعم Karaoke وSing.\n- ترجمة كلمات الأغاني باستخدام Apple Translate أو Apple Intelligence.\n- دعم Live Activity وكلمات الأغاني على شاشة القفل.\n- أغلفة وخلفيات متحركة عبر Canvas وأغلفة Apple Music.\n- دعم Music Haptics واستعادة اكتشاف Spotify Connect.",
-      "category": "تواصل",
+      "category": "ترفيه",
       "recommended": false,
-      "toolVersion": "1.0.13",
+      "toolVersion": "1.0.14",
       "versions": [
+        {
+          "version": "9.1.92",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-vitrine-1.0.0-b14",
+          "date": "2026-10-23",
+          "size": 131386572
+        },
         {
           "version": "9.1.90",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-vitrine-1.0.0-b13",
-          "date": "2026-10-13",
-          "size": 131281715
-        },
-        {
-          "version": "9.1.88",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.88-vitrine-1.0.0-b5"
+          "date": "2026-10-13"
         }
       ],
-      "version": "9.1.90",
-      "versionDate": "2026-10-13",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-vitrine-1.0.0-b13",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-vitrine-1.0.0-b13",
-      "size": 131281715,
+      "version": "9.1.92",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-vitrine-1.0.0-b14",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-vitrine-1.0.0-b14",
+      "size": 131386572,
       "addedAt": "2026-10-09",
-      "updatedAt": "2026-10-13"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1791484567793",
@@ -36704,25 +36789,30 @@
       "name": "MotoGP Rivals - Official Game",
       "bundleIdentifier": "com.TDF.MGPManager",
       "bundleId": "com.TDF.MGPManager",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/1a/ee/b31aee83-0c72-95e8-71e8-685e84c6e5c1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/25/2f/7e252f69-1551-5bb8-a63a-853c31bc7af7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- تجميد العملات للحفاظ على الرصيد.\n- عملات غير محدودة وتزداد بدلاً من أن تنقص.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moto-gp-rivals-official-game_1.0.2",
+          "date": "2026-10-23",
+          "size": 659764019
+        },
+        {
           "version": "1.0.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/motogp-rivals-1.0.1",
-          "date": "2026-10-08",
-          "size": 399088025
+          "date": "2026-10-08"
         }
       ],
-      "version": "1.0.1",
-      "versionDate": "2026-10-09",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/motogp-rivals-1.0.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/motogp-rivals-1.0.1",
-      "size": 399088025,
+      "version": "1.0.2",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moto-gp-rivals-official-game_1.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moto-gp-rivals-official-game_1.0.2",
+      "size": 659764019,
       "addedAt": "2026-10-09",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1791486025618",
@@ -37137,29 +37227,30 @@
       "name": "Castle Rivals",
       "bundleIdentifier": "com.SaltCastleStudio.CannonCastle3D",
       "bundleId": "com.SaltCastleStudio.CannonCastle3D",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/2a/21/f82a218b-1895-b60b-a9e0-c4ff21624e17/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1791746900642.png",
       "localizedDescription": "مميزات اللعبة:\n- عمليات الشراء داخل التطبيق مجانية.\n\nملاحظة:\n- بعد إتمام الشراء، عطّل ميزة الشراء داخل التطبيق.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.0.16",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-rivals_1.0.16",
-          "date": "2026-10-20",
-          "size": 486119833
+          "version": "1.0.17",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-rivals_1.0.17",
+          "date": "2026-10-23",
+          "size": 550607257
         },
         {
-          "version": "1.0.14",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-rivals_1.0.14"
+          "version": "1.0.16",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-rivals_1.0.16",
+          "date": "2026-10-20"
         }
       ],
-      "version": "1.0.16",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-rivals_1.0.16",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/castle-rivals_1.0.16",
-      "size": 486119833,
+      "version": "1.0.17",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-rivals_1.0.17",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/castle-rivals_1.0.17",
+      "size": 550607257,
       "addedAt": "2026-10-11",
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1791747118443",
@@ -40520,25 +40611,30 @@
       "name": "Undead Siege Tower Defense",
       "bundleIdentifier": "com.whitedot.udsios",
       "bundleId": "com.whitedot.udsios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/80/f1/7e80f1d3-ad0e-e2b5-aef3-3942445a43d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/32/b6/fd32b6b9-f2af-71bb-f03c-8eff220a6506/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- الدرع لا ينفد ← يتطلب استخدام بطاقة درع\n- مكافأة ذهبية عالية\n- تجميد النقاط\n- دورة حياة مجانية",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.15.109",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/undead-siege_1.15.109",
+          "date": "2026-10-23",
+          "size": 757805875
+        },
+        {
           "version": "1.15.108",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/undead-siege-tower-defense_1.15.108",
-          "date": "2026-10-20",
-          "size": 758120448
+          "date": "2026-10-20"
         }
       ],
-      "version": "1.15.108",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/undead-siege-tower-defense_1.15.108",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/undead-siege-tower-defense_1.15.108",
-      "size": 758120448,
+      "version": "1.15.109",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/undead-siege_1.15.109",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/undead-siege_1.15.109",
+      "size": 757805875,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1792486750645",
@@ -40950,25 +41046,30 @@
       "name": "Joseon Exorcist Idle Rpg",
       "bundleIdentifier": "com.leoncorp.joseon",
       "bundleId": "com.leoncorp.joseon",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/96/33/1e9633a9-ee18-afc5-c8cb-7cfb26518e65/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/17/39/c41739cc-c7ff-420b-3c03-497b312668e2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- مضاعف الضرر ← زيادة القوة الهجومية\n- مضاعف الدفاع ← تقليل الضرر المستلم\n- عدم الموت ← حصانة من الضرر أثناء القتال",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joseon-exorcist-idle-rpg_1.0.2",
+          "date": "2026-10-23",
+          "size": 240438476
+        },
+        {
           "version": "1.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joseon-exorcist-idle-rpg_1.0.0",
-          "date": "2026-10-20",
-          "size": 233937305
+          "date": "2026-10-20"
         }
       ],
-      "version": "1.0.0",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joseon-exorcist-idle-rpg_1.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/joseon-exorcist-idle-rpg_1.0.0",
-      "size": 233937305,
+      "version": "1.0.2",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/joseon-exorcist-idle-rpg_1.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/joseon-exorcist-idle-rpg_1.0.2",
+      "size": 240438476,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1792502724879",
@@ -41327,6 +41428,7 @@
       "bundleIdentifier": "com.underthing.focus.friend",
       "bundleId": "com.underthing.focus.friend",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/19/a7/a419a7e8-1bf9-b28e-bcc7-d43a90d38ca4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41356,6 +41458,7 @@
       "bundleIdentifier": "com.brainix.brain.games",
       "bundleId": "com.brainix.brain.games",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/10/b3/3610b339-e1cf-94bb-2954-45578e58f8c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني (اضغط على شراء ثم إلغاء).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41380,6 +41483,7 @@
       "bundleIdentifier": "com.percent.ios.randomdice2",
       "bundleId": "com.percent.ios.randomdice2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/3c/64/3d3c6446-252f-4324-6c5d-726a4ceb3e5e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة الضرر لتعزيز قوة هجوم النرد.\n- مضاعفة اكتساب نقاط القدرة (SP) لتسريع تجميعها.\n- دمج أي نرد بحرية.\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41404,6 +41508,7 @@
       "bundleIdentifier": "com.lunosoft.ttheroes",
       "bundleId": "com.lunosoft.ttheroes",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsTajbbv-KtLBAtzh1lgbopNq-lF3EB6r9eRcg5o9gQ&s",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- تجميد العملات.\n- استلام مكافآت التمرير المميز.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41428,6 +41533,7 @@
       "bundleIdentifier": "com.tinytitanstudios.tinyrails",
       "bundleId": "com.tinytitanstudios.tinyrails",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/b7/ce/13b7ce8f-1351-d1e8-e747-19bb23854532/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تخطي البرنامج التعليمي.\n- تعديل نقاط الخبرة.\n- فتح جميع المصانع.\n- إضافة جميع السيارات.\n- إضافة جميع الركاب.\n- فتح جميع الألوان.\n- فتح الطلاء الذهبي.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41452,6 +41558,7 @@
       "bundleIdentifier": "com.acidcousins.fdunk",
       "bundleId": "com.acidcousins.fdunk",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/78/cf/bc78cff9-584a-c823-f1c0-ac1ab4fc1825/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل Premium.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41476,6 +41583,7 @@
       "bundleIdentifier": "com.octopo.warofweapons",
       "bundleId": "com.octopo.warofweapons",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/d4/eb/6fd4ebf2-ccdd-04c7-7213-f50b10484fb5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة الضرر لزيادة قوة السلاح في القتال.\n- مضاعفة الدفاع لتقليل الضرر المتلقى أثناء المعارك.\n- الخلود لجعل الشخصية شبه منيعة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41500,6 +41608,7 @@
       "bundleIdentifier": "gg.sunday.catescape",
       "bundleId": "gg.sunday.catescape",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/eb/2a/82eb2ad0-7e81-d36a-7a5a-1940a300627e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل الشراء الوهمي.\n- ملاحظة: فعّل التعديل من قائمة المود.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41524,6 +41633,7 @@
       "bundleIdentifier": "com.finetosurvive.master",
       "bundleId": "com.finetosurvive.master",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/79/b7/d379b737-af50-260f-b6ab-b9da6be916bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل الشراء الوهمي.\n- تسريع اللعبة.\n- إزالة الإعلانات.\n- ملاحظة: فعّل التعديل من قائمة المود.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41548,6 +41658,7 @@
       "bundleIdentifier": "com.d3p.yorkMPQ",
       "bundleId": "com.d3p.yorkMPQ",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/38/88/12388808-5446-7e43-fdf9-d456abec3ee0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت؛ انتظر حتى يأتي دور الأعداء ثم فعّل الميزة.\n- القتل بضربة واحدة؛ انتظر حتى يأتي دورك ثم فعّل الميزة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41572,6 +41683,7 @@
       "bundleIdentifier": "com.fgol.HungrySharkEvolution",
       "bundleId": "com.fgol.HungrySharkEvolution",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/a1/170aa1d7-4f85-3eed-37a1-baa46d712cec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- نقود غير محدودة.\n- جواهر غير محدودة.\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41596,6 +41708,7 @@
       "bundleIdentifier": "net.artgamestudio.charadesapp",
       "bundleId": "net.artgamestudio.charadesapp",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/35/33/2a3533f8-8462-a2fe-201a-7564d12efef8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل الاشتراك عبر الشراء ثم الإلغاء.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41620,6 +41733,7 @@
       "bundleIdentifier": "com.diy.perfect.asmr",
       "bundleId": "com.diy.perfect.asmr",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f2/27/13f2271b-c31c-7790-e39f-e8f4e1cb556d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- 9 ملايين من النقود.\n- 9 ملايين من جميع المعززات.\n- 9 ملايين من مساعدات زيادة عداد الوقت.\n- 9 ملايين من مساعدات التلميحات.\n- فتح جميع المراحل.\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41644,6 +41758,7 @@
       "bundleIdentifier": "com.rotatelab.cubeblast",
       "bundleId": "com.rotatelab.cubeblast",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/3a/c8/073ac8c2-20e9-b5f6-a237-ffadf5d5981b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة.\n- فتح الحزم المشتراة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41668,6 +41783,7 @@
       "bundleIdentifier": "com.thp023.idle.zombie.shooting.defense",
       "bundleId": "com.thp023.idle.zombie.shooting.defense",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/44/ff/0844ff32-b127-c713-6889-c8b4995471c9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة الضرر لتعزيز قوة نيران الأبراج والوحدات.\n- مضاعفة الدفاع لزيادة متانة وصمود الحصن.\n- مضاعفة المكافآت للحصول على الموارد بسرعة أكبر مع كل موجة.\n- إزالة الإعلانات لتجربة لعب دون انقطاع.\n- تفعيل ميزات الحساب المميز VIP.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41692,6 +41808,7 @@
       "bundleIdentifier": "com.finallygames.thenom",
       "bundleId": "com.finallygames.thenom",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/ca/8c/53ca8c00-e35b-766a-1498-165ef3bc701e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- عدم الموت أثناء القتال.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41716,6 +41833,7 @@
       "bundleIdentifier": "com.orglh.empirecar.ios",
       "bundleId": "com.orglh.empirecar.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/4d/18/6c4d18af-f090-9a15-37c0-d8257de08503/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "- تجميد العملة للحفاظ على الرصيد دون استنزاف.\n- مواهب غير محدودة لفتح جميع ترقيات المهارات.\n- جواهر DIA غير محدودة.\n- الوصول الفوري إلى المستوى 20.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41740,6 +41858,7 @@
       "bundleIdentifier": "com.arzukilic.terradome3d",
       "bundleId": "com.arzukilic.terradome3d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ff/18/34ff1888-fd0b-8c9a-898d-3bdf336635b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني (اضغط على شراء ثم إلغاء).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41764,6 +41883,7 @@
       "bundleIdentifier": "com.tcg.fpsdungeonminer",
       "bundleId": "com.tcg.fpsdungeonminer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/63/3f/6a633f57-8096-bc2b-3fce-cc0065090168/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- تجميد العملة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41788,6 +41908,7 @@
       "bundleIdentifier": "com.outfit7.talkingtomfriendsworld",
       "bundleId": "com.outfit7.talkingtomfriendsworld",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/1a/97/c41a97d5-81e0-18c4-0717-f3ff895d3d07/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل Premium وإتاحة جميع الميزات المميزة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41812,6 +41933,7 @@
       "bundleIdentifier": "com.curiousmedia.doofusdrop",
       "bundleId": "com.curiousmedia.doofusdrop",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/14/e9/4d14e918-a13e-7b87-c7c3-948f631f7fd4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- نجوم لا نهائية لشراء جميع الترقيات والتعزيزات فوراً.\n- ضربات لا نهائية لإطلاق دوفوس دون قيود.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41836,6 +41958,7 @@
       "bundleIdentifier": "ca.hyperhippo.adventureages",
       "bundleId": "ca.hyperhippo.adventureages",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/90/cf/8990cf87-dbf6-c9e5-83e9-23ff63c1ea7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدد سكان لا نهائي.\n- جواهر لا نهائية.\n- نقاط خبرة لا نهائية.\n- بطاقات لا نهائية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41860,6 +41983,7 @@
       "bundleIdentifier": "com.rogueharbour.billionair.airport",
       "bundleId": "com.rogueharbour.billionair.airport",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/16/a5/0916a5b0-4ce8-86e1-2009-e6044fcfd7af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملة لا نهائية.\n- فتح أفراد الطاقم.\n- ملاحظة: تمت إزالة خيار التجميد لكونه يسبب تعطّل اللعبة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41884,6 +42008,7 @@
       "bundleIdentifier": "com.mining.fever",
       "bundleId": "com.mining.fever",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/1f/93/df1f937c-f048-6a09-2fc3-dc02e6265edb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إضافة 100 جوهرة.\n- إضافة 10 آلاف من الذهب.\n- إضافة الطاقة في وضع التوربو.\n- ضبط مستوى حقيبة الظهر.\n- ضبط مستوى الفأس.\n- ضبط مستوى السلاح.\n- فتح جميع الكهوف.\n- فتح المتحف.\n- فتح الساحة.\n- فتح ذراع محور الكهف.\n- فتح المهارات.\n- فتح الحانة.\n- جواهر لا نهائية.\n- جعل الأعداء أقل ذكاءً.\n- ضرر تعدين مرتفع.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41908,6 +42033,7 @@
       "bundleIdentifier": "com.any.coinflip",
       "bundleId": "com.any.coinflip",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/52/a4/4752a438-c06c-8049-d107-5fe3b2d6acda/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- تثبيت رصيد العملات والمفاتيح للحفاظ عليه ثابتاً.\n- تثبيت الموارد من الرموز والأدوات للحفاظ عليها كما هي.\n- توليد غير محدود للعملات.\n- تفعيل النقر التلقائي المستمر.\n- فتح جميع الصناديق دفعة واحدة.\n- فتح شجرة المهارات بالكامل.\n- حزم بطاقات مكتملة دائماً.\n- فتح جميع القطع الأثرية.\n- فتح جميع مسارات الأبحاث.\n- تخطي مجاني للأبحاث دون انتظار.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41932,6 +42058,7 @@
       "bundleIdentifier": "casual.match3.theme.parks.puzzles",
       "bundleId": "casual.match3.theme.parks.puzzles",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/0a/ce/ad0acea3-acba-ce67-584c-4e3db9648718/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- تجميد الأرواح.\n- نجوم لا نهائية.\n- معززات لا نهائية.\n- صناديق لا نهائية.\n- حركات لا نهائية.\n- فوز تلقائي بالمستوى بمجرد التفعيل؛ أكمل حركة واحدة أو حمّل مستوى جديداً.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41956,6 +42083,7 @@
       "bundleIdentifier": "com.runawayplay.fishgame",
       "bundleId": "com.runawayplay.fishgame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/cb/87/ebcb8743-ba17-6307-4129-d04a9ac27b50/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات فقاعية غير محدودة؛ اربح أو أنفق بعضها لتفعيلها.\n- عملات مائية غير محدودة؛ اربح أو أنفق بعضها لتفعيلها.\n- أعلى مستوى؛ اربح بعض نقاط الخبرة ثم أعد تشغيل اللعبة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -41980,6 +42108,7 @@
       "bundleIdentifier": "com.edenap.z2",
       "bundleId": "com.edenap.z2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/17/e5/6917e51b-4ea6-7982-3a4d-5b0c254144c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- عملات لا نهائية.\n- ذخيرة لا نهائية.\n- نقاط حياة جدار التجميد غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42004,6 +42133,7 @@
       "bundleIdentifier": "com.sablo.idle.construction.tycoon",
       "bundleId": "com.sablo.idle.construction.tycoon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/4d/43/7c4d436a-dff4-9244-c471-1dfa23020383/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني (اضغط على شراء ثم إلغاء).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42028,6 +42158,7 @@
       "bundleIdentifier": "com.fluffyfairygames.idlefactorytycoon",
       "bundleId": "com.fluffyfairygames.idlefactorytycoon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/5b/05/8c5b05f2-82d5-9b72-04ac-70430419078c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني (اضغط على شراء ثم إلغاء).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42052,6 +42183,7 @@
       "bundleIdentifier": "com.n3twork.tetris",
       "bundleId": "com.n3twork.tetris",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/a2/42/b2a242dc-c92a-47a7-91a2-47399b9033bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- تجميد السقوط.\n- درجة وضوح عالية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42076,6 +42208,7 @@
       "bundleIdentifier": "com.ketchapp.flippyrace",
       "bundleId": "com.ketchapp.flippyrace",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/e8/74/46e8744c-7f0a-9b71-88a6-9be076cbb31e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- تقليل ذكاء الخصوم.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42100,6 +42233,7 @@
       "bundleIdentifier": "com.brewgames.minertycoonbigdynamite",
       "bundleId": "com.brewgames.minertycoonbigdynamite",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/90/1a/77901af4-bc4c-3651-1345-6642b12bd066/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- إضافة الأموال.\n- إضافة التذاكر.\n- إعادة ضبط الألغام.\n- ضبط سعة الحمل.\n- ضبط حجم اللاعب.\n- تبديل Segway.\n- سجّل الدخول بأي حساب من موقع iosgods.com.\n- فعّل الهاك من القائمة.\n- إذا كان جهازك مكسور الحماية، أخفِ الجلبريك عن اللعبة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42124,6 +42258,7 @@
       "bundleIdentifier": "gemini.space.survivor",
       "bundleId": "gemini.space.survivor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/1c/41/cf1c416a-b4c6-48d7-43fa-11bb1da33f34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- لا تموت أبداً.\n- حقيبة ظهر لا نهائية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42148,6 +42283,7 @@
       "bundleIdentifier": "com.zeptolab.overcrowded",
       "bundleId": "com.zeptolab.overcrowded",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cd/01/7ccd01aa-78c5-25df-72a4-c72f28d18c98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- عملة لا نهائية.\n- سجّل الدخول بأي حساب من موقع iosgods.com.\n- فعّل الهاك من القائمة.\n- إذا كان جهازك مكسور الحماية، أخفِ الجلبريك عن اللعبة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42172,6 +42308,7 @@
       "bundleIdentifier": "com.hg.cannonwar",
       "bundleId": "com.hg.cannonwar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/0d/60/630d6036-7cb7-5353-587f-cd3be89b44cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- تجميد العملات.\n- تجميد الأحجار الكريمة.\n- تجميد قطع البناء.\n- قنابل غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42196,6 +42333,7 @@
       "bundleIdentifier": "com.jctswbglsm.SwipeAway",
       "bundleId": "com.jctswbglsm.SwipeAway",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/b2/ec/2eb2ec7b-bcc9-c5ec-fd2e-906a52888a90/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- إضافة الرموز.\n- تفعيل VIP.\n- قنبلة الظهور.\n- كتلة عملة الظهور.\n- كتل خاصة بالظهور.\n- فتح جميع الألغاز.\n- حركات لا نهائية.\n- تجميد حركات التحدي.\n- تعطيل مؤقت التحدي.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42220,6 +42358,7 @@
       "bundleIdentifier": "com.gma.ball.sort.color.water.puzzle",
       "bundleId": "com.gma.ball.sort.color.water.puzzle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/67/0d/7e670df9-ffa5-6385-69ed-06a489731a82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- عدد مرات التراجع غير محدود.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42244,6 +42383,7 @@
       "bundleIdentifier": "ios.takeoffbolts.screw.puzzle",
       "bundleId": "ios.takeoffbolts.screw.puzzle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/1a/be/0c1abed6-89c7-1400-7867-e70e6640dbad/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تجميد المؤقت.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42268,6 +42408,7 @@
       "bundleIdentifier": "com.metamoki.weed",
       "bundleId": "com.metamoki.weed",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/26/d8/8126d8fb-e524-2d83-5853-850591b3a4b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- جواهر لا نهائية.\n- نقود لا نهائية.\n- نقاط مهارة لا نهائية.\n- رموز لا نهائية.\n- عناصر لا نهائية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42292,6 +42433,7 @@
       "bundleIdentifier": "com.puzzle1studio.ap.brickoutshoottheball",
       "bundleId": "com.puzzle1studio.ap.brickoutshoottheball",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/8b/4d/7d8b4d84-c582-7bd8-b96d-4c0da504077c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.\n- إضافة 10000 ياقوتة.\n- جواهر لا نهائية.\n- عدم حذف الكرات عند اختفاء الطوب.\n- إحياء مجاني.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42316,6 +42458,7 @@
       "bundleIdentifier": "com.CHEUNG.plant",
       "bundleId": "com.CHEUNG.plant",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b1/20/72b120c4-c545-3cca-c79a-790d22306dbc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت.\n- عملات لا نهائية.\n- القضاء على الأعداء بضربة واحدة.\n- التحكم بسرعة حركة الأعداء.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42364,6 +42507,7 @@
       "bundleIdentifier": "dreamtile.triple.match.game",
       "bundleId": "dreamtile.triple.match.game",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b1/40/97b140da-aef3-f765-6ece-1d44ecdb9276/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل الشراء الوهمي داخل اللعبة.\n- إزالة الإعلانات.\n- ملاحظة: فعّل التعديل من قائمة التعديلات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42388,6 +42532,7 @@
       "bundleIdentifier": "com.gaimstudio.knightage",
       "bundleId": "com.gaimstudio.knightage",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/40/f8/7040f898-b15d-93cf-fda1-549e8054e824/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- عدم الموت أثناء القتال.\n- مضاعفة الأحجار الكريمة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42412,6 +42557,7 @@
       "bundleIdentifier": "in.loop.hdmakeover",
       "bundleId": "in.loop.hdmakeover",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/90/51/53905173-29cf-a4f6-9b77-845a0bde1c5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة (احصل على بعض العملات لتفعيل الميزة).\n- طاقة غير محدودة.\n- حركات غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42436,6 +42582,7 @@
       "bundleIdentifier": "org.fantasy.joy",
       "bundleId": "org.fantasy.joy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/6f/d2/bf6fd272-7192-91c7-d7ff-8e772ec32c77/JOY_Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- محاكاة الألعاب الكلاسيكية على الهاتف أو الجهاز اللوحي.\n- فتح المميزات.",
       "category": "أخرى",
       "recommended": false,
       "versions": [
@@ -42460,6 +42607,7 @@
       "bundleIdentifier": "com.turborilla.bmx2",
       "bundleId": "com.turborilla.bmx2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/48/b5/2948b5d0-4da1-a3f0-96c9-c4dfee790be8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني بالكامل ( إضغط شراء ثم إلغاء )",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42484,6 +42632,7 @@
       "bundleIdentifier": "com.ldw.vv7",
       "bundleId": "com.ldw.vv7",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/b8/a1/d7b8a102-0b91-b39c-e70c-89ea5ebe7b99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إظهار قائمة التعديلات من الإعدادات عبر تفعيل زر المساعدة، ثم إغلاق الإعدادات وإعادة فتحها.\n- طعام غير محدود.\n- خشب غير محدود.\n- حجر غير محدود.\n- نقاط تقنية غير محدودة.\n- حجر بركاني غير محدود.\n- ملاحظة: فعّل ميزة واحدة فقط في كل مرة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42508,6 +42657,7 @@
       "bundleIdentifier": "com.peoplefun.wordcross",
       "bundleId": "com.peoplefun.wordcross",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/90/2b/22902bfd-16b3-b5bc-787f-604a6953088b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة.\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42531,24 +42681,30 @@
       "name": "Block Crush",
       "bundleIdentifier": "com.blockcrush.travelmaster",
       "bundleId": "com.blockcrush.travelmaster",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnK6MJb9ICRzRCB1fRrnymzQbE6NR_ao3OdtRtVL9iUg&s=10",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/91/f8/7391f85d-3c1e-74e8-76cd-5c9997b7381d/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "4.2.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-crush_4.2.3",
+          "date": "2026-10-23",
+          "size": 411880652
+        },
+        {
           "version": "4.2.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-crush_4.2.2",
-          "date": "2026-10-22",
-          "size": 414082662
+          "date": "2026-10-22"
         }
       ],
-      "version": "4.2.2",
-      "versionDate": "2026-10-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-crush_4.2.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-crush_4.2.2",
-      "size": 414082662,
+      "version": "4.2.3",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/block-crush_4.2.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/block-crush_4.2.3",
+      "size": 411880652,
       "addedAt": "2026-10-22",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1792689956373",
@@ -42556,6 +42712,7 @@
       "bundleIdentifier": "com.playfirst.cookingdashx",
       "bundleId": "com.playfirst.cookingdashx",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/1c/3b/741c3b0c-1123-421d-c191-edb292490976/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة.\n- ذهب غير محدود.\n- طاقة غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42579,24 +42736,30 @@
       "name": "Crushed In Time",
       "bundleIdentifier": "com.DrawMeAPixel.CIT",
       "bundleId": "com.DrawMeAPixel.CIT",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/88/aa/1d88aaa5-d15d-833e-8dfe-1d90ba2dc744/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/74/5b/91745bce-bc3c-35e6-a5e7-474915ee4d7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فتح اللعبة بالكامل، بما يشمل جميع المراحل والمحتويات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.0.6313",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/crushed-in-time_1.0.6313",
+          "date": "2026-10-23",
+          "size": 1662517248
+        },
+        {
           "version": "1.0.6309",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/crushed-in-time_1.0.6309",
-          "date": "2026-10-22",
-          "size": 1721132646
+          "date": "2026-10-22"
         }
       ],
-      "version": "1.0.6309",
-      "versionDate": "2026-10-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/crushed-in-time_1.0.6309",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/crushed-in-time_1.0.6309",
-      "size": 1721132646,
+      "version": "1.0.6313",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/crushed-in-time_1.0.6313",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/crushed-in-time_1.0.6313",
+      "size": 1662517248,
       "addedAt": "2026-10-22",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1792690099628",
@@ -42604,6 +42767,7 @@
       "bundleIdentifier": "com.ProjectMoon.LimbusCompany",
       "bundleId": "com.ProjectMoon.LimbusCompany",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/05/7a/cf057ad8-6cb6-48c0-294f-4eec5331b2eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- الفوز التلقائي.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42628,6 +42792,7 @@
       "bundleIdentifier": "com.mwcompany.MusicWarsRockstar",
       "bundleId": "com.mwcompany.MusicWarsRockstar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/7a/03/0b7a0339-121f-f3e1-3241-52e1024acafe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- أموال غير محدودة (اشترِ قميصاً من المتجر لتفعيل الميزة).\n- إبداع غير محدود.\n- صحة غير محدودة.\n- سعادة غير محدودة.\n- تفعيل Rockstar Plus (استخدم استعادة المشتريات إذا لم يظهر التفعيل).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42652,6 +42817,7 @@
       "bundleIdentifier": "linkdesks.tile.match.fun",
       "bundleId": "linkdesks.tile.match.fun",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/51/90/005190ec-8e02-5c70-6686-c504bfa7a4a3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل الشراء الوهمي داخل اللعبة.\n- إزالة الإعلانات.\n- ملاحظة: فعّل التعديل من قائمة التعديلات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42676,6 +42842,7 @@
       "bundleIdentifier": "com.cargame2021.simulator",
       "bundleId": "com.cargame2021.simulator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/d4/e2/40d4e274-49ae-20c6-079c-1cd239e372fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني (اضغط على شراء ثم إلغاء).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42700,6 +42867,7 @@
       "bundleIdentifier": "com.Bureau-81.OPERATOR",
       "bundleId": "com.Bureau-81.OPERATOR",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/de/32/cede32e5-13cc-4d3d-9643-e2f6ac21acca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فتح اللعبة بالكامل، بما يشمل جميع القضايا والمحتويات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42724,6 +42892,7 @@
       "bundleIdentifier": "com.Jaems.ProjectCreationRPG",
       "bundleId": "com.Jaems.ProjectCreationRPG",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/a6/d5/f4a6d5a5-8db2-936a-b07f-fb9a4abd5822/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مشتريات مجانية داخل اللعبة.\n- إضافة الجواهر.\n- إضافة العملات المعدنية.\n- عدم الموت أثناء القتال.\n- تعديل قوة الضرر.\n- ضربات حرجة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42748,6 +42917,7 @@
       "bundleIdentifier": "com.tidy.satis.asmr",
       "bundleId": "com.tidy.satis.asmr",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/cd/40/33cd40b4-1182-662b-2e88-c19343694173/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- الحصول على 9 ملايين عظمة.\n- الحصول على 9 ملايين معزز.\n- مساعدات زيادة الوقت: 9 ملايين.\n- مساعدات التلميحات: 9 ملايين.\n- فتح جميع المراحل.\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42772,6 +42942,7 @@
       "bundleIdentifier": "com.ludens.WeaponBallMasters",
       "bundleId": "com.ludens.WeaponBallMasters",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/85/7b/42857bc2-081a-e367-8323-92851a8ee139/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة للترقيات والمعدات.\n- فتح جميع الحزم.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42796,6 +42967,7 @@
       "bundleIdentifier": "com.shortcircuitstudio.hearthside",
       "bundleId": "com.shortcircuitstudio.hearthside",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/4e/32/4d4e3258-1110-47a4-b59c-b558ec05eef4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل المميزات المميزة (Premium).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42820,6 +42992,7 @@
       "bundleIdentifier": "com.wemadeconnect.ios.makedrama",
       "bundleId": "com.wemadeconnect.ios.makedrama",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/cb/23/57cb236d-afb7-a4a8-8f2f-8ea97fd4798a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر لتعزيز الهجوم.\n- مضاعفة قوة الدفاع لتقليل الضرر المتلقى.\n- عدم الموت أثناء القتال.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42844,6 +43017,7 @@
       "bundleIdentifier": "com.twitchyfinger.itunes.minilegend",
       "bundleId": "com.twitchyfinger.itunes.minilegend",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/bb/91/dbbb91c4-535a-4aaf-b5cb-f77a863e6427/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- الفوز الفوري في السباقات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42868,6 +43042,7 @@
       "bundleIdentifier": "com.ftt.msleague",
       "bundleId": "com.ftt.msleague",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/52/97/5a5297cf-6c24-13e2-69f4-ffa7e998e25e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة ضرر اللاعب من 1 إلى 100 مرة.\n- مضاعفة دفاع اللاعب من 1 إلى 100 مرة.\n- مهارات غير محدودة.\n- معدل التقاط بنسبة 100%.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42892,6 +43067,7 @@
       "bundleIdentifier": "com.hyperbeard.mydearfarm",
       "bundleId": "com.hyperbeard.mydearfarm",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/20/58/2f205887-96aa-e4a1-dbf3-039673d92f70/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة (أنفق لتحصل على المزيد).\n- جواهر غير محدودة (أنفق لتحصل على المزيد).\n- الوصول إلى المستوى الأقصى بعد اكتساب بعض الخبرة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42916,6 +43092,7 @@
       "bundleIdentifier": "com.daerigame.scarecrow",
       "bundleId": "com.daerigame.scarecrow",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/02/c5/0f02c565-5444-95ba-a7fd-376a30b34814/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- مضاعفة سرعة الهجوم.\n- الوصول إلى قائمة التعديلات المتقدمة (Debug Menu).\n- فتح جميع المحتويات المميزة (Pass Unlocked).\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42940,6 +43117,7 @@
       "bundleIdentifier": "com.ldw.vfc",
       "bundleId": "com.ldw.vfc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/2a/8c/542a8c20-df2e-bd6c-9717-1f2595d50e1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إتاحة قائمة التعديلات من الإعدادات عبر خيار استعادة المشتريات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42964,6 +43142,7 @@
       "bundleIdentifier": "com.kanoapps.bz",
       "bundleId": "com.kanoapps.bz",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/55/5e/a7555ead-1bd1-8f39-a635-3beaf041120a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- ألماس غير محدود.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42988,6 +43167,7 @@
       "bundleIdentifier": "games.starberry.game4",
       "bundleId": "games.starberry.game4",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/68/23/b868230f-02d4-b799-9b44-260d2b845bb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة لاستخدامها في النباتات والأدوات والديكورات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -43012,23 +43192,29 @@
       "bundleIdentifier": "com.PabloLeban.IdleSlayer",
       "bundleId": "com.PabloLeban.IdleSlayer",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/d4/f2/36d4f2b4-088a-4950-4fbd-67cf851f8b72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- جواهر غير محدودة (تزداد بدلاً من أن تنقص عند استخدامها).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "7.3.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-slayer_7.3.6",
+          "date": "2026-10-23",
+          "size": 343723212
+        },
+        {
           "version": "7.3.5",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-slayer_7.3.5",
-          "date": "2026-10-22",
-          "size": 343932928
+          "date": "2026-10-22"
         }
       ],
-      "version": "7.3.5",
-      "versionDate": "2026-10-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-slayer_7.3.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-slayer_7.3.5",
-      "size": 343932928,
+      "version": "7.3.6",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-slayer_7.3.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-slayer_7.3.6",
+      "size": 343723212,
       "addedAt": "2026-10-22",
-      "updatedAt": "2026-10-22"
+      "updatedAt": "2026-10-23"
     },
     {
       "id": "app-1792696693846",
@@ -43036,6 +43222,7 @@
       "bundleIdentifier": "com.stonehollow-workshop.Eterspire",
       "bundleId": "com.stonehollow-workshop.Eterspire",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/7c/28/017c280b-4998-65ab-6f11-2d0f89006a4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -43060,6 +43247,7 @@
       "bundleIdentifier": "com.arumgames.darkwizard",
       "bundleId": "com.arumgames.darkwizard",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/f3/6f/c4f36fc8-90e8-22dc-e44d-e38a43bd3161/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- عدم خسارة الشخصية أثناء المعركة.\n- التحكم بمضاعفة سرعة اللعبة.\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -43075,6 +43263,854 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/darkmagedefense66666-v1.0.30",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/darkmagedefense66666-v1.0.30",
       "size": 594962022,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792750024151",
+      "name": "Neighbours From Hell: Season 2",
+      "bundleIdentifier": "com.nordicgames.nfh2",
+      "bundleId": "com.nordicgames.nfh2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/58/ff/2e58ffe8-8889-f434-9e6c-670c66d6a695/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فتح اللعبة بالكامل (اضغط على شراء ثم إلغاء).",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.6.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/neighboursfromhellseason-2-v3.6.2",
+          "date": "2026-10-23",
+          "size": 854379724
+        }
+      ],
+      "version": "3.6.2",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/neighboursfromhellseason-2-v3.6.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/neighboursfromhellseason-2-v3.6.2",
+      "size": 854379724,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792764664725",
+      "name": "Hole Buster 3D",
+      "bundleIdentifier": "com.wenuts.hole.master.3d",
+      "bundleId": "com.wenuts.hole.master.3d",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/2a/df/332adf0e-a1ff-7ee3-2049-810976cba4ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل الشراء الوهمي داخل اللعبة.\n- إزالة الإعلانات.\n- ملاحظة: فعّل التعديل من قائمة التعديلات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.0.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hole-buster-3-d_2.0.5",
+          "date": "2026-10-23",
+          "size": 750780416
+        }
+      ],
+      "version": "2.0.5",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hole-buster-3-d_2.0.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hole-buster-3-d_2.0.5",
+      "size": 750780416,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792764767826",
+      "name": "Screw Sort 3D: Pin Puzzle Game",
+      "bundleIdentifier": "com.diamonds.expert.game",
+      "bundleId": "com.diamonds.expert.game",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/39/e8/d039e885-0140-1668-4966-70da28c3b0a5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- موارد غير محدودة داخل اللعبة.\n- ملاحظة: إذا لم تتفعّل الميزة، أغلق اللعبة وأعد تشغيلها.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "5.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/screwsort3dpinpuzzlegame_5.5",
+          "date": "2026-10-23",
+          "size": 491991859
+        }
+      ],
+      "version": "5.5",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/screwsort3dpinpuzzlegame_5.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/screwsort3dpinpuzzlegame_5.5",
+      "size": 491991859,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792764842976",
+      "name": "Disney Solitaire",
+      "bundleIdentifier": "com.superplaystudios.disneysolitairedreams",
+      "bundleId": "com.superplaystudios.disneysolitairedreams",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/2d/70/b82d7015-4dda-7ffe-5227-0d96828ccdf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إضافة العملات المعدنية عند الفوز بالمباراة.\n- إكمال المهام دون الحاجة إلى النجوم.\n- إضافة النجوم.\n- تراجع غير محدود.\n- بطاقات جامحة.\n- تذاكر مجانية.\n- الفوز التلقائي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.26.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/disney-solitaire_1.26.3",
+          "date": "2026-10-23",
+          "size": 437570764
+        }
+      ],
+      "version": "1.26.3",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/disney-solitaire_1.26.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/disney-solitaire_1.26.3",
+      "size": 437570764,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792764895484",
+      "name": "Tile Story Triple Match",
+      "bundleIdentifier": "linkdesks.tile.match.story",
+      "bundleId": "linkdesks.tile.match.story",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792764895484.png",
+      "localizedDescription": "- متجر مجاني (اضغط على شراء ثم إلغاء).",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.9.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-story-triple-match_3.9.1",
+          "date": "2026-10-23",
+          "size": 353370112
+        }
+      ],
+      "version": "3.9.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-story-triple-match_3.9.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tile-story-triple-match_3.9.1",
+      "size": 353370112,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792764906816",
+      "name": "Fortress Merge",
+      "bundleIdentifier": "com.ttt.fortressmerge",
+      "bundleId": "com.ttt.fortressmerge",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/5c/da/995cdad6-828f-bcc5-8708-d50ab763013a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة ضرر الوحدات.\n- مضاعفة دفاع الوحدات.\n- عدم موت الوحدات أثناء المعركة.\n- مضاعفة سرعة الوحدات.\n- عملات غير محدودة (تزداد بدلاً من أن تنقص).",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortress-merge_1.1.1",
+          "date": "2026-10-23",
+          "size": 493879296
+        }
+      ],
+      "version": "1.1.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortress-merge_1.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fortress-merge_1.1.1",
+      "size": 493879296,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792764928659",
+      "name": "Fish Eater io",
+      "bundleIdentifier": "com.hg.FishEater",
+      "bundleId": "com.hg.FishEater",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/0d/d1/030dd1a9-e9f4-0eb7-1b0f-489ca6624b5a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- عدم تأثر الشخصية بالضرر.\n- عملات غير محدودة (تزداد عند الإنفاق).\n- جواهر غير محدودة (تزداد عند الإنفاق).\n- تفعيل المشتريات داخل اللعبة دون تكلفة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.10.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fish-eaterio_1.10.0",
+          "date": "2026-10-23",
+          "size": 350748672
+        }
+      ],
+      "version": "1.10.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fish-eaterio_1.10.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fish-eaterio_1.10.0",
+      "size": 350748672,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792764944535",
+      "name": "Crypto Miner Tycoon",
+      "bundleIdentifier": "com.mysterytag.cryptominer",
+      "bundleId": "com.mysterytag.cryptominer",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/e7/6e/f7e76e53-9dba-79f4-d41e-a8171eab0862/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إجراء الترقيات دون تكلفة.\n- ذهب غير محدود (اشترِ لعبة التوقيت من المتجر لتفعيل الميزة).",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/crypto-miner-tycoon_2.2",
+          "date": "2026-10-23",
+          "size": 415865241
+        }
+      ],
+      "version": "2.2",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/crypto-miner-tycoon_2.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/crypto-miner-tycoon_2.2",
+      "size": 415865241,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792765131442",
+      "name": "Vardian",
+      "bundleIdentifier": "com.redveilone.vardian",
+      "bundleId": "com.redveilone.vardian",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXhJyfA9uh89P-G7LdNc6dL941Jl3dgjiuMKelfJsyrNjxrOGMXj7IS94&s=10",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- مضاعفة سرعة الهجوم.\n- مضاعفة سرعة الحركة.\n- اللعب دون تصويب.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.22.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vardian_1.22.0",
+          "date": "2026-10-23",
+          "size": 547671244
+        }
+      ],
+      "version": "1.22.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vardian_1.22.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vardian_1.22.0",
+      "size": 547671244,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792765152515",
+      "name": "AXIS-BLADE",
+      "bundleIdentifier": "com.awesomepiece.axisblade",
+      "bundleId": "com.awesomepiece.axisblade",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/7f/76/b47f7609-8a30-e2d7-b28e-6c6b2fe00636/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- الفوز الفوري.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.6.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/axisblade_1.6.6",
+          "date": "2026-10-23",
+          "size": 568852480
+        }
+      ],
+      "version": "1.6.6",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/axisblade_1.6.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/axisblade_1.6.6",
+      "size": 568852480,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792765166071",
+      "name": "Pinball Smash Arcade",
+      "bundleIdentifier": "games.vaveda.pinball",
+      "bundleId": "games.vaveda.pinball",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/8f/c3/eb8fc3fb-1b86-7736-b04a-14cb7cbbf860/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- الحصول على 9 ملايين جوهرة.\n- الحصول على 900 معزز.\n- خيار الفرص: 900.\n- خيار السرعة: 900.\n- خيار الجمع: 900.\n- ملاحظة: لإلغاء الإعلانات عند دخول اللعبة، اضغط على شراء ثم إلغاء.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.13.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinball-smash-arcade_1.13.19",
+          "date": "2026-10-23",
+          "size": 740714086
+        }
+      ],
+      "version": "1.13.19",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pinball-smash-arcade_1.13.19",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pinball-smash-arcade_1.13.19",
+      "size": 740714086,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792765181197",
+      "name": "Match Hit Puzzle Fighter",
+      "bundleIdentifier": "com.combo.matcher",
+      "bundleId": "com.combo.matcher",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/6e/6d/8d6e6d6b-463b-2e91-9081-29adef1b3805/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني بالكامل ( إضغط شراء ثم إلغاء )",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.6.25",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-hit-puzzle-fighter_1.6.25",
+          "date": "2026-10-23",
+          "size": 551550976
+        }
+      ],
+      "version": "1.6.25",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/match-hit-puzzle-fighter_1.6.25",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/match-hit-puzzle-fighter_1.6.25",
+      "size": 551550976,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792766864496",
+      "name": "Idle Firefighter Tycoon Save",
+      "bundleIdentifier": "com.handsomeoldtree.idlefirefightertycoon",
+      "bundleId": "com.handsomeoldtree.idlefirefightertycoon",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/ca/26/74ca264d-f2ee-ea97-f619-cee67e658b3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني بالكامل ( إضغط شراء ثم إلغاء )",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.68.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-firefighter-tycoon-save_1.68.0",
+          "date": "2026-10-23",
+          "size": 433271603
+        }
+      ],
+      "version": "1.68.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-firefighter-tycoon-save_1.68.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-firefighter-tycoon-save_1.68.0",
+      "size": 433271603,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792766914378",
+      "name": "Space Colonizers Idle Clicker",
+      "bundleIdentifier": "com.capplay.spacecolonizers",
+      "bundleId": "com.capplay.spacecolonizers",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b8/9d/3bb89d9f-2d8f-b6ca-13f9-2e85b7430a85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إضافة المال فوراً من خيار الترقية للتقدم في اللعبة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.28.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/space-colonizers-idle-clicker_1.28.0",
+          "date": "2026-10-23",
+          "size": 338899763
+        }
+      ],
+      "version": "1.28.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/space-colonizers-idle-clicker_1.28.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/space-colonizers-idle-clicker_1.28.0",
+      "size": 338899763,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792766950302",
+      "name": "Self Care Vampire",
+      "bundleIdentifier": "com.lumiinteractive.selfcarevampire",
+      "bundleId": "com.lumiinteractive.selfcarevampire",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/95/7e/0f957e42-8068-8fc2-61f0-03028fe23c70/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة للمشتريات داخل اللعبة.\n- فتح جميع حزم المحتوى المميزة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/self-care-vampire_1.0.5",
+          "date": "2026-10-23",
+          "size": 351692390
+        }
+      ],
+      "version": "1.0.5",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/self-care-vampire_1.0.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/self-care-vampire_1.0.5",
+      "size": 351692390,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767049109",
+      "name": "CodyCross: Crossword Puzzles",
+      "bundleIdentifier": "com.fanatee.cody",
+      "bundleId": "com.fanatee.cody",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/4a/6f/644a6f16-3467-30e5-00c3-b38ab3ff74ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- رموز مساعدة غير محدودة.\n- تعزيزات غير محدودة.\n- تفعيل المميزات المميزة (Premium).",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.14.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cody-cross-crossword-puzzles_2.14.1",
+          "date": "2026-10-23",
+          "size": 421946982
+        }
+      ],
+      "version": "2.14.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cody-cross-crossword-puzzles_2.14.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cody-cross-crossword-puzzles_2.14.1",
+      "size": 421946982,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767089475",
+      "name": "We Are Cooking",
+      "bundleIdentifier": "com.matryoshka.cooking.vibes",
+      "bundleId": "com.matryoshka.cooking.vibes",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/4b/0e/614b0e03-f48b-3507-9382-cd04a92c51b4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- عمليات شراء مجانية داخل التطبيق.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.18.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/we-are-cooking_0.18.0",
+          "date": "2026-10-23",
+          "size": 325477990
+        }
+      ],
+      "version": "0.18.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/we-are-cooking_0.18.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/we-are-cooking_0.18.0",
+      "size": 325477990,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767352136",
+      "name": "Duck War",
+      "bundleIdentifier": "com.duck.war",
+      "bundleId": "com.duck.war",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/1b/23/a61b23a0-72da-a883-5cc7-36e904d4696d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- قائمة تعديلات تحتوي على أكثر من 70 خياراً للتحكم بأسلوب اللعب.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duck-war_2.1.1",
+          "date": "2026-10-23",
+          "size": 358193561
+        }
+      ],
+      "version": "2.1.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duck-war_2.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/duck-war_2.1.1",
+      "size": 358193561,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767394591",
+      "name": "Word Trip Word Puzzles Games",
+      "bundleIdentifier": "com.littleengine.wordtreat",
+      "bundleId": "com.littleengine.wordtreat",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/b5/e2/36b5e264-97bc-a1df-0a23-ef69b6568e52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة.\n- تفعيل المميزات المميزة (Premium).",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.490.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/word-trip-word-puzzles-games_1.490.0",
+          "date": "2026-10-23",
+          "size": 343303782
+        }
+      ],
+      "version": "1.490.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/word-trip-word-puzzles-games_1.490.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/word-trip-word-puzzles-games_1.490.0",
+      "size": 343303782,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767484017",
+      "name": "Cat vs Cucumber",
+      "bundleIdentifier": "com.ViewPassion.CatvsCucumber",
+      "bundleId": "com.ViewPassion.CatvsCucumber",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSOCW69JOavN7yTQKXtouihvT7AOgfTDjweTn6zPLfw&s=10",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- طاقة غير محدودة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/catvs-cucumber_3.1.0",
+          "date": "2026-10-23",
+          "size": 893806182
+        }
+      ],
+      "version": "3.1.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/catvs-cucumber_3.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/catvs-cucumber_3.1.0",
+      "size": 893806182,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767497429",
+      "name": "Puzzle Dragons English",
+      "bundleIdentifier": "jp.gungho.padEN",
+      "bundleId": "jp.gungho.padEN",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/3e/9a/1a3e9ace-1ab3-b057-31fc-5ff5aaf569bf/AppIcon_en-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت أثناء اللعب.\n- القضاء على الأعداء بضربة واحدة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "23.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/puzzle-dragons-english_23.4.0",
+          "date": "2026-10-23",
+          "size": 368155033
+        }
+      ],
+      "version": "23.4.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/puzzle-dragons-english_23.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/puzzle-dragons-english_23.4.0",
+      "size": 368155033,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767517014",
+      "name": "Audiomack Play Music Offline",
+      "bundleIdentifier": "com.audiomack.iphone",
+      "bundleId": "com.audiomack.iphone",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/23/8a/86238aea-c7dc-c96b-8669-83037b121aaf/AppIcon-1-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تشغيل الموسيقى دون اتصال بالإنترنت.\n- فتح المميزات.",
+      "category": "أدوات",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "8.11.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/audiomack-play-music-offline_8.11.1",
+          "date": "2026-10-23",
+          "size": 372559052
+        }
+      ],
+      "version": "8.11.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/audiomack-play-music-offline_8.11.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/audiomack-play-music-offline_8.11.1",
+      "size": 372559052,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767551456",
+      "name": "What in Hell is Bad? : Origin",
+      "bundleIdentifier": "com.prettybusy.hell",
+      "bundleId": "com.prettybusy.hell",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/1b/0c/101b0c1f-3c1f-20c9-2255-218c5648420e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.9.20",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatin-hellis-bad-origin_1.9.20",
+          "date": "2026-10-23",
+          "size": 672871219
+        }
+      ],
+      "version": "1.9.20",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatin-hellis-bad-origin_1.9.20",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whatin-hellis-bad-origin_1.9.20",
+      "size": 672871219,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767603444",
+      "name": "My Cinema World",
+      "bundleIdentifier": "com.creauctopus.cinemaworld",
+      "bundleId": "com.creauctopus.cinemaworld",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/55/90/a3559081-5943-19e0-139b-d6f564d0cff5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- أموال نقدية غير محدودة.\n- جواهر غير محدودة.\n- كوبونات غير محدودة.\n- أموال نقدية زرقاء غير محدودة.\n- أموال نقدية وردية غير محدودة.\n- رصيد دومينز غير محدود.\n- إزالة الإعلانات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.5.41",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-cinema-world_1.5.41",
+          "date": "2026-10-23",
+          "size": 308595916
+        }
+      ],
+      "version": "1.5.41",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-cinema-world_1.5.41",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-cinema-world_1.5.41",
+      "size": 308595916,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767623461",
+      "name": "Tile Explorer: Tiles Clear",
+      "bundleIdentifier": "com.oakever.tiletrip",
+      "bundleId": "com.oakever.tiletrip",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/0e/85/b40e8531-091d-54e2-8760-cd3520ce6176/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة.\n- معززات غير محدودة.\n- الفوز التلقائي.\n- إزالة الإعلانات.\n- تخطي إعلانات الفيديو.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-explorer-tiles-clear_2.5.0",
+          "date": "2026-10-23",
+          "size": 442289356
+        }
+      ],
+      "version": "2.5.0",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-explorer-tiles-clear_2.5.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tile-explorer-tiles-clear_2.5.0",
+      "size": 442289356,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767633294",
+      "name": "Brotato",
+      "bundleIdentifier": "com.brotato.shooting.survivors.action.games.bullethell.ios",
+      "bundleId": "com.brotato.shooting.survivors.action.games.bullethell.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/20/c7/4020c711-565c-c276-11dd-63bd6a331311/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- وضع الطاقة غير المحدودة.\n- مضاعفة سرعة الحركة.\n- تفعيل المشتريات داخل اللعبة دون تكلفة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.3.405",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/brotato_1.3.405",
+          "date": "2026-10-23",
+          "size": 671508070
+        }
+      ],
+      "version": "1.3.405",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/brotato_1.3.405",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/brotato_1.3.405",
+      "size": 671508070,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767818703",
+      "name": "Pal Go Tower Defense Td",
+      "bundleIdentifier": "com.playwindgames.freedefender",
+      "bundleId": "com.playwindgames.freedefender",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/3f/1b/de3f1b4a-29aa-02d9-1433-a81ee9ed877e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تجميد العملات بحيث لا تنقص عند إنفاقها.\n- إمكانية الشراء حتى دون امتلاك رصيد كافٍ.\n- الحصول على 500 نقطة طاقة تجنيد في كل موجة.\n- إمكانية سحب الأبطال دون قيود.\n- تخطي الإعلانات.\n- إزالة وقت انتظار الهجوم.\n- التحكم بمضاعفة سرعة المعركة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.9.34",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pal-go-tower-defense-td_0.9.34",
+          "date": "2026-10-23",
+          "size": 493984153
+        }
+      ],
+      "version": "0.9.34",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pal-go-tower-defense-td_0.9.34",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pal-go-tower-defense-td_0.9.34",
+      "size": 493984153,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767831657",
+      "name": "Gale Knights Idle Rpg",
+      "bundleIdentifier": "net.lightcon.windidle",
+      "bundleId": "net.lightcon.windidle",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/6a/c0/ae6ac042-7e10-80a5-ad3f-82548aa91e71/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- عدم الموت أثناء القتال.\n- إزالة وقت انتظار المهارات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gale-knights-idle-rpg_1.2.1",
+          "date": "2026-10-23",
+          "size": 478779801
+        }
+      ],
+      "version": "1.2.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gale-knights-idle-rpg_1.2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gale-knights-idle-rpg_1.2.1",
+      "size": 478779801,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767873632",
+      "name": "Spirit King Quest",
+      "bundleIdentifier": "com.eightstudio.spiritking",
+      "bundleId": "com.eightstudio.spiritking",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/96/03/6e960359-4654-a2e4-5e3a-731d7ae967a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- عدم الموت أثناء القتال.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.8.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spirit-king-quest_0.8.7",
+          "date": "2026-10-23",
+          "size": 765355622
+        }
+      ],
+      "version": "0.8.7",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spirit-king-quest_0.8.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spirit-king-quest_0.8.7",
+      "size": 765355622,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767905194",
+      "name": "ONIFALL 2046: Demon Hunters",
+      "bundleIdentifier": "com.wesky.onifall",
+      "bundleId": "com.wesky.onifall",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/02/f7/c402f742-81d5-f260-de16-f07f54efc3e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- عدم الموت أثناء القتال.\n- مضاعفة سرعة الحركة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/onifall2046demonhunters_1.1",
+          "date": "2026-10-23",
+          "size": 1588487782
+        }
+      ],
+      "version": "1.1",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/onifall2046demonhunters_1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/onifall2046demonhunters_1.1",
+      "size": 1588487782,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767954118",
+      "name": "Merge Ninja Star 2",
+      "bundleIdentifier": "com.mouseduck.boomerang",
+      "bundleId": "com.mouseduck.boomerang",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/a0/4b/eda04ba2-123d-2442-dc96-01d21a6de37c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- إضافة الياقوت.\n- إضافة الريش.\n- إضافة الحجر الداكن.\n- إضافة الخام.\n- إضافة اللؤلؤ.\n- إضافة الساعات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.6600",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/merge-ninja-star-2-v1.0.6600",
+          "date": "2026-10-23",
+          "size": 594123161
+        }
+      ],
+      "version": "1.0.6600",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/merge-ninja-star-2-v1.0.6600",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/merge-ninja-star-2-v1.0.6600",
+      "size": 594123161,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792767992889",
+      "name": "Tiny Army Merge Defense Rpg",
+      "bundleIdentifier": "com.tinyarmy.legion",
+      "bundleId": "com.tinyarmy.legion",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/f1/eb/94f1ebed-288a-9003-b7f0-f5473f21029d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إضافة الأحجار والموارد.\n- إضافة العملات داخل اللعبة.\n- إضافة تذاكر التجنيد.\n- إضافة صناديق المكافآت.\n- عدم خسارة وحدات الجيش أثناء المعركة.\n- إنهاء المعركة بضربة واحدة.\n- الفوز الفوري في المعارك.\n- مضاعفة قوة الضرر.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiny-army-merge-defense-rpg_1.0.8",
+          "date": "2026-10-23",
+          "size": 816735846
+        }
+      ],
+      "version": "1.0.8",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiny-army-merge-defense-rpg_1.0.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiny-army-merge-defense-rpg_1.0.8",
+      "size": 816735846,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792779891213",
+      "name": "Soccer Superstar",
+      "bundleIdentifier": "soccer.score.star",
+      "bundleId": "soccer.score.star",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/cf/15/0ccf1585-1be3-2218-4d49-52e7c43cae0e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.3.93",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-star-0.3.93",
+          "date": "2026-10-23",
+          "size": 202899456
+        }
+      ],
+      "version": "0.3.93",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-star-0.3.93",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soccer-star-0.3.93",
+      "size": 202899456,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "id": "app-1792779988275",
+      "name": "Lost Twins 2",
+      "bundleIdentifier": "com.playdew.losttwins2",
+      "bundleId": "com.playdew.losttwins2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/9c/e2/c29ce249-32a3-164a-6d43-075509c6ff56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lost-twins2-v1.5",
+          "date": "2026-10-23",
+          "size": 284164096
+        }
+      ],
+      "version": "1.5",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lost-twins2-v1.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lost-twins2-v1.5",
+      "size": 284164096,
       "addedAt": "2026-10-23",
       "updatedAt": "2026-10-23"
     }
