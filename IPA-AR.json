@@ -43053,6 +43053,30 @@
       "size": 2917348147,
       "addedAt": "2026-10-22",
       "updatedAt": "2026-10-22"
+    },
+    {
+      "id": "app-1792749919353",
+      "name": "Dark Mage Defense: 66,666",
+      "bundleIdentifier": "com.arumgames.darkwizard",
+      "bundleId": "com.arumgames.darkwizard",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/f3/6f/c4f36fc8-90e8-22dc-e44d-e38a43bd3161/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.30",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/darkmagedefense66666-v1.0.30",
+          "date": "2026-10-23",
+          "size": 594962022
+        }
+      ],
+      "version": "1.0.30",
+      "versionDate": "2026-10-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/darkmagedefense66666-v1.0.30",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/darkmagedefense66666-v1.0.30",
+      "size": 594962022,
+      "addedAt": "2026-10-23",
+      "updatedAt": "2026-10-23"
     }
   ]
 }
