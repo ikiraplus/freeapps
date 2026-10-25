@@ -1682,9 +1682,9 @@
       "toolVersion": "1.2",
       "versions": [
         {
-          "version": "1.0.57.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-hack-1.0.57-fixedv1.2",
-          "date": "2026-10-13",
+          "version": "1.0.57",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-1.0.57-hack-beta2",
+          "date": "2026-10-26",
           "size": 2741606809
         },
         {
@@ -1692,13 +1692,13 @@
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-1.0.57.1-hack"
         }
       ],
-      "version": "1.0.57.2",
-      "versionDate": "2026-10-13",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-hack-1.0.57-fixedv1.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-hack-1.0.57-fixedv1.2",
+      "version": "1.0.57",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-1.0.57-hack-beta2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-1.0.57-hack-beta2",
       "size": 2741606809,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-26",
       "_rowKey": 62
     },
     {
