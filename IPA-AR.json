@@ -45864,6 +45864,7 @@
       "bundleIdentifier": "com.loop.match3d",
       "bundleId": "com.loop.match3d",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/6c/3f/2b6c3fe1-5057-405d-94e8-0b6ccbde3cfa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل خاصية الشراء الوهمي\n- بدون إعلانات\n\nملاحظة: فعّل خاصية الاختراق من قائمة التعديلات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -45888,6 +45889,7 @@
       "bundleIdentifier": "com.VitaGames.EngineASMR",
       "bundleId": "com.VitaGames.EngineASMR",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/c5/0a/97c50af8-5a0e-a119-35e8-6d2139ff15a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- بدون إعلانات ← تجربة لعب متواصلة\n- كل شيء مجاني ← جميع الترقيات والمحتويات متاحة\n- نيترو غير محدود ← تسابق دون قيود على الوقود\n- إيقاف النوافذ المنبثقة المزعجة ← تجربة أكثر نقاءً وخالية من المشتتات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -45912,6 +45914,7 @@
       "bundleIdentifier": "com.leyoios.idleapartmenttycoon",
       "bundleId": "com.leyoios.idleapartmenttycoon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/f2/9d/06f29de3-8535-6613-1846-f74f7fa541af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة ← أنفق بحرية على الترقيات والتوسعات\n- جميع الحزم مُتاحة ← احصل على المحتوى المتميز دون الحاجة إلى الشراء",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -45936,6 +45939,7 @@
       "bundleIdentifier": "com.pixery.mythicsurvivors",
       "bundleId": "com.pixery.mythicsurvivors",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/3a/6d/643a6dca-d1a0-ea4c-951b-7b13eeda574e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل عضوية VIP ← احصل على حالة الحساب المميز والمزايا المرتبطة بها\n- إضافة عملة ← عزز رصيدك من العملات داخل اللعبة\n- إضافة موارد ← احصل على مواد إضافية للمساعدة في التقدم باللعبة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -45960,6 +45964,7 @@
       "bundleIdentifier": "com.cig.testparents",
       "bundleId": "com.cig.testparents",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/15/6b/0d156bca-557b-8878-f4dd-30c8840afff6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة ← أنفق بحرية ودون قيود\n- إصدار مميز (Premium) ← جميع الميزات المميزة متاحة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -45984,6 +45989,7 @@
       "bundleIdentifier": "com.TesseractStudio.IdleGoat",
       "bundleId": "com.TesseractStudio.IdleGoat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/65/28/ae65288b-d64f-bb92-edc3-7ac5f2ed2146/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إزالة الإعلانات / مكافآت مجانية ← التخلص من الإعلانات والحصول على مكافآت مجانية\n- تفعيل سرعة مضاعفة (2X) ← تسريع وتيرة اللعب للتقدم بشكل أسرع\n- ترقية المستوى بدون تكلفة ← ترقية الأتباع (Minions) والمستدعي (Summoner) دون استهلاك أي موارد\n- تعطيل هجوم الأعداء ← الأعداء لا يلحقون أي ضرر بفريقك…",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46008,6 +46014,7 @@
       "bundleIdentifier": "com.mob.volley",
       "bundleId": "com.mob.volley",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/6e/19/c66e19a9-69a7-fb6c-56ab-f16a5c4667b6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- الفوز التلقائي (Auto Win) ← انتصار فوري في كل معركة\n- إضافة العملة (ADD Currency) ← موارد غير محدودة لترقية فريقك\n- الحصانة الكاملة (Never Die) ← مناعة تامة ضد الموت أثناء القتال\n- الحد الأقصى للضرر (Damage Max) ← أقصى قوة ممكنة للأسلحة للقضاء على الأعداء فوراً",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46032,6 +46039,7 @@
       "bundleIdentifier": "com.MDickie.OldSchool",
       "bundleId": "com.MDickie.OldSchool",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/72/dc/4c72dc0c-c356-011f-a8a2-6aed07cddd8e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إصدار مميز (PREMIUM) ← جميع عمليات الشراء داخل التطبيق مُتاحة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46056,6 +46064,7 @@
       "bundleIdentifier": "com.pockettrend.neomonsters",
       "bundleId": "com.pockettrend.neomonsters",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a5/e8/98a5e8bd-fd63-3422-9fa4-edc4ceb2590d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مدفوع في ابل ستور",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46080,6 +46089,7 @@
       "bundleIdentifier": "co.airapps.translatorkeyboard",
       "bundleId": "co.airapps.translatorkeyboard",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/7a/a3/bb7aa327-611d-75ca-198e-0c231db6526a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "للترجمه عن طريق الكيبورد\n\n- مفتوح المميزات",
       "category": "أدوات",
       "recommended": false,
       "versions": [
@@ -46104,6 +46114,7 @@
       "bundleIdentifier": "com.ondi.fortias.saga",
       "bundleId": "com.ondi.fortias.saga",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/33/68/d1336882-5aad-6d5c-8696-662772be1614/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر\n- مضاعف الدفاع\n- مضاعف الشظايا والعناصر*\n- تجميد الموارد\n- لا إعلانات\n\n*قم بإيقاف تشغيله عندما تحصل على ما يكفي حتى لا يصبح سلبيًا",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46128,6 +46139,7 @@
       "bundleIdentifier": "com.ai.chat.bot.assistant",
       "bundleId": "com.ai.chat.bot.assistant",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792923492846.png",
+      "localizedDescription": "تم فتح جميع الميزات ( اضغط شراء ثم الغاء ).",
       "category": "دراسة وذكاء اصطناعي",
       "recommended": false,
       "versions": [
@@ -46152,6 +46164,7 @@
       "bundleIdentifier": "com.just2us.dualgram",
       "bundleId": "com.just2us.dualgram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/43/ed/c043ed98-6669-6705-081a-855be53fa185/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "تم فتح جميع الميزات ( اضغط شراء ثم الغاء ).",
       "category": "أدوات",
       "recommended": false,
       "versions": [
@@ -46176,6 +46189,7 @@
       "bundleIdentifier": "com.kolibrigames.idlerestauranttycoon",
       "bundleId": "com.kolibrigames.idlerestauranttycoon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/5d/96/7f5d968f-0f49-3ecc-d5b7-a73fdd168776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة.\n- عمليات شراء داخل التطبيق مجانية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46200,6 +46214,7 @@
       "bundleIdentifier": "net.devfloor.pomodor",
       "bundleId": "net.devfloor.pomodor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/e1/e4/6fe1e4d6-9798-e7d5-7789-9fc26299feec/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- طماطم غير محدودة ← تزداد بدلًا من أن تنقص.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46224,6 +46239,7 @@
       "bundleIdentifier": "co.gxgames.spa",
       "bundleId": "co.gxgames.spa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/57/82/225782cf-8e2f-7ed1-4fc3-82f802924ae5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- بدون إعلانات.\n- تجميد العملة.\n- تجميد المعززات والحياة.\n- تجميد الصبر.\n- الدفع الفوري.\n- الخدمة الفورية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46248,6 +46264,7 @@
       "bundleIdentifier": "com.gamee.kingdoms.survivor.io",
       "bundleId": "com.gamee.kingdoms.survivor.io",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/b4/eb/28b4eba4-d7d1-fc07-78a0-8b2f856bd62b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مشتريات مجانية داخل التطبيق (IAP) ← اشترِ أي شيء.\n- الصحة.\n- الضرر.\n- قرص المهارات بطيء.\n- قرص المهارات سريع (قد تصبح اللعبة بطيئة).\n- حجم المهارة كبير.\n- سرعة التصويب سريعة.\n- سرعة الحركة.\n- إحياء تلقائي غير محدود (لا تموت أبدًا).\n- قرص القوة القصوى.\n- الصورة الرمزية والإطار.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46272,6 +46289,7 @@
       "bundleIdentifier": "com.MadarGames.WarboxSandbox",
       "bundleId": "com.MadarGames.WarboxSandbox",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/b3/cb/fcb3cb22-b4e0-48f3-c9ed-f66b0b66f038/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل Premium ← فتح جميع المميزات بالكامل.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46296,6 +46314,7 @@
       "bundleIdentifier": "com.actowise.piptube",
       "bundleId": "com.actowise.piptube",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/45/83/894583c9-c1b4-ab14-ac48-48f5ac0dd14c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تشغيل الفيديو بوضع صورة داخل صورة.\n- مفتوح المميزات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46320,6 +46339,7 @@
       "bundleIdentifier": "DriftRacingRally",
       "bundleId": "DriftRacingRally",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792924347205.png",
+      "localizedDescription": "- تفعيل الشراء الوهمي.\n- تسريع اللعبة.\n- بدون إعلانات.\n\nملاحظة: فعّل الهاك من قائمة المود.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46344,6 +46364,7 @@
       "bundleIdentifier": "com.thebosokacompany.skylinebowling",
       "bundleId": "com.thebosokacompany.skylinebowling",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/a2/e9/bda2e9be-7688-a1b9-8f3d-12dcce93f614/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مصحح الأخطاء.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46368,6 +46389,7 @@
       "bundleIdentifier": "com.vigafun.funfinity.foodhunt",
       "bundleId": "com.vigafun.funfinity.foodhunt",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/81/5a/83815aa1-5f15-0383-6570-45983aed82b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات لا نهائية ← أنفقها بحرية دون نفاد\n- أرواح لا نهائية ← العب باستمرار دون قيود\n- معززات لا نهائية ← استخدم التعزيزات كلما احتجت إليها\n- سرعة فائقة لا نهائية ← فعّل معززات السرعة بلا حدود\n- فوز فوري ← اربح تلقائيًا عند النقر…",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46392,6 +46414,7 @@
       "bundleIdentifier": "com.loot.adventure.idle",
       "bundleId": "com.loot.adventure.idle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/43/b6/b243b665-1f7b-4d7c-4015-acfec2db3cd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت (Never Die) ← حصانة ضد الضرر أثناء القتال\n- أقصى ضرر (Damage Max) ← الحد الأقصى للضرر المُلحق",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46416,6 +46439,7 @@
       "bundleIdentifier": "com.fundoshiparade.cult",
       "bundleId": "com.fundoshiparade.cult",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/1c/c8/271cc84f-2014-8e58-f6c0-23f476808b93/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مُضاعِف الضرر\n- لا تموت أبدًا\n- لا تستهلك نقاط SP\n- تجميد العملات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46440,6 +46464,7 @@
       "bundleIdentifier": "com.inspiredsquare.blocks",
       "bundleId": "com.inspiredsquare.blocks",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/d3/30/9cd330f1-04ff-d72a-33f9-07b30afb0aad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- بدون إعلانات.\n- عملة لا نهائية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46464,6 +46489,7 @@
       "bundleIdentifier": "com.wasteland.heart",
       "bundleId": "com.wasteland.heart",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/43/78/e443781b-9572-12df-3fe8-e85eaef7aa7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة\n- جواهر غير محدودة\n- بدون إعلانات\n- متجر مجاني",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46488,6 +46514,7 @@
       "bundleIdentifier": "com.shikudo.sleeprpg",
       "bundleId": "com.shikudo.sleeprpg",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/b3/1b/03b31b85-9448-6f58-d9dd-29afd4697b46/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- بطاقة سوبر / نشطة\n- بطاقة عادية / نشطة\n- عملة / لا حاجة لها / سلبية عند النقصان\n- موارد / لا حاجة لها / سلبية عند النقصان",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46512,6 +46539,7 @@
       "bundleIdentifier": "com.ndemiccreations.plagueinc",
       "bundleId": "com.ndemiccreations.plagueinc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/74/1c/dd741c2a-043b-dc73-d83d-3c81abed681a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مدفوع في ابل ستور",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46536,6 +46564,7 @@
       "bundleIdentifier": "com.ObliqueGames.GodGodGod",
       "bundleId": "com.ObliqueGames.GodGodGod",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/86/60/4e8660f1-6981-ef50-e018-98c5c394cd30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- أقصى هجوم ← زيادة قوة الهجوم إلى أقصى حد",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46560,6 +46589,7 @@
       "bundleIdentifier": "com.blackdust.redblue",
       "bundleId": "com.blackdust.redblue",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/f0/8b/39f08b34-3bc5-b801-abc8-709681c6f418/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مُضاعِف الضرر ← عزز قوة هجومك بشكل ملحوظ\n- مُضاعِف الدفاع ← قلل الضرر الوارد من موجات الوحوش\n- مُضاعِف العملات ← اكسب الموارد بشكل أسرع للترقيات\n- مُضاعِف سرعة الحركة ← غيّر موقع ميلو وليو بسرعة أكبر في المعركة\n- بدون إعلانات ← العب بدون انقطاع",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46584,6 +46614,7 @@
       "bundleIdentifier": "cc.eras",
       "bundleId": "cc.eras",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/08/6f/9a086fcc-27ed-7ec1-6205-4bd8ac251c69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- نقود غير محدودة\n- عملات ذهبية غير محدودة\n- عملات فضية غير محدودة\n- عملات حمراء غير محدودة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46608,6 +46639,7 @@
       "bundleIdentifier": "com.devdop.realwar",
       "bundleId": "com.devdop.realwar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/7d/92/0f7d9268-0bd0-c1db-a2e2-9b361b0015a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة (فعّل هذا الخيار، وعند حصولك على عدد كافٍ من العملات، قم بتعطيله. إذا زاد عدد العملات عن الحد المطلوب، يُرجى إعادة تشغيل اللعبة).\n- لا تتحرك الأعداء",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46632,6 +46664,7 @@
       "bundleIdentifier": "com.neptune.darkstar",
       "bundleId": "com.neptune.darkstar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/2b/7d/622b7d40-2a45-4add-4294-266f2745b37e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر\n- لا تموت أبدًا",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -46649,6 +46682,130 @@
       "size": 488636416,
       "addedAt": "2026-10-25",
       "updatedAt": "2026-10-25"
+    },
+    {
+      "id": "app-1792960639317",
+      "name": "Call of Dudy Hack XT",
+      "bundleIdentifier": "com.activision.callofduty.shooter",
+      "bundleId": "com.activision.callofduty.shooter",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/66/35/bc6635d9-68f4-6ab5-969f-92e034a50cfa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- رؤية عبر الجدران.\n- إيم بوت كامل.\n- ثبات التصويب.\n- خواص ESP كاملة.\n- انعدام التشتت.\n\nملاحظة: حسابك مسؤوليتك الهاك قد يسبب باند على الحساب",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.57",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-hack-1.0.57-xt",
+          "date": "2026-10-25",
+          "size": 2779879833
+        }
+      ],
+      "version": "1.0.57",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-hack-1.0.57-xt",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-hack-1.0.57-xt",
+      "size": 2779879833,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26"
+    },
+    {
+      "id": "app-1792960772803",
+      "name": "Survivor Ace",
+      "bundleIdentifier": "com.survivor.ace",
+      "bundleId": "com.survivor.ace",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttX9WjUx6LoLFAqRx47kUSuKUDe0PLQsjhYRbxCB8BA&s=10",
+      "localizedDescription": "- وضع الخلود (God Mode) ← الحماية من نيران الأعداء.\n- مضاعف الهجوم (ATK Multiplier) ← زيادة قوة الضرر.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/survivor-ace-1.2.0",
+          "date": "2026-10-25",
+          "size": 219466956
+        }
+      ],
+      "version": "1.2.0",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/survivor-ace-1.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/survivor-ace-1.2.0",
+      "size": 219466956,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26"
+    },
+    {
+      "id": "app-1792960801853",
+      "name": "Yu-Gi-Oh! Duel Links",
+      "bundleIdentifier": "jp.konami.yugiohmobile",
+      "bundleId": "jp.konami.yugiohmobile",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/00/f5/e100f57e-06e7-027d-cfec-792b346e2190/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- أفضل التكتيكات دائمًا.\n- إظهار البطاقات مكشوفة الوجه.\n- إظهار البطاقات الموجودة بيد الخصم.\n- إظهار الوحوش وحالتها.\n- إظهار بطاقات مجموعة الخصم.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "11.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duel-links-11.1.0",
+          "date": "2026-10-25",
+          "size": 88499814
+        }
+      ],
+      "version": "11.1.0",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/duel-links-11.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/duel-links-11.1.0",
+      "size": 88499814,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26"
+    },
+    {
+      "id": "app-1792960862113",
+      "name": "Tabs Pocket Edition",
+      "bundleIdentifier": "com.landfall.tabspocketedition",
+      "bundleId": "com.landfall.tabspocketedition",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/7f/75/dc7f75c6-81f2-e048-d0a2-675fd8e4c875/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعة في المتجر الرسمي appstore.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.1.053",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tabs-pocket-edition-v1.1.053",
+          "date": "2026-10-25",
+          "size": 1027080192
+        }
+      ],
+      "version": "1.1.053",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tabs-pocket-edition-v1.1.053",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tabs-pocket-edition-v1.1.053",
+      "size": 1027080192,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26"
+    },
+    {
+      "id": "app-1792961032624",
+      "name": "Call of Duty Hack SK",
+      "bundleIdentifier": "com.activision.callofduty.shooter",
+      "bundleId": "com.activision.callofduty.shooter",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/66/35/bc6635d9-68f4-6ab5-969f-92e034a50cfa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.57",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-hack-1.0.57-sk",
+          "date": "2026-10-25",
+          "size": 3070859673
+        }
+      ],
+      "version": "1.0.57",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-hack-1.0.57-sk",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cod-mobile-hack-1.0.57-sk",
+      "size": 3070859673,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26"
     }
   ]
 }
