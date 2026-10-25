@@ -1140,23 +1140,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.38.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WolfTube-1.38.2",
-          "date": "2026-10-15",
-          "size": 5767168
+          "version": "1.39.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WolfTube-l.39.0",
+          "date": "2026-10-25",
+          "size": 6815744
         },
         {
-          "version": "1.28.13",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WolfTube-1.28.13"
+          "version": "1.38.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WolfTube-1.38.2",
+          "date": "2026-10-15"
         }
       ],
-      "version": "1.38.2",
-      "versionDate": "2026-10-15",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WolfTube-1.38.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/WolfTube-1.38.2",
-      "size": 5767168,
+      "version": "1.39.0",
+      "versionDate": "2026-10-25",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WolfTube-l.39.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/WolfTube-l.39.0",
+      "size": 6815744,
       "addedAt": "2026-07-23",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-25"
     },
     {
       "id": "dylib-1786177412753",
