@@ -177,6 +177,11 @@ jobs:
         run: |
           python - <<'PY'
           import json
+          import re
+
+          arabic_script = re.compile(
+              r'[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]'
+          )
 
           with open('IPA-AR.json', 'r', encoding='utf-8') as f:
               ar = json.load(f)
@@ -190,7 +195,16 @@ jobs:
               raise SystemExit(f'❌ AR/EN app counts differ: {len(ar_apps)} != {len(en_apps)}')
 
           metadata_mismatches = []
+          untranslated = []
           for index, (ar_app, en_app) in enumerate(zip(ar_apps, en_apps)):
+              if ar_app.get('id') != en_app.get('id'):
+                  metadata_mismatches.append(f"#{index}: app ID mismatch")
+              english_description = str(en_app.get('localizedDescription') or '').strip()
+              arabic_description = str(ar_app.get('localizedDescription') or '').strip()
+              if arabic_script.search(english_description):
+                  untranslated.append(f"{en_app.get('id')}: Arabic characters still present")
+              if arabic_description and not english_description:
+                  untranslated.append(f"{en_app.get('id')}: missing English description")
               for field in ('recommended', 'toolVersion'):
                   if (field in ar_app) != (field in en_app) or ar_app.get(field) != en_app.get(field):
                       metadata_mismatches.append(
@@ -198,7 +212,9 @@ jobs:
                       )
 
           if metadata_mismatches:
-              raise SystemExit(f'❌ AR/EN optional metadata mismatch: {metadata_mismatches[:20]}')
+              raise SystemExit(f'❌ AR/EN metadata mismatch: {metadata_mismatches[:20]}')
+          if untranslated:
+              raise SystemExit(f'❌ IPA-EN untranslated descriptions: {untranslated[:20]}')
 
           empty_en = sum(1 for a in en_apps if not str(a.get('localizedDescription') or '').strip())
           print(f'✅ AR apps: {len(ar_apps)}')

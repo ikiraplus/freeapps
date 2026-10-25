@@ -1188,9 +1188,44 @@ GLOSSARY = {
     "تحميل": "download",
     "تثبيت": "installation",
     "تحويل لغة": "change the language",
+    "كود الدخول": "Access code:",
+    "رمز الدخول": "Access code:",
 }
 
 _GLOSSARY_SORTED = sorted(GLOSSARY.items(), key=lambda kv: len(kv[0]), reverse=True)
+
+# Enforce genuinely English descriptions. Translators sometimes preserve a
+# short Arabic phrase embedded in an otherwise English sentence.
+ARABIC_SCRIPT_PATTERN = re.compile(
+    r"[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]"
+)
+_ARABIC_TO_LATIN_DIGITS = str.maketrans(
+    "٠١٢٣٤٥٦٧٨٩۰۱۲۳۴۵۶۷۸۹", "01234567890123456789"
+)
+
+
+def contains_arabic_script(value):
+    return bool(ARABIC_SCRIPT_PATTERN.search(str(value or "")))
+
+
+def normalize_english_description(value):
+    """Repair known mixed-language snippets, but never silently delete Arabic."""
+    text = clean_text_keep_lines(value).translate(_ARABIC_TO_LATIN_DIGITS)
+    if not contains_arabic_script(text):
+        return text
+
+    for arabic_phrase, english_phrase in _GLOSSARY_SORTED:
+        if not contains_arabic_script(arabic_phrase):
+            continue
+        # Only whole Arabic terms: avoid mangling words containing short keys.
+        expression = (
+            r"(?<![\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])"
+            + re.escape(arabic_phrase)
+            + r"(?![\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF])"
+        )
+        text = re.sub(expression, lambda match: english_phrase, text)
+
+    return clean_text_keep_lines(text)
 
 
 def _protect_glossary_terms(text):
@@ -1337,18 +1372,24 @@ def _translate_line_to_english(text):
 
     protected_text, glossary_tokens = _protect_glossary_terms(_protect_line_breaks(text))
 
-    try:
-        # Google is usually faster and more consistent for technical app/mod descriptions.
-        result = _translate_via_google(protected_text)
-    except Exception as google_error:
+    google_error = None
+    for provider in (_translate_via_google, _translate_via_mymemory):
         try:
-            result = _translate_via_mymemory(protected_text)
-        except Exception as mymemory_error:
-            raise RuntimeError(
-                f"All translation providers failed — Google: {google_error} | MyMemory: {mymemory_error}"
-            )
+            raw_translation = provider(protected_text)
+            result = _restore_line_breaks(_restore_glossary_terms(raw_translation, glossary_tokens))
+            result = normalize_english_description(result)
+            if not result or contains_arabic_script(result):
+                raise ValueError("translation still contains Arabic characters")
+            return result
+        except Exception as error:
+            if provider is _translate_via_google:
+                google_error = error
+            else:
+                raise RuntimeError(
+                    f"All translation providers failed — Google: {google_error} | MyMemory: {error}"
+                ) from error
 
-    return _restore_line_breaks(_restore_glossary_terms(result, glossary_tokens))
+    raise RuntimeError("Unable to produce an English-only translation")
 
 
 TRANSLATION_CHUNK_CHARS = int(os.getenv("TRANSLATION_CHUNK_CHARS", "800"))
@@ -1460,14 +1501,15 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
 
         arabic_description = clean_text_keep_lines(app.get("localizedDescription"))
         old_ar_description = clean_text_keep_lines(old_ar.get("localizedDescription")) if old_ar else ""
-        existing_english = clean_text_keep_lines(old_en.get("localizedDescription")) if old_en else ""
+        existing_english = normalize_english_description(old_en.get("localizedDescription")) if old_en else ""
 
         if not arabic_description:
             app["localizedDescription"] = ""
             empty += 1
             continue
 
-        if existing_english and old_ar_description == arabic_description:
+        if (existing_english and not contains_arabic_script(existing_english)
+                and old_ar_description == arabic_description):
             app["localizedDescription"] = existing_english
             reused += 1
             continue
@@ -1491,7 +1533,7 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
                     print(f"🌐 Translated ({translated}/{len(pending)}): {app_label}", flush=True)
                 except Exception as exc:
                     failed += 1
-                    if fallback_english:
+                    if fallback_english and not contains_arabic_script(fallback_english):
                         app["localizedDescription"] = fallback_english
                         print(f"⚠️ Translation failed for {app_label} ({exc}); kept previous English text")
                     else:
@@ -1503,6 +1545,27 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
     if failed:
         print(f"⚠️ English descriptions that failed to translate this run: {failed}")
     print(f"ℹ️ Apps without Arabic descriptions: {empty}")
+
+    # Do not publish an English source if any nonempty Arabic note was left
+    # untranslated, including a previously cached partial translation.
+    invalid_descriptions = []
+    for app in output.get("apps", []):
+        if not isinstance(app, dict):
+            continue
+        description = clean_text_keep_lines(app.get("localizedDescription"))
+        if contains_arabic_script(description):
+            invalid_descriptions.append(f"{app.get('id')}: Arabic characters remain")
+        elif not description:
+            source_app = next(
+                (item for item in get_apps(ar_source)
+                 if item.get("id") == app.get("id")), None
+            )
+            if source_app and clean_text_keep_lines(source_app.get("localizedDescription")):
+                invalid_descriptions.append(f"{app.get('id')}: English translation is missing")
+    if invalid_descriptions:
+        raise ValueError(
+            "IPA-EN validation failed: " + "; ".join(invalid_descriptions[:15])
+        )
 
     translate_categories(output, old_ar_source=old_ar_source, old_en_source=old_en_source)
     translate_news_captions(output, old_ar_source=old_ar_source, old_en_source=old_en_source)
