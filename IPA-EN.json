@@ -1592,7 +1592,7 @@
       "bundleIdentifier": "com.tencent.ig",
       "bundleId": "com.tencent.ig",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Use of this hack is at your own risk, and we do not guarantee it nor do we know who developed it App features :\n- Player detection (radar)\n- Delete measurement\n- Aimbot ( Aimbot )\n- Internal stability",
+      "localizedDescription": "Mod features :\n- Player Detection (Radar)\n- Delete\n- Aimbot ( Aimbot )\n- Internal Stability\n\nUse this hack at your own risk.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -4490,15 +4490,15 @@
       "bundleIdentifier": "com.rekoo.pubgm",
       "bundleId": "com.rekoo.pubgm",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Hack the Taiwanese version PUBG, do not use your main account.\n\nMod features :\n- Integrated radar.\n- Hide the hack while filming.\n- Completely open residences.",
+      "localizedDescription": "Hack the Taiwanese version PUBG, do not use your main account.\n\nMod features :\n- integrated radar.\n- Hide the hack while filming.\n- Completely open residences.",
       "category": "games",
       "recommended": false,
       "versions": [
         {
           "version": "4.6.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-tw-hack2.4.6.0",
-          "date": "2026-09-25",
-          "size": 3783996211
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-tw-hack-v4.6.0-ikiraplus",
+          "date": "2026-10-26",
+          "size": 3778648473
         },
         {
           "version": "4.5.0",
@@ -4506,12 +4506,12 @@
         }
       ],
       "version": "4.6.0",
-      "versionDate": "2026-09-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-tw-hack2.4.6.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-tw-hack2.4.6.0",
-      "size": 3783996211,
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-tw-hack-v4.6.0-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-tw-hack-v4.6.0-ikiraplus",
+      "size": 3778648473,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-25",
+      "updatedAt": "2026-10-26",
       "_rowKey": 167
     },
     {
@@ -4961,15 +4961,15 @@
       "bundleIdentifier": "com.pubg.krmobile",
       "bundleId": "com.pubg.krmobile",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFmyHs5ENejMyMXmdH4SrN1HSh9_DX3gj-w&s",
-      "localizedDescription": "Hack the Korean PUBG. We do not guarantee it and we do not know the party that developed it. Do not use your main account Mod features\n- Player detection radar\n- Mod Menu\n- Automatic divorce",
+      "localizedDescription": "Hack PUBG Korean, do not use your basic account.\n\nMod features :\n- Player Detection Radar\n- Mod Menu\n- Automatic Shot\n- Hide the hack while filming",
       "category": "games",
       "recommended": false,
       "versions": [
         {
           "version": "4.6.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0",
-          "date": "2026-09-15",
-          "size": 3789343948
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0-ikiraplus",
+          "date": "2026-10-26",
+          "size": 3770574438
         },
         {
           "version": "3.4.5",
@@ -4977,12 +4977,12 @@
         }
       ],
       "version": "4.6.0",
-      "versionDate": "2026-09-15",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0",
-      "size": 3789343948,
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0-ikiraplus",
+      "size": 3770574438,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-15",
+      "updatedAt": "2026-10-26",
       "_rowKey": 185
     },
     {
@@ -5065,14 +5065,14 @@
       "bundleIdentifier": "com.vng.pubgmobile",
       "bundleId": "com.vng.pubgmobile",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/f1/42a0f10c-fde1-87ba-a22e-493304fd9c96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Game features :\n- ESP .\n- Improvements related to Anti-Cheat bypass .\n- Anti-Ban protection for rank. Note:\n- Use a secondary account, because this is modded version .",
+      "localizedDescription": "Mod features :\n- ESP and Rader.\n- Improvements related to Anti-Cheat bypass .\n- Anti-Ban protection for rank.\n- Hide the hack while filming.\n\nI use a secondary account, your primary account is your responsibility.",
       "category": "games",
       "recommended": false,
       "versions": [
         {
           "version": "4.6.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vng-pubg-v4.6.0-free",
-          "date": "2026-09-12",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-hack-vit-v4.6.0-ikiraplus",
+          "date": "2026-10-26",
           "size": 3753377792
         },
         {
@@ -5081,12 +5081,12 @@
         }
       ],
       "version": "4.6.0",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/vng-pubg-v4.6.0-free",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/vng-pubg-v4.6.0-free",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-hack-vit-v4.6.0-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-hack-vit-v4.6.0-ikiraplus",
       "size": 3753377792,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-26",
       "_rowKey": 189
     },
     {
@@ -9291,29 +9291,32 @@
     },
     {
       "id": "APP-7929881120",
-      "name": "Horse Racing",
+      "name": "Rival Stars Horse Racing",
       "bundleIdentifier": "com.pikpok.hrc.iosstore",
       "bundleId": "com.pikpok.hrc.iosstore",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/bf/6f/2abf6fb2-131b-3ebb-0c90-8ac9f4c7e855/AppIconBarrelRacing-0-0-1x_U007epad-0-11-0-P3-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Game features :\n- Double the racing speed.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/b6/62/1db66296-4307-7740-9566-f28506e94b37/AppIconHalloween-0-0-1x_U007epad-0-11-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- Double the race speed.",
       "category": "games",
       "recommended": false,
       "versions": [
         {
+          "version": "1.78.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rival-stars-horse-racing_1.78.1",
+          "date": "2026-10-26",
+          "size": 1816028774
+        },
+        {
           "version": "1.75",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/horse-racing-1.75",
-          "date": "2026-08-24",
-          "size": 1495164518
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/horse-racing-1.75"
         }
       ],
-      "version": "1.75",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/horse-racing-1.75",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/horse-racing-1.75",
-      "size": 1495164518,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
-      "_rowKey": 345
+      "version": "1.78.1",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rival-stars-horse-racing_1.78.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rival-stars-horse-racing_1.78.1",
+      "size": 1816028774,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "APP-7281800695",
@@ -10801,25 +10804,30 @@
       "name": "Scary Horror Escape Room Game",
       "bundleIdentifier": "com.aaa.adventures.scary.horror",
       "bundleId": "com.aaa.adventures.scary.horror",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/67/31/c56731d8-173f-76a5-719e-fe6f27d5b3c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/31/68/a931684c-a656-b8cc-6387-cc71e06d63ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "Game features :\n- Unlimited hints.",
       "category": "games",
       "recommended": false,
       "versions": [
         {
+          "version": "3.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scary-horror-escape-room-game_3.7",
+          "date": "2026-10-26",
+          "size": 159802982
+        },
+        {
           "version": "3.6",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scary-horror-escape-room-game",
-          "date": "2026-08-24",
-          "size": 93218406
+          "date": "2026-08-24"
         }
       ],
-      "version": "3.6",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scary-horror-escape-room-game",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scary-horror-escape-room-game",
-      "size": 93218406,
+      "version": "3.7",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/scary-horror-escape-room-game_3.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/scary-horror-escape-room-game_3.7",
+      "size": 159802982,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-10-26",
       "_rowKey": 401
     },
     {
@@ -47208,6 +47216,7 @@
       "bundleIdentifier": "onetap.game.tictactoe",
       "bundleId": "onetap.game.tictactoe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/e1/4a/a2e14af6-65a9-6d2a-3dd3-4bbb9bae076b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- ad-free .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47224,8 +47233,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tictactoe2playerxogame_17",
       "size": 191889408,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793026454364",
@@ -47233,6 +47241,7 @@
       "bundleIdentifier": "com.maxgames.stickwar3",
       "bundleId": "com.maxgames.stickwar3",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/63/62/c9636266-b956-13ae-86ef-59055422e1f1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Instant win: prepare for battle and then quit.\n- Battle gone when spending or earning.\n- Unlimited mana when spent or earned.\n- Unlock all content.\n- No waiting period for skills to recharge.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47249,8 +47258,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/stick-war-saga_2026.5.7576",
       "size": 723727155,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793026531465",
@@ -47258,6 +47266,7 @@
       "bundleIdentifier": "com.funcat.tgbtc",
       "bundleId": "com.funcat.tgbtc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/4b/89/cc4b89cf-bc72-e7b7-c72a-01fa57f7cc80/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- Auto-Win (PVE): Get instant wins with rewards in PVE battles.\n\nActivate the auto-win option (PVE) to get rewards. Turn this feature off before entering ranking battles or PVP battles.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47274,8 +47283,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tokyo-ghoul-breakthe-chains_3.12560",
       "size": 678114099,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793026574336",
@@ -47283,6 +47291,7 @@
       "bundleIdentifier": "com.turbochilli.rollingsky",
       "bundleId": "com.turbochilli.rollingsky",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e5/96/c4e596e3-ca2c-7849-5033-ee200462e8ce/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- in-app purchases (IAP) free operations.\n- God Mode .\n- Do not fall off the track.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47299,8 +47308,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rolling-sky_5.6.4",
       "size": 766299340,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793026624000",
@@ -47308,6 +47316,7 @@
       "bundleIdentifier": "games.vaveda.militaryoverturn",
       "bundleId": "games.vaveda.militaryoverturn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/8b/48/838b4814-9aa3-8a97-494c-efc6c8ffc720/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- store free (click buy then cancel).",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47324,8 +47333,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tower-war-tactical-conquest_1.30.0",
       "size": 364065587,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793026641802",
@@ -47333,6 +47341,7 @@
       "bundleIdentifier": "com.oakever.meowdoku",
       "bundleId": "com.oakever.meowdoku",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/c5/71/6bc57153-6679-5b71-759b-7f978a748359/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Auto win and complete the level immediately.\n- Go to a custom level and skip stages.\n- Unlimited tools and hints.\n- Unlimited Lives.\n- The distinctive version and ad-free .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47349,8 +47358,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/meowdoku_1.22.0",
       "size": 442394214,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793026683795",
@@ -47358,6 +47366,7 @@
       "bundleIdentifier": "com.time.trigger",
       "bundleId": "com.time.trigger",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0f/ba/fb0fbac6-bfa6-f7b9-89ae-aadc010fda6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Gems: Settings > Restore purchase.\n- Money: Settings > Music button.\n- VIP Membership.\n\nNote: These features are mentioned in the documentation for version 1.12.60, while the version found here is 1.0.72; Features may differ or may not work in this version .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47378,8 +47387,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/johnny-trigger-sniper_1.0.72",
       "size": 469762048,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793026710571",
@@ -47387,6 +47395,7 @@
       "bundleIdentifier": "com.kurechii.postknight2",
       "bundleId": "com.kurechii.postknight2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/21/d3/0a21d36c-fe46-bdc6-d6e5-0e89e356a06d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Double the damage.\n- God Mode .\n- Debug menu: Settings > Privacy Policy (not all options work).\n- double the game speed.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47403,8 +47412,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/post-knight-2-v2.7.16",
       "size": 957454745,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793026765826",
@@ -47412,6 +47420,7 @@
       "bundleIdentifier": "com.jettoast.aero",
       "bundleId": "com.jettoast.aero",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/d1/57/cbd1571b-7e6e-4b85-413b-7460fc7d9940/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- Unlimited gold to build and upgrade.\n- Unlimited dollars.\n- Unlimited lab points for research and upgrades.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47428,8 +47437,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/airport-inc-idle-tycoon-game_1.5.13",
       "size": 231211008,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793026829021",
@@ -47437,6 +47445,7 @@
       "bundleIdentifier": "com.nordcurrent.happyclinicf2p",
       "bundleId": "com.nordcurrent.happyclinicf2p",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/b1/c3/b4b1c3f9-303f-0269-4e20-14d8c51bed56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Freeze patients' patience and stop their timers while playing.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47453,8 +47462,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/happy-clinic-hospital-game_18.0.0",
       "size": 419535257,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793027017574",
@@ -47462,6 +47470,7 @@
       "bundleIdentifier": "com.snaperfect.inframe",
       "bundleId": "com.snaperfect.inframe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/7b/46/c27b468d-30bb-6adb-d1cf-eb538f735c93/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "An application for placing photos in beautiful frames and formats.\n\n- All features are unlocked. Click on Restore Purchases if it does not activate automatically.",
       "category": "tools",
       "recommended": false,
       "versions": [
@@ -47478,8 +47487,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/in-frame-photoeditorcollage_1.8.13",
       "size": 285841817,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793027029632",
@@ -47487,6 +47495,7 @@
       "bundleIdentifier": "com.cinderella.scream",
       "bundleId": "com.cinderella.scream",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/a9/42/1ea94206-15fe-1d93-d827-2d9a18419a5f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- store free To obtain the elements of store at no cost.\n- ad-free .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47503,8 +47512,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-scream-park_12.0",
       "size": 336488038,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793027042842",
@@ -47512,6 +47520,7 @@
       "bundleIdentifier": "com.bricksball.civil.crusher",
       "bundleId": "com.bricksball.civil.crusher",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/5f/d1/7c5fd1ed-07c5-3798-8aee-ba917ef6bbbe/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- VIP membership.\n- Unlimited gems .\n- Unlimited boosters .\n- Unlimited energy .\n- Always get 3 stars.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47528,8 +47537,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bricks-ball-crusher_1.2.48",
       "size": 327680000,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793027080621",
@@ -47637,6 +47645,7 @@
       "bundleIdentifier": "com.nixwang.decision",
       "bundleId": "com.nixwang.decision",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/3f/84/253f8428-9371-f42f-c554-b0783df66ac8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "An application for randomly selecting questions and answers using the decision wheel.\n\n- Features are unlocked.\n\nNote: These features are mentioned in the documentation for version 26.11.1, while the version found here is 26.12; Features may differ or may not work in this version .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47653,8 +47662,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tiny-decisions_26.12",
       "size": 205311180,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793027272009",
@@ -47752,6 +47760,306 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/horse-training-racing-games_1.7",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/horse-training-racing-games_1.7",
       "size": 435368755,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027644341",
+      "name": "Warhorn Kingdom Revenge",
+      "bundleIdentifier": "com.yeeyo.YYTowerDefense",
+      "bundleId": "com.yeeyo.YYTowerDefense",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/55/52/04555286-01e1-9ce3-17cf-580abace18c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/warhorn-kingdom-revenge_1.0.2",
+          "date": "2026-10-26",
+          "size": 307023052
+        }
+      ],
+      "version": "1.0.2",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/warhorn-kingdom-revenge_1.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/warhorn-kingdom-revenge_1.0.2",
+      "size": 307023052,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027654852",
+      "name": "Dynasty Legends 2",
+      "bundleIdentifier": "com.newtypegames.dl2hmt",
+      "bundleId": "com.newtypegames.dl2hmt",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/63/b5/9263b524-ad91-b284-6466-a472c9760ad3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.40.600",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends-2-v1.40.600",
+          "date": "2026-10-26",
+          "size": 710724812
+        }
+      ],
+      "version": "1.40.600",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends-2-v1.40.600",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends-2-v1.40.600",
+      "size": 710724812,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027666222",
+      "name": "Soccer Dynasty Club Manager",
+      "bundleIdentifier": "com.kongsoftware.kickpfm",
+      "bundleId": "com.kongsoftware.kickpfm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/b9/da/46b9dad1-8caf-f0c2-b4ee-9a1ec2eed9bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.1.58",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-dynasty-club-manager_1.1.58",
+          "date": "2026-10-26",
+          "size": 454347980
+        }
+      ],
+      "version": "1.1.58",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soccer-dynasty-club-manager_1.1.58",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soccer-dynasty-club-manager_1.1.58",
+      "size": 454347980,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027681338",
+      "name": "Punch Kick Duck",
+      "bundleIdentifier": "com.pipsqueakgames.punchkickduck",
+      "bundleId": "com.pipsqueakgames.punchkickduck",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/80/9b/90809b7e-e006-445c-f841-a9b1de1e6dfb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.14.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/punch-kick-duck_1.14.1",
+          "date": "2026-10-26",
+          "size": 132854579
+        }
+      ],
+      "version": "1.14.1",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/punch-kick-duck_1.14.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/punch-kick-duck_1.14.1",
+      "size": 132854579,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027692496",
+      "name": "Capybara Go",
+      "bundleIdentifier": "com.habby.capybara",
+      "bundleId": "com.habby.capybara",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/72/a2/3872a28b-ba12-053c-49d7-ab7ec1be95db/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.8.14",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/capybara-go_1.8.14",
+          "date": "2026-10-26",
+          "size": 673395507
+        }
+      ],
+      "version": "1.8.14",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/capybara-go_1.8.14",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/capybara-go_1.8.14",
+      "size": 673395507,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027709931",
+      "name": "Crazy Kick Fun Football Game",
+      "bundleIdentifier": "com.orbitalknight.ridiculousfreekick",
+      "bundleId": "com.orbitalknight.ridiculousfreekick",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/64/8c/36648c7a-5b3d-ab6a-3f44-3ba3e009811c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.48.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/crazy-kick-fun-footballgame_2.48.0",
+          "date": "2026-10-26",
+          "size": 1215194726
+        }
+      ],
+      "version": "2.48.0",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/crazy-kick-fun-footballgame_2.48.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/crazy-kick-fun-footballgame_2.48.0",
+      "size": 1215194726,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027727915",
+      "name": "Evolution 2: Battle for Utopia",
+      "bundleIdentifier": "com.my.evolution2",
+      "bundleId": "com.my.evolution2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/4f/da/064fda02-0623-a05f-a893-63f8f2647b18/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.27123.90127",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/evolution-2-battle-for-utopia_0.27123.90127",
+          "date": "2026-10-26",
+          "size": 1151126732
+        }
+      ],
+      "version": "0.27123.90127",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/evolution-2-battle-for-utopia_0.27123.90127",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/evolution-2-battle-for-utopia_0.27123.90127",
+      "size": 1151126732,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027743395",
+      "name": "Evolution Idle Last Survivor",
+      "bundleIdentifier": "com.dlxstudio.LastSurvivor",
+      "bundleId": "com.dlxstudio.LastSurvivor",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/53/4a/73534ac7-8494-b68c-5328-6f46d9c5dcb3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/evolution-idle-last-survivor_0.7",
+          "date": "2026-10-26",
+          "size": 198914867
+        }
+      ],
+      "version": "0.7",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/evolution-idle-last-survivor_0.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/evolution-idle-last-survivor_0.7",
+      "size": 198914867,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027757101",
+      "name": "Royal Revolt 2 Tower Defense",
+      "bundleIdentifier": "com.flaregames.royalrevoltonline",
+      "bundleId": "com.flaregames.royalrevoltonline",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/09/4d/8d094d58-a8bf-b4a1-ca76-6401c7dda368/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "12.7.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/royal-revolt-2-tower-defense_12.7.1",
+          "date": "2026-10-26",
+          "size": 182976512
+        }
+      ],
+      "version": "12.7.1",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/royal-revolt-2-tower-defense_12.7.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/royal-revolt-2-tower-defense_12.7.1",
+      "size": 182976512,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027770703",
+      "name": "Wrestling Revolution",
+      "bundleIdentifier": "WRFree",
+      "bundleId": "WRFree",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/85/ec/6b/85ec6b1c-e3e8-0233-b473-0b19b6f707eb/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wrestling-revolution_2.1.0",
+          "date": "2026-10-26",
+          "size": 82732646
+        }
+      ],
+      "version": "2.1.0",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wrestling-revolution_2.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wrestling-revolution_2.1.0",
+      "size": 82732646,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027791512",
+      "name": "Survival Island: Survivor EVO",
+      "bundleIdentifier": "com.darkbark.sievolve",
+      "bundleId": "com.darkbark.sievolve",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6a/4b/256a4ba1-d6f0-de9e-9fb3-7a2a3ddbb1c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.46.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/survival-island-evo-adventure_2.46.7",
+          "date": "2026-10-26",
+          "size": 605552640
+        }
+      ],
+      "version": "2.46.7",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/survival-island-evo-adventure_2.46.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/survival-island-evo-adventure_2.46.7",
+      "size": 605552640,
+      "addedAt": "2026-10-26",
+      "updatedAt": "2026-10-26",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793027804588",
+      "name": "Mob Era Age Evolution",
+      "bundleIdentifier": "com.horusent.mob.era",
+      "bundleId": "com.horusent.mob.era",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/01/8f/ca018fc3-0cff-d232-ffd6-dc499fcea100/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.3.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-era-age-evolution_0.3.2",
+          "date": "2026-10-26",
+          "size": 519569408
+        }
+      ],
+      "version": "0.3.2",
+      "versionDate": "2026-10-26",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-era-age-evolution_0.3.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mob-era-age-evolution_0.3.2",
+      "size": 519569408,
       "addedAt": "2026-10-26",
       "updatedAt": "2026-10-26",
       "localizedDescription": ""
