@@ -35273,6 +35273,7 @@
       "bundleIdentifier": "com.armsx2.ios",
       "bundleId": "com.armsx2.ios",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1790958417916.png",
+      "localizedDescription": "An emulator to play PlayStation 2 games on iPhone and iPad.\n\nInstallation and operation:\n\n1- installation Application:\n- Install the emulator in IPA format using external store or reliable certificate installation .\n\n2- Add BIOS files:\n- Save the BIOS file inside the Files application, then unzip it.\n- Copy the resulting four files and move them to the BIOS folder inside the emulator files.\n- Make sure you write the folder name in English: BIOS.\n\n3- activation BIOS inside the emulator:\n- Open the emulator and go to the third option BIOS.\n- Select the four BIOS files.\n- Choose the appropriate server from the list that appears.\n\n4- Add games:\n- Prepare PS2 games in ISO format.\n- Move game files to the game folder of the emulator.\n- Games will appear in the emulator interface and ready to play.",
       "category": "Other",
       "recommended": false,
       "versions": [
@@ -35289,8 +35290,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/armsx2-ios-2.5.2",
       "size": 26424115,
       "addedAt": "2026-10-02",
-      "updatedAt": "2026-10-02",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-02"
     },
     {
       "id": "app-1790958434006",
@@ -40429,6 +40429,7 @@
       "bundleIdentifier": "com.redaxegames.carforsale2023",
       "bundleId": "com.redaxegames.carforsale2023",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/63/16/7763168a-f97d-ccae-f024-077679097635/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- Infinite coins.\n- Level up quickly.\n- Ads removed .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -40445,8 +40446,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-for-sale-simulator-2023-v2.0.8",
       "size": 418906112,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-15"
     },
     {
       "id": "app-1792325103178",
@@ -42744,6 +42744,7 @@
       "bundleIdentifier": "com.ali.Mushare",
       "bundleId": "com.ali.Mushare",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792623690332.png",
+      "localizedDescription": "An application that helps you download audios directly from social networking sites and save them directly in the music application.",
       "category": "tools",
       "recommended": false,
       "versions": [
@@ -42760,8 +42761,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mushare_1.1",
       "size": 11744051,
       "addedAt": "2026-10-22",
-      "updatedAt": "2026-10-22",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-22"
     },
     {
       "id": "app-1792687485124",
@@ -47727,6 +47727,7 @@
       "bundleIdentifier": "com.manga.galaxy.reader",
       "bundleId": "com.manga.galaxy.reader",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/49/a2/7f49a28e-9828-bdd9-c0f6-19cd0d4d46cb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "All features and VIP membership unlocked .\n- Click buy, then cancel, or register through a Google account.",
       "category": "entertainment",
       "recommended": false,
       "versions": [
@@ -47743,8 +47744,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/manga-reader-galaxy_2.7",
       "size": 249770803,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793027493026",
@@ -47827,6 +47827,7 @@
       "bundleIdentifier": "com.newtypegames.dl2hmt",
       "bundleId": "com.newtypegames.dl2hmt",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/63/b5/9263b524-ad91-b284-6466-a472c9760ad3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Damage multiplier → Increase your attack power.\n- Defense Multiplier → Boost your defense stats.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -47843,8 +47844,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends-2-v1.40.600",
       "size": 710724812,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793027666222",
@@ -48052,6 +48052,7 @@
       "bundleIdentifier": "com.darkbark.sievolve",
       "bundleId": "com.darkbark.sievolve",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6a/4b/256a4ba1-d6f0-de9e-9fb3-7a2a3ddbb1c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- activation performed in-app purchases operations.\n- No ads .\n\nNote: Activate the edit feature from the edits menu.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -48068,8 +48069,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/survival-island-evo-adventure_2.46.7",
       "size": 605552640,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-26"
     },
     {
       "id": "app-1793027804588",
