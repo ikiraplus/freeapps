@@ -35273,6 +35273,7 @@
       "bundleIdentifier": "com.armsx2.ios",
       "bundleId": "com.armsx2.ios",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1790958417916.png",
+      "localizedDescription": "محاكي لتشغيل ألعاب PlayStation 2 على iPhone وiPad.\n\nطريقة التثبيت والتشغيل:\n\n1- تثبيت التطبيق:\n- ثبّت المحاكي بصيغة IPA باستخدام متجر خارجي أو شهادة تثبيت موثوقة.\n\n2- إضافة ملفات BIOS:\n- احفظ ملف BIOS داخل تطبيق الملفات، ثم فك الضغط عنه.\n- انسخ الملفات الأربعة الناتجة وانقلها إلى مجلد BIOS داخل ملفات المحاكي.\n- تأكد من كتابة اسم المجلد بالإنكليزية: BIOS.\n\n3- تفعيل BIOS داخل المحاكي:\n- افتح المحاكي وانتقل إلى الخيار الثالث BIOS.\n- حدد ملفات BIOS الأربعة.\n- اختر السيرفر المناسب من القائمة التي تظهر لك.\n\n4- إضافة الألعاب:\n- جهّز ألعاب PS2 بصيغة ISO.\n- انقل ملفات الألعاب إلى مجلد game الخاص بالمحاكي.\n- ستظهر الألعاب في واجهة المحاكي وجاهزة للتشغيل.",
       "category": "أخرى",
       "recommended": false,
       "versions": [
@@ -40428,6 +40429,7 @@
       "bundleIdentifier": "com.redaxegames.carforsale2023",
       "bundleId": "com.redaxegames.carforsale2023",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/63/16/7763168a-f97d-ccae-f024-077679097635/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات اللعبة:\n- عملات لا نهائية.\n- رفع المستوى بسرعة.\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -42741,6 +42743,7 @@
       "bundleIdentifier": "com.ali.Mushare",
       "bundleId": "com.ali.Mushare",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792623690332.png",
+      "localizedDescription": "تطبيق يساعدك على تحميل الصوتيات مباشرة من مواقع التواصل الاجتماعي وحفظها مباشرة في تطبيق الموسيقى.",
       "category": "أدوات",
       "recommended": false,
       "versions": [
@@ -47723,6 +47726,7 @@
       "bundleIdentifier": "com.manga.galaxy.reader",
       "bundleId": "com.manga.galaxy.reader",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/49/a2/7f49a28e-9828-bdd9-c0f6-19cd0d4d46cb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "تم فتح جميع المميزات وعضوية الـVip.\n- اضغط شراء ثم الغاء او قم بالتسجيل عبر حساب كوكل.",
       "category": "ترفيه",
       "recommended": false,
       "versions": [
@@ -47822,6 +47826,7 @@
       "bundleIdentifier": "com.newtypegames.dl2hmt",
       "bundleId": "com.newtypegames.dl2hmt",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/63/b5/9263b524-ad91-b284-6466-a472c9760ad3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر ← زيادة قوة هجومك.\n- مضاعف الدفاع ← تعزيز إحصائياتك الدفاعية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -48046,6 +48051,7 @@
       "bundleIdentifier": "com.darkbark.sievolve",
       "bundleId": "com.darkbark.sievolve",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6a/4b/256a4ba1-d6f0-de9e-9fb3-7a2a3ddbb1c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تم تفعيل عمليات الشراء داخل التطبيق.\n- لا توجد إعلانات.\n\nملاحظة: فعّل خاصية التعديل من قائمة التعديلات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
