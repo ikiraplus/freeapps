@@ -8522,34 +8522,33 @@
     },
     {
       "id": "APP-4547535200",
-      "name": "iQ Tele",
+      "name": "iQTele",
       "bundleIdentifier": "ph.telegra.Telegraph",
       "bundleId": "ph.telegra.Telegraph",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/83/96/c183964f-32d7-16fe-57ab-8c66518f6625/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "لا تقوم بتكرار التطبيق او تغيير الباندل.\n\nمميزات التطبيق:\n- وضع الشبح للرسائل والقصص.\n- الاحتفاظ بالرسائل المحذوفة.\n- تسجيل المكالمات الصوتية والمرئية.\n- رفع الرسائل الصوتية من الملفات أو الاستوديو أو YouTube.\n- تنزيل الوسائط المؤقتة.\n- ترجمة الرسائل.\n- عرض سجل تعديلات الرسائل.",
+      "localizedDescription": "لا تقوم بتكرار التطبيق او تغيير الباندل.\n\nمميزات التطبيق:\n- وضع الشبح للرسائل والقصص.\n- الاحتفاظ بالرسائل المحذوفة.\n- تسجيل المكالمات الصوتية والمرئية.\n- رفع الرسائل الصوتية من الملفات أو الاستوديو أو YouTube.\n- تنزيل الوسائط المؤقتة.\n- ترجمة الرسائل.\n- عرض سجل تعديلات الرسائل.\n- إضافة زر مسح الكاش لحل مشكلة طلب اشتراك Sms Fee.\n- تم حل مشكلة اختفاء زر الأداة.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "1.4",
+      "toolVersion": "1.5",
       "versions": [
         {
-          "version": "12.9.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtele_12.9.4-v1.4",
-          "date": "2026-09-25",
-          "size": 77594624
+          "version": "13.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtele_13.1.1-tweak1.5",
+          "date": "2026-10-27",
+          "size": 80635494
         },
         {
-          "version": "12.9.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtele_12.9.3"
+          "version": "12.9.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtele_12.9.4-v1.4"
         }
       ],
-      "version": "12.9.4",
-      "versionDate": "2026-09-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtele_12.9.4-v1.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtele_12.9.4-v1.4",
-      "size": 77594624,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-26",
-      "_rowKey": 318
+      "version": "13.1.1",
+      "versionDate": "2026-10-27",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iqtele_13.1.1-tweak1.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iqtele_13.1.1-tweak1.5",
+      "size": 80635494,
+      "addedAt": "2026-10-27",
+      "updatedAt": "2026-10-27"
     },
     {
       "id": "APP-7887581315",
