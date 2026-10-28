@@ -49445,6 +49445,7 @@
       "bundleIdentifier": "com.footballgemagent.app",
       "bundleId": "com.footballgemagent.app",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1793217081478.png",
+      "localizedDescription": "• عملات غير محدودة للتعاقد مع اللاعبين وإجراء الترقيات.\n• جميع الحزم مشتراة ومحتوياتها المميزة مفتوحة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49469,6 +49470,7 @@
       "bundleIdentifier": "com.tree.idle.cat.cult",
       "bundleId": "com.tree.idle.cat.cult",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/44/50/54445059-a43d-31e1-d53c-4a927e08ca47/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عمليات شراء داخل التطبيق مجانية (Free IAP).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49493,6 +49495,7 @@
       "bundleIdentifier": "com.dream.dale",
       "bundleId": "com.dream.dale",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/61/0a/d1610a42-b537-05a2-3d01-e1828111d8ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• تجميد الموارد ومخزون موارد غير محدود.\n• موارد غير محدودة عند بيع محتويات المخزون.\n• الحصول دائماً على موارد ذهبية.\n• منع ذكاء الأعداء من الهجوم والملاحقة والهروب.\n• تفعيل VIP وMiner VIP.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49517,6 +49520,7 @@
       "bundleIdentifier": "weapon.legends.ammo.heroes",
       "bundleId": "weapon.legends.ammo.heroes",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/b6/b6/1ab6b6a2-ffcb-3c25-c64a-e9c80ca27895/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عدم الموت أثناء القتال.\n• أقصى ضرر للهجمات.\n• قائمة خيارات المطورين +25 (للمطورين المميزين).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49541,6 +49545,7 @@
       "bundleIdentifier": "jp.co.bandainamcoent.BNEI0455",
       "bundleId": "jp.co.bandainamcoent.BNEI0455",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/8a/a6/ce8aa6e7-4330-966e-b816-a746fda2a5f9/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• مضاعفة الضرر.\n• مضاعفة الدفاع.\n• عدم الموت.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49565,6 +49570,7 @@
       "bundleIdentifier": "com.nvsgames.pt",
       "bundleId": "com.nvsgames.pt",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/d7/de/f2d7de4a-f47c-f68b-ff39-124490059350/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عملات غير محدودة تزداد بدلاً من أن تنقص عند الإنفاق، لدمج النباتات وترقيتها.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49589,6 +49595,7 @@
       "bundleIdentifier": "com.SpaceInch.LoveOfMoney",
       "bundleId": "com.SpaceInch.LoveOfMoney",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1793217210267.png",
+      "localizedDescription": "• الترقيات والاستثمارات مجانية.\n• حصالة ذهب غير محدودة؛ أنفق أو استعد الذهب لتجديده.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49637,6 +49644,7 @@
       "bundleIdentifier": "br.com.tapps.weareilluminati",
       "bundleId": "br.com.tapps.weareilluminati",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/06/3f/76063f8d-77f4-52af-9d43-1bd87cb09a14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• متجر مجاني داخل اللعبة؛ فعّل الخاصية من قائمة التعديل.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49661,6 +49669,7 @@
       "bundleIdentifier": "com.vng.g6.a.zombie",
       "bundleId": "com.vng.g6.a.zombie",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/48/61/e248611e-310b-e8cc-2ed4-cd3bcb5fe08b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "• ذهب ونقود وألماس غير محدود.\n• قنابل يدوية وأطقم إسعافات وذخيرة غير محدودة.\n• قتل بضربة واحدة وعدم الموت.\n• دقة عالية وإزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49685,6 +49694,7 @@
       "bundleIdentifier": "com.StellarCraft.StellarConnect",
       "bundleId": "com.StellarCraft.StellarConnect",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/8b/ca/c88bca1a-1c2f-f492-b814-fdd94414910b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• مضاعفة الضرر والدفاع.\n• عدم الموت.\n• عملات غير محدودة.\n• خيار ثانٍ للعملات يجعلها تزداد بدلاً من أن تنقص.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49709,6 +49719,7 @@
       "bundleIdentifier": "com.moonlight.dragoncity",
       "bundleId": "com.moonlight.dragoncity",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/33/b2/3a33b26b-2830-f0cd-8d43-e37994914e0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• ألماس غير محدود يزداد عند الاستخدام.\n• ذهب غير محدود يزداد عند الاستخدام.\n• نجوم غير محدودة تزداد عند الاستخدام.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49733,6 +49744,7 @@
       "bundleIdentifier": "com.NokoGames.PortalQuest",
       "bundleId": "com.NokoGames.PortalQuest",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/73/05/59730535-4b18-05ef-fbf8-b25baa7ab163/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عدم الموت.\n• عملات غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49757,6 +49769,7 @@
       "bundleIdentifier": "com.ikiraplus.apps.mergecrafter-3d-mining-merge.f0e73b9b78",
       "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/10/c2/2610c26d-ddf1-69da-9797-84371e3ed3c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عملات غير محدودة.\n• عمليات شراء داخل التطبيق مجانية؛ اضغط شراء ثم إلغاء.\n• تنبيه: لا تفعّل خيار Free IAP من قائمة iOSGods.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49781,6 +49794,7 @@
       "bundleIdentifier": "com.kkgames.idleswordmaster",
       "bundleId": "com.kkgames.idleswordmaster",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/d6/7e/44d67ece-73ea-e931-9976-15ede509c9cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عملات غير محدودة للترقيات والدمج.\n• جميع الحزم المشتراة مفتوحة.\n• ملاحظة: أعد تشغيل اللعبة بعد التشغيل الأول.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49805,6 +49819,7 @@
       "bundleIdentifier": "jp.co.imagineer.medarotsurvivors",
       "bundleId": "jp.co.imagineer.medarotsurvivors",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/fa/48/48fa4868-7e18-4764-85cf-5f9913ccb516/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• مضاعفة الضرر.\n• عدم الموت.\n• مضاعفة العملات ونقاط الخبرة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49829,6 +49844,7 @@
       "bundleIdentifier": "com.fiveamp.pickcrafterapp",
       "bundleId": "com.fiveamp.pickcrafterapp",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/95/c0/1695c047-e150-9f85-c54c-a0b7e54ac7a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• تجميد الاختيارات والرونية واللآلئ النهائية وغبار القطع الأثرية.\n• كتل غير محدودة.\n• 9999 رونية افتراضية و999 بلورة صعود عند الصعود.\n• إمكانية استخدام الهيبة دائماً وتعديل مستواها.\n• شراء مجاني داخل التطبيق (للمحتوى المميز فقط).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49853,6 +49869,7 @@
       "bundleIdentifier": "com.tree.idle.catsnackbar",
       "bundleId": "com.tree.idle.catsnackbar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/08/aa/0808aa99-e200-e7ac-3e0b-cdf98baf0f9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• تجميد العملات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49877,6 +49894,7 @@
       "bundleIdentifier": "com.ndemiccreations.peaceinc",
       "bundleId": "com.ndemiccreations.peaceinc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/d6/9c/bed69cd0-23ed-b1ef-4988-4a637d29be7e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• جميع الإضافات المدفوعة (DLC) مشتراة.\n• نقود غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49901,6 +49919,7 @@
       "bundleIdentifier": "com.ndemiccreations.survivors",
       "bundleId": "com.ndemiccreations.survivors",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/1e/e6/921ee6fc-a800-7c3e-4f45-e5996ab23d13/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• اللعبة المدفوعة متاحة مجاناً.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49949,6 +49968,7 @@
       "bundleIdentifier": "com.littleleafgames.makervalley",
       "bundleId": "com.littleleafgames.makervalley",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/63/db/e363db25-8331-1bbd-6a4c-5973fb50795b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عملات غير محدودة تزداد بدلاً من أن تنقص.\n• تجميد الحركات.\n• فوز تلقائي.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49973,6 +49993,7 @@
       "bundleIdentifier": "com.game.arcane.entity",
       "bundleId": "com.game.arcane.entity",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/51/45/b5514593-ce13-e55a-d51b-22c0b01a5534/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• مضاعفة الضرر.\n• ضربات حاسمة مضمونة.\n• إزالة وقت الانتظار بين استخدام المهارات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50117,6 +50138,7 @@
       "bundleIdentifier": "com.cgdealers.rushprotocol",
       "bundleId": "com.cgdealers.rushprotocol",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/70/2a/52702aba-b890-11cf-92b3-16107e234b94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• تعطيل التصويب التلقائي للتحكم اليدوي.\n• جواهر وعملات وقطع أسلحة غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50189,6 +50211,7 @@
       "bundleIdentifier": "com.pantheraplay.soulhuntress",
       "bundleId": "com.pantheraplay.soulhuntress",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b6/18/a6b6186c-83e3-09f5-d872-c5aea37edaa3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عملات غير محدودة تزداد عند الإنفاق.\n• استخدام العناصر باستمرار حتى أثناء فترة الانتظار.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50213,6 +50236,7 @@
       "bundleIdentifier": "io.supercent.burgersimulator",
       "bundleId": "io.supercent.burgersimulator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/de/fe/32defee7-ffe0-7a21-f356-df121f797c10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• مشتريات مجانية داخل اللعبة؛ اضغط شراء ثم إلغاء.\n• ملاحظة: قد لا يظهر المتجر فوراً؛ العب قليلاً حتى يظهر.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50237,6 +50261,7 @@
       "bundleIdentifier": "com.devvisiongames.deadisland",
       "bundleId": "com.devvisiongames.deadisland",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b4/aa/f7b4aaab-c7c0-a77c-fc91-67a6d03413af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عدم الموت ومتانة غير محدودة.\n• الحصول على عناصر غير محدودة من البريد.\n• تجميد نقاط المهارات.\n• تفعيل Premium وصناعة أي عنصر.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50261,6 +50286,7 @@
       "bundleIdentifier": "com.MallatEntertainment.ClubLegend",
       "bundleId": "com.MallatEntertainment.ClubLegend",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/75/64a875f9-6291-9e8b-4329-99be4158d269/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• نقود وجواهر غير محدودة؛ احصل على بعض النقود أو الجواهر لتفعيلها.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50285,6 +50311,7 @@
       "bundleIdentifier": "com.CarXTech.highWayRacing",
       "bundleId": "com.CarXTech.highWayRacing",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6f/58/216f58bc-d431-f83d-d1e7-392668a278b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عملات ووقود ونيترو غير محدود.\n• جميع السيارات مملوكة.\n• ملاحظة: أكمل التدريب ووصل إلى المرحلة 3 من طور الحملة قبل تفعيل الميزات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50309,6 +50336,7 @@
       "bundleIdentifier": "io.madhook.ameradventures",
       "bundleId": "io.madhook.ameradventures",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/fa/f5/6afaf595-427c-f413-5b41-b14fad036cc4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• متجر مجاني بالكامل؛ اضغط شراء ثم إلغاء.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50357,6 +50385,7 @@
       "bundleIdentifier": "com.hypermonkgames.AutoDrift",
       "bundleId": "com.hypermonkgames.AutoDrift",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/46/d4/ed46d480-d9db-9509-8614-635f5cc64fe3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• ترقيات دخل الانجراف غير محدودة، بدون حد أقصى.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50381,6 +50410,7 @@
       "bundleIdentifier": "com.dmg.supermarket.simulator",
       "bundleId": "com.dmg.supermarket.simulator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/6c/6f/a86c6fe0-9649-4b05-9381-443d64296484/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• متجر مجاني داخل اللعبة؛ اضغط شراء ثم إلغاء.\n• فعّل الخاصية من قائمة التعديل (Mod Menu).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
