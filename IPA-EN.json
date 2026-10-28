@@ -48971,6 +48971,7 @@
       "bundleIdentifier": "com.TechTreeGames.IdleBrickBreaker",
       "bundleId": "com.TechTreeGames.IdleBrickBreaker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/5a/dd/295addda-9178-0b38-b4c2-6f53e97fcf96/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "• Unlimited cash.\n• Unlimited gems .\n• Cannot be reset at Prestige.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -48987,8 +48988,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-brick-breaker-breakout_2.1.90",
       "size": 188114534,
       "addedAt": "2026-10-27",
-      "updatedAt": "2026-10-27",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-27"
     },
     {
       "id": "app-1793125478648",
@@ -49622,6 +49622,7 @@
       "bundleIdentifier": "com.neogullab.gurigurikingdom",
       "bundleId": "com.neogullab.gurigurikingdom",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/fd/26/d3fd26ac-93e3-8975-edd0-d5cb9509e5b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Maximum coin balance: Unlimited money for upgrades and purchases.\n• Immortality: Complete invincibility during combat.\n• Maximum attack power.\n• Note: Maximum coin balance option not working with Rupee.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49638,8 +49639,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/raccoon-kingdom-rpg_0.0.77",
       "size": 815582412,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793217335758",
@@ -49947,6 +49947,7 @@
       "bundleIdentifier": "com.masomo.basketballarena",
       "bundleId": "com.masomo.basketballarena",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/45/a4/bd45a462-dad2-877d-8c20-d87b2f6f49f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Fast movement.\n• Skip transition.\n• Unlimited mana.\n• Unpacking artificial intelligence.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49963,8 +49964,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/basketball-arena-sports-game_1.135",
       "size": 270742323,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219782612",
@@ -50022,6 +50022,7 @@
       "bundleIdentifier": "com.budgestudios.BarbieDreamhouse",
       "bundleId": "com.budgestudios.BarbieDreamhouse",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/48/6c/fb486c5e-500b-0be7-b7e8-07d1018edbd2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• activation Premium (Premium Features).",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50038,8 +50039,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/barbie-dreamhouse-adventures_2026.7.0",
       "size": 658296012,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219827368",
@@ -50047,6 +50047,7 @@
       "bundleIdentifier": "com.jojoyanyanproduction.CatchTheUndercover",
       "bundleId": "com.jojoyanyanproduction.CatchTheUndercover",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/53/d7/db53d707-57cb-8b18-d066-4f00d004a15b/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "• Fake IAP enabled in-game.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50063,8 +50064,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/undercover-word-party-game_6.3.8",
       "size": 76126617,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219913393",
@@ -50072,6 +50072,7 @@
       "bundleIdentifier": "com.aldagames.zombero.bullet.hell",
       "bundleId": "com.aldagames.zombero.bullet.hell",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/84/6e/9f846e76-99c3-9f4c-6d86-a4c06d526aa6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• God Mode during enemy attacks (may still die due to traps).\n• Kill enemies with one hit.\n• Unlimited ammo .\n• Shooting without reloading.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50088,8 +50089,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zombero-hero-shooter_1.53.0",
       "size": 296013004,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219847068",
@@ -50097,6 +50097,7 @@
       "bundleIdentifier": "com.kingcup.kunk",
       "bundleId": "com.kingcup.kunk",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/bb/89/8ebb890b-2ba3-9742-7e7c-aba3634db682/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Hero statistics: maximum attack power and maximum defense.\n• Enemy statistics: 0 attack power and 0 defense power.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50113,8 +50114,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lets-defense-kunk_2.4.0",
       "size": 189687398,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219924377",
@@ -50122,6 +50122,7 @@
       "bundleIdentifier": "com.hunt.royale",
       "bundleId": "com.hunt.royale",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/c8/c8/4dc8c81d-df22-d603-5063-5e7b50e7c276/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Stupid enemies.\n• Double damage.\n• Double the defense.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50138,8 +50139,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hunt-royale-action-rpg-battle_3.35.0",
       "size": 451202252,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219967111",
@@ -50172,6 +50172,7 @@
       "bundleIdentifier": "crowd.champs.game",
       "bundleId": "crowd.champs.game",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/a7/52/0ba752cc-bf7f-dbf5-32d1-20809c978a63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Stop the automatic ads .\n• activation Heroes Card.\n• Unlimited rewards from the Heroes Card.\n• Win gems.\n• activation Totems +2.\n• free rolls; Use it only when the number reaches 0.\n• free upgrades; You need one coin.\n• Gems, coins and Unlimited energy .\n• Unlimited rune cards and rune upgrade cards.\n• Unlimited spins; Note: The free and activation coils do not use this feature.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50188,8 +50189,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/crowdchamps3drunnergame_1.18.1",
       "size": 384407961,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219992329",
@@ -50197,6 +50197,7 @@
       "bundleIdentifier": "com.duole.solitaire.zen.home.design.patience.free.card.games",
       "bundleId": "com.duole.solitaire.zen.home.design.patience.free.card.games",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/6b/68/646b683d-fe40-e64e-ff63-fb0d8fd8aebf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Stop the automatic ads to remove advertising clips.\n• Unlimited gems for upgrades and customization.\n• Unlimited wrenches for truck repair and recovery.\n• Unlimited undo to retry and solve puzzles.\n• Unlimited hints to help solve puzzles.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50213,8 +50214,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/solitaire-truck-deluxe_3.6.2",
       "size": 442499072,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220001718",
@@ -50372,6 +50372,7 @@
       "bundleIdentifier": "com.dlxstudio.LastDeadlands",
       "bundleId": "com.dlxstudio.LastDeadlands",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/50/88/d85088d1-419e-8f51-e847-e49efb5bc547/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• God Mode .\n• Double the attack.\n• Unlimited coins and resources.\n• activation Premium Features.\n• Ads removed .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50388,8 +50389,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wasteland-rogue-survivor_4.1",
       "size": 322961408,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220170508",
@@ -50447,6 +50447,7 @@
       "bundleIdentifier": "com.appsoleut.game.flightsim",
       "bundleId": "com.appsoleut.game.flightsim",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/3f/27/2a3f27d8-d19a-95b4-c6b5-c21fa6c373fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• store free within the game (click buy then cancel).",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50463,8 +50464,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/flight-simulator2025.3194.3.19.4",
       "size": 441240780,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     }
   ],
   "translationFormatVersion": 5
