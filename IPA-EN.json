@@ -49447,6 +49447,7 @@
       "bundleIdentifier": "com.footballgemagent.app",
       "bundleId": "com.footballgemagent.app",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1793217081478.png",
+      "localizedDescription": "• Unlimited coins to sign players and make promotions.\n• All packages are purchased and their featured contents are unlocked.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49463,8 +49464,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football-gem-agent-26-v1100.11.0.0",
       "size": 175951052,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793217093814",
@@ -49472,6 +49472,7 @@
       "bundleIdentifier": "com.tree.idle.cat.cult",
       "bundleId": "com.tree.idle.cat.cult",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/44/50/54445059-a43d-31e1-d53c-4a927e08ca47/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• in-app purchases free operations (Free IAP).",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49488,8 +49489,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cat-mafia-idle-tycoon-games_1.0.20",
       "size": 333552025,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793217107964",
@@ -49497,6 +49497,7 @@
       "bundleIdentifier": "com.dream.dale",
       "bundleId": "com.dream.dale",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/61/0a/d1610a42-b537-05a2-3d01-e1828111d8ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Freeze resources and unlimited resource stock.\n• Unlimited resources when selling inventory contents.\n• Always get gold resources.\n• Prevent enemies' intelligence from attacking, pursuing, and escaping.\n• activation VIP and Miner VIP.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49513,8 +49514,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dreamdale-fairy-adventure_2.14.0",
       "size": 730857472,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793217119731",
@@ -49522,6 +49522,7 @@
       "bundleIdentifier": "weapon.legends.ammo.heroes",
       "bundleId": "weapon.legends.ammo.heroes",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/b6/b6/1ab6b6a2-ffcb-3c25-c64a-e9c80ca27895/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• God Mode during combat.\n• Maximum damage of attacks.\n• Developer Options Menu +25 (for premium developers).",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49538,8 +49539,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/weapon-legends_1.1.1",
       "size": 389860556,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793217163924",
@@ -49547,6 +49547,7 @@
       "bundleIdentifier": "jp.co.bandainamcoent.BNEI0455",
       "bundleId": "jp.co.bandainamcoent.BNEI0455",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/8a/a6/ce8aa6e7-4330-966e-b816-a746fda2a5f9/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Double the damage.\n• Double the defense.\n• God Mode .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49563,8 +49564,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bleach-mirrors-high_1.0.1",
       "size": 425826713,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793217190434",
@@ -49572,6 +49572,7 @@
       "bundleIdentifier": "com.nvsgames.pt",
       "bundleId": "com.nvsgames.pt",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/d7/de/f2d7de4a-f47c-f68b-ff39-124490059350/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Unlimited coins Increases rather than decreases when spending, to merge and upgrade plants.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49588,8 +49589,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/plantson-fire_3.0.2930",
       "size": 468398899,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793217210267",
@@ -49597,6 +49597,7 @@
       "bundleIdentifier": "com.SpaceInch.LoveOfMoney",
       "bundleId": "com.SpaceInch.LoveOfMoney",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1793217210267.png",
+      "localizedDescription": "• Promotions and investments free .\n• Unlimited gold money box; Spend or recover gold to replenish it.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49613,8 +49614,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/make-it-rain-loveof-money_8.50",
       "size": 235195596,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793217246677",
@@ -49647,6 +49647,7 @@
       "bundleIdentifier": "br.com.tapps.weareilluminati",
       "bundleId": "br.com.tapps.weareilluminati",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/06/3f/76063f8d-77f4-52af-9d43-1bd87cb09a14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• store free in-game; Activate the feature from the edit menu.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49663,8 +49664,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/we-are-illuminati-ufo-clicker_8.8.0",
       "size": 246729932,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793218338131",
@@ -49672,6 +49672,7 @@
       "bundleIdentifier": "com.vng.g6.a.zombie",
       "bundleId": "com.vng.g6.a.zombie",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/48/61/e248611e-310b-e8cc-2ed4-cd3bcb5fe08b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "• Unlimited gold, cash and diamonds.\n• Grenades, first aid kits and Unlimited ammo .\n• One-hit kill and God Mode .\n• High accuracy and Ads removed .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49688,8 +49689,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/deadtargetfps-zombie-games_6.185.0",
       "size": 661441740,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793218548161",
@@ -49697,6 +49697,7 @@
       "bundleIdentifier": "com.StellarCraft.StellarConnect",
       "bundleId": "com.StellarCraft.StellarConnect",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/8b/ca/c88bca1a-1c2f-f492-b814-fdd94414910b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Double damage and defense.\n• God Mode .\n• Unlimited coins .\n• A second option for currencies that causes them to increase instead of decrease.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49713,8 +49714,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/stella-connect_1.4.0",
       "size": 353894400,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219403527",
@@ -49722,6 +49722,7 @@
       "bundleIdentifier": "com.moonlight.dragoncity",
       "bundleId": "com.moonlight.dragoncity",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/33/b2/3a33b26b-2830-f0cd-8d43-e37994914e0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Unlimited diamonds that increase with use.\n• Unlimited gold increases with use.\n• Unlimited stars Increases with use.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49738,8 +49739,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cityof-dragons-epic-battle_1.2.79",
       "size": 309120204,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219444658",
@@ -49747,6 +49747,7 @@
       "bundleIdentifier": "com.NokoGames.PortalQuest",
       "bundleId": "com.NokoGames.PortalQuest",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/73/05/59730535-4b18-05ef-fbf8-b25baa7ab163/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• God Mode .\n• Unlimited coins .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49763,8 +49764,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/portal-quest-idle-rpg_1.9.0",
       "size": 464099737,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219476532",
@@ -49772,6 +49772,7 @@
       "bundleIdentifier": "com.ikiraplus.apps.mergecrafter-3d-mining-merge.f0e73b9b78",
       "bundleId": "",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/10/c2/2610c26d-ddf1-69da-9797-84371e3ed3c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Unlimited coins .\n• in-app purchases free operations; Click buy then cancel.\n• Caution: Do not activate the Free IAP option from the iOSGods menu.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49788,8 +49789,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mergecrafter3dminingmerge_2.3.14",
       "size": 301885030,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219490974",
@@ -49797,6 +49797,7 @@
       "bundleIdentifier": "com.kkgames.idleswordmaster",
       "bundleId": "com.kkgames.idleswordmaster",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/d6/7e/44d67ece-73ea-e931-9976-15ede509c9cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Unlimited coins for upgrades and integrations.\n• All purchased packages are unlocked.\n• Note: Restart the game after the first launch.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49813,8 +49814,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-sword-master_1.4.1",
       "size": 115553075,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219527218",
@@ -49822,6 +49822,7 @@
       "bundleIdentifier": "jp.co.imagineer.medarotsurvivors",
       "bundleId": "jp.co.imagineer.medarotsurvivors",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/fa/48/48fa4868-7e18-4764-85cf-5f9913ccb516/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Double the damage.\n• God Mode .\n• Double coins and experience points.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49838,8 +49839,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/medabots-survivors_2.9.0",
       "size": 704957644,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219563868",
@@ -49847,6 +49847,7 @@
       "bundleIdentifier": "com.fiveamp.pickcrafterapp",
       "bundleId": "com.fiveamp.pickcrafterapp",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/95/c0/1695c047-e150-9f85-c54c-a0b7e54ac7a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Freeze picks, runes, final pearls, and artifact dust.\n• Unlimited blocks.\n• 9999 virtual runes and 999 ascension crystals when ascending.\n• The ability to always use prestige and modify its level.\n• free in-app purchase (for premium content only).",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49863,8 +49864,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pick-crafter-mining-crafting_6.0.44",
       "size": 307547340,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219585522",
@@ -49872,6 +49872,7 @@
       "bundleIdentifier": "com.tree.idle.catsnackbar",
       "bundleId": "com.tree.idle.catsnackbar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/08/aa/0808aa99-e200-e7ac-3e0b-cdf98baf0f9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Freeze coins .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49888,8 +49889,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cat-snack-bar-food-games_1.0.218",
       "size": 470810624,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219616870",
@@ -49897,6 +49897,7 @@
       "bundleIdentifier": "com.ndemiccreations.peaceinc",
       "bundleId": "com.ndemiccreations.peaceinc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/d6/9c/bed69cd0-23ed-b1ef-4988-4a637d29be7e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• All paid add-ons (DLC) purchased.\n• Unlimited money .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49913,8 +49914,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rebel-inc_1.18.7",
       "size": 299158732,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219639677",
@@ -49922,6 +49922,7 @@
       "bundleIdentifier": "com.ndemiccreations.survivors",
       "bundleId": "com.ndemiccreations.survivors",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/1e/e6/921ee6fc-a800-7c3e-4f45-e5996ab23d13/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• The game paid is available on for free .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49938,8 +49939,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/after-inc_1.22.1",
       "size": 327365427,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219696564",
@@ -49972,6 +49972,7 @@
       "bundleIdentifier": "com.littleleafgames.makervalley",
       "bundleId": "com.littleleafgames.makervalley",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/63/db/e363db25-8331-1bbd-6a4c-5973fb50795b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Unlimited coins increases rather than decreases.\n• Freeze movements.\n• Auto win.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -49988,8 +49989,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/maker-valley_8.3",
       "size": 946025267,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219794356",
@@ -49997,6 +49997,7 @@
       "bundleIdentifier": "com.game.arcane.entity",
       "bundleId": "com.game.arcane.entity",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/51/45/b5514593-ce13-e55a-d51b-22c0b01a5534/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Double the damage.\n• Critical hits guaranteed.\n• Removed waiting time between using skills.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50013,8 +50014,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/arcane-entity_0.2.1",
       "size": 1119774310,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219806369",
@@ -50147,6 +50147,7 @@
       "bundleIdentifier": "com.cgdealers.rushprotocol",
       "bundleId": "com.cgdealers.rushprotocol",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/70/2a/52702aba-b890-11cf-92b3-16107e234b94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Disable automatic aiming for manual control.\n• Unlimited gems, coins and weapon parts.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50163,8 +50164,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rush-protocol_0.0.903",
       "size": 520617984,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793219981276",
@@ -50222,6 +50222,7 @@
       "bundleIdentifier": "com.pantheraplay.soulhuntress",
       "bundleId": "com.pantheraplay.soulhuntress",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b6/18/a6b6186c-83e3-09f5-d872-c5aea37edaa3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Unlimited coins increases when spending.\n• Use items constantly even during the waiting period.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50238,8 +50239,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soul-huntress-offline-games_1.7.2",
       "size": 1078145843,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220016056",
@@ -50247,6 +50247,7 @@
       "bundleIdentifier": "io.supercent.burgersimulator",
       "bundleId": "io.supercent.burgersimulator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/de/fe/32defee7-ffe0-7a21-f356-df121f797c10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• free in-game purchases; Click buy then cancel.\n• Note: store may not appear immediately; Play a little until it appears.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50263,8 +50264,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/burger-simulator_22.3.0",
       "size": 293391564,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220029891",
@@ -50272,6 +50272,7 @@
       "bundleIdentifier": "com.devvisiongames.deadisland",
       "bundleId": "com.devvisiongames.deadisland",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b4/aa/f7b4aaab-c7c0-a77c-fc91-67a6d03413af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• God Mode and unlimited durability.\n• Get unlimited mail items.\n• Freeze skill points.\n• activation Premium and craft any item.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50288,8 +50289,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dead-god-land-survivalgames_0.214",
       "size": 1023829606,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220056468",
@@ -50297,6 +50297,7 @@
       "bundleIdentifier": "com.MallatEntertainment.ClubLegend",
       "bundleId": "com.MallatEntertainment.ClubLegend",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/75/64a875f9-6291-9e8b-4329-99be4158d269/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Money and Unlimited gems ; Get some coins or gems for activation Ha.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50313,8 +50314,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/club-legend-football-game_1.92.13",
       "size": 339528908,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220134067",
@@ -50322,6 +50322,7 @@
       "bundleIdentifier": "com.CarXTech.highWayRacing",
       "bundleId": "com.CarXTech.highWayRacing",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6f/58/216f58bc-d431-f83d-d1e7-392668a278b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Coins, fuel and Unlimited nitro .\n• All cars are owned.\n• Note: Complete the training and reach Stage 3 of the campaign before activation Features.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50338,8 +50339,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/car-x-highway-racing_1.75.9",
       "size": 940572672,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220144951",
@@ -50347,6 +50347,7 @@
       "bundleIdentifier": "io.madhook.ameradventures",
       "bundleId": "io.madhook.ameradventures",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/fa/f5/6afaf595-427c-f413-5b41-b14fad036cc4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• store free in full; Click buy then cancel.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50363,8 +50364,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/amer-the-chase-hitand-run_1.0.86",
       "size": 536451481,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220155326",
@@ -50397,6 +50397,7 @@
       "bundleIdentifier": "com.hypermonkgames.AutoDrift",
       "bundleId": "com.hypermonkgames.AutoDrift",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/46/d4/ed46d480-d9db-9509-8614-635f5cc64fe3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• Drift income upgrades are unlimited, with no cap.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50413,8 +50414,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/highway-drift-car-racing_0.9.7",
       "size": 621595852,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220184918",
@@ -50422,6 +50422,7 @@
       "bundleIdentifier": "com.dmg.supermarket.simulator",
       "bundleId": "com.dmg.supermarket.simulator",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/6c/6f/a86c6fe0-9649-4b05-9381-443d64296484/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• store free in-game; Click buy then cancel.\n• Activate the feature from the Mod Menu.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -50438,8 +50439,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/storemanagersimulator3d_1.2.32",
       "size": 384198246,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "app-1793220315681",
