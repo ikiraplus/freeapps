@@ -48970,6 +48970,7 @@
       "bundleIdentifier": "com.TechTreeGames.IdleBrickBreaker",
       "bundleId": "com.TechTreeGames.IdleBrickBreaker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/5a/dd/295addda-9178-0b38-b4c2-6f53e97fcf96/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "• أموال نقدية غير محدودة.\n• جواهر غير محدودة.\n• لا يمكن إعادة تعيينها عند Prestige (الهيبة).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49620,6 +49621,7 @@
       "bundleIdentifier": "com.neogullab.gurigurikingdom",
       "bundleId": "com.neogullab.gurigurikingdom",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/fd/26/d3fd26ac-93e3-8975-edd0-d5cb9509e5b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• أقصى رصيد للعملات: أموال غير محدودة للترقيات والمشتريات.\n• الخلود: مناعة تامة أثناء القتال.\n• أقصى قوة هجوم.\n• ملاحظة: خيار أقصى رصيد للعملات لا يعمل مع الروبي.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -49944,6 +49946,7 @@
       "bundleIdentifier": "com.masomo.basketballarena",
       "bundleId": "com.masomo.basketballarena",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/45/a4/bd45a462-dad2-877d-8c20-d87b2f6f49f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• حركة سريعة.\n• تخطي الانتقال.\n• مانا غير محدودة.\n• تفريغ الذكاء الاصطناعي.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50018,6 +50021,7 @@
       "bundleIdentifier": "com.budgestudios.BarbieDreamhouse",
       "bundleId": "com.budgestudios.BarbieDreamhouse",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/48/6c/fb486c5e-500b-0be7-b7e8-07d1018edbd2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• تفعيل Premium (الميزات المميزة).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50042,6 +50046,7 @@
       "bundleIdentifier": "com.jojoyanyanproduction.CatchTheUndercover",
       "bundleId": "com.jojoyanyanproduction.CatchTheUndercover",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/53/d7/db53d707-57cb-8b18-d066-4f00d004a15b/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "• تفعيل الشراء الوهمي داخل اللعبة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50066,6 +50071,7 @@
       "bundleIdentifier": "com.aldagames.zombero.bullet.hell",
       "bundleId": "com.aldagames.zombero.bullet.hell",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/84/6e/9f846e76-99c3-9f4c-6d86-a4c06d526aa6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عدم الموت أثناء هجمات الأعداء (قد يستمر الموت بسبب الفخاخ).\n• قتل الأعداء بضربة واحدة.\n• ذخيرة غير محدودة.\n• إطلاق النار دون إعادة تلقيم.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50090,6 +50096,7 @@
       "bundleIdentifier": "com.kingcup.kunk",
       "bundleId": "com.kingcup.kunk",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/bb/89/8ebb890b-2ba3-9742-7e7c-aba3634db682/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• إحصائيات البطل: أقصى قوة هجوم وأقصى دفاع.\n• إحصائيات العدو: قوة هجوم 0 ودفاع 0.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50114,6 +50121,7 @@
       "bundleIdentifier": "com.hunt.royale",
       "bundleId": "com.hunt.royale",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/c8/c8/4dc8c81d-df22-d603-5063-5e7b50e7c276/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• أعداء أغبياء.\n• مضاعفة الضرر.\n• مضاعفة الدفاع.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50163,6 +50171,7 @@
       "bundleIdentifier": "crowd.champs.game",
       "bundleId": "crowd.champs.game",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/a7/52/0ba752cc-bf7f-dbf5-32d1-20809c978a63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• إيقاف الإعلانات التلقائية.\n• تفعيل بطاقة الأبطال.\n• مكافآت غير محدودة من بطاقة الأبطال.\n• ربح الجواهر.\n• تفعيل الطواطم +2.\n• لفات مجانية؛ استخدمها فقط عندما يصل العدد إلى 0.\n• ترقيات مجانية؛ تحتاج إلى عملة واحدة.\n• جواهر وعملات وطاقة غير محدودة.\n• بطاقات رونية وبطاقات ترقية رونية غير محدودة.\n• لفات غير محدودة؛ ملاحظة: لا تستخدم اللفات المجانية عند تفعيل هذه الميزة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50187,6 +50196,7 @@
       "bundleIdentifier": "com.duole.solitaire.zen.home.design.patience.free.card.games",
       "bundleId": "com.duole.solitaire.zen.home.design.patience.free.card.games",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/6b/68/646b683d-fe40-e64e-ff63-fb0d8fd8aebf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• إيقاف الإعلانات التلقائية لإزالة المقاطع الإعلانية.\n• جواهر غير محدودة للترقيات والتخصيص.\n• مفاتيح ربط غير محدودة لإصلاح الشاحنات واسترجاعها.\n• تراجع غير محدود لإعادة المحاولة وحل الألغاز.\n• تلميحات غير محدودة للمساعدة في حل الألغاز.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50361,6 +50371,7 @@
       "bundleIdentifier": "com.dlxstudio.LastDeadlands",
       "bundleId": "com.dlxstudio.LastDeadlands",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/50/88/d85088d1-419e-8f51-e847-e49efb5bc547/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• عدم الموت.\n• مضاعفة الهجوم.\n• عملات وموارد غير محدودة.\n• تفعيل المميزات المميزة (Premium).\n• إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -50435,6 +50446,7 @@
       "bundleIdentifier": "com.appsoleut.game.flightsim",
       "bundleId": "com.appsoleut.game.flightsim",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/3f/27/2a3f27d8-d19a-95b4-c6b5-c21fa6c373fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "• متجر مجاني داخل اللعبة (اضغط شراء ثم إلغاء).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
