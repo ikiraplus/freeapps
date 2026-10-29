@@ -47766,7 +47766,7 @@
       "bundleIdentifier": "com.nixwang.decision",
       "bundleId": "com.nixwang.decision",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/3f/84/253f8428-9371-f42f-c554-b0783df66ac8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "An application for randomly selecting questions and answers using the decision wheel.\n\n- Features are unlocked.\n\nNote: These features are mentioned in the documentation for version 26.11.1, while the version found here is 26.12; Features may differ or may not work in this version .",
+      "localizedDescription": "An application for randomly selecting questions and answers using the decision wheel.\n\n- Features are unlocked.",
       "category": "games",
       "recommended": false,
       "versions": [
