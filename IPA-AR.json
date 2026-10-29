@@ -50464,6 +50464,31 @@
       "size": 441240780,
       "addedAt": "2026-10-28",
       "updatedAt": "2026-10-28"
+    },
+    {
+      "id": "app-1793222557433",
+      "name": "Terraria",
+      "bundleIdentifier": "com.505games.terraria",
+      "bundleId": "com.505games.terraria",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/eb/57/02eb5740-ae95-86fd-0000-f0a64ab1a392/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "لعبة مدفوعه في المتجر الرسمي Appstore",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "4.4.14",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/terraria_4.4.14-ikiraplus",
+          "date": "2026-10-28",
+          "size": 225653555
+        }
+      ],
+      "version": "4.4.14",
+      "versionDate": "2026-10-29",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/terraria_4.4.14-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/terraria_4.4.14-ikiraplus",
+      "size": 225653555,
+      "addedAt": "2026-10-29",
+      "updatedAt": "2026-10-29"
     }
   ]
 }
