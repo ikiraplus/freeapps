@@ -918,23 +918,23 @@
       "recommended": true,
       "versions": [
         {
-          "version": "3.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold3.4",
-          "date": "2026-10-08",
-          "size": 419430
+          "version": "3.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold_3.7",
+          "date": "2026-10-30"
         },
         {
-          "version": "2.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold-2.9"
+          "version": "3.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold3.4",
+          "date": "2026-10-08"
         }
       ],
-      "version": "3.4",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold3.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/WGold3.4",
-      "size": 419430,
+      "version": "3.7",
+      "versionDate": "2026-10-30",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold_3.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/WGold_3.7",
+      "size": 0,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-30"
     },
     {
       "id": "dylib-1784549134052",
