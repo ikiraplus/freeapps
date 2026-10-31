@@ -229,24 +229,24 @@
       "recommended": true,
       "versions": [
         {
-          "version": "1.5.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.5.0",
-          "date": "2026-10-24",
-          "size": 7549747
+          "version": "1.5.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.5.1",
+          "date": "2026-10-31",
+          "size": 7759462
         },
         {
-          "version": "1.4.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.4.5",
-          "date": "2026-10-12"
+          "version": "1.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.5.0",
+          "date": "2026-10-24"
         }
       ],
-      "version": "1.5.0",
-      "versionDate": "2026-10-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.5.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.5.0",
-      "size": 7549747,
+      "version": "1.5.1",
+      "versionDate": "2026-10-31",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.5.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/RyukGram-1.5.1",
+      "size": 7759462,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-10-31"
     },
     {
       "id": "dylib-1784536072141",
@@ -946,23 +946,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "3.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Watusi-V3.0",
-          "date": "2026-10-08",
+          "version": "3.28",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Watusi-1.3.28",
+          "date": "2026-10-31",
           "size": 2726297
         },
         {
-          "version": "3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Watusi-v3.0"
+          "version": "3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Watusi-V3.0",
+          "date": "2026-10-08"
         }
       ],
-      "version": "3.1",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Watusi-V3.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Watusi-V3.0",
+      "version": "3.28",
+      "versionDate": "2026-10-31",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Watusi-1.3.28",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Watusi-1.3.28",
       "size": 2726297,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-31"
     },
     {
       "id": "dylib-1784549200982",
