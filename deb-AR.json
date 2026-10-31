@@ -257,23 +257,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "3.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.4",
-          "date": "2026-09-26",
-          "size": 2306867
+          "version": "3.8.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.8.1",
+          "date": "2026-10-31",
+          "size": 3145728
         },
         {
-          "version": "3.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.2"
+          "version": "3.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.4",
+          "date": "2026-09-26"
         }
       ],
-      "version": "3.4",
-      "versionDate": "2026-09-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.4",
-      "size": 2306867,
+      "version": "3.8.1",
+      "versionDate": "2026-10-31",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.8.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.8.1",
+      "size": 3145728,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-10-31"
     },
     {
       "id": "dylib-1784536158392",
