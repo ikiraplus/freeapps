@@ -591,13 +591,16 @@ def latest_version_entry(app):
 
 
 def release_signature(app):
+    """Only the effective current version and download URL identify a release."""
+    if not isinstance(app, dict):
+        return ("", "")
     latest = latest_version_entry(app)
     return (
-        clean_text(app.get("version")) if isinstance(app, dict) else "",
-        clean_text(app.get("downloadURL")) if isinstance(app, dict) else "",
-        clean_text(app.get("ipaUrl")) if isinstance(app, dict) else "",
-        clean_text(latest.get("version")),
-        clean_text(first_non_empty(latest.get("downloadURL"), latest.get("ipaUrl"))),
+        clean_text(first_non_empty(app.get("version"), latest.get("version"))),
+        clean_text(first_non_empty(
+            app.get("downloadURL"), app.get("ipaUrl"),
+            latest.get("downloadURL"), latest.get("ipaUrl")
+        )),
     )
 
 
@@ -624,12 +627,27 @@ def preserve_version_dates(old_app, new_app, release_changed, today):
             if key is not None and isinstance(item, dict) and "date" in item:
                 old_dates[key] = item.get("date")
 
+    # Keep the existing current-release date even if only its version or URL
+    # changes. Incoming jom.json dates must not override it in those cases.
+    previous_current = latest_version_entry(old_app)
+    previous_current_date = normalize_version_date(first_non_empty(
+        previous_current.get("date"),
+        old_app.get("versionDate") if isinstance(old_app, dict) else None,
+        old_app.get("updatedAt") if isinstance(old_app, dict) else None,
+        old_app.get("addedAt") if isinstance(old_app, dict) else None,
+    ))
+
     for index, item in enumerate(new_versions):
         if not isinstance(item, dict):
             continue
         key = version_item_key(item)
-        if index == 0 and release_changed:
-            item["date"] = today
+        if index == 0:
+            if release_changed:
+                item["date"] = today
+            elif previous_current_date:
+                item["date"] = previous_current_date
+            else:
+                item.pop("date", None)
         elif key in old_dates:
             if old_dates[key] is None:
                 item.pop("date", None)
@@ -651,7 +669,9 @@ def merge_existing_app(existing_app, incoming_app, today):
         updated[key] = copy.deepcopy(value)
 
     changed = changed_field_names(existing_app, updated)
-    release_changed = release_signature(existing_app) != release_signature(updated)
+    old_version, old_url = release_signature(existing_app)
+    new_version, new_url = release_signature(updated)
+    release_changed = old_version != new_version and old_url != new_url
 
     for key in DATE_FIELDS:
         updated.pop(key, None)
@@ -977,7 +997,7 @@ def print_report(path, report, apps_count):
 
     print(f"✅ apps written: {apps_count}")
     print("✅ apps follow source jom.json order (starting at ريكرام)")
-    print("✅ changed app info updates versionDate/updatedAt only, no second copy")
+    print("✅ versionDate/updatedAt change only when both version and download URL change")
     print("✅ no شهادة مجانية apps in output")
     print("✅ size is bytes/int")
     print("✅ versionDate is never empty")
