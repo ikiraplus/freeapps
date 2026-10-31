@@ -51529,6 +51529,31 @@
       "size": 193462272,
       "addedAt": "2026-10-30",
       "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "app-1793446977806",
+      "name": "Dead Cells",
+      "bundleIdentifier": "com.playdigious.deadcells",
+      "bundleId": "com.playdigious.deadcells",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/ab/60/04ab6088-ae26-0721-6a18-3fcece1bdec5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- جرعات صحة غير محدودة ← لن تنفد منك وسائل العلاج أبداً\n- القتل بضربة واحدة ← القضاء على أي عدو فوراً\n- عملات غير محدودة ← إنفاق بلا قيود على الترقيات\n- خلايا غير محدودة ← فتح جميع عناصر التقدم بلا حدود\n- ذخيرة غير محدودة ← إطلاق نار مستمر بالأسلحة بعيدة المدى\n- بدون فترة انتظار للمهارات ← استخدام القدرات دون تأخير زمني\n- القضاء على الأعداء دون تلقي ضرر ← الحفاظ على سلاسل قتالية مثالية\n- إزالة سريعة للعنة ← التخلص من التأثيرات السلبية بسرعة أكبر\n- قفزات غير محدودة ← التنقل في القلعة بحرية تامة",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.4.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-cells_2.4.7",
+          "date": "2026-10-31",
+          "size": 1159620198
+        }
+      ],
+      "version": "2.4.7",
+      "versionDate": "2026-10-31",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-cells_2.4.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dead-cells_2.4.7",
+      "size": 1159620198,
+      "addedAt": "2026-10-31",
+      "updatedAt": "2026-10-31"
     }
   ]
 }
