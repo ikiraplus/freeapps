@@ -51530,6 +51530,31 @@
       "size": 193462272,
       "addedAt": "2026-10-30",
       "updatedAt": "2026-10-30"
+    },
+    {
+      "id": "app-1793446977806",
+      "name": "Dead Cells",
+      "bundleIdentifier": "com.playdigious.deadcells",
+      "bundleId": "com.playdigious.deadcells",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/ab/60/04ab6088-ae26-0721-6a18-3fcece1bdec5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- Unlimited health potions → You will never run out of healing items\n- One-hit kill → Eliminate any enemy instantly\n- Unlimited coins → Unlimited spending on upgrades\n- Unlimited cells → Unlock all progression items without limits\n- Unlimited ammo → Continuous shooting with ranged weapons Range\n- No cooldown period for skills ← Use abilities without time delay\n- Eliminate enemies without taking damage ← Maintain perfect combat chains\n- Quick removal of the curse ← Get rid of negative effects more quickly\n- Unlimited jumps ← Navigate the castle with complete freedom",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.4.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-cells_2.4.7",
+          "date": "2026-10-31",
+          "size": 1159620198
+        }
+      ],
+      "version": "2.4.7",
+      "versionDate": "2026-10-31",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-cells_2.4.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dead-cells_2.4.7",
+      "size": 1159620198,
+      "addedAt": "2026-10-31",
+      "updatedAt": "2026-10-31"
     }
   ],
   "translationFormatVersion": 5
