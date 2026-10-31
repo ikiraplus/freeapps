@@ -182,29 +182,30 @@
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773402346513.png",
-      "localizedDescription": "مميزات التطبيق:\n- وضع الشبح للرسائل والقصص والملاحظات.\n- الاحتفاظ بالرسائل المحذوفة.\n- تنزيل المحتوى مباشرة من Instagram.\n- رفع المقاطع الصوتية من الملفات أو مقاطع الفيديو.\n- نسخ اسم المستخدم والتعليق والنبذة والاسم.\n- تنزيل الوسائط المعروضة لمرة واحدة.\n- تنزيل الرسائل الصوتية.\n- إظهار الإشارات المخفية.\n- عرض الوسائط المعروضة لمرة واحدة من دون قيود.\n- إزالة إعلانات Instagram.\n- دعم التعليق من خلال روابط GIF.",
+      "localizedDescription": "مميزات التطبيق:\n- دعم ميزه اخفاء الاشخاص الذين تتابعهم.\n- دعم ميزه اخفاء الاشخاص الذين يتابعوك.\n- وضع الشبح للرسائل والقصص والملاحظات.\n- الاحتفاظ بالرسائل المحذوفة.\n- تنزيل المحتوى مباشرة من Instagram.\n- رفع المقاطع الصوتية من الملفات أو مقاطع الفيديو.\n- نسخ اسم المستخدم والتعليق والنبذة والاسم.\n- تنزيل الوسائط المعروضة لمرة واحدة.\n- تنزيل الرسائل الصوتية.\n- إظهار الإشارات المخفية.\n- عرض وحفظ الوسائط المعروضة لمرة واحدة من دون قيود.\n- إزالة إعلانات Instagram.\n- دعم التعليق من خلال روابط GIF.\n- دعم ميزة فرز التعليقات وامكانيه البحث بداخلها وتصديرها كملف.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "3.4",
+      "toolVersion": "3.8.1",
       "versions": [
+        {
+          "version": "453.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-453.0.0",
+          "date": "2026-10-31",
+          "size": 393320857
+        },
         {
           "version": "448.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_448.0.0",
-          "date": "2026-09-26",
-          "size": 361549004
-        },
-        {
-          "version": "447.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_447.0.0"
+          "date": "2026-09-26"
         }
       ],
-      "version": "448.0.0",
-      "versionDate": "2026-09-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_448.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram_448.0.0",
-      "size": 361549004,
+      "version": "453.0.0",
+      "versionDate": "2026-10-31",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-453.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram-453.0.0",
+      "size": 393320857,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-10-31"
     },
     {
       "id": "APP-5013744483",
@@ -10491,26 +10492,27 @@
       "localizedDescription": "مميزات التطبيق:\n- وضع الشبح وإخفاء نشاط المستخدم.\n- الاحتفاظ بالرسائل المحذوفة والمعدلة.\n- تصدير المحادثات بصيغ TXT وJSON وHTML.\n- قفل المحادثات برمز PIN أو Pattern.\n- تجاوز قيود الحفظ وإعادة التوجيه في القنوات.\n- تفعيل مميزات Telegram Premium المحلية.\n- تحويل الرسائل الصوتية والفيديو الدائري إلى نص.\n- ترجمة الرسائل والتعليقات وإرسال الرسائل مترجمة تلقائياً.\n- تغيير الصوت في الرسائل الصوتية والفيديو.\n- مساعد ذكاء اصطناعي مدمج Gemini وGroq.\n- تصوير الفيديو وVideo Messages حتى 4K و60FPS.\n- إرسال الفيديو على شكل رسالة صوتية.\n- استخدام واجهة Telegram القديمة.\n- إمكانية تزوير الرسائل المرسلة إليك.\n- تغيير خط Telegram بالكامل إلى أي خط تختاره.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "7.0",
+      "toolVersion": "8.0",
       "versions": [
+        {
+          "version": "13.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-13.1.1",
+          "date": "2026-10-31",
+          "size": 150470656
+        },
         {
           "version": "12.9.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.2-tweak-7.0",
-          "date": "2026-09-07",
-          "size": 139984896
-        },
-        {
-          "version": "12.9.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.3-tweak-6.0.2"
+          "date": "2026-09-07"
         }
       ],
-      "version": "12.9.2",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.2-tweak-7.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-12.9.2-tweak-7.0",
-      "size": 139984896,
+      "version": "13.1.1",
+      "versionDate": "2026-10-31",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whitegram-13.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whitegram-13.1.1",
+      "size": 150470656,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-10-31"
     },
     {
       "id": "APP-2183114966",
