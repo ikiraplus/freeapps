@@ -52435,6 +52435,256 @@
       "size": 656094003,
       "addedAt": "2026-10-31",
       "updatedAt": "2026-10-31"
+    },
+    {
+      "id": "app-1793565512640",
+      "name": "Samkok Heroes Td",
+      "bundleIdentifier": "co.imba.threekingdoms.towerdefense",
+      "bundleId": "co.imba.threekingdoms.towerdefense",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/8a/3c/128a3c46-3db8-38c7-2754-4d49e60a1a90/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.27.265",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/samkok-heroes-td_2.27.265",
+          "date": "2026-11-01",
+          "size": 706635366
+        }
+      ],
+      "version": "2.27.265",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/samkok-heroes-td_2.27.265",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/samkok-heroes-td_2.27.265",
+      "size": 706635366,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793565540698",
+      "name": "Corner Cafe Merge Cook",
+      "bundleIdentifier": "com.grilltown.grill",
+      "bundleId": "com.grilltown.grill",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/79/10/ff7910ed-0329-fcc4-dc8c-ddadae85c418/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/corner-cafe-merge-cook_2.7",
+          "date": "2026-11-01",
+          "size": 326841139
+        }
+      ],
+      "version": "2.7",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/corner-cafe-merge-cook_2.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/corner-cafe-merge-cook_2.7",
+      "size": 326841139,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793565570425",
+      "name": "Card Train",
+      "bundleIdentifier": "com.kazrahann.cardtrain",
+      "bundleId": "com.kazrahann.cardtrain",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/80/ed/4780ed6a-d0b9-2189-44a6-42406077d5d4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.8.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/card-train_1.8.2",
+          "date": "2026-11-01",
+          "size": 437465907
+        }
+      ],
+      "version": "1.8.2",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/card-train_1.8.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/card-train_1.8.2",
+      "size": 437465907,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793565612652",
+      "name": "Travel Merge Family－story game",
+      "bundleIdentifier": "com.ArrugaCorp.TravelMergeFamily",
+      "bundleId": "com.ArrugaCorp.TravelMergeFamily",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/00/e3/5600e39d-2479-5bb8-71dc-93883b025cf7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.200",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/travel-merge-family_3.200",
+          "date": "2026-11-01",
+          "size": 363960729
+        }
+      ],
+      "version": "3.200",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/travel-merge-family_3.200",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/travel-merge-family_3.200",
+      "size": 363960729,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793565644543",
+      "name": "Travel Decor",
+      "bundleIdentifier": "com.match.fun.free.traveldecor",
+      "bundleId": "com.match.fun.free.traveldecor",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/74/1a/53741a50-d029-6026-d6a3-2fcaef059757/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/travel-decor_2.0.1",
+          "date": "2026-11-01",
+          "size": 464519168
+        }
+      ],
+      "version": "2.0.1",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/travel-decor_2.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/travel-decor_2.0.1",
+      "size": 464519168,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793565886018",
+      "name": "Mystery Inn Merge Adventure",
+      "bundleIdentifier": "com.rhinogames.hotel.project",
+      "bundleId": "com.rhinogames.hotel.project",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/19/b5/4c19b56a-ba67-e79c-b86e-190307b4fd53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.27.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mystery-inn-merge-adventure_2.27.2",
+          "date": "2026-11-01",
+          "size": 314153369
+        }
+      ],
+      "version": "2.27.2",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mystery-inn-merge-adventure_2.27.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mystery-inn-merge-adventure_2.27.2",
+      "size": 314153369,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793565904102",
+      "name": "Rumble Raiders: Adventure RPG",
+      "bundleIdentifier": "com.minidragon.wow",
+      "bundleId": "com.minidragon.wow",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/2f/b2/6a2fb2c4-6208-987a-500d-a60ff9813d5f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.47",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rumble-raiders_1.0.47",
+          "date": "2026-11-01",
+          "size": 329567436
+        }
+      ],
+      "version": "1.0.47",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rumble-raiders_1.0.47",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rumble-raiders_1.0.47",
+      "size": 329567436,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793566014485",
+      "name": "Mech Arena Shooting Game",
+      "bundleIdentifier": "com.plarium.mechlegion",
+      "bundleId": "com.plarium.mechlegion",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/84/5e/db845e23-c159-2a3a-cb20-a4b8776e0721/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.495.00",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mech-arena-shooting-game_3.495.00",
+          "date": "2026-11-01",
+          "size": 345296076
+        }
+      ],
+      "version": "3.495.00",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mech-arena-shooting-game_3.495.00",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mech-arena-shooting-game_3.495.00",
+      "size": 345296076,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793566080748",
+      "name": "Under Guild Offense",
+      "bundleIdentifier": "com.FreeDust.UnderDarkOffense",
+      "bundleId": "com.FreeDust.UnderDarkOffense",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/5b/37/365b376d-c082-d0bd-ad03-6b25d7c22121/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.6.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/under-guild-offense_1.6.9",
+          "date": "2026-11-01",
+          "size": 455501414
+        }
+      ],
+      "version": "1.6.9",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/under-guild-offense_1.6.9",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/under-guild-offense_1.6.9",
+      "size": 455501414,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
+    },
+    {
+      "id": "app-1793566120907",
+      "name": "Elemental Adventurer",
+      "bundleIdentifier": "com.elementsadventurer.ios",
+      "bundleId": "com.elementsadventurer.ios",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/6d/50/ba6d5029-2032-bfb1-1511-f1d065ac6d46/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.21.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elemental-adventurer_1.21.0",
+          "date": "2026-11-01",
+          "size": 655674572
+        }
+      ],
+      "version": "1.21.0",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elemental-adventurer_1.21.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elemental-adventurer_1.21.0",
+      "size": 655674572,
+      "addedAt": "2026-11-01",
+      "updatedAt": "2026-11-01",
+      "localizedDescription": ""
     }
   ],
   "translationFormatVersion": 5
