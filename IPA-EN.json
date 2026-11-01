@@ -29226,24 +29226,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "0.9.80",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/apex-racers-v0.9.80",
-          "date": "2026-10-27",
-          "size": 200068300
+          "version": "0.9.82",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/apex-racer_0.9.82",
+          "date": "2026-11-01",
+          "size": 367106457
         },
         {
-          "version": "0.9.70",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/apex-racers-v0.9.70",
-          "date": "2026-09-23"
+          "version": "0.9.80",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/apex-racers-v0.9.80",
+          "date": "2026-10-27"
         }
       ],
-      "version": "0.9.80",
-      "versionDate": "2026-10-27",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/apex-racers-v0.9.80",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/apex-racers-v0.9.80",
-      "size": 200068300,
+      "version": "0.9.82",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/apex-racer_0.9.82",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/apex-racer_0.9.82",
+      "size": 367106457,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-10-27"
+      "updatedAt": "2026-11-01"
     },
     {
       "id": "app-1790151966614",
@@ -48386,19 +48386,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "0.3.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-era-age-evolution_0.3.4",
+          "date": "2026-11-01",
+          "size": 489789849
+        },
+        {
           "version": "0.3.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-era-age-evolution_0.3.2",
-          "date": "2026-10-26",
-          "size": 519569408
+          "date": "2026-10-26"
         }
       ],
-      "version": "0.3.2",
-      "versionDate": "2026-10-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-era-age-evolution_0.3.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mob-era-age-evolution_0.3.2",
-      "size": 519569408,
+      "version": "0.3.4",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mob-era-age-evolution_0.3.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mob-era-age-evolution_0.3.4",
+      "size": 489789849,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26"
+      "updatedAt": "2026-11-01"
     },
     {
       "id": "app-1793038526464",
