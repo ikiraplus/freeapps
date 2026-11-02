@@ -96,24 +96,24 @@
       "toolVersion": "3.7",
       "versions": [
         {
-          "version": "26.42.74",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wgold_26.42.74-v3.7",
-          "date": "2026-10-30",
-          "size": 179725926
+          "version": "26.42.77",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.42.77_wgoldplus3.7",
+          "date": "2026-11-02",
+          "size": 177104486
         },
         {
-          "version": "26.38.74",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wgold_26.38.74-v3.4",
-          "date": "2026-10-08"
+          "version": "26.42.74",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wgold_26.42.74-v3.7",
+          "date": "2026-10-30"
         }
       ],
-      "version": "26.42.74",
-      "versionDate": "2026-10-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wgold_26.42.74-v3.7",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wgold_26.42.74-v3.7",
-      "size": 179725926,
+      "version": "26.42.77",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.42.77_wgoldplus3.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/whatsapp_26.42.77_wgoldplus3.7",
+      "size": 177104486,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-30",
+      "updatedAt": "2026-11-02",
       "_rowKey": 5
     },
     {
@@ -277,26 +277,27 @@
       "localizedDescription": "سجل الدخول في التطبيق كجهاز مرتبط فقط\n\nمميزات التطبيق:\n- التخفي عند مشاهدة الحالات.\n- مشاهدة الحالات محلياً.\n- وضع الشبح للرسائل.\n- استلام الرسائل بشكل مخفي.\n- عرض الرسائل المعدّلة.\n- حفظ الحالات المحذوفة.\n- الاحتفاظ بالرسائل المحذوفة.\n- تنزيل الحالات.\n- تنزيل الوسائط المؤقتة.\n- وضع الشبح للوسائط المؤقتة.\n- رفع المقاطع الصوتية من الاستوديو.\n- دعم تعدد الحسابات.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "2.9",
+      "toolVersion": "3.7",
       "versions": [
+        {
+          "version": "26.42.77",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.42.77_wgoldplus3.7",
+          "date": "2026-11-02",
+          "size": 185073664
+        },
         {
           "version": "26.34.74",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.74_wagoldplus",
-          "date": "2026-09-04",
-          "size": 156552396
-        },
-        {
-          "version": "26.34.72",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.72_wgoldplus"
+          "date": "2026-09-04"
         }
       ],
-      "version": "26.34.74",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.74_wagoldplus",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.34.74_wagoldplus",
-      "size": 156552396,
+      "version": "26.42.77",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.42.77_wgoldplus3.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/wa-business_26.42.77_wgoldplus3.7",
+      "size": 185073664,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-19",
+      "updatedAt": "2026-11-02",
       "_rowKey": 11
     },
     {
@@ -305,30 +306,30 @@
       "bundleIdentifier": "app.swiftgram.ios",
       "bundleId": "app.swiftgram.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/cc/44/eccc44ed-8cc5-b3ef-ae55-11663243cef8/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات Mx:\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
+      "localizedDescription": "مميزات LEAD :\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "1.0.0",
+      "toolVersion": "2.0",
       "versions": [
+        {
+          "version": "13.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.0-lead-2.0",
+          "date": "2026-11-02",
+          "size": 90282393
+        },
         {
           "version": "13.1.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.1.1-tf-mxgram",
-          "date": "2026-10-29",
-          "size": 86192947
-        },
-        {
-          "version": "13.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.0-mxgram",
-          "date": "2026-10-13"
+          "date": "2026-10-29"
         }
       ],
-      "version": "13.1.1",
-      "versionDate": "2026-10-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.1.1-tf-mxgram",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.1.1-tf-mxgram",
-      "size": 86192947,
+      "version": "13.2",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.0-lead-2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.0-lead-2.0",
+      "size": 90282393,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-29",
+      "updatedAt": "2026-11-02",
       "_rowKey": 12
     },
     {
@@ -1577,24 +1578,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "56.32.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/play-8ballpool-hack-56.32.2",
-          "date": "2026-10-26",
-          "size": 102550732
+          "version": "56.33.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/play-8ball-pool_56.33.0",
+          "date": "2026-11-02",
+          "size": 102655590
         },
         {
-          "version": "56.31.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/play-8ball-pool-hack-56.31.1",
-          "date": "2026-10-18"
+          "version": "56.32.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/play-8ballpool-hack-56.32.2",
+          "date": "2026-10-26"
         }
       ],
-      "version": "56.32.2",
-      "versionDate": "2026-10-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/play-8ballpool-hack-56.32.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/play-8ballpool-hack-56.32.2",
-      "size": 102550732,
+      "version": "56.33.0",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/play-8ball-pool_56.33.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/play-8ball-pool_56.33.0",
+      "size": 102655590,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-10-26"
+      "updatedAt": "2026-11-02"
     },
     {
       "id": "APP-5874636765",
@@ -1739,29 +1740,32 @@
     },
     {
       "id": "APP-4159186708",
-      "name": "Clash Royale - nulls royal",
+      "name": "Clash Royale - Nulls Royale",
       "bundleIdentifier": "com.supercell.scroll",
       "bundleId": "com.supercell.scroll",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWtACUA9a2kjsLPUKu8ay4WPxRiror2E_4OH6V8IQUrQ&s=10",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/APP-4159186708.png",
       "localizedDescription": "التطبيق آمن، ويمكنك حفظ تقدمك عن طريق تسجيل الدخول",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "16.635.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nulls-royale-16.635.1-for-ios",
+          "date": "2026-11-02",
+          "size": 813904691
+        },
+        {
           "version": "15.535.13",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/clash-royale-hack",
-          "date": "2026-08-24",
-          "size": 765145907
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/clash-royale-hack"
         }
       ],
-      "version": "15.535.13",
-      "versionDate": "2026-09-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/clash-royale-hack",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/clash-royale-hack",
-      "size": 765145907,
-      "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-02",
-      "_rowKey": 64
+      "version": "16.635.1",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nulls-royale-16.635.1-for-ios",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nulls-royale-16.635.1-for-ios",
+      "size": 813904691,
+      "addedAt": "2026-11-02",
+      "updatedAt": "2026-11-02"
     },
     {
       "id": "APP-1129911031",
@@ -2202,29 +2206,30 @@
       "name": "Minecraft",
       "bundleIdentifier": "com.mojang.minecraftpe",
       "bundleId": "com.mojang.minecraftpe",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/b7/24/3bb724be-0244-933a-af48-ad2195689877/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/09/34/720934b1-4519-6661-cc9c-075075d54a38/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "لعبة مدفوعة في المتجر الرسمي AppStore.\nقد لا تدعم تسجيل الدخول في حساب Xbox",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.26.52",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/minecraft-1.26.52",
-          "date": "2026-10-02",
-          "size": 722468864
+          "version": "1.26.60",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/minecraft-1.26.60",
+          "date": "2026-11-02",
+          "size": 730123468
         },
         {
-          "version": "1.26.51",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/minecraft-1.26.51"
+          "version": "1.26.52",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/minecraft-1.26.52",
+          "date": "2026-10-02"
         }
       ],
-      "version": "1.26.52",
-      "versionDate": "2026-10-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/minecraft-1.26.52",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/minecraft-1.26.52",
-      "size": 722468864,
+      "version": "1.26.60",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/minecraft-1.26.60",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/minecraft-1.26.60",
+      "size": 730123468,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-02",
+      "updatedAt": "2026-11-02",
       "_rowKey": 82
     },
     {
@@ -2916,29 +2921,30 @@
       "name": "Mortal Kombat",
       "bundleIdentifier": "com.wb.MK.Brawler2015",
       "bundleId": "com.wb.MK.Brawler2015",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/20/db/4e20db15-dfc7-f427-0ce2-8de8a238a16e/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/90/af/0390af30-b214-5921-7367-e203c11cc063/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- الفوز تلقائياً.\n- القضاء الفوري على شخصيات الخصم.\n- تبديل شخصيات الخصم بالقوة.\n- إضعاف الخصم للقضاء عليه بضربة واحدة.\n- إحياء جميع الشخصيات وشفاؤها.\n- شفاء جميع الشخصيات.\n- قائمة تعديلات تتضمن مزايا إضافية مثل زيادة نقاط الخبرة بعد المباريات.\n- التبديل بين الشخصيات من دون انتظار انتهاء المؤقت.\n- لتفعيل بعض المزايا، فعّل ميزة واحدة في كل مرة ثم أعد تشغيل اللعبة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "7.4.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.4.0",
-          "date": "2026-10-20",
-          "size": 2005821030
+          "version": "7.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.4.1",
+          "date": "2026-11-02",
+          "size": 2005925888
         },
         {
-          "version": "7.3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.3.0"
+          "version": "7.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.4.0",
+          "date": "2026-10-20"
         }
       ],
-      "version": "7.4.0",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.4.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.4.0",
-      "size": 2005821030,
+      "version": "7.4.1",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.4.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mortal-kombat-7.4.1",
+      "size": 2005925888,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-20",
+      "updatedAt": "2026-11-02",
       "_rowKey": 108
     },
     {
@@ -7912,26 +7918,27 @@
       "localizedDescription": "نسخة RustTikTok مكركة تحتوي على أكثر من 60 ميزة.\n\nمميزات التطبيق:\n- Super Ultra Quality لتنزيل الفيديو بأعلى جودة أصلية ممكنة، مع دعم 4K وHDR وحتى 120FPS عند توفرها، وتنزيل الصور والقصص والملصقات المتحركة بجودتها الأصلية.\n- Compress Render للحفاظ على جودة الفيديو الأصلية عند الرفع وتقليل ضغط TikTok، وهي من الميزات النادرة في تعديلات TikTok.\n- Original (Independent) ضمن Super Ultra Quality للحصول على تدفق تنزيل مستقل بأقصى جودة متاحة.\n- Video to Voice Message لتحويل فيديو تختاره أو آخر فيديو شاهدته إلى رسالة صوتية أو نص وإرساله من واجهة المحادثة.\n- AIgorithmic Shadow Profiler وAIgorithm Dissection مع Auto Like Feed وخيارات متقدمة لتحليل وتخصيص الخلاصة.\n- وضع خصوصية متقدم: مشاهدة القصص وزيارة الحسابات وقراءة المحادثات بشكل مجهول، مع الاحتفاظ بالرسائل المحذوفة.\n- ترجمة تعليق واحد أو جميع التعليقات، ودعم 25 لغة، مع Extended Comment حتى مليون حرف وExtended Bio حتى 1000 حرف.\n- تنزيل الفيديوهات والصور والقصص وصور الحساب ووسائط وملصقات التعليقات وإزالة العلامة المائية، مع عرض معلومات وتاريخ ووقت رفع الفيديو والأعداد الدقيقة.\n- فلترة وتخصيص الخلاصة والواجهة: إخفاء الإعلانات وAI وShop والمحتوى الحساس والعمولات والمواقع المروجة وLIVE والتوصيات وعناصر Tab Bar.\n- أدوات تشغيل وتحكم إضافية تشمل Auto Play، شريط ووقت التقدم، فتح الروابط في Safari، تأكيد الإعجاب والمتابعة والحذف، وتغيير منطقة الرفع.\n\nلفتح قائمة RustTikTok اضغط مطولاً بإصبعين على الشاشة أو افتحها من إعدادات TikTok.",
       "category": "تواصل",
       "recommended": true,
-      "toolVersion": "9.0",
+      "toolVersion": "9.3.0",
       "versions": [
+        {
+          "version": "47.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_v47.5.0_cracked-9.3.0",
+          "date": "2026-11-02",
+          "size": 532362035
+        },
         {
           "version": "47.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_v47.0.0_cracked-9.0.0",
-          "date": "2026-09-30",
-          "size": 506567065
-        },
-        {
-          "version": "46.9.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tiktok_46.9.0-rust-crack8.0"
+          "date": "2026-09-30"
         }
       ],
-      "version": "47.0.0",
-      "versionDate": "2026-09-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_v47.0.0_cracked-9.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_v47.0.0_cracked-9.0.0",
-      "size": 506567065,
+      "version": "47.5.0",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_v47.5.0_cracked-9.3.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rusttiktok_v47.5.0_cracked-9.3.0",
+      "size": 532362035,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-09-30"
+      "updatedAt": "2026-11-02"
     },
     {
       "id": "APP-1781328682",
@@ -23663,30 +23670,31 @@
       "name": "Facebook Plus",
       "bundleIdentifier": "com.facebook.Facebook",
       "bundleId": "com.facebook.Facebook",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/1d/be/5e1dbe24-886f-0e03-0874-2b7c2fdfd594/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/5b/7b/775b7b40-4e22-ba5e-2255-668c2473048c/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات التطبيق:\n- إزالة الإعلانات والمنشورات الممولة من الخلاصة.\n- إخفاء اقتراحات الأشخاص والمجموعات والصفحات وReels Carousel وترويج Threads.\n- Ghost Mode لمشاهدة القصص بدون تسجيل المشاهدة مع إمكانية إيقاف الانتقال التلقائي وإخفاء اقتراحات القصص.\n- تنزيل Reels والقصص بالصور والفيديو مباشرة إلى تطبيق الصور.\n- إضافة تأكيد قبل الإعجاب لتجنب الإعجابات بالخطأ في الخلاصة وReels.\n- فتح الروابط الخارجية في المتصفح الافتراضي بدلاً من متصفح Facebook الداخلي.\n- Safari Extension لفتح روابط facebook.com مباشرة داخل تطبيق Facebook.\n- OLED Dark Mode بخلفية سوداء حقيقية.\n- تغيير أيقونة التطبيق من داخل الإعدادات مع الحفاظ على أيقونات Facebook الأصلية.\n- فاحص تحديثات مدمج يعرض سجل التغييرات ويتيح الوصول السريع للإصدارات الجديدة.\n\nلفتح إعدادات Facebook Plus:\n- اضغط مطولاً على أي عنصر في شريط التبويب أو على زر إعدادات Facebook.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "1.0.2",
+      "toolVersion": "1.0.4",
       "versions": [
+        {
+          "version": "585.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-1.0.4-fb-585.0.0",
+          "date": "2026-11-02",
+          "size": 229428428
+        },
         {
           "version": "584.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-fb-584.0.0-v1.0.2",
-          "date": "2026-10-20",
-          "size": 226282700
-        },
-        {
-          "version": "582.0.0.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-fb-582.0.0.1.0.1"
+          "date": "2026-10-20"
         }
       ],
-      "version": "584.0.0",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-fb-584.0.0-v1.0.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-fb-584.0.0-v1.0.2",
-      "size": 226282700,
+      "version": "585.0.0",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-1.0.4-fb-585.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-1.0.4-fb-585.0.0",
+      "size": 229428428,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-11-02"
     },
     {
       "id": "app-1789402583098",
@@ -41690,24 +41698,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "3.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.1",
-          "date": "2026-10-29",
-          "size": 140509184
+          "version": "3.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.2.1",
+          "date": "2026-11-02",
+          "size": 140718899
         },
         {
-          "version": "3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.0",
-          "date": "2026-10-20"
+          "version": "3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.1",
+          "date": "2026-10-29"
         }
       ],
-      "version": "3.1",
-      "versionDate": "2026-10-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/husk-3.1",
-      "size": 140509184,
+      "version": "3.2.1",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/husk-3.2.1",
+      "size": 140718899,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-29"
+      "updatedAt": "2026-11-02"
     },
     {
       "id": "app-1792506241520",
@@ -52566,6 +52574,7 @@
       "bundleIdentifier": "co.imba.threekingdoms.towerdefense",
       "bundleId": "co.imba.threekingdoms.towerdefense",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/8a/3c/128a3c46-3db8-38c7-2754-4d49e60a1a90/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- أقصى نقاط صحة\n- أقصى قوة هجوم\n- سرعة iGG مضاعفة 6 مرات وتخطي الموجات\n- تفعيل عضوية VIP\n- بدون إعلانات\n- مكافآت الحزم اليومية والأسبوعية والشهرية غير محدودة\n- فتح الأبطال",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52590,6 +52599,7 @@
       "bundleIdentifier": "com.grilltown.grill",
       "bundleId": "com.grilltown.grill",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/79/10/ff7910ed-0329-fcc4-dc8c-ddadae85c418/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- نقود غير محدودة عند الكسب\n- عملات غير محدودة عند بيع العناصر\n- طاقة غير محدودة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52614,6 +52624,7 @@
       "bundleIdentifier": "com.kazrahann.cardtrain",
       "bundleId": "com.kazrahann.cardtrain",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/80/ed/4780ed6a-d0b9-2189-44a6-42406077d5d4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مكعبات كافية\n- جواهر كافية\n- عملات غير محدودة\n- تجميد المانا\n- أقصى نقاط صحة وتجميدها\n- أقصى قوة هجوم",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52638,6 +52649,7 @@
       "bundleIdentifier": "com.ArrugaCorp.TravelMergeFamily",
       "bundleId": "com.ArrugaCorp.TravelMergeFamily",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/00/e3/5600e39d-2479-5bb8-71dc-93883b025cf7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- الحد الأقصى للعملات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52662,6 +52674,7 @@
       "bundleIdentifier": "com.match.fun.free.traveldecor",
       "bundleId": "com.match.fun.free.traveldecor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/74/1a/53741a50-d029-6026-d6a3-2fcaef059757/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إيقاف الإعلانات تلقائيا\n- فوز تلقائي باستخدام حركة واحدة\n- عملات غير محدودة عند الاستخدام والكسب\n- جرعات غير محدودة عند الاستخدام والكسب\n- أرواح غير محدودة عند الاستخدام والكسب",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52686,6 +52699,7 @@
       "bundleIdentifier": "com.rhinogames.hotel.project",
       "bundleId": "com.rhinogames.hotel.project",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/19/b5/4c19b56a-ba67-e79c-b86e-190307b4fd53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- بدون إعلانات\n- جواهر غير محدودة\n- عملات غير محدودة\n- طاقة غير محدودة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52710,6 +52724,7 @@
       "bundleIdentifier": "com.minidragon.wow",
       "bundleId": "com.minidragon.wow",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/2f/b2/6a2fb2c4-6208-987a-500d-a60ff9813d5f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- أقصى نقاط صحة وهجوم ودفاع\n- أقصى فرصة للضربة الحرجة\n- أقصى سرعة واستعادة لنقاط الصحة\n- التحقق من التأثيرات عبر إحصائيات المواهب",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52734,6 +52749,7 @@
       "bundleIdentifier": "com.plarium.mechlegion",
       "bundleId": "com.plarium.mechlegion",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/84/5e/db845e23-c159-2a3a-cb20-a4b8776e0721/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إطلاق نار متواصل\n- إظهار الأعداء دائما\n- رفع الذخيرة إلى 65000؛ تعطل الخاصية بعد الحصول عليها",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52758,6 +52774,7 @@
       "bundleIdentifier": "com.FreeDust.UnderDarkOffense",
       "bundleId": "com.FreeDust.UnderDarkOffense",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/5b/37/365b376d-c082-d0bd-ad03-6b25d7c22121/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- ماس غير محدود\n- ذهب غير محدود\n- أقصى عدد للقوات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52782,6 +52799,7 @@
       "bundleIdentifier": "com.elementsadventurer.ios",
       "bundleId": "com.elementsadventurer.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/6d/50/ba6d5029-2032-bfb1-1511-f1d065ac6d46/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- ماس غير محدود\n- عملات غير محدودة\n- أقصى نقاط صحة وضرر\n- التحكم في وقت إعادة استخدام المهارات\n- زيادة مدى الهجوم والالتقاط\n- زيادة سرعة الحركة\n- إعادة اختيار المهارات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52806,6 +52824,7 @@
       "bundleIdentifier": "com.belkagames.ds",
       "bundleId": "com.belkagames.ds",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/1b/92/921b9246-f3f4-81be-fff3-1d56fcbc3384/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- تفعيل ميزة الشراء الوهمي\n- بدون إعلانات\n- تفعيل الميزة من قائمة التعديلات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52830,6 +52849,7 @@
       "bundleIdentifier": "com.mfapp.storyFontEn",
       "bundleId": "com.mfapp.storyFontEn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/82/80/4582802c-ec30-6357-575f-188a2d1599e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فتح جميع المميزات",
       "category": "أدوات",
       "recommended": false,
       "versions": [
@@ -52854,6 +52874,7 @@
       "bundleIdentifier": "com.tibith.badboxing2",
       "bundleId": "com.tibith.badboxing2",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/09/df/1109df5a-4117-fc20-8477-a39774100bcf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة\n- إضعاف ذكاء العدو في نمط اللاعب الواحد",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52878,6 +52899,7 @@
       "bundleIdentifier": "com.reaper.forge",
       "bundleId": "com.reaper.forge",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/de/ad/eddeadd9-ef73-d2df-a2c7-0ae699adf482/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت أثناء المعارك\n- أقصى ضرر لكل ضربة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52902,6 +52924,7 @@
       "bundleIdentifier": "com.platform.adventure.sword.knight",
       "bundleId": "com.platform.adventure.sword.knight",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/f3/22/f4f3225e-deb5-5d52-0afd-e38588609b78/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- القضاء على الأعداء بضربة واحدة\n- ترقيات مجانية للمحارب",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52926,6 +52949,7 @@
       "bundleIdentifier": "com.sparklingsociety.zoolifeanimalparkgame",
       "bundleId": "com.sparklingsociety.zoolifeanimalparkgame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ab/f2/b7abf2d8-f9c5-ac0f-4a0c-2214a358484c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- متجر مجاني داخل اللعبة (اضغط شراء ثم إلغاء)",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52950,6 +52974,7 @@
       "bundleIdentifier": "com.dimensiontechnics.DerbyMadness",
       "bundleId": "com.dimensiontechnics.DerbyMadness",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/96/1b/57961b66-1253-91a8-6686-3689551e4386/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مشتريات مجانية داخل التطبيق (Free iAP)",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52974,6 +52999,7 @@
       "bundleIdentifier": "com.netflix.NGP.tombofthemask",
       "bundleId": "com.netflix.NGP.tombofthemask",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/ba/e3/6fbae3d6-0b09-e523-884a-4848f5517c4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت من الفخاخ أو الأعداء\n- تجميد الأعداء في أماكنهم\n- مغناطيس دائم لجمع العملات والعناصر\n- الحصول على العملات مجانا",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -52998,6 +53024,7 @@
       "bundleIdentifier": "com.swagmasha.dreamzone",
       "bundleId": "com.swagmasha.dreamzone",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/d3/2d/b3d32da3-30ac-59cc-9034-1b54106267f2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مفاتيح غير محدودة\n- ماس غير محدود",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53022,6 +53049,7 @@
       "bundleIdentifier": "com.fingercat.slimehunterworldios",
       "bundleId": "com.fingercat.slimehunterworldios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/b9/79/4cb979f0-a700-7bb9-e6f6-232bff9c6412/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر\n- مضاعف الدفاع\n- عدم الموت أثناء القتال\n- مضاعف سرعة الحركة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53046,6 +53074,7 @@
       "bundleIdentifier": "com.bitodd.vortex",
       "bundleId": "com.bitodd.vortex",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/30/51/c1305105-8c5e-ee41-7b54-1613126b874d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر\n- مضاعف الدفاع\n- عدم الموت\n- تجميد الأعداء\n- مضاعف سرعة الحركة\n- القضاء على جميع الأعداء",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53070,6 +53099,7 @@
       "bundleIdentifier": "com.swagmasha.genres",
       "bundleId": "com.swagmasha.genres",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/61/03/2361032d-bcd1-c1dd-48da-354155c053f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مفاتيح غير محدودة\n- ماس غير محدود لفتح المحتوى",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53094,6 +53124,7 @@
       "bundleIdentifier": "com.dreamgames.royalkingdom",
       "bundleId": "com.dreamgames.royalkingdom",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/75/74/e775740b-09b8-58d6-446c-3b6012fc55d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- الحصول على العملات عند الفوز\n- جرعات وأرواح مجانية\n- أقصى مستوى للمعززات\n- فتح إطار VIP\n- بطاقة المملكة مجانية\n- فتح المناطق بمهمة واحدة\n- فوز تلقائي بحركة واحدة\n- نقاط صحة العدو صفر\n- تحديد لون ظهور الأعداء (اختر لونا واحدا)",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53118,6 +53149,7 @@
       "bundleIdentifier": "com.swagmasha.lovespark",
       "bundleId": "com.swagmasha.lovespark",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/2c/a9/622ca9fd-0a19-c1be-dcea-a35bca3ba00e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة عند الكسب أو الإنفاق\n- تفعيل عضوية VIP وفتح المميزات الحصرية",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53142,6 +53174,7 @@
       "bundleIdentifier": "com.hmbdgames.match",
       "bundleId": "com.hmbdgames.match",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/e2/92/4be29200-6379-d3e5-0593-57a78fb994af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- زيادة العملات عند الفوز بالمباريات\n- تعطيل الميزة بعد الحصول على العملات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53166,6 +53199,7 @@
       "bundleIdentifier": "com.runawayplay.beegame",
       "bundleId": "com.runawayplay.beegame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/ca/49/20ca4924-4541-3151-e7d7-f49239ce0a09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- رحيق غير محدود للحصاد والإنفاق\n- عملة Bux غير محدودة\n- مقصات شجيرات غير محدودة لتوسيع الحديقة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53190,6 +53224,7 @@
       "bundleIdentifier": "com.heatherglade.idleguy",
       "bundleId": "com.heatherglade.idleguy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/32/d8/6e32d85f-1662-b588-e8a0-b1dd94a52941/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- رصيد نقدي غير محدود يزداد بدلا من أن ينقص\n- مشتريات مجانية داخل التطبيق",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53214,6 +53249,7 @@
       "bundleIdentifier": "com.davestudio.mika",
       "bundleId": "com.davestudio.mika",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/06/d9/8e06d9db-8dac-de98-9442-8f8721adff1d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مضاعف الضرر\n- مضاعف المكافآت والغنائم\n- زيادة العملات عند الإنفاق\n- التحكم في سرعة اللعبة\n- بدون إعلانات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53238,6 +53274,7 @@
       "bundleIdentifier": "com.starblaster.afour.epl.as",
       "bundleId": "com.starblaster.afour.epl.as",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/98/47/4e9847ce-01f1-3dfa-5a0b-e0c40a1a68ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عملات غير محدودة\n- تجميد العملات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53262,6 +53299,7 @@
       "bundleIdentifier": "games.greenbee.aterra",
       "bundleId": "games.greenbee.aterra",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/fd/1c/98fd1caf-8edf-15d9-199a-c105b19b93f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم موت الأبطال\n- أقصى ضرر للهجمات\n- تجميد حركة الأعداء",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53286,6 +53324,7 @@
       "bundleIdentifier": "com.fdjed.minionsurvivors",
       "bundleId": "com.fdjed.minionsurvivors",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/70/fc/b970fc4b-69ab-494c-b046-c388618ddc66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- إيقاف الإعلانات تلقائيا\n- أقصى جواهر\n- أقصى ذهب\n- عدم الموت أثناء اللعب",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53310,6 +53349,7 @@
       "bundleIdentifier": "com.brnmetaverse.endlessclash",
       "bundleId": "com.brnmetaverse.endlessclash",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/b1/05/d2b10563-0814-a28e-75a9-97bd1f69db52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت\n- مضاعف الضرر\n- مضاعف الدفاع\n- تعمل المميزات في نمط PVE فقط",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53334,6 +53374,7 @@
       "bundleIdentifier": "com.lastgreen.appgame",
       "bundleId": "com.lastgreen.appgame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/32/fd/3032fd25-8e26-3297-2b65-2a3707ada7b4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- عدم الموت\n- القضاء على الأعداء بضربة واحدة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53358,6 +53399,7 @@
       "bundleIdentifier": "com.puzzle1studio.ap.wordcalmcross",
       "bundleId": "com.puzzle1studio.ap.wordcalmcross",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/cb/e0/9bcbe05f-13df-6dbe-b654-8a92c89e4b48/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مشتريات مجانية داخل التطبيق",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53382,6 +53424,7 @@
       "bundleIdentifier": "com.rebelgames.tropicmatch",
       "bundleId": "com.rebelgames.tropicmatch",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/18/68/5a1868ff-553d-ac8f-c1e9-1e6a405c62f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فوز تلقائي\n- عملات ونجوم\n- أرواح ومعززات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53406,6 +53449,7 @@
       "bundleIdentifier": "io.onlychads.onlygrind",
       "bundleId": "io.onlychads.onlygrind",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/0a/42/5d0a4239-2c7d-bfef-29df-c50505838eb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- مشتريات مجانية داخل التطبيق\n- زيادة الجواهر عند الكسب\n- رفع معدل نجاح الجواهر\n- صناديق إضافية +5\n- زيادة الذهب عند البيع أو الدمج أو رفع المستوى\n- تعديل نقاط الصحة والدفاع والهجوم والضرر الحرج",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53430,6 +53474,7 @@
       "bundleIdentifier": "com.redfalcon.baseballgoat.ios",
       "bundleId": "com.redfalcon.baseballgoat.ios",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/51/b6/6e51b6c2-4a49-994d-a510-918d086f3c96/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- طاقة غير محدودة\n- تفعيل حزمة الإعلانات ومكافآت مجانية",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53454,6 +53499,7 @@
       "bundleIdentifier": "com.jbxgames.island.wars.fight.defender",
       "bundleId": "com.jbxgames.island.wars.fight.defender",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/39/57/133957f4-c167-8bb1-f060-9188c3c821f0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- كريستالات إضافية\n- عملات إضافية",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53478,6 +53524,7 @@
       "bundleIdentifier": "com.sparklingsociety.zoolife2animaltycoonparkbuildingsimulationgame",
       "bundleId": "com.sparklingsociety.zoolife2animaltycoonparkbuildingsimulationgame",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/1a/9d/761a9d06-1cfc-ab9b-0814-8f3d27592933/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "- بناء وتطوير دون الحاجة إلى العملات\n- الموارد غير مطلوبة\n- رفع المستوى بنقطة خبرة واحدة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53502,6 +53549,7 @@
       "bundleIdentifier": "com.qiiwi.backpackergo",
       "bundleId": "com.qiiwi.backpackergo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/ea/da/1deadaf3-2763-2ae6-fda8-ce27c6cfec6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- بدون إعلانات أثناء اللعب\n- نقود غير محدودة\n- نرد غير محدود\nملاحظة: استخدام عناصر أخرى مرتبطة بخاصية النقود قد يسبب تجمد اللعبة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53526,6 +53574,7 @@
       "bundleIdentifier": "com.OsOs.Narin",
       "bundleId": "com.OsOs.Narin",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/28/f6/e728f6b3-e12d-791b-a7db-97b288301615/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- جواهر غير محدودة\n- ذهب غير محدود\n- عناصر مخزون غير محدودة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53550,6 +53599,7 @@
       "bundleIdentifier": "com.grapetree.meowtower",
       "bundleId": "com.grapetree.meowtower",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/0a/69/900a69f8-949b-02bc-c283-06924aaecf23/AppIcon-0-0-1x_U007emarketing-0-8-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- بدون إعلانات\n- علب ذهبية\n- أقصى عدد لأقلام الرصاص\n- أقصى عدد للتلميحات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53574,6 +53624,7 @@
       "bundleIdentifier": "com.bitmango.ap.lollipopmatch3",
       "bundleId": "com.bitmango.ap.lollipopmatch3",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/e9/74/2fe9746c-35bf-a917-7cd1-cbacb3d0419b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- فوز تلقائي (تفعيل قبل اللعب)\n- عملات إضافية\n- أرواح إضافية\n- معززات إضافية",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53598,6 +53649,7 @@
       "bundleIdentifier": "com.sfromance.zombieblaster",
       "bundleId": "com.sfromance.zombieblaster",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/b0/ee/b2b0ee3f-5374-50c9-6daf-ae0857ed733d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- جواهر وذهب\n- طاقة إضافية\n- مفاتيح +2\n- تظليل\n- عملات المعارك\n- تعزيز هجوم السلاح",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53622,6 +53674,7 @@
       "bundleIdentifier": "com.vivastudios.tower.battle",
       "bundleId": "com.vivastudios.tower.battle",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/b5/c7/a5b5c789-e254-caf2-e9dc-bd98a7244087/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- زيادة سرعة الجنود وقوتهم (تفعيل قبل بدء المستوى)\n- عملات وكتب وميداليات غير محدودة عند جمعها\n- معاول وكرات سحرية غير محدودة عند جمعها",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53646,6 +53699,7 @@
       "bundleIdentifier": "com.pixelstar.GrowSurvivor",
       "bundleId": "com.pixelstar.GrowSurvivor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/d0/07/b9d00761-5275-4aac-9922-b77a8e99ee2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- أقصى ذخيرة عند إطلاق النار\n- إلغاء إعادة تعبئة الذخيرة\n- زيادة الضرر عند تغيير السلاح",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53670,6 +53724,7 @@
       "bundleIdentifier": "com.pixelstar.GrowSoldier",
       "bundleId": "com.pixelstar.GrowSoldier",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/c7/1f/69c71f26-4bc3-0c06-f66f-b21a0f19d3b7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- أقصى جواهر وياقوت\n- زيادة الذهب عند إسقاط الأعداء\n- عملات +3\n- عملات الأميال وتذاكر +4\n- زيادة الضرر ونقاط الصحة والضربات الحرجة عبر تطوير القطع الأثرية\n- جواهر تطوير إنتاج المختبر\n- سكان غير محدودين ضمن إنتاج المختبر",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -53694,6 +53749,7 @@
       "bundleIdentifier": "com.spcomes.wwr",
       "bundleId": "com.spcomes.wwr",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/2a/6b/362a6bf6-88a6-e256-0b31-8bee678a9d45/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "- زيادة الذهب والنجوم\n- نقاط إضافية عند القضاء على الأعداء (قد لا تعمل في كل الإصدارات)\n- عدم الموت\n- إزالة الإعلانات",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
