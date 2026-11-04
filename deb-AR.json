@@ -257,24 +257,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "3.8.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.8.1",
-          "date": "2026-10-31",
-          "size": 3145728
+          "version": "3.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-V3.9",
+          "date": "2026-11-04",
+          "size": 3460300
         },
         {
-          "version": "3.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram-3.4",
-          "date": "2026-09-26"
+          "version": "3.8.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.8.1",
+          "date": "2026-10-31"
         }
       ],
-      "version": "3.8.1",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.8.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.8.1",
-      "size": 3145728,
+      "version": "3.9",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-V3.9",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram-V3.9",
+      "size": 3460300,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-10-31"
+      "updatedAt": "2026-11-04"
     },
     {
       "id": "dylib-1784536158392",
@@ -305,30 +305,31 @@
     },
     {
       "id": "dylib-1784536205774",
-      "name": "Igformat Tweak",
+      "name": "IGFORMAT Tweak",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "category": "دايلب",
       "fileType": "dylib",
       "recommended": false,
       "versions": [
         {
-          "version": "2.6.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.6.0",
-          "date": "2026-09-07",
+          "version": "2.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.7.0",
+          "date": "2026-11-04",
           "size": 2936012
         },
         {
-          "version": "2.5.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.5.0"
+          "version": "2.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.6.0",
+          "date": "2026-09-07"
         }
       ],
-      "version": "2.6.0",
-      "versionDate": "2026-09-07",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.6.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.6.0",
+      "version": "2.7.0",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/IGFormat-2.7.0",
       "size": 2936012,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-09-07"
+      "updatedAt": "2026-11-04"
     },
     {
       "id": "dylib-1784536265162",
@@ -920,23 +921,24 @@
       "recommended": true,
       "versions": [
         {
+          "version": "4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold_4.0",
+          "date": "2026-11-04",
+          "size": 1258291
+        },
+        {
           "version": "3.7",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold_3.7",
           "date": "2026-10-30"
-        },
-        {
-          "version": "3.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold3.4",
-          "date": "2026-10-08"
         }
       ],
-      "version": "3.7",
-      "versionDate": "2026-10-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold_3.7",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/WGold_3.7",
-      "size": 0,
+      "version": "4.0",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/WGold_4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/WGold_4.0",
+      "size": 1258291,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-11-04"
     },
     {
       "id": "dylib-1784549134052",
@@ -1044,24 +1046,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.1.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.4",
-          "date": "2026-10-27",
+          "version": "1.1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.5",
+          "date": "2026-11-04",
           "size": 5557452
         },
         {
-          "version": "1.1.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.3",
-          "date": "2026-10-24"
+          "version": "1.1.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.4",
+          "date": "2026-10-27"
         }
       ],
-      "version": "1.1.4",
-      "versionDate": "2026-10-27",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.4",
+      "version": "1.1.5",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.5",
       "size": 5557452,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-10-27"
+      "updatedAt": "2026-11-04"
     },
     {
       "id": "dylib-1784795898576",
@@ -1072,23 +1074,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQGram-1.2",
-          "date": "2026-09-25",
-          "size": 2097152
+          "version": "1.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQGram_1.3",
+          "date": "2026-11-04",
+          "size": 2202009
         },
         {
-          "version": "1.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Iqgram-beta1.1"
+          "version": "1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQGram-1.2",
+          "date": "2026-09-25"
         }
       ],
-      "version": "1.2",
-      "versionDate": "2026-09-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQGram-1.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iQGram-1.2",
-      "size": 2097152,
+      "version": "1.3",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/iQGram_1.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/iQGram_1.3",
+      "size": 2202009,
       "addedAt": "2026-07-23",
-      "updatedAt": "2026-09-25"
+      "updatedAt": "2026-11-04"
     },
     {
       "id": "dylib-1784549742778",
