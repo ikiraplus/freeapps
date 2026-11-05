@@ -7864,29 +7864,30 @@
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات التطبيق:\n- تنزيل الصور والفيديوهات وReels والقصص ووسائط المحادثات وInstants والتعليقات بجودة عالية، مع مدير تنزيلات متقدم ودعم التنزيل الجماعي.\n- معرض خاص داخل التطبيق مع مجلدات وبحث ومعلومات للملفات وقفل برمز مرور أو Face ID/Touch ID، مع إمكانية استيراد الوسائط من تطبيق الملفات.\n- الاحتفاظ بالرسائل المحذوفة وUnsend والوسائط ذات العرض لمرة واحدة، مع سجل قابل للبحث للرسائل والوسائط المسترجعة.\n- Profile Analyzer لتحليل المتابعين والمتابَعين ومعرفة Mutuals وNon-Followbacks وتتبع المتابعين الجدد والمفقودين وتغييرات الحساب عبر الوقت.\n- إشعارات نشاط مخصصة لمعرفة دخول وخروج شخص محدد وحالة الكتابة وقراءة الرسائل مع تحسين دقة حالة الاتصال.\n- أدوات خصوصية متقدمة لإخفاء Seen والكتابة واكتشاف لقطات الشاشة وحدود View Once، مع إزالة الإعلانات وMeta AI والمحتوى المقترح.\n- محرر صور وفيديو مدمج للقص والتدوير والتكبير وتعديل الإطار واستخراج الصوت أو إطار ثابت من الفيديو.\n- تخصيص شامل للخلاصة وReels وشريط التبويب مع منع Doom Scrolling وإعادة ترتيب وإخفاء التبويبات وأزرار الإجراءات.\n- دعم إعدادات منفصلة لكل حساب مع سجل تنزيل ومعرض وإعدادات مستقلة، وإمكانية تخصيص الخطوط والثيم والواجهة.\n- دعم Liquid Glass على iOS 26+ مع أدوات القصص المتقدمة والبحث في المشاهدين وتصفية غير المتابعين وتأكيدات اختيارية للإعجاب والمتابعة والإرسال.",
+      "localizedDescription": "مميزات التطبيق :\n\n- إخفاء قائمة المتابعين والأشخاص الذين تتابعهم عن الآخرين، مع إمكانية عرض العدد الحقيقي للمتابعين.\n- إخفاء حسابك من قوائم الآخرين، فإذا كنت تتابع شخصاً فلن يظهر حسابك ضمن قائمة متابعيه، وإذا كان شخص يتابعك فلن يظهر حسابك ضمن قائمة الأشخاص الذين يتابعهم.\n- تحميل الصور والفيديوهات والريلز والستوري ووسائط الرسائل بجودة عالية، مع التحميل بالخلفية والحفظ التلقائي.\n- معرض خاص لحفظ الصور والفيديوهات وتنظيمها داخل مجلدات، مع إمكانية حمايته باستخدام Face ID أو رمز سري.\n- الاحتفاظ بالرسائل المحذوفة بعد تفعيل الميزة، وتسجيل التفاعلات الملغاة وحفظ وسائط العرض لمرة واحدة.\n- إخفاء المحادثات الفردية والجماعية من قائمة الرسائل، مع إمكانية قفل المحادثات المخفية وكتم إشعاراتها.\n- مشاهدة الستوري وقراءة الرسائل دون إرسال إشعار بالمشاهدة، مع التحكم بحالة الكتابة ومؤشرات النشاط.\n- تحليل المتابعين ومعرفة من لا يتابعك ومن ألغى متابعتك، مع سجل لتغييرات المتابعين والحسابات.\n- إزالة الإعلانات والمحتوى المقترح وأدوات Meta AI غير المرغوبة من مختلف أقسام إنستغرام.\n- التحكم المتقدم بالريلز والستوري، بما يشمل تغيير سرعة التشغيل والإيقاف والتقديم ومنع التكرار والانتقال التلقائي.\n- محرر متكامل للصور والفيديوهات يدعم القص والتدوير والتكبير وتعديل الإطار واستخراج الصوت أو صورة من الفيديو.\n- تخصيص واجهة إنستغرام بالكامل، بما يشمل الخطوط والأيقونات والتبويبات والوضع الأسود OLED وتأثيرات Liquid Glass.\n- إشعارات مخصصة عند اتصال الحسابات التي تتابع نشاطها أو خروجها أو بدء الكتابة أو قراءة رسائلك، مع إعدادات مستقلة لكل حساب.",
       "category": "تواصل",
       "recommended": true,
-      "toolVersion": "1.5.1",
+      "toolVersion": "1.6.0",
       "versions": [
+        {
+          "version": "454.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-v454.1.0-ig-1.6.0",
+          "date": "2026-11-05",
+          "size": 382939955
+        },
         {
           "version": "451.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle__ig_v451.0.0-v1.5.1",
-          "date": "2026-10-13",
-          "size": 347707801
-        },
-        {
-          "version": "448.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle_ig_v448.0.0_v1.4.0"
+          "date": "2026-10-13"
         }
       ],
-      "version": "451.0.0",
-      "versionDate": "2026-10-13",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle__ig_v451.0.0-v1.5.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sparkle__ig_v451.0.0-v1.5.1",
-      "size": 347707801,
+      "version": "454.1.0",
+      "versionDate": "2026-11-05",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-v454.1.0-ig-1.6.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sparkle-v454.1.0-ig-1.6.0",
+      "size": 382939955,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-10-13"
+      "updatedAt": "2026-11-05"
     },
     {
       "id": "APP-5563484838",
@@ -16240,26 +16241,27 @@
       "localizedDescription": "مميزات التطبيق:\n- إزالة الإعلانات.\n- تنزيل الفيديوهات والصور والموسيقى بدون علامة مائية.\n- تغيير دولة المحتوى والمنطقة.\n- تشغيل الفيديو التالي تلقائياً والتحكم بتكرار الفيديو.\n- إخفاء مشاهدة الرسائل مع إبقاء إيصالات قراءة الطرف الآخر ظاهرة.\n- إخفاء حالة النشاط والكتابة في المحادثات.\n- الاحتفاظ بالرسائل المحذوفة.\n- مشاهدة الملفات الشخصية والقصص بشكل مجهول.\n- حفظ القصص وصور الحساب ونسخ اسم المستخدم والنبذة.\n- إخفاء عناصر الواجهة وعرض شريط التقدم ومعلومات الفيديو.",
       "category": "تواصل",
       "recommended": true,
-      "toolVersion": "1.3",
+      "toolVersion": "1.4",
       "versions": [
+        {
+          "version": "47.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.6.0-asj-1.4.0",
+          "date": "2026-11-05",
+          "size": 518415974
+        },
         {
           "version": "47.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.0.0-v1.3",
-          "date": "2026-09-30",
-          "size": 491152998
-        },
-        {
-          "version": "46.9.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtiktok-v46.9.0"
+          "date": "2026-09-30"
         }
       ],
-      "version": "47.0.0",
-      "versionDate": "2026-09-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.0.0-v1.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.0.0-v1.3",
-      "size": 491152998,
+      "version": "47.6.0",
+      "versionDate": "2026-11-05",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.6.0-asj-1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.6.0-asj-1.4.0",
+      "size": 518415974,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-09-30",
+      "updatedAt": "2026-11-05",
       "_rowKey": 1
     },
     {
@@ -41806,24 +41808,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "3.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.3",
-          "date": "2026-11-04",
-          "size": 142186905
+          "version": "3.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.4",
+          "date": "2026-11-05",
+          "size": 142291763
         },
         {
-          "version": "3.2.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.2.1",
-          "date": "2026-11-02"
+          "version": "3.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.3",
+          "date": "2026-11-04"
         }
       ],
-      "version": "3.3",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/husk-3.3",
-      "size": 142186905,
+      "version": "3.4",
+      "versionDate": "2026-11-05",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/husk-3.4",
+      "size": 142291763,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "id": "app-1792506241520",
