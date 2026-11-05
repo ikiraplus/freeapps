@@ -7864,29 +7864,30 @@
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "App features :\n- Download photos, videos, Reels, Stories, chat media, Instants, and comments in high quality, with an advanced download manager and bulk download support.\n- A private in-app gallery with folders, search, file information, passcode lock or Face ID/Touch ID, and the ability to import media from the Files app.\n- Keep deleted messages , Unsend, and single-view media, with a searchable history of retrieved messages and media.\n- Profile Analyzer to analyze Followers and Unfollowers, know Mutuals and Non-Followbacks, and track new and lost followers and account changes over time.\n- Personalized activity notifications to know the entry and exit of a specific person, the status of writing and reading messages, while improving the accuracy of connection status.\n- Advanced privacy tools to hide Seen, Write, detect screenshots and View Once limits, with Ads removed , Meta AI and suggested content.\n- Built-in photo and video editor to crop, rotate, zoom, adjust frame and extract audio or still frame from video.\n- Extensive customization of the Feed, Reels, and tab bar while preventing Doom Scrolling, rearranging, and hiding tabs and action buttons.\n- Support separate settings for each account with download history, gallery, and independent settings, and the ability to customize fonts, themes, and interface.\n- Liquid Glass support on iOS 26+ with advanced Stories tools, viewer search, non-follower filtering, and optional like, follow, and send confirmations.",
+      "localizedDescription": "App features :\n\n- Hide the list of followers and people you follow from others, with the ability to display the real number of followers.\n- Hide your account from others’ lists. If you are following a person, your account will not appear on the list of his followers, and if a person is following you, your account will not appear on the list of people he follows.\n- download High-quality photos, videos, reels, stories, and messaging media, with the download in the background and automatic saving.\n- A private gallery for saving photos and videos and organizing them into folders, with the ability to protect them using Face ID or a secret code.\n- Keep deleted messages After the activation feature, record canceled interactions and save view-once media .\n- Hide individual and group conversations from the message list, with the ability to lock hidden conversations and mute their notifications.\n- Watch stories and read messages without sending a viewing notification, while controlling writing status and activity indicators.\n- Analyze followers and find out who does not follow you and who unfollowed you, with a record of followers and account changes.\n- Ads removed , Suggested Content and Meta AI Spam Tools from various sections of Instagram.\n- Advanced control of reels and stories, including changing the playback, pausing and forwarding speed, preventing repetition and automatic transition.\n- An integrated image and video editor that supports cropping, rotating, zooming, adjusting the frame, and extracting audio or image from video.\n- Fully customize the Instagram interface, including fonts, icons, tabs, OLED black mode, and Liquid Glass effects.\n- Custom notifications when accounts you follow are active, log out, start writing, or reading your messages, with independent settings for each account.",
       "category": "communication",
       "recommended": true,
-      "toolVersion": "1.5.1",
+      "toolVersion": "1.6.0",
       "versions": [
+        {
+          "version": "454.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-v454.1.0-ig-1.6.0",
+          "date": "2026-11-05",
+          "size": 382939955
+        },
         {
           "version": "451.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle__ig_v451.0.0-v1.5.1",
-          "date": "2026-10-13",
-          "size": 347707801
-        },
-        {
-          "version": "448.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle_ig_v448.0.0_v1.4.0"
+          "date": "2026-10-13"
         }
       ],
-      "version": "451.0.0",
-      "versionDate": "2026-10-13",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle__ig_v451.0.0-v1.5.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sparkle__ig_v451.0.0-v1.5.1",
-      "size": 347707801,
+      "version": "454.1.0",
+      "versionDate": "2026-11-05",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sparkle-v454.1.0-ig-1.6.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sparkle-v454.1.0-ig-1.6.0",
+      "size": 382939955,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-10-13"
+      "updatedAt": "2026-11-05"
     },
     {
       "id": "APP-5563484838",
@@ -16240,26 +16241,27 @@
       "localizedDescription": "App features :\n- Ads removed .\n- Download videos, photos and music without watermark.\n- Change content country and region.\n- Automatically play the next video and control video repeat.\n- Hide viewing messages while keeping the other party's read receipts visible.\n- Hide activity and writing status in conversations.\n- Keep deleted messages .\n- View profiles and stories anonymously.\n- Save stories, account photos, and copy the username and bio.\n- Hide interface elements, display progress bar and video information.",
       "category": "communication",
       "recommended": true,
-      "toolVersion": "1.3",
+      "toolVersion": "1.4",
       "versions": [
+        {
+          "version": "47.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.6.0-asj-1.4.0",
+          "date": "2026-11-05",
+          "size": 518415974
+        },
         {
           "version": "47.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.0.0-v1.3",
-          "date": "2026-09-30",
-          "size": 491152998
-        },
-        {
-          "version": "46.9.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtiktok-v46.9.0"
+          "date": "2026-09-30"
         }
       ],
-      "version": "47.0.0",
-      "versionDate": "2026-09-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.0.0-v1.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.0.0-v1.3",
-      "size": 491152998,
+      "version": "47.6.0",
+      "versionDate": "2026-11-05",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.6.0-asj-1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtok-47.6.0-asj-1.4.0",
+      "size": 518415974,
       "addedAt": "2026-08-27",
-      "updatedAt": "2026-09-30",
+      "updatedAt": "2026-11-05",
       "_rowKey": 1
     },
     {
@@ -41807,24 +41809,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "3.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.3",
-          "date": "2026-11-04",
-          "size": 142186905
+          "version": "3.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.4",
+          "date": "2026-11-05",
+          "size": 142291763
         },
         {
-          "version": "3.2.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.2.1",
-          "date": "2026-11-02"
+          "version": "3.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.3",
+          "date": "2026-11-04"
         }
       ],
-      "version": "3.3",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/husk-3.3",
-      "size": 142186905,
+      "version": "3.4",
+      "versionDate": "2026-11-05",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/husk-3.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/husk-3.4",
+      "size": 142291763,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-05"
     },
     {
       "id": "app-1792506241520",
