@@ -40900,6 +40900,7 @@
       "bundleIdentifier": "com.ikiraplus.apps.gta-5-file.2ac7dd2b9d",
       "bundleId": "",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792325251340.png",
+      "localizedDescription": "GTA 5 game files in version Portable, approximately 20 GB.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -40916,8 +40917,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gta5-portable-20gb",
       "size": 21193398681,
       "addedAt": "2026-10-18",
-      "updatedAt": "2026-10-20",
-      "localizedDescription": ""
+      "updatedAt": "2026-10-20"
     },
     {
       "id": "app-1792485772056",
@@ -48039,7 +48039,7 @@
       "bundleIdentifier": "com.time.trigger",
       "bundleId": "com.time.trigger",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0f/ba/fb0fbac6-bfa6-f7b9-89ae-aadc010fda6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "- Gems: Settings > Restore purchase.\n- Money: Settings > Music button.\n- VIP Membership.\n\nNote: These features are mentioned in the documentation for version 1.12.60, while the version found here is 1.0.72; Features may differ or may not work in this version .",
+      "localizedDescription": "Game features :\n- Get gems from settings options.\n- Get money from settings options.\n- activation VIP Membership.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -54685,6 +54685,7 @@
       "bundleIdentifier": "com.codedragon.kdemon",
       "bundleId": "com.codedragon.kdemon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/92/92/d7929261-6c2b-e108-1668-c4df7a4f249e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- Double damage during combat.\n- God Mode while playing.\n- double gold with the ability to disable the feature when spending.\n- Double diamonds with the ability to disable the feature when spending.\n- Double experience points with the ability to disable the feature when spending.\n- Ads removed .",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -54701,8 +54702,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/k-demon-hunter_1.0.74",
       "size": 553018982,
       "addedAt": "2026-11-06",
-      "updatedAt": "2026-11-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-11-06"
     },
     {
       "id": "app-1793987469791",
@@ -54835,6 +54835,7 @@
       "bundleIdentifier": "com.masterapps.little.stories.bedtime.books.kids",
       "bundleId": "com.masterapps.little.stories.bedtime.books.kids",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/57/4a/84574a29-1783-0a1b-cefe-c784cfefd3b8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "App features :\n- Unlock paid stories, books and content within the app.\n- Listen to various audio stories for children before bedtime.\n- Personalize stories with the child's name so he can become the main character in the events.\n- Enjoy comic stories with colorful and attractive graphics.\n- Play soft music to accompany the story's events.\n- Record stories in your own voice to create your own child's audiobooks.\n- Read educational stories that promote positive values and imagination.\n- Choosing stories suitable for different ages and reading levels.\n- Reading stories in multiple languages, including Arabic.",
       "category": "tools",
       "recommended": false,
       "versions": [
@@ -54851,8 +54852,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/audiostoriesforkidsbooks_2.3",
       "size": 87031808,
       "addedAt": "2026-11-06",
-      "updatedAt": "2026-11-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-11-06"
     },
     {
       "id": "app-1793988378979",
@@ -54885,6 +54885,7 @@
       "bundleIdentifier": "com.rusergames.overpeak",
       "bundleId": "com.rusergames.overpeak",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/bc/42/6cbc429c-b070-2f3d-699e-eda8d693e9f7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- Ads removed for an uninterrupted gaming experience.\n- Unlimited energy without running out while playing.\n- Use abilities directly without waiting for a recharge.\n- Restore health and energy when needed.\n- Eliminate enemies with one hit.\n- Immediately destroy surrounding elements.\n- Get all elements of store for free .\n- Double the coins to earn them more quickly.\n- Unlock all costumes from the beginning of the game.\n- All weapons unlocked laser.\n- Increase skill levels to maximum.\n- Use charged attacks without waiting.\n- Enhance flight to be constantly available.\n- Fly steadily and stay in the air freely.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -54901,8 +54902,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/over-peak_0.71",
       "size": 528377446,
       "addedAt": "2026-11-06",
-      "updatedAt": "2026-11-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-11-06"
     },
     {
       "id": "app-1793988423390",
@@ -55135,6 +55135,7 @@
       "bundleIdentifier": "com.xd.musedash",
       "bundleId": "com.xd.musedash",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c5/03/61c503e7-f2bc-de55-9cda-1cff7e05a71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Game features :\n- Select and play all songs even if they appear unlocked in the list.\n- God Mode while playing.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -55151,8 +55152,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/muse-dash_6.8.0",
       "size": 1614807040,
       "addedAt": "2026-11-06",
-      "updatedAt": "2026-11-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-11-06"
     },
     {
       "id": "app-1793989968646",
@@ -55210,24 +55210,24 @@
       "bundleIdentifier": "com.weo.projectz",
       "bundleId": "com.weo.projectz",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e0/2f/67e02fe9-350a-391f-2a03-8075fa33a236/JacoIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "App features :\n- download Videos in video or audio formats with support for picture-in-picture mode ( PiP ).\n- download Personal account photos and video cover photos.\n- Copy video descriptions, comments and account information.\n- Hide sponsored content and embedded ads .\n- Control video playback speed from 0.5x to 5x.\n- Hide interface elements while browsing videos for clearer viewing.\n- Hide comment items and live stream widgets.\n- Provide a built-in stacking tool within the application.\n- Upload audio files within private conversations and download audios.\n- Audio continues to play even after exiting the conversation.\n- Lock the app using Face ID or a secret code.\n- Additional options for compatibility with some jailbreak detection systems.",
       "category": "communication",
       "recommended": false,
       "versions": [
         {
           "version": "3.67.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jaco-3.67.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jaco_3.67.0",
           "date": "2026-11-06",
-          "size": 217474662
+          "size": 228379852
         }
       ],
       "version": "3.67.0",
       "versionDate": "2026-11-06",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jaco-3.67.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jaco-3.67.0",
-      "size": 217474662,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jaco_3.67.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jaco_3.67.0",
+      "size": 228379852,
       "addedAt": "2026-11-06",
-      "updatedAt": "2026-11-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-11-06"
     },
     {
       "id": "app-1793991287030",
@@ -55235,6 +55235,7 @@
       "bundleIdentifier": "com.Counter.Flame",
       "bundleId": "com.Counter.Flame",
       "iconURL": "https://i.redd.it/1s0j5e4fhws01.png",
+      "localizedDescription": "Deleted game from the official store Appstore.",
       "category": "games",
       "recommended": false,
       "versions": [
@@ -55251,8 +55252,7 @@
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/counter-flame-1.4",
       "size": 1754791936,
       "addedAt": "2026-11-06",
-      "updatedAt": "2026-11-06",
-      "localizedDescription": ""
+      "updatedAt": "2026-11-06"
     }
   ],
   "translationFormatVersion": 5
