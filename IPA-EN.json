@@ -30,29 +30,30 @@
       "bundleIdentifier": "com.burbn.instagram",
       "bundleId": "com.burbn.instagram",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1773401165477.png",
-      "localizedDescription": "For activation App features :\n- Change the application language from English to Arabic or vice versa App features :\n- Ghost Mode for messages, stories and notes.\n- Keep deleted messages .\n- Download content directly from Instagram.\n- Upload audio clips from files or video clips.\n- Copy the username, comment, bio, and name.\n- Download view-once media .\n- Download voice messages.\n- Show hidden signals.\n- View view-once media without restrictions.\n- Remove ads Instagram.\n- Support commenting through GIF links.",
+      "localizedDescription": "App features :\n- Hide the list of followers and people you follow from others, with the ability to control the appearance of your account in follow lists.\n- download High-quality photos, videos, reels, stories, highlights, personal photos and audio clips, with the ability to download account content in one go.\n- Watch stories and read messages without showing a viewing notification, while hiding writing status and activity indicators.\n- Follower analysis and see who is not following you and who unfollowed you, with account growth statistics and follower change history.\n- Keep deleted messages and canceled interactions, with temporary photos and videos saved and view-once media and the ability to watch them again after saving them.\n- Automatically archive stories while retaining viewer information and interactions, and displaying audience statistics and best posting times.\n- A special gallery for saving photos and videos and organizing them into folders, with the ability to lock folders and modify the saved media.\n- Play reels and videos in a floating window, controlling playback speed, forward and delay, and displaying the publishing date.\n- Hide ads , Suggested Posts, and Meta AI content from app sections, for a more organized interface.\n- Customize the Instagram interface by rearranging tabs and buttons, adding shortcuts, and controlling visible elements.\n- Send voice messages from the gallery or audio files and convert videos into voice messages, with the ability to record and save voice and video calls.\n- Back up and restore Regram settings and data via Google Drive, with tools to manage storage and temporary files.",
       "category": "communication",
       "recommended": true,
-      "toolVersion": "6.5",
+      "toolVersion": "7.0",
       "versions": [
+        {
+          "version": "454.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram_454.1.0_regram_7.0",
+          "date": "2026-11-06",
+          "size": 366791884
+        },
         {
           "version": "452.0.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/regram-452.0.1-v6.5-cracked",
-          "date": "2026-10-21",
-          "size": 341311488
-        },
-        {
-          "version": "451.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/regram-cracked-6.4-patched"
+          "date": "2026-10-21"
         }
       ],
-      "version": "452.0.1",
-      "versionDate": "2026-10-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/regram-452.0.1-v6.5-cracked",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/regram-452.0.1-v6.5-cracked",
-      "size": 341311488,
+      "version": "454.1.0",
+      "versionDate": "2026-11-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/instagram_454.1.0_regram_7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/instagram_454.1.0_regram_7.0",
+      "size": 366791884,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-21",
+      "updatedAt": "2026-11-06",
       "_rowKey": 3
     },
     {
