@@ -202,23 +202,24 @@
       "recommended": true,
       "versions": [
         {
-          "version": "6.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Regramcracked6.5-ikiraplus",
-          "date": "2026-10-21",
-          "size": 5872025
+          "version": "7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/regram_7.0",
+          "date": "2026-11-06",
+          "size": 16148070
         },
         {
-          "version": "6.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Regramcracked-6.4"
+          "version": "6.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Regramcracked6.5-ikiraplus",
+          "date": "2026-10-21"
         }
       ],
-      "version": "6.5",
-      "versionDate": "2026-10-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Regramcracked6.5-ikiraplus",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Regramcracked6.5-ikiraplus",
-      "size": 5872025,
+      "version": "7.0",
+      "versionDate": "2026-11-06",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/regram_7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/regram_7.0",
+      "size": 16148070,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-10-21"
+      "updatedAt": "2026-11-06"
     },
     {
       "id": "dylib-1784536015470",
