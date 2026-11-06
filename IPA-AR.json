@@ -40900,6 +40900,7 @@
       "bundleIdentifier": "com.ikiraplus.apps.gta-5-file.2ac7dd2b9d",
       "bundleId": "",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1792325251340.png",
+      "localizedDescription": "ملفات لعبة GTA 5 بنسخة Portable بحجم يقارب 20 GB.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -48038,7 +48039,7 @@
       "bundleIdentifier": "com.time.trigger",
       "bundleId": "com.time.trigger",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/0f/ba/fb0fbac6-bfa6-f7b9-89ae-aadc010fda6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "- الأحجار الكريمة: الإعدادات > استعادة الشراء.\n- الأموال: الإعدادات > زر الموسيقى.\n- عضوية VIP.\n\nملاحظة: هذه المميزات مذكورة في التراث للإصدار 1.12.60، بينما الإصدار الموجود هنا 1.0.72؛ وقد تختلف المميزات أو لا تعمل في هذا الإصدار.",
+      "localizedDescription": "مميزات اللعبة :\n- الحصول على الأحجار الكريمة من خيارات الإعدادات.\n- الحصول على الأموال من خيارات الإعدادات.\n- تفعيل عضوية VIP.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -54684,6 +54685,7 @@
       "bundleIdentifier": "com.codedragon.kdemon",
       "bundleId": "com.codedragon.kdemon",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/92/92/d7929261-6c2b-e108-1668-c4df7a4f249e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر أثناء القتال.\n- عدم الموت أثناء اللعب.\n- مضاعفة الذهب مع إمكانية تعطيل الميزة عند الإنفاق.\n- مضاعفة الماس مع إمكانية تعطيل الميزة عند الإنفاق.\n- مضاعفة نقاط الخبرة مع إمكانية تعطيل الميزة عند الإنفاق.\n- إزالة الإعلانات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -54833,6 +54835,7 @@
       "bundleIdentifier": "com.masterapps.little.stories.bedtime.books.kids",
       "bundleId": "com.masterapps.little.stories.bedtime.books.kids",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/57/4a/84574a29-1783-0a1b-cefe-c784cfefd3b8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- فتح القصص والكتب والمحتوى المدفوع داخل التطبيق.\n- الاستماع إلى قصص صوتية متنوعة للأطفال قبل النوم.\n- تخصيص القصص باسم الطفل ليصبح الشخصية الرئيسية في الأحداث.\n- الاستمتاع بقصص مصورة برسومات ملونة وجذابة.\n- تشغيل موسيقى هادئة ترافق أحداث القصص.\n- تسجيل القصص بصوتك لإنشاء كتب صوتية خاصة بالطفل.\n- قراءة قصص تعليمية تعزز القيم الإيجابية والخيال.\n- اختيار قصص مناسبة لمراحل عمرية ومستويات قراءة مختلفة.\n- قراءة القصص بلغات متعددة ومنها اللغة العربية.",
       "category": "أدوات",
       "recommended": false,
       "versions": [
@@ -54882,6 +54885,7 @@
       "bundleIdentifier": "com.rusergames.overpeak",
       "bundleId": "com.rusergames.overpeak",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/bc/42/6cbc429c-b070-2f3d-699e-eda8d693e9f7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "مميزات اللعبة:\n- إزالة الإعلانات لتجربة لعب دون انقطاع.\n- طاقة غير محدودة دون نفاد أثناء اللعب.\n- استخدام القدرات مباشرة دون انتظار إعادة الشحن.\n- استعادة الصحة والطاقة عند الحاجة.\n- القضاء على الأعداء بضربة واحدة.\n- تدمير عناصر البيئة المحيطة فوراً.\n- الحصول على جميع عناصر المتجر مجاناً.\n- مضاعفة العملات لكسبها بسرعة أكبر.\n- فتح جميع الأزياء من بداية اللعبة.\n- فتح جميع الأسلحة الليزرية.\n- رفع مستويات المهارات إلى الحد الأقصى.\n- استخدام الهجمات المشحونة دون انتظار.\n- تعزيز الطيران ليكون متاحاً باستمرار.\n- التحليق بثبات والبقاء في الجو بحرية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -55131,6 +55135,7 @@
       "bundleIdentifier": "com.xd.musedash",
       "bundleId": "com.xd.musedash",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c5/03/61c503e7-f2bc-de55-9cda-1cff7e05a71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات اللعبة:\n- اختيار وتشغيل جميع الأغاني حتى إذا ظهرت مقفلة في القائمة.\n- عدم الموت أثناء اللعب.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
@@ -55205,21 +55210,22 @@
       "bundleIdentifier": "com.weo.projectz",
       "bundleId": "com.weo.projectz",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e0/2f/67e02fe9-350a-391f-2a03-8075fa33a236/JacoIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- تحميل الفيديوهات بصيغ فيديو أو صوت مع دعم وضع صورة داخل صورة (PiP).\n- تحميل صور الحسابات الشخصية وصور أغلفة الفيديوهات.\n- نسخ أوصاف الفيديوهات والتعليقات ومعلومات الحسابات.\n- إخفاء المحتوى الممول والإعلانات المدمجة.\n- التحكم بسرعة تشغيل الفيديوهات من 0.5x إلى 5x.\n- إخفاء عناصر الواجهة أثناء تصفح الفيديوهات لمشاهدة أوضح.\n- إخفاء عناصر التعليقات وأدوات واجهة البث المباشر.\n- توفير أداة تكبيس مدمجة داخل التطبيق.\n- رفع الملفات الصوتية داخل المحادثات الخاصة وتحميل الصوتيات.\n- استمرار تشغيل الصوت حتى بعد الخروج من المحادثة.\n- قفل التطبيق باستخدام Face ID أو رمز سري.\n- خيارات إضافية للتوافق مع بعض أنظمة كشف الجيلبريك.",
       "category": "تواصل",
       "recommended": false,
       "versions": [
         {
           "version": "3.67.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jaco-3.67.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jaco_3.67.0",
           "date": "2026-11-06",
-          "size": 217474662
+          "size": 228379852
         }
       ],
       "version": "3.67.0",
       "versionDate": "2026-11-06",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jaco-3.67.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jaco-3.67.0",
-      "size": 217474662,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jaco_3.67.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jaco_3.67.0",
+      "size": 228379852,
       "addedAt": "2026-11-06",
       "updatedAt": "2026-11-06"
     },
@@ -55229,6 +55235,7 @@
       "bundleIdentifier": "com.Counter.Flame",
       "bundleId": "com.Counter.Flame",
       "iconURL": "https://i.redd.it/1s0j5e4fhws01.png",
+      "localizedDescription": "لعبة محذوفة من المتجر الرسمي Appstore.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
