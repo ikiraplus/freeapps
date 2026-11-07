@@ -55253,6 +55253,31 @@
       "size": 1754791936,
       "addedAt": "2026-11-06",
       "updatedAt": "2026-11-06"
+    },
+    {
+      "id": "app-1794067156688",
+      "name": "GTA SA MOD 5",
+      "bundleIdentifier": "com.rockstargames.gta3sahd",
+      "bundleId": "com.rockstargames.gta3sahd",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1794067156688.png",
+      "localizedDescription": "Gta San Andreas game updated\n\n- a map similar to version Gta5.\n- Characters similar to version Gta5.\n- Updated maps and graphics.\n- Does not have mod menu.",
+      "category": "games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.02.07",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta-sa-hd-gtav_2.02.07",
+          "date": "2026-11-07",
+          "size": 2041996902
+        }
+      ],
+      "version": "2.02.07",
+      "versionDate": "2026-11-07",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gta-sa-hd-gtav_2.02.07",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gta-sa-hd-gtav_2.02.07",
+      "size": 2041996902,
+      "addedAt": "2026-11-07",
+      "updatedAt": "2026-11-07"
     }
   ],
   "translationFormatVersion": 5
