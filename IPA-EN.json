@@ -55278,6 +55278,56 @@
       "size": 2041996902,
       "addedAt": "2026-11-07",
       "updatedAt": "2026-11-07"
+    },
+    {
+      "id": "app-1794130950176",
+      "name": "SK YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleId": "com.google.ios.youtube",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/56/df/be56dfa2-70bd-feb2-b666-38277eb5be3b/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "App features :\n- download Video clips, Shorts, and audio clips directly from YouTube, with the ability to choose the appropriate quality before downloading.\n- An integrated download manager that supports pausing, resuming and retrying downloads, with saved files organized and shared.\n- Ads removed from Videos, Home Page and Shorts, while hiding ads promotional and shopping cards.\n- Play videos and audio in the background even when the screen is locked, with support for picture-in-picture mode to continue watching while using other applications.\n- Show the number of dislikes on videos using Return YouTube Dislike , with the ability to display them alongside likes and views.\n- skip sponsored segments , sponsorships, introductions and reminders of subscription automatically using SponsorBlock , with control over the types of clips that are skipped.\n- Customize the video player by adding repeat and speed control buttons, changing volume and brightness by swiping, and adjusting the forward and delay buttons and player elements.\n- Control video playback quality on Wi-Fi and data networks separately, with support for high quality up to 4K with modded 60 frames as available.\n- Customize Shorts clips by adding a progress bar and automatic transition to the next clip, with the ability to hide Shorts, suggested content, and associated ads .\n- Customize the YouTube interface with OLED black mode, rearrange tabs and add new sections, with a player for saved files that supports sleep timers, playlists and backups.",
+      "category": "communication",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "21.29.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sk-youtube_21.29.3",
+          "date": "2026-11-08",
+          "size": 128031129
+        }
+      ],
+      "version": "21.29.3",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sk-youtube_21.29.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sk-youtube_21.29.3",
+      "size": 128031129,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794138254223",
+      "name": "SK Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleId": "com.burbn.instagram",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/91/85/b09185ca-7b74-87a4-adaf-1755d434ee22/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "localizedDescription": "App features :\n- download Pictures, videos, reels, stories, and audio files in full quality directly from the application without the need for external sites.\n- A private gallery for saving photos, videos and audio clips within the application, with the ability to protect it using Face ID or a secret code.\n- Extract audio clips and music from reels and videos and save them separately for offline listening.\n- Watch stories without your name appearing in the viewer list, with the ability to control viewing privacy through Ghost Mode .\n- Read private messages without being seen, and control read receipts until you decide to reply to the conversation.\n- Keep text messages and attachments that the other party deletes or unsends, visible in your chat history.\n- Find out who unfollowed your account with an in-app tool without the need for external apps.\n- Hide ads , sponsored posts, and ads promotions from the home page, story, and exploration section.\n- Hide the Meta AI widgets and AI-related search bar, removing posts, suggested reels, and recommended accounts to follow.\n- Over 190 additional options for customizing the app interface, media playback, likes and follow messages, with activation features able to be disabled and disabled separately.",
+      "category": "communication",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "451.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sk-instagram_451.0.0",
+          "date": "2026-11-08",
+          "size": 321388544
+        }
+      ],
+      "version": "451.0.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sk-instagram_451.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sk-instagram_451.0.0",
+      "size": 321388544,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
     }
   ],
   "translationFormatVersion": 5
