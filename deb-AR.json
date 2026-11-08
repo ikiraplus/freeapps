@@ -698,24 +698,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "2.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GTok-2.5",
-          "date": "2026-10-27",
-          "size": 18769510
+          "version": "2.6.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GTok-2.6.1",
+          "date": "2026-11-08",
+          "size": 19084083
         },
         {
-          "version": "2.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-2.4",
-          "date": "2026-10-20"
+          "version": "2.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GTok-2.5",
+          "date": "2026-10-27"
         }
       ],
-      "version": "2.5",
-      "versionDate": "2026-10-27",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GTok-2.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/GTok-2.5",
-      "size": 18769510,
+      "version": "2.6.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/GTok-2.6.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/GTok-2.6.1",
+      "size": 19084083,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-10-27"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "dylib-1784548435618",
@@ -849,19 +849,24 @@
       "recommended": true,
       "versions": [
         {
+          "version": "2.0.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Lead-2.0.3",
+          "date": "2026-11-08",
+          "size": 6396313
+        },
+        {
           "version": "1.4.3",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lead",
-          "date": "2026-07-20",
-          "size": 26004684
+          "date": "2026-07-20"
         }
       ],
-      "version": "1.4.3",
-      "versionDate": "2026-07-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lead",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lead",
-      "size": 26004684,
+      "version": "2.0.3",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Lead-2.0.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Lead-2.0.3",
+      "size": 6396313,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-07-20"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "dylib-1784549070319",
@@ -1743,23 +1748,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "4.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/NexaSC-V4.0",
-          "date": "2026-09-07",
-          "size": 1572864
+          "version": "5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/NexaSC-5.0",
+          "date": "2026-11-08",
+          "size": 20027801
         },
         {
-          "version": "3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Nexa-v3.0"
+          "version": "4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/NexaSC-V4.0",
+          "date": "2026-09-07"
         }
       ],
-      "version": "4.0",
-      "versionDate": "2026-09-07",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/NexaSC-V4.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/NexaSC-V4.0",
-      "size": 1572864,
+      "version": "5.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/NexaSC-5.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/NexaSC-5.0",
+      "size": 20027801,
       "addedAt": "2026-08-30",
-      "updatedAt": "2026-09-07"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "dylib-1788077902689",
@@ -1894,23 +1900,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.4",
-          "date": "2026-10-08",
+          "version": "1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.5",
+          "date": "2026-11-08",
           "size": 6081740
         },
         {
-          "version": "1.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.3"
+          "version": "1.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.4",
+          "date": "2026-10-08"
         }
       ],
-      "version": "1.4",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.4",
+      "version": "1.5",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ASJTube-1.5",
       "size": 6081740,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "dylib-1788716565135",
@@ -2103,6 +2110,75 @@
       "size": 3250585,
       "addedAt": "2026-10-12",
       "updatedAt": "2026-10-12"
+    },
+    {
+      "id": "dylib-1794165972265",
+      "name": "ASJ Tweak",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8Q1nlChMJqAfQfqFCqWoD2xGWEALZNP3BKA7_WSNB6TueUXcCfhuQKGN&s=10",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJWhats-1.0",
+          "date": "2026-11-08",
+          "size": 3774873
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ASJWhats-1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ASJWhats-1.0",
+      "size": 3774873,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "dylib-1794166123451",
+      "name": "SK Tweak",
+      "iconURL": "https://play-lh.googleusercontent.com/Gga02mVB4PPjnxyj3zNvI6EJu40iCgmGgR1Z8IGuvcgITvzasyScq1xbIbKNtboCQLEsGdkSqOA3iM1jQZOFW6A",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.7.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/SKYoutube-0.7.1",
+          "date": "2026-11-08",
+          "size": 4194304
+        }
+      ],
+      "version": "0.7.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/SKYoutube-0.7.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/SKYoutube-0.7.1",
+      "size": 4194304,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "dylib-1794166163254",
+      "name": "SK Tweak",
+      "iconURL": "https://play-lh.googleusercontent.com/yHi59jmO_lVamcyJ1i3rM1_E8bAiAspShnGjjURq05ipQQSUksO3QVEsXTegRSqul038-4YNA7O644XAcx251Q",
+      "category": "دايلب",
+      "fileType": "dylib",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/SKInstagram-1.0.2",
+          "date": "2026-11-08",
+          "size": 5242880
+        }
+      ],
+      "version": "1.0.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/SKInstagram-1.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/SKInstagram-1.0.2",
+      "size": 5242880,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
     }
   ]
 }
