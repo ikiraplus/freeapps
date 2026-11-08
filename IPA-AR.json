@@ -310,27 +310,27 @@
       "localizedDescription": "مميزات LEAD :\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "2.0",
+      "toolVersion": "2.0.3",
       "versions": [
+        {
+          "version": "13.1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.1.2-lead-2.0.3",
+          "date": "2026-11-08",
+          "size": 91645542
+        },
         {
           "version": "13.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.0-lead-2.0",
-          "date": "2026-11-02",
-          "size": 90282393
-        },
-        {
-          "version": "13.1.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.1.1-tf-mxgram",
-          "date": "2026-10-29"
+          "date": "2026-11-02"
         }
       ],
-      "version": "13.2",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.0-lead-2.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.0-lead-2.0",
-      "size": 90282393,
+      "version": "13.1.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.1.2-lead-2.0.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/swiftgram-13.1.2-lead-2.0.3",
+      "size": 91645542,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-11-02",
+      "updatedAt": "2026-11-08",
       "_rowKey": 12
     },
     {
@@ -426,30 +426,30 @@
       "bundleIdentifier": "com.seastar.turrit",
       "bundleId": "com.seastar.turrit",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/15/01/ac15014e-5f6f-8859-3b6f-c691d3e4d851/Turrit-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات Mx:\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
+      "localizedDescription": "مميزات lead :\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "1.0.0",
+      "toolVersion": "2.0.3",
       "versions": [
+        {
+          "version": "1.5.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.8-lead-2.0.3",
+          "date": "2026-11-08",
+          "size": 103389593
+        },
         {
           "version": "1.5.7",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.7-mxgram",
-          "date": "2026-10-29",
-          "size": 109995622
-        },
-        {
-          "version": "1.5.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.5-tf-mxgram-1.0.0",
-          "date": "2026-10-02"
+          "date": "2026-10-29"
         }
       ],
-      "version": "1.5.7",
-      "versionDate": "2026-10-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.7-mxgram",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.7-mxgram",
-      "size": 109995622,
+      "version": "1.5.8",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.8-lead-2.0.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/turrit-1.5.8-lead-2.0.3",
+      "size": 103389593,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-29",
+      "updatedAt": "2026-11-08",
       "_rowKey": 16
     },
     {
@@ -806,27 +806,27 @@
       "localizedDescription": "مميزات التطبيق:\n- إزالة جميع الإعلانات واقتراحات المتابعة واللافتات المزعجة من الخط الزمني.\n- تنزيل الفيديوهات والصور المتحركة مباشرة مع إمكانية الحفظ في تطبيق الصور، ورفع وعرض الوسائط بأعلى جودة متاحة.\n- إتاحة ميزات إضافية من Twitter Blue مثل التراجع عن التغريدة وتخصيص المظهر وأيقونة التطبيق.\n- استعادة هوية ومصطلحات Twitter القديمة بدلاً من X مع خيارات للشكل الكلاسيكي وشريط التنقل.\n- قفل التطبيق باستخدام Face ID أو رمز المرور.\n- طلب تأكيد قبل الإعجاب أو النشر أو متابعة الحسابات.\n- تجاوز تحذيرات المحتوى الحساس والتحقق من العمر.\n- تخصيص الواجهة بإخفاء Grok والترندات وأعداد المشاهدات وعلامات Blue وبعض التبويبات، مع دعم الخطوط المخصصة.\n- حفظ التغريدة كصورة ونسخ معلومات الملف الشخصي وإظهار مصدر نشر التغريدة.\n- فتح الروابط في المتصفح الخارجي وتعطيل حفظ سجل البحث.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "7.3.0",
+      "toolVersion": "7.3.1",
       "versions": [
+        {
+          "version": "12.41",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.41-nfb-7.3.1",
+          "date": "2026-11-08",
+          "size": 278187212
+        },
         {
           "version": "12.38.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.38.1-nfb-7.3.0",
-          "date": "2026-10-29",
-          "size": 273154048
-        },
-        {
-          "version": "12.35",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.35-nfb-7.2.0",
-          "date": "2026-10-20"
+          "date": "2026-10-29"
         }
       ],
-      "version": "12.38.1",
-      "versionDate": "2026-10-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.38.1-nfb-7.3.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-12.38.1-nfb-7.3.0",
-      "size": 273154048,
+      "version": "12.41",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.41-nfb-7.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-12.41-nfb-7.3.1",
+      "size": 278187212,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-29",
+      "updatedAt": "2026-11-08",
       "_rowKey": 30
     },
     {
@@ -1125,25 +1125,25 @@
       "name": "Red Dead Redemption",
       "bundleIdentifier": "com.rockstargames.rdr",
       "bundleId": "com.rockstargames.rdr",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8a/32/6f8a3229-8cba-326d-624a-55e900774f64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/APP-6102935193.png",
       "localizedDescription": "لعبة مدفوعة في المتجر الرسمي AppStore.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.50.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
-          "date": "2026-09-29",
-          "size": 2883269427
+          "version": "1.58.63",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-official-game-1.58.63",
+          "date": "2026-11-08",
+          "size": 2912314982
         }
       ],
-      "version": "1.50.6",
-      "versionDate": "2026-09-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rdr-[v1.50.6029]",
-      "size": 2883269427,
+      "version": "1.58.63",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/rdr-official-game-1.58.63",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/rdr-official-game-1.58.63",
+      "size": 2912314982,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-29",
+      "updatedAt": "2026-11-08",
       "_rowKey": 42
     },
     {
@@ -7162,23 +7162,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "4.2.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/i-love-pdfpdf-editor-scan_4.2.1",
-          "date": "2026-10-29",
-          "size": 266757734
+          "version": "4.2.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/i-love-pdfpdf-editor-scan_4.2.3",
+          "date": "2026-11-08",
+          "size": 144388915
         },
         {
-          "version": "4.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ilovepdf_pdf_editor_scan_v4.1.0_premium_unlocked__patched"
+          "version": "4.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/i-love-pdfpdf-editor-scan_4.2.1",
+          "date": "2026-10-29"
         }
       ],
-      "version": "4.2.1",
-      "versionDate": "2026-10-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/i-love-pdfpdf-editor-scan_4.2.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/i-love-pdfpdf-editor-scan_4.2.1",
-      "size": 266757734,
+      "version": "4.2.3",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/i-love-pdfpdf-editor-scan_4.2.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/i-love-pdfpdf-editor-scan_4.2.3",
+      "size": 144388915,
       "addedAt": "2026-10-29",
-      "updatedAt": "2026-10-29"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "APP-8770159771",
@@ -7299,24 +7300,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "2.2.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alliance-at-war_2.2.2",
-          "date": "2026-10-31",
-          "size": 764621619
+          "version": "2.2.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alliance-at-war_2.2.4",
+          "date": "2026-11-08",
+          "size": 204996608
         },
         {
-          "version": "2.2.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alliance-at-war_2.2.1",
-          "date": "2026-10-25"
+          "version": "2.2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alliance-at-war_2.2.2",
+          "date": "2026-10-31"
         }
       ],
-      "version": "2.2.2",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alliance-at-war_2.2.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alliance-at-war_2.2.2",
-      "size": 764621619,
+      "version": "2.2.4",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alliance-at-war_2.2.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alliance-at-war_2.2.4",
+      "size": 204996608,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-31",
+      "updatedAt": "2026-11-08",
       "_rowKey": 272
     },
     {
@@ -7380,29 +7381,30 @@
       "name": "Guardian Hunter: Brawl RPG",
       "bundleIdentifier": "com.troll.GuardianHunter",
       "bundleId": "com.troll.GuardianHunter",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/4f/25/0a4f25d0-6727-bfbb-fbb1-14062325b468/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d9/31/00d93173-aaa4-7d3b-4e3b-64d64080f4a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر.\n- مضاعفة الدفاع.\n- مضاعفة سرعة الهجوم.\n- مضاعفة سرعة الحركة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "17.3.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guardian-hunter_17.3.3",
-          "date": "2026-10-08",
-          "size": 200382873
+          "version": "17.3.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guardian-hunter_17.3.7",
+          "date": "2026-11-08",
+          "size": 63753420
         },
         {
-          "version": "16.1.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guardianhunter-16.1.9"
+          "version": "17.3.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guardian-hunter_17.3.3",
+          "date": "2026-10-08"
         }
       ],
-      "version": "17.3.3",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guardian-hunter_17.3.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/guardian-hunter_17.3.3",
-      "size": 200382873,
+      "version": "17.3.7",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guardian-hunter_17.3.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/guardian-hunter_17.3.7",
+      "size": 63753420,
       "addedAt": "2026-10-08",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "APP-8702085917",
@@ -7440,24 +7442,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "12.38.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.38.1-nfb-twi-7.3.0",
-          "date": "2026-10-29",
-          "size": 273678336
+          "version": "12.41",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.41-nfb-twi-7.3.1",
+          "date": "2026-11-08",
+          "size": 276194918
         },
         {
-          "version": "12.35",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.35-nfb-twi-7.2.0",
-          "date": "2026-10-20"
+          "version": "12.38.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.38.1-nfb-twi-7.3.0",
+          "date": "2026-10-29"
         }
       ],
-      "version": "12.38.1",
-      "versionDate": "2026-10-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.38.1-nfb-twi-7.3.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-12.38.1-nfb-twi-7.3.0",
-      "size": 273678336,
+      "version": "12.41",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/x-12.41-nfb-twi-7.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/x-12.41-nfb-twi-7.3.1",
+      "size": 276194918,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-10-29"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "APP-8199409368",
@@ -7846,27 +7848,26 @@
       "localizedDescription": "مميزات التطبيق:\n- إزالة الإعلانات.\n- دعم ميزة الغلاف او البانر في الملف الشخصي.\n- تنزيل الفيديوهات والمنشورات بدون علامة مائية.\n- تغيير المنطقة مع دعم عدة دول.\n- الاحتفاظ بالرسائل المحذوفة.\n- وضع الشبح لمشاهدة القصص والفيديوهات والملفات الشخصية بخصوصية.\n- قراءة الرسائل بدون إرسال إشعار القراءة.\n- إخفاء حالة الاتصال وحالة الكتابة في الرسائل.\n- إخفاء LIVE وفيديوهات الذكاء الاصطناعي والحسابات المقترحة.\n- تخصيص واجهة التطبيق والخط واللون وعناصر شريط التبويب.\n- فتح الروابط في Safari ونسخ التعليقات.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "2.5",
+      "toolVersion": "2.6.1",
       "versions": [
+        {
+          "version": "47.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-47.5.0",
+          "date": "2026-11-08"
+        },
         {
           "version": "47.3.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-47.3.0-tweak-2.5",
-          "date": "2026-10-26",
-          "size": 458122854
-        },
-        {
-          "version": "47.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-47.1.0",
-          "date": "2026-10-20"
+          "date": "2026-10-26"
         }
       ],
-      "version": "47.3.0",
-      "versionDate": "2026-10-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-47.3.0-tweak-2.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-47.3.0-tweak-2.5",
-      "size": 458122854,
+      "version": "47.5.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gtok-47.5.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gtok-47.5.0",
+      "size": 0,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-10-26"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "APP-6203305465",
@@ -8793,23 +8794,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.1.26",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/god-rivals-rpg-roguelike_1.1.26",
-          "date": "2026-10-20",
-          "size": 743440384
+          "version": "1.1.28",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/god-rivals-rpg-roguelike_1.1.28",
+          "date": "2026-11-08",
+          "size": 766928486
         },
         {
-          "version": "1.1.24",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/god-rivals-rpg-roguelike_1.1.24"
+          "version": "1.1.26",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/god-rivals-rpg-roguelike_1.1.26",
+          "date": "2026-10-20"
         }
       ],
-      "version": "1.1.26",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/god-rivals-rpg-roguelike_1.1.26",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/god-rivals-rpg-roguelike_1.1.26",
-      "size": 743440384,
+      "version": "1.1.28",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/god-rivals-rpg-roguelike_1.1.28",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/god-rivals-rpg-roguelike_1.1.28",
+      "size": 766928486,
       "addedAt": "2026-10-11",
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "APP-1155853858",
@@ -9842,30 +9844,30 @@
       "name": "Elementra The Boys Adventure",
       "bundleIdentifier": "com.longgammagames.elementra.journy",
       "bundleId": "com.longgammagames.elementra.journy",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/b7/1a/acb71a26-e22b-4614-398f-fd74f0e1caeb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/33/66/4733662e-c3f5-3e77-7bdf-0b5e2498aead/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- مضاعفة الضرر والدفاع.\n- مضاعفة العملات والمكافآت.\n- مضاعفة نقاط الخبرة.\n- مضاعفة سرعة الهجوم والحركة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1004",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_1004",
-          "date": "2026-11-06",
-          "size": 521771417
+          "version": "1006",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_1006",
+          "date": "2026-11-08",
+          "size": 280074649
         },
         {
-          "version": "1001",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_1001",
-          "date": "2026-11-04"
+          "version": "1004",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_1004",
+          "date": "2026-11-06"
         }
       ],
-      "version": "1004",
-      "versionDate": "2026-11-06",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_1004",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_1004",
-      "size": 521771417,
+      "version": "1006",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_1006",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/elementra-the-boys-adventure_1006",
+      "size": 280074649,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-11-06"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "APP-7812157572",
@@ -10389,19 +10391,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "2.1.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alooytv_pro_2.1.7",
+          "date": "2026-11-08",
+          "size": 10276044
+        },
+        {
           "version": "1.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alooytv",
-          "date": "2026-08-24",
-          "size": 838860
+          "date": "2026-08-24"
         }
       ],
-      "version": "1.0",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alooytv",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alooytv",
-      "size": 838860,
+      "version": "2.1.7",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/alooytv_pro_2.1.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/alooytv_pro_2.1.7",
+      "size": 10276044,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-20",
+      "updatedAt": "2026-11-08",
       "_rowKey": 383
     },
     {
@@ -10471,23 +10478,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "7.1.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forza-football-live-scores-v7.1.6",
-          "date": "2026-10-20",
-          "size": 150260940
+          "version": "7.2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forza-football-live-scores-v7.2.2",
+          "date": "2026-11-08",
+          "size": 150365798
         },
         {
-          "version": "7.1.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forza-football-live-scores-v7.1.4"
+          "version": "7.1.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forza-football-live-scores-v7.1.6",
+          "date": "2026-10-20"
         }
       ],
-      "version": "7.1.6",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forza-football-live-scores-v7.1.6",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/forza-football-live-scores-v7.1.6",
-      "size": 150260940,
+      "version": "7.2.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/forza-football-live-scores-v7.2.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/forza-football-live-scores-v7.2.2",
+      "size": 150365798,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-20",
+      "updatedAt": "2026-11-08",
       "_rowKey": 386
     },
     {
@@ -14725,29 +14733,30 @@
       "name": "Toca Boca World",
       "bundleIdentifier": "com.tocaboca.tocalifeworld",
       "bundleId": "com.tocaboca.tocalifeworld",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/05/ed/5605ed73-7d1e-4011-82a0-f805fca11922/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/cd/30/33cd302e-157a-6932-2f23-9e1cdb9334f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- فتح جميع المشتريات والمحتويات داخل اللعبة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.140",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/toca-world-1.140",
-          "date": "2026-10-15",
-          "size": 795030323
+          "version": "1.142",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/toca-boca-world_1.142",
+          "date": "2026-11-08",
+          "size": 820405862
         },
         {
-          "version": "1.139.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/toca-boca-world-game-play_1.139.1"
+          "version": "1.140",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/toca-world-1.140",
+          "date": "2026-10-15"
         }
       ],
-      "version": "1.140",
-      "versionDate": "2026-10-15",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/toca-world-1.140",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/toca-world-1.140",
-      "size": 795030323,
+      "version": "1.142",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/toca-boca-world_1.142",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/toca-boca-world_1.142",
+      "size": 820405862,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "APP-2382628661",
@@ -14813,30 +14822,30 @@
       "name": "Kamnyang Knight",
       "bundleIdentifier": "com.cloverdy.cat",
       "bundleId": "com.cloverdy.cat",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/2b/74/a12b747f-a7e6-9de7-6728-20220da4d435/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/ae/af/bfaeaf62-4576-b0f3-cdf2-e2967dec57e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- رفع قوة الهجوم والصحة إلى الحد الأقصى.\n- زيادة الضرر الحرج.\n- زيادة سرعة الهجوم والحركة.\n- زيادة الذهب المكتسب.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.0.12",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.0.12",
-          "date": "2026-10-27",
-          "size": 280074649
+          "version": "1.1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.1.0",
+          "date": "2026-11-08",
+          "size": 281228083
         },
         {
-          "version": "1.0.10",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.0.10",
-          "date": "2026-10-23"
+          "version": "1.0.12",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.0.12",
+          "date": "2026-10-27"
         }
       ],
-      "version": "1.0.12",
-      "versionDate": "2026-10-27",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.0.12",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.0.12",
-      "size": 280074649,
+      "version": "1.1.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/kamnyang-knight-idle-rpg_1.1.0",
+      "size": 281228083,
       "addedAt": "2026-08-23",
-      "updatedAt": "2026-10-27",
+      "updatedAt": "2026-11-08",
       "_rowKey": 549
     },
     {
@@ -21194,27 +21203,27 @@
       "localizedDescription": "مميزات التطبيق:\n- فتح SoundCloud Go+ وإزالة الإعلانات.\n- تنزيل الأغاني مع إمكانية تصدير الملفات المحمّلة إلى تطبيق الملفات.\n- جلب كلمات الأغاني تلقائياً عبر LRCLIB مع دعم الكلمات المتزامنة والتمرير التلقائي.\n- مشغل موسيقى مخصص بالكامل للأغاني التي تم تنزيلها.\n- رفع مستوى الصوت حتى 250% والتحكم بسرعة التشغيل حتى 2.0x مع حفظ إعداد مستقل لكل أغنية.\n- قص الأغاني وتحديد نقطة بداية ونهاية مخصصة.\n- جلب أغلفة جديدة للأغاني تلقائياً باستخدام بيانات Apple Music.\n- ثيم OLED داكن.\n- نظام Cache للكلمات يجعل فتح الكلمات التي سبق البحث عنها أسرع.\n- تحسين الصوت عند رفع السرعة أو مستوى الصوت ومعالجة تشوه الصوت واختلال القنوات.",
       "category": "ترفيه",
       "recommended": false,
-      "toolVersion": "4.0",
+      "toolVersion": "5.0",
       "versions": [
+        {
+          "version": "8.85.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.85.0-nexasc-b5",
+          "date": "2026-11-08",
+          "size": 238026752
+        },
         {
           "version": "8.83.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.83.1-nexasc",
-          "date": "2026-10-26",
-          "size": 227750707
-        },
-        {
-          "version": "8.81.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.81.0-nexasc",
-          "date": "2026-10-08"
+          "date": "2026-10-26"
         }
       ],
-      "version": "8.83.1",
-      "versionDate": "2026-10-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.83.1-nexasc",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.83.1-nexasc",
-      "size": 227750707,
+      "version": "8.85.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.85.0-nexasc-b5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/soundcloud-8.85.0-nexasc-b5",
+      "size": 238026752,
       "addedAt": "2026-09-03",
-      "updatedAt": "2026-10-26"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1788519035815",
@@ -22228,26 +22237,27 @@
       "localizedDescription": "مميزات التطبيق:\n- تنزيل الفيديوهات وShorts بالجودات المتاحة.\n- مكتبة خاصة لإدارة التنزيلات وقوائم التشغيل والمشاهدة لاحقاً.\n- تشغيل الصوت في الخلفية.\n- دعم Picture in Picture.\n- تشغيل الفيديو بأعلى جودة متاحة.\n- إزالة الإعلانات من الصفحة الرئيسية والبحث وShorts والمشغل.\n- تخطي الإعلانات القابلة وغير القابلة للتخطي.\n- عرض كلمات الأغاني.\n- نسخ وترجمة العناوين والأوصاف والتعليقات والردود.\n- إخفاء Shorts وزر الإنشاء وفتح الروابط في Safari وقفل التطبيق بـ Face ID.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "1.4",
+      "toolVersion": "1.5",
       "versions": [
+        {
+          "version": "21.44.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-.21.44.4-v1.5",
+          "date": "2026-11-08",
+          "size": 152777523
+        },
         {
           "version": "21.39.4",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-1.4.21.39.4-plugins",
-          "date": "2026-10-08",
-          "size": 160117555
-        },
-        {
-          "version": "21.38.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-21.38.2"
+          "date": "2026-10-08"
         }
       ],
-      "version": "21.39.4",
-      "versionDate": "2026-10-09",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-1.4.21.39.4-plugins",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtube-1.4.21.39.4-plugins",
-      "size": 160117555,
+      "version": "21.44.4",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjtube-.21.44.4-v1.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjtube-.21.44.4-v1.5",
+      "size": 152777523,
       "addedAt": "2026-09-06",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1788772346807",
@@ -22497,29 +22507,30 @@
       "bundleIdentifier": "xyz.nextalone.nagram",
       "bundleId": "xyz.nextalone.nagram",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/93/ed/b193ed97-6b1b-d6d5-ca0a-b42e52adfffc/NagramBuild-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "localizedDescription": "نسخة تيليقرام مدفوعه في المتجر الرسمي.\n\nمميزات Mx:\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
+      "localizedDescription": "نسخة تيليقرام مدفوعه في المتجر الرسمي.\n\nمميزات lead :\n- Ghost Mode متكامل لإخفاء حالة الاتصال والكتابة والتسجيل والرفع والتفاعل، مع إخفاء إيصالات قراءة الرسائل ومشاهدة القصص.\n- Ghost Exceptions لاستثناء أشخاص محددين من وضع الشبح مع إبقاء الخصوصية مفعلة لبقية المستخدمين.\n- حفظ الوسائط المقيدة وتجاوز قيود الحفظ وإعادة التوجيه في القنوات والمحادثات المحمية.\n- الاحتفاظ بالرسائل المحذوفة ورسائل الحذف التلقائي، مع حفظ النص الأصلي للرسائل بعد تعديلها وعرض سجل التعديلات.\n- فتح الوسائط ذات العرض لمرة واحدة بحرية ومنع إشعارات لقطات الشاشة في المحادثات السرية والمحتوى المحمي.\n- Video to Voice لإرسال صوت أي فيديو كرسالة صوتية حقيقية مع دعم تحديد الجزء المطلوب.\n- Fake Location لتغيير الموقع ومشاركة موقع مخصص بدلاً من موقع الجهاز الحقيقي.\n- Download Speed Boost لزيادة سرعة التنزيل باستخدام اتصالات متوازية وأحجام تحميل أكبر.\n- إزالة الإعلانات وإضافة تأكيد قبل الرد على المكالمات وإصلاح File Picker في النسخ المثبتة خارج المتجر.\n- دعم 10 لغات وتبديلها من داخل الأداة، مع Custom Stars Balance لتخصيص رصيد النجوم المعروض.\n\nلفتح مميزات Mx:\n- الإعدادات، انزل إلى الأسفل، ثم اضغط ضغطة طويلة على خانة (اسأل سؤالا).",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "1.0",
+      "toolVersion": "2.0.3",
       "versions": [
+        {
+          "version": "13.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nagram-13.1.1-lead-2.0.3",
+          "date": "2026-11-08",
+          "size": 131176857
+        },
         {
           "version": "12.9.2.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nagram-12.9.2.1-mxgram",
-          "date": "2026-09-14",
-          "size": 113141350
-        },
-        {
-          "version": "12.9.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nagram_v12.9.2"
+          "date": "2026-09-14"
         }
       ],
-      "version": "12.9.2.1",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nagram-12.9.2.1-mxgram",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nagram-12.9.2.1-mxgram",
-      "size": 113141350,
+      "version": "13.1.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nagram-13.1.1-lead-2.0.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nagram-13.1.1-lead-2.0.3",
+      "size": 131176857,
       "addedAt": "2026-09-07",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1788804697931",
@@ -23438,24 +23449,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "2.5.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.5.4",
-          "date": "2026-10-30",
-          "size": 570949632
+          "version": "2.5.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.5.6",
+          "date": "2026-11-08",
+          "size": 204996608
         },
         {
-          "version": "2.5.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.5.3",
-          "date": "2026-10-22"
+          "version": "2.5.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.5.4",
+          "date": "2026-10-30"
         }
       ],
-      "version": "2.5.4",
-      "versionDate": "2026-10-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.5.4",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.5.4",
-      "size": 570949632,
+      "version": "2.5.6",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.5.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tile-home-triple-match_2.5.6",
+      "size": 204996608,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1789371721347",
@@ -23741,27 +23752,27 @@
       "localizedDescription": "مميزات التطبيق:\n- إزالة الإعلانات والمنشورات الممولة من الخلاصة.\n- إخفاء اقتراحات الأشخاص والمجموعات والصفحات وReels Carousel وترويج Threads.\n- Ghost Mode لمشاهدة القصص بدون تسجيل المشاهدة مع إمكانية إيقاف الانتقال التلقائي وإخفاء اقتراحات القصص.\n- تنزيل Reels والقصص بالصور والفيديو مباشرة إلى تطبيق الصور.\n- إضافة تأكيد قبل الإعجاب لتجنب الإعجابات بالخطأ في الخلاصة وReels.\n- فتح الروابط الخارجية في المتصفح الافتراضي بدلاً من متصفح Facebook الداخلي.\n- Safari Extension لفتح روابط facebook.com مباشرة داخل تطبيق Facebook.\n- OLED Dark Mode بخلفية سوداء حقيقية.\n- تغيير أيقونة التطبيق من داخل الإعدادات مع الحفاظ على أيقونات Facebook الأصلية.\n- فاحص تحديثات مدمج يعرض سجل التغييرات ويتيح الوصول السريع للإصدارات الجديدة.\n\nلفتح إعدادات Facebook Plus:\n- اضغط مطولاً على أي عنصر في شريط التبويب أو على زر إعدادات Facebook.",
       "category": "تواصل",
       "recommended": false,
-      "toolVersion": "1.0.4",
+      "toolVersion": "1.0.5",
       "versions": [
+        {
+          "version": "586.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-fb-586.0.0-v1.0.5",
+          "date": "2026-11-08",
+          "size": 235195596
+        },
         {
           "version": "585.0.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-1.0.4-fb-585.0.0",
-          "date": "2026-11-02",
-          "size": 229428428
-        },
-        {
-          "version": "584.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-fb-584.0.0-v1.0.2",
-          "date": "2026-10-20"
+          "date": "2026-11-02"
         }
       ],
-      "version": "585.0.0",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-1.0.4-fb-585.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-1.0.4-fb-585.0.0",
-      "size": 229428428,
+      "version": "586.0.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-fb-586.0.0-v1.0.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/facebook-plus-fb-586.0.0-v1.0.5",
+      "size": 235195596,
       "addedAt": "2026-09-14",
-      "updatedAt": "2026-11-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1789402583098",
@@ -26968,25 +26979,30 @@
       "name": "Top Force Commander",
       "bundleIdentifier": "com.project.idle.cd",
       "bundleId": "com.project.idle.cd",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/e9/08/28e90860-dff3-5de8-af23-09626e39cfb8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/7a/7f/5b7a7f60-105d-2f60-0990-7ee949bd06be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- نشر غير محدود للقوات.\n- تقليل مدة انتظار مهارات الأبطال إلى 1.5 ثانية.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "3.5.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/top-force-commander_3.5.2",
+          "date": "2026-11-08",
+          "size": 1045954560
+        },
+        {
           "version": "3.4.8",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/top-force-commander_3.4.8",
-          "date": "2026-09-18",
-          "size": 988073164
+          "date": "2026-09-18"
         }
       ],
-      "version": "3.4.8",
-      "versionDate": "2026-09-19",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/top-force-commander_3.4.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/top-force-commander_3.4.8",
-      "size": 988073164,
+      "version": "3.5.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/top-force-commander_3.5.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/top-force-commander_3.5.2",
+      "size": 1045954560,
       "addedAt": "2026-09-18",
-      "updatedAt": "2026-09-19"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1789714483609",
@@ -28588,24 +28604,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.0.64",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/auto-battle-got-me-killed_1.0.64-1",
-          "date": "2026-11-02",
-          "size": 397724876
+          "version": "1.0.65",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/auto-battle-got-me-killed_1.0.65",
+          "date": "2026-11-08",
+          "size": 152462950
         },
         {
-          "version": "1.0.63",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/auto-battle-got-me-killed_1.0.63",
-          "date": "2026-10-31"
+          "version": "1.0.64",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/auto-battle-got-me-killed_1.0.64-1",
+          "date": "2026-11-02"
         }
       ],
-      "version": "1.0.64",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/auto-battle-got-me-killed_1.0.64-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/auto-battle-got-me-killed_1.0.64-1",
-      "size": 397724876,
+      "version": "1.0.65",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/auto-battle-got-me-killed_1.0.65",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/auto-battle-got-me-killed_1.0.65",
+      "size": 152462950,
       "addedAt": "2026-09-22",
-      "updatedAt": "2026-11-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790068069751",
@@ -28966,24 +28982,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "0.3.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.3.0",
-          "date": "2026-11-02",
-          "size": 350748672
+          "version": "0.3.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.3.2",
+          "date": "2026-11-08",
+          "size": 143759769
         },
         {
-          "version": "0.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.1.0",
-          "date": "2026-09-22"
+          "version": "0.3.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.3.0",
+          "date": "2026-11-02"
         }
       ],
-      "version": "0.3.0",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.3.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.3.0",
-      "size": 350748672,
+      "version": "0.3.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.3.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lilys-adventures_0.3.2",
+      "size": 143759769,
       "addedAt": "2026-09-22",
-      "updatedAt": "2026-11-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790109555534",
@@ -31936,19 +31952,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "2.3.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/highway-overtake-car-racing_2.3.6",
+          "date": "2026-11-08",
+          "size": 527328870
+        },
+        {
           "version": "2.2.8",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/highway-overtake-car-racing_2.2.8",
-          "date": "2026-09-25",
-          "size": 525651148
+          "date": "2026-09-25"
         }
       ],
-      "version": "2.2.8",
-      "versionDate": "2026-09-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/highway-overtake-car-racing_2.2.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/highway-overtake-car-racing_2.2.8",
-      "size": 525651148,
+      "version": "2.3.6",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/highway-overtake-car-racing_2.3.6",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/highway-overtake-car-racing_2.3.6",
+      "size": 527328870,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-09-26"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790363165359",
@@ -31980,29 +32001,30 @@
       "name": "Idle Game The Silent Archivist",
       "bundleIdentifier": "com.TownSoft.soulsofadventure",
       "bundleId": "com.TownSoft.soulsofadventure",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/b3/be/6fb3be1f-17f2-ae49-ae34-8040a1fa57e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/e0/1b/76e01be9-f4da-5817-bc8e-8796ea90343f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- مضاعف العملات.\n- مضاعف الصلادة.\n- مضاعف حجر الحرف.\n- تجميد العملة.\n- تجميد الصلادة.\n- تجميد حجر الحرف.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "7.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-game-the-silent-archivist_7.3",
-          "date": "2026-10-08",
-          "size": 511075942
+          "version": "8.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-game-the-silent-archivist_8.0.1",
+          "date": "2026-11-08",
+          "size": 313733939
         },
         {
-          "version": "7.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-game-the-silent-archivist_7.1"
+          "version": "7.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-game-the-silent-archivist_7.3",
+          "date": "2026-10-08"
         }
       ],
-      "version": "7.3",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-game-the-silent-archivist_7.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-game-the-silent-archivist_7.3",
-      "size": 511075942,
+      "version": "8.0.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-game-the-silent-archivist_8.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-game-the-silent-archivist_8.0.1",
+      "size": 313733939,
       "addedAt": "2026-09-25",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790363237869",
@@ -32895,32 +32917,32 @@
     },
     {
       "id": "app-1790603916989",
-      "name": "Bunker Defense 100m Survival",
+      "name": "Bunker Defense: 100M Survival",
       "bundleIdentifier": "com.TeamSparta.BunkerDefense",
       "bundleId": "com.TeamSparta.BunkerDefense",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/78/53/ff785307-41ff-9538-31d1-0e22564b823d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/34/10/03341078-0d28-a9f0-9ee7-583ab523e32c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- الأعداء لا يتحركون.\n- لا تموت أبدًا.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "3.1.7",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunker-defense-100m-survival_3.1.7",
-          "date": "2026-10-12",
-          "size": 737358643
+          "version": "3.2.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunkerdefense100msurvival_3.2.3",
+          "date": "2026-11-08",
+          "size": 196922572
         },
         {
-          "version": "3.1.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunker-defense-100m-survival_3.1.5"
+          "version": "3.1.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunker-defense-100m-survival_3.1.7"
         }
       ],
-      "version": "3.1.7",
-      "versionDate": "2026-10-12",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunker-defense-100m-survival_3.1.7",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bunker-defense-100m-survival_3.1.7",
-      "size": 737358643,
-      "addedAt": "2026-09-28",
-      "updatedAt": "2026-10-12"
+      "version": "3.2.3",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunkerdefense100msurvival_3.2.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bunkerdefense100msurvival_3.2.3",
+      "size": 196922572,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790603954940",
@@ -32962,24 +32984,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "2.9.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coloring-go_2.9.0",
-          "date": "2026-10-24",
-          "size": 316460236
+          "version": "2.10.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coloring-go_2.10.0",
+          "date": "2026-11-08",
+          "size": 159907840
         },
         {
-          "version": "2.6.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coloring-go_2.6.0",
-          "date": "2026-09-28"
+          "version": "2.9.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coloring-go_2.9.0",
+          "date": "2026-10-24"
         }
       ],
-      "version": "2.9.0",
-      "versionDate": "2026-10-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coloring-go_2.9.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coloring-go_2.9.0",
-      "size": 316460236,
+      "version": "2.10.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/coloring-go_2.10.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/coloring-go_2.10.0",
+      "size": 159907840,
       "addedAt": "2026-09-28",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790604306093",
@@ -33047,24 +33069,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "3.5.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/underdark-defense_3.5.0-1",
-          "date": "2026-11-02",
-          "size": 569586483
+          "version": "3.5.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/underdark-defense_3.5.1",
+          "date": "2026-11-08",
+          "size": 214224076
         },
         {
-          "version": "3.4.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/underdark-defense_3.4.0",
-          "date": "2026-09-28"
+          "version": "3.5.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/underdark-defense_3.5.0-1",
+          "date": "2026-11-02"
         }
       ],
-      "version": "3.5.0",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/underdark-defense_3.5.0-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/underdark-defense_3.5.0-1",
-      "size": 569586483,
+      "version": "3.5.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/underdark-defense_3.5.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/underdark-defense_3.5.1",
+      "size": 214224076,
       "addedAt": "2026-09-28",
-      "updatedAt": "2026-11-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790604401087",
@@ -33106,24 +33128,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.0.11",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.11",
-          "date": "2026-10-23",
-          "size": 697303040
+          "version": "1.0.13",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.13",
+          "date": "2026-11-08",
+          "size": 338480332
         },
         {
-          "version": "1.0.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.8",
-          "date": "2026-09-28"
+          "version": "1.0.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.11",
+          "date": "2026-10-23"
         }
       ],
-      "version": "1.0.11",
-      "versionDate": "2026-10-23",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.11",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.11",
-      "size": 697303040,
+      "version": "1.0.13",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.13",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pixel-defenders-merge-td-game_1.0.13",
+      "size": 338480332,
       "addedAt": "2026-09-28",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790604533428",
@@ -33215,24 +33237,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.37.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/amaze-go_1.37.0",
-          "date": "2026-10-31",
-          "size": 510027366
+          "version": "1.38.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/amaze-go_1.38.0",
+          "date": "2026-11-08",
+          "size": 530160025
         },
         {
-          "version": "1.35.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/amaze-go_1.35.0",
-          "date": "2026-10-21"
+          "version": "1.37.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/amaze-go_1.37.0",
+          "date": "2026-10-31"
         }
       ],
-      "version": "1.37.0",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/amaze-go_1.37.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/amaze-go_1.37.0",
-      "size": 510027366,
+      "version": "1.38.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/amaze-go_1.38.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/amaze-go_1.38.0",
+      "size": 530160025,
       "addedAt": "2026-09-28",
-      "updatedAt": "2026-10-31"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790604800200",
@@ -33428,24 +33450,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "2.50.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/transcender-idle-rpg_2.50.0",
-          "date": "2026-11-04",
-          "size": 772276224
+          "version": "2.51.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/transcender-idle-rpg_2.51.0",
+          "date": "2026-11-08",
+          "size": 516738252
         },
         {
-          "version": "2.48.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/transcender-idle-rpg_2.48.0",
-          "date": "2026-10-20"
+          "version": "2.50.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/transcender-idle-rpg_2.50.0",
+          "date": "2026-11-04"
         }
       ],
-      "version": "2.50.0",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/transcender-idle-rpg_2.50.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/transcender-idle-rpg_2.50.0",
-      "size": 772276224,
+      "version": "2.51.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/transcender-idle-rpg_2.51.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/transcender-idle-rpg_2.51.0",
+      "size": 516738252,
       "addedAt": "2026-09-28",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790605247272",
@@ -34319,24 +34341,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "2.030",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-space-shooter_2.030",
-          "date": "2026-10-30",
-          "size": 489684992
+          "version": "2.032",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-space-shooter_2.032",
+          "date": "2026-11-08",
+          "size": 281647513
         },
         {
-          "version": "2.025",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-space-shooter_2.025",
-          "date": "2026-09-30"
+          "version": "2.030",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-space-shooter_2.030",
+          "date": "2026-10-30"
         }
       ],
-      "version": "2.030",
-      "versionDate": "2026-10-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-space-shooter_2.030",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-space-shooter_2.030",
-      "size": 489684992,
+      "version": "2.032",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-space-shooter_2.032",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-space-shooter_2.032",
+      "size": 281647513,
       "addedAt": "2026-09-30",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790794898432",
@@ -35781,19 +35803,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "9.1.92",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.92-eeveespotify-pixie",
+          "date": "2026-11-08",
+          "size": 145961779
+        },
+        {
           "version": "9.1.86",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.86-eevee-spoti.pw",
-          "date": "2026-10-02",
-          "size": 138202316
+          "date": "2026-10-02"
         }
       ],
-      "version": "9.1.86",
-      "versionDate": "2026-10-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.86-eevee-spoti.pw",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.86-eevee-spoti.pw",
-      "size": 138202316,
+      "version": "9.1.92",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.92-eeveespotify-pixie",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.92-eeveespotify-pixie",
+      "size": 145961779,
       "addedAt": "2026-10-02",
-      "updatedAt": "2026-10-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1790960413408",
@@ -36687,24 +36714,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "6.53.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aquaparkio_6.53.0",
-          "date": "2026-11-06",
-          "size": 389860556
+          "version": "6.53.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aquaparkio_6.53.1",
+          "date": "2026-11-08",
+          "size": 204891750
         },
         {
-          "version": "6.52.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aquaparkio_6.52.1",
-          "date": "2026-10-22"
+          "version": "6.53.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aquaparkio_6.53.0",
+          "date": "2026-11-06"
         }
       ],
-      "version": "6.53.0",
-      "versionDate": "2026-11-06",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aquaparkio_6.53.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aquaparkio_6.53.0",
-      "size": 389860556,
+      "version": "6.53.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/aquaparkio_6.53.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/aquaparkio_6.53.1",
+      "size": 204891750,
       "addedAt": "2026-10-08",
-      "updatedAt": "2026-11-06"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1791465770831",
@@ -36767,24 +36794,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.48.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fable-town-merge-islandmagic_1.48.0",
-          "date": "2026-10-25",
-          "size": 380947660
+          "version": "1.49.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fable-town-merge-islandmagic_1.49.0",
+          "date": "2026-11-08",
+          "size": 382939955
         },
         {
-          "version": "1.47.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fable-town-merge-islandmagic_1.47.0",
-          "date": "2026-10-12"
+          "version": "1.48.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fable-town-merge-islandmagic_1.48.0",
+          "date": "2026-10-25"
         }
       ],
-      "version": "1.48.0",
-      "versionDate": "2026-10-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fable-town-merge-islandmagic_1.48.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fable-town-merge-islandmagic_1.48.0",
-      "size": 380947660,
+      "version": "1.49.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fable-town-merge-islandmagic_1.49.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fable-town-merge-islandmagic_1.49.0",
+      "size": 382939955,
       "addedAt": "2026-10-08",
-      "updatedAt": "2026-10-25"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1791466323122",
@@ -36851,54 +36878,54 @@
       "recommended": false,
       "versions": [
         {
-          "version": "220000.1.210",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jelly-busters-puzzle-game_220000.1.210",
-          "date": "2026-10-25",
-          "size": 300102451
+          "version": "220000.1.220",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jelly-busters-puzzle-game_220000.1.220",
+          "date": "2026-11-08",
+          "size": 143864627
         },
         {
-          "version": "220000.1.201",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jelly-busters-puzzle-game_220000.1.201",
-          "date": "2026-10-08"
+          "version": "220000.1.210",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jelly-busters-puzzle-game_220000.1.210",
+          "date": "2026-10-25"
         }
       ],
-      "version": "220000.1.210",
-      "versionDate": "2026-10-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jelly-busters-puzzle-game_220000.1.210",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jelly-busters-puzzle-game_220000.1.210",
-      "size": 300102451,
+      "version": "220000.1.220",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/jelly-busters-puzzle-game_220000.1.220",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/jelly-busters-puzzle-game_220000.1.220",
+      "size": 143864627,
       "addedAt": "2026-10-08",
-      "updatedAt": "2026-10-25"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1791466417599",
       "name": "Carve Quest",
       "bundleIdentifier": "com.wave.carvequest",
       "bundleId": "com.wave.carvequest",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/1f/5c/b61f5c38-5c89-2f68-29a3-7c62a0948f01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/6f/7c/a86f7cfe-16c5-b7a2-0d0a-283d8c8d3015/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- نقود غير محدودة.\n- جواهر غير محدودة.\n- تفعيل الشراء الوهمي داخل اللعبة.\n\nملاحظة:\n- فعّل الهاك من قائمة المود، ثم اخرج من اللعبة وافتحها من جديد.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "2.59.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carve-quest_2.59.2",
-          "date": "2026-10-24",
-          "size": 429287014
+          "version": "2.61.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carve-quest_2.61.1",
+          "date": "2026-11-08",
+          "size": 134637158
         },
         {
-          "version": "2.57.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carve-quest_2.57.3",
-          "date": "2026-10-08"
+          "version": "2.59.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carve-quest_2.59.2",
+          "date": "2026-10-24"
         }
       ],
-      "version": "2.59.2",
-      "versionDate": "2026-10-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carve-quest_2.59.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carve-quest_2.59.2",
-      "size": 429287014,
+      "version": "2.61.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/carve-quest_2.61.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/carve-quest_2.61.1",
+      "size": 134637158,
       "addedAt": "2026-10-08",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1791466454520",
@@ -37260,9 +37287,9 @@
       "versions": [
         {
           "version": "9.1.92",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-vitrine-1.0.0-b14",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.92-eeveespotify-pixie",
           "date": "2026-10-23",
-          "size": 131386572
+          "size": 145961779
         },
         {
           "version": "9.1.90",
@@ -37272,9 +37299,9 @@
       ],
       "version": "9.1.92",
       "versionDate": "2026-10-23",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-vitrine-1.0.0-b14",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.90-vitrine-1.0.0-b14",
-      "size": 131386572,
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.92-eeveespotify-pixie",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/spotify-9.1.92-eeveespotify-pixie",
+      "size": 145961779,
       "addedAt": "2026-10-09",
       "updatedAt": "2026-10-23"
     },
@@ -37314,24 +37341,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "0.8.3033",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-roadside_0.8.3033",
-          "date": "2026-11-04",
-          "size": 292447846
+          "version": "0.8.3056",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-roadside_0.8.3056",
+          "date": "2026-11-08",
+          "size": 121949388
         },
         {
-          "version": "0.8.3010",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-roadside_0.8.3010",
-          "date": "2026-10-27"
+          "version": "0.8.3033",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-roadside_0.8.3033",
+          "date": "2026-11-04"
         }
       ],
-      "version": "0.8.3033",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-roadside_0.8.3033",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-roadside_0.8.3033",
-      "size": 292447846,
+      "version": "0.8.3056",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-roadside_0.8.3056",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dead-ahead-roadside_0.8.3056",
+      "size": 121949388,
       "addedAt": "2026-10-09",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1791486006851",
@@ -37603,30 +37630,29 @@
       "name": "Last Combat Z Shooter",
       "bundleIdentifier": "com.sg.lastaura.army.zombie.shooter",
       "bundleId": "com.sg.lastaura.army.zombie.shooter",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/f8/1b/93f81bf1-ee40-5bbd-149c-d93a32090a0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/06/7e/e8067ecb-73d9-20b5-6442-cac8d0c1ac4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- فوز تلقائي.\n- أحجار كريمة غير محدودة.\n- عملات غير محدودة.\n- إضافة الأحجار الكريمة.\n- إضافة العملات.\n- ضرر عالٍ.\n- مضاعفة الضرر.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.1.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-combat-z-shooter_1.1.1",
-          "date": "2026-10-25",
-          "size": 333342310
+          "version": "1.1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-combat-z-shooter_1.1.2",
+          "date": "2026-11-08"
         },
         {
-          "version": "1.0.2",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-combat-z-shooter_1.0.2",
-          "date": "2026-10-11"
+          "version": "1.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-combat-z-shooter_1.1.1",
+          "date": "2026-10-25"
         }
       ],
-      "version": "1.1.1",
-      "versionDate": "2026-10-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-combat-z-shooter_1.1.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-combat-z-shooter_1.1.1",
-      "size": 333342310,
+      "version": "1.1.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-combat-z-shooter_1.1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-combat-z-shooter_1.1.2",
+      "size": 0,
       "addedAt": "2026-10-11",
-      "updatedAt": "2026-10-25"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1791746374289",
@@ -38220,25 +38246,30 @@
       "name": "Merge Fashion Romance Story",
       "bundleIdentifier": "com.infiniplay.merge.fashion.romance.story.ios",
       "bundleId": "com.infiniplay.merge.fashion.romance.story.ios",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/be/f2/59bef23a-6467-371a-cf83-1edc08bf2f9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/de/9c/91de9cac-35f0-6a22-3f10-f5552f8b2587/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- جواهر وعملات وطاقة غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "3.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/merge-fashion-romance-story_3.3.1",
+          "date": "2026-11-08",
+          "size": 555011276
+        },
+        {
           "version": "3.2.5",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/merge-fashion-romance-story_3.2.5",
-          "date": "2026-10-12",
-          "size": 996566630
+          "date": "2026-10-12"
         }
       ],
-      "version": "3.2.5",
-      "versionDate": "2026-10-12",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/merge-fashion-romance-story_3.2.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/merge-fashion-romance-story_3.2.5",
-      "size": 996566630,
+      "version": "3.3.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/merge-fashion-romance-story_3.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/merge-fashion-romance-story_3.3.1",
+      "size": 555011276,
       "addedAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1791793093131",
@@ -38375,30 +38406,30 @@
       "name": "Galaxy Attack Alien Shooter",
       "bundleIdentifier": "com.alien.shooter.galaxy.attack",
       "bundleId": "com.alien.shooter.galaxy.attack",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/32/05/6f3205b2-6ac3-082a-98f7-8f26628286dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/43/3d/e4433deb-dd85-1b34-bae5-fff51a8e6ce6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "مميزات اللعبة:\n- الذخيرة بأقصى حد.\n- الحياة بأقصى حد.\n- مضاعفة الضرر.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "76.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-alien-shooter_76.8",
-          "date": "2026-10-31",
-          "size": 500065894
+          "version": "77.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-alien-shooter_77.0",
+          "date": "2026-11-08",
+          "size": 314258227
         },
         {
-          "version": "76.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-alien-shooter_76.3",
-          "date": "2026-10-12"
+          "version": "76.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-alien-shooter_76.8",
+          "date": "2026-10-31"
         }
       ],
-      "version": "76.8",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-alien-shooter_76.8",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-alien-shooter_76.8",
-      "size": 500065894,
+      "version": "77.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-alien-shooter_77.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/galaxy-attack-alien-shooter_77.0",
+      "size": 314258227,
       "addedAt": "2026-10-12",
-      "updatedAt": "2026-10-31"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1791794266012",
@@ -40272,24 +40303,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "63.17.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cashier-3-d_63.17.1",
-          "date": "2026-10-24",
-          "size": 323695411
+          "version": "63.17.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cashier3-d_63.17.2",
+          "date": "2026-11-08",
+          "size": 169135308
         },
         {
-          "version": "63.17.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cashie-3d_63.17.0",
-          "date": "2026-10-15"
+          "version": "63.17.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cashier-3-d_63.17.1",
+          "date": "2026-10-24"
         }
       ],
-      "version": "63.17.1",
-      "versionDate": "2026-10-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cashier-3-d_63.17.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cashier-3-d_63.17.1",
-      "size": 323695411,
+      "version": "63.17.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cashier3-d_63.17.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cashier3-d_63.17.2",
+      "size": 169135308,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792061645939",
@@ -41419,19 +41450,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blooming-fates_1.2.1",
+          "date": "2026-11-08",
+          "size": 188429107
+        },
+        {
           "version": "1.1.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blooming-fates_1.1.0",
-          "date": "2026-10-20",
-          "size": 665111756
+          "date": "2026-10-20"
         }
       ],
-      "version": "1.1.0",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blooming-fates_1.1.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blooming-fates_1.1.0",
-      "size": 665111756,
+      "version": "1.2.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blooming-fates_1.2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blooming-fates_1.2.1",
+      "size": 188429107,
       "addedAt": "2026-10-20",
-      "updatedAt": "2026-10-20"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792487570810",
@@ -42714,19 +42750,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.23.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-billion-air-idle-tycoon_1.23.0",
+          "date": "2026-11-08",
+          "size": 201326592
+        },
+        {
           "version": "1.22.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-billion-air-idle-tycoon_1.22.1",
-          "date": "2026-10-21",
-          "size": 488112128
+          "date": "2026-10-21"
         }
       ],
-      "version": "1.22.1",
-      "versionDate": "2026-10-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-billion-air-idle-tycoon_1.22.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/airport-billion-air-idle-tycoon_1.22.1",
-      "size": 488112128,
+      "version": "1.23.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/airport-billion-air-idle-tycoon_1.23.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/airport-billion-air-idle-tycoon_1.23.0",
+      "size": 201326592,
       "addedAt": "2026-10-21",
-      "updatedAt": "2026-10-21"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792600537555",
@@ -43064,24 +43105,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "169.5.7",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tap-away3-d_169.5.7",
-          "date": "2026-10-31",
-          "size": 490628710
+          "version": "169.5.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tap-away3-d_169.5.8",
+          "date": "2026-11-08",
+          "size": 191784550
         },
         {
-          "version": "169.5.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tap-away-3-d_169.5.5",
-          "date": "2026-10-21"
+          "version": "169.5.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tap-away3-d_169.5.7",
+          "date": "2026-10-31"
         }
       ],
-      "version": "169.5.7",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tap-away3-d_169.5.7",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tap-away3-d_169.5.7",
-      "size": 490628710,
+      "version": "169.5.8",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tap-away3-d_169.5.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tap-away3-d_169.5.8",
+      "size": 191784550,
       "addedAt": "2026-10-21",
-      "updatedAt": "2026-10-31"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792603207529",
@@ -43293,30 +43334,30 @@
       "name": "Home Design Makeover",
       "bundleIdentifier": "in.loop.hdmakeover",
       "bundleId": "in.loop.hdmakeover",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/05/3b/29053b92-2953-d67b-afcb-4416df73743c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/31/ca/6131ca26-fb5e-955d-fa4b-6606e4b16e5e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- عملات غير محدودة (احصل على بعض العملات لتفعيل الميزة).\n- طاقة غير محدودة.\n- حركات غير محدودة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "6.9.6",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/home-design-makeover_6.9.6",
-          "date": "2026-10-27",
-          "size": 411251507
+          "version": "6.9.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/home-design-makeover_6.9.7",
+          "date": "2026-11-08",
+          "size": 411146649
         },
         {
-          "version": "6.9.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/home-design-makeover_6.9.5",
-          "date": "2026-10-22"
+          "version": "6.9.6",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/home-design-makeover_6.9.6",
+          "date": "2026-10-27"
         }
       ],
-      "version": "6.9.6",
-      "versionDate": "2026-10-27",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/home-design-makeover_6.9.6",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/home-design-makeover_6.9.6",
-      "size": 411251507,
+      "version": "6.9.7",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/home-design-makeover_6.9.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/home-design-makeover_6.9.7",
+      "size": 411146649,
       "addedAt": "2026-10-22",
-      "updatedAt": "2026-10-27"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792689210619",
@@ -44654,19 +44695,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.5.43",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-cinema-world_1.5.43",
+          "date": "2026-11-08",
+          "size": 146905497
+        },
+        {
           "version": "1.5.41",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-cinema-world_1.5.41",
-          "date": "2026-10-23",
-          "size": 308595916
+          "date": "2026-10-23"
         }
       ],
-      "version": "1.5.41",
-      "versionDate": "2026-10-23",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-cinema-world_1.5.41",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-cinema-world_1.5.41",
-      "size": 308595916,
+      "version": "1.5.43",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/my-cinema-world_1.5.43",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/my-cinema-world_1.5.43",
+      "size": 146905497,
       "addedAt": "2026-10-23",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792767623461",
@@ -44728,25 +44774,30 @@
       "name": "Pal Go Tower Defense Td",
       "bundleIdentifier": "com.playwindgames.freedefender",
       "bundleId": "com.playwindgames.freedefender",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/3f/1b/de3f1b4a-29aa-02d9-1433-a81ee9ed877e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/ef/34/14ef345e-e3e4-1769-3444-3c70eee897a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- تجميد العملات بحيث لا تنقص عند إنفاقها.\n- إمكانية الشراء حتى دون امتلاك رصيد كافٍ.\n- الحصول على 500 نقطة طاقة تجنيد في كل موجة.\n- إمكانية سحب الأبطال دون قيود.\n- تخطي الإعلانات.\n- إزالة وقت انتظار الهجوم.\n- التحكم بمضاعفة سرعة المعركة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "0.9.40",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pal-go-tower-defense-td_0.9.40",
+          "date": "2026-11-08",
+          "size": 314258227
+        },
+        {
           "version": "0.9.34",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pal-go-tower-defense-td_0.9.34",
-          "date": "2026-10-23",
-          "size": 493984153
+          "date": "2026-10-23"
         }
       ],
-      "version": "0.9.34",
-      "versionDate": "2026-10-23",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pal-go-tower-defense-td_0.9.34",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pal-go-tower-defense-td_0.9.34",
-      "size": 493984153,
+      "version": "0.9.40",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pal-go-tower-defense-td_0.9.40",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pal-go-tower-defense-td_0.9.40",
+      "size": 314258227,
       "addedAt": "2026-10-23",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792767831657",
@@ -46263,25 +46314,29 @@
       "name": "Gumslinger 2: Ducks & Nukes",
       "bundleIdentifier": "se.itatake.gumslinger2",
       "bundleId": "se.itatake.gumslinger2",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/d6/8d/1ed68d71-ebf0-ffbd-cda1-fa825ff515b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/f2/a1/edf2a18b-e70c-2cc6-8c93-7638b437e2ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- أعداء أغبياء\n- قتل بضربة واحدة -> مرتبط. استخدمه مع الأعداء الأغبياء.\n- عملات غير محدودة -> اكسب بعضها.\n- جميع الملحقات مفتوحة\n- جميع الأسلحة مفتوحة",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.4.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gumslinger2ducksnukes_1.4.2",
+          "date": "2026-11-08",
+          "size": 338899763
+        },
+        {
           "version": "1.4.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gumslinger2ducksnukes_1.4.1-1",
-          "date": "2026-10-28",
-          "size": 577975091
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gumslinger2ducksnukes_1.4.1"
         }
       ],
-      "version": "1.4.1",
-      "versionDate": "2026-10-28",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gumslinger2ducksnukes_1.4.1-1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gumslinger2ducksnukes_1.4.1-1",
-      "size": 577975091,
+      "version": "1.4.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gumslinger2ducksnukes_1.4.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gumslinger2ducksnukes_1.4.2",
+      "size": 338899763,
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-28"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792837788473",
@@ -46699,19 +46754,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "0.9.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blast-busters-0.9.1",
+          "date": "2026-11-08",
+          "size": 317089382
+        },
+        {
           "version": "0.8.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blast-busters-pvp-mob-battles_0.8.1",
-          "date": "2026-10-25",
-          "size": 596430028
+          "date": "2026-10-25"
         }
       ],
-      "version": "0.8.1",
-      "versionDate": "2026-10-25",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blast-busters-pvp-mob-battles_0.8.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blast-busters-pvp-mob-battles_0.8.1",
-      "size": 596430028,
+      "version": "0.9.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blast-busters-0.9.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blast-busters-0.9.1",
+      "size": 317089382,
       "addedAt": "2026-10-25",
-      "updatedAt": "2026-10-25"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792923361320",
@@ -47089,24 +47149,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "0.54",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/food-hunt-pixel-puzzle_0.54",
-          "date": "2026-10-30",
-          "size": 423100416
+          "version": "0.57",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/food-hunt-pixel-puzzle_0.57",
+          "date": "2026-11-08",
+          "size": 167772160
         },
         {
-          "version": "0.51",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/food-hunt-pixel-puzzle_0.51",
-          "date": "2026-10-25"
+          "version": "0.54",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/food-hunt-pixel-puzzle_0.54",
+          "date": "2026-10-30"
         }
       ],
-      "version": "0.54",
-      "versionDate": "2026-10-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/food-hunt-pixel-puzzle_0.54",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/food-hunt-pixel-puzzle_0.54",
-      "size": 423100416,
+      "version": "0.57",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/food-hunt-pixel-puzzle_0.57",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/food-hunt-pixel-puzzle_0.57",
+      "size": 167772160,
       "addedAt": "2026-10-25",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1792925599450",
@@ -47904,24 +47964,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "2026.5.7657",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stick-war-saga_2026.5.7657",
-          "date": "2026-11-02",
-          "size": 724251443
+          "version": "2026.5.7736",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stick-war-saga_2026.5.7736",
+          "date": "2026-11-08",
+          "size": 358193561
         },
         {
-          "version": "2026.5.7576",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stick-war-saga_2026.5.7576",
-          "date": "2026-10-26"
+          "version": "2026.5.7657",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stick-war-saga_2026.5.7657",
+          "date": "2026-11-02"
         }
       ],
-      "version": "2026.5.7657",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stick-war-saga_2026.5.7657",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/stick-war-saga_2026.5.7657",
-      "size": 724251443,
+      "version": "2026.5.7736",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/stick-war-saga_2026.5.7736",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/stick-war-saga_2026.5.7736",
+      "size": 358193561,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-11-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793026531465",
@@ -49199,24 +49259,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.2.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heros-underground-shift_1.2.0",
-          "date": "2026-11-06",
-          "size": 483812966
+          "version": "1.2.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heros-underground-shift_1.2.1",
+          "date": "2026-11-08",
+          "size": 484442112
         },
         {
-          "version": "1.1.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heros-underground-shift_1.1.0",
-          "date": "2026-10-29"
+          "version": "1.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heros-underground-shift_1.2.0",
+          "date": "2026-11-06"
         }
       ],
-      "version": "1.2.0",
-      "versionDate": "2026-11-06",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heros-underground-shift_1.2.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/heros-underground-shift_1.2.0",
-      "size": 483812966,
+      "version": "1.2.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heros-underground-shift_1.2.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/heros-underground-shift_1.2.1",
+      "size": 484442112,
       "addedAt": "2026-10-27",
-      "updatedAt": "2026-11-06"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793124924562",
@@ -50805,19 +50865,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "3.7.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/solitaire-truck-deluxe_3.7.2",
+          "date": "2026-11-08",
+          "size": 280494080
+        },
+        {
           "version": "3.6.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/solitaire-truck-deluxe_3.6.2",
-          "date": "2026-10-28",
-          "size": 442499072
+          "date": "2026-10-28"
         }
       ],
-      "version": "3.6.2",
-      "versionDate": "2026-10-28",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/solitaire-truck-deluxe_3.6.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/solitaire-truck-deluxe_3.6.2",
-      "size": 442499072,
+      "version": "3.7.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/solitaire-truck-deluxe_3.7.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/solitaire-truck-deluxe_3.7.2",
+      "size": 280494080,
       "addedAt": "2026-10-28",
-      "updatedAt": "2026-10-28"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793220001718",
@@ -51705,19 +51770,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.101.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/penguin-isle_1.101.1",
+          "date": "2026-11-08",
+          "size": 220305817
+        },
+        {
           "version": "1.101.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/penguin-isle_1.101.0",
-          "date": "2026-10-30",
-          "size": 520827699
+          "date": "2026-10-30"
         }
       ],
-      "version": "1.101.0",
-      "versionDate": "2026-10-30",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/penguin-isle_1.101.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/penguin-isle_1.101.0",
-      "size": 520827699,
+      "version": "1.101.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/penguin-isle_1.101.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/penguin-isle_1.101.1",
+      "size": 220305817,
       "addedAt": "2026-10-30",
-      "updatedAt": "2026-10-30"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793377934291",
@@ -52074,30 +52144,30 @@
       "name": "Yaksha Hunter Yokai Idle Rpg",
       "bundleIdentifier": "com.kokokopam.yachakiyugi",
       "bundleId": "com.kokokopam.yachakiyugi",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/b0/64/58b064eb-cd83-95ed-c168-59ccd364b0e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/f8/4a/a6f84ae5-327b-125e-79bb-db629c650eca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "المميزات:\n- مضاعف الضرر.\n- مضاعف الدفاع.\n- مضاعف سرعة الهجوم.\n- مضاعف سرعة الحركة.\n- مضاعف العملات.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "1.0.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yaksha-hunter-yokai-idle-rpg_1.0.9",
-          "date": "2026-11-02",
-          "size": 445854515
+          "version": "1.0.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yaksha-hunter-yokai-idle-rpg_1.0.11",
+          "date": "2026-11-08",
+          "size": 178467635
         },
         {
-          "version": "1.0.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yaksha-hunter-yokai-idle-rpg_1.0.8",
-          "date": "2026-10-31"
+          "version": "1.0.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yaksha-hunter-yokai-idle-rpg_1.0.9",
+          "date": "2026-11-02"
         }
       ],
-      "version": "1.0.9",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yaksha-hunter-yokai-idle-rpg_1.0.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/yaksha-hunter-yokai-idle-rpg_1.0.9",
-      "size": 445854515,
+      "version": "1.0.11",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yaksha-hunter-yokai-idle-rpg_1.0.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/yaksha-hunter-yokai-idle-rpg_1.0.11",
+      "size": 178467635,
       "addedAt": "2026-10-31",
-      "updatedAt": "2026-11-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793467819875",
@@ -52135,19 +52205,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.9.102",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bus-escape-traffic-jam_1.9.102",
+          "date": "2026-11-08",
+          "size": 160536985
+        },
+        {
           "version": "1.9.101",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bus-escape-traffic-jam_1.9.101",
-          "date": "2026-10-31",
-          "size": 398563737
+          "date": "2026-10-31"
         }
       ],
-      "version": "1.9.101",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bus-escape-traffic-jam_1.9.101",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bus-escape-traffic-jam_1.9.101",
-      "size": 398563737,
+      "version": "1.9.102",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bus-escape-traffic-jam_1.9.102",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bus-escape-traffic-jam_1.9.102",
+      "size": 160536985,
       "addedAt": "2026-10-31",
-      "updatedAt": "2026-10-31"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793467937688",
@@ -52281,28 +52356,32 @@
     },
     {
       "id": "app-1793468476004",
-      "name": "Court Six Volleyball Game",
+      "name": "Court Six: Volleyball 3D",
       "bundleIdentifier": "com.ideas67.courtsix",
       "bundleId": "com.ideas67.courtsix",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/86/cd/f886cd7f-f0fa-7e1a-5b7b-6ca0241341d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6e/ab/ea6eabec-9ee2-de6f-b840-d83c987dab7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "المميزات:\n- إضافة الجواهر.\n- إضافة الذهب.\n- تجميد حركة الخصم (AI Freeze).",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.1.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/courtsixvolleyball3d_1.1.2",
+          "date": "2026-11-08",
+          "size": 608069222
+        },
+        {
           "version": "1.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/court-six-volleyball-game_1.0.0",
-          "date": "2026-10-31",
-          "size": 548195532
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/court-six-volleyball-game_1.0.0"
         }
       ],
-      "version": "1.0.0",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/court-six-volleyball-game_1.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/court-six-volleyball-game_1.0.0",
-      "size": 548195532,
-      "addedAt": "2026-10-31",
-      "updatedAt": "2026-10-31"
+      "version": "1.1.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/courtsixvolleyball3d_1.1.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/courtsixvolleyball3d_1.1.2",
+      "size": 608069222,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793468498652",
@@ -52830,19 +52909,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/starguard-evo-merge-td_1.4.0",
+          "date": "2026-11-08",
+          "size": 360290713
+        },
+        {
           "version": "1.3.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/starguard-evo-merge-td_1.3.1",
-          "date": "2026-10-31",
-          "size": 656094003
+          "date": "2026-10-31"
         }
       ],
-      "version": "1.3.1",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/starguard-evo-merge-td_1.3.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/starguard-evo-merge-td_1.3.1",
-      "size": 656094003,
+      "version": "1.4.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/starguard-evo-merge-td_1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/starguard-evo-merge-td_1.4.0",
+      "size": 360290713,
       "addedAt": "2026-10-31",
-      "updatedAt": "2026-10-31"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793565512640",
@@ -53185,19 +53269,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.0.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reaper-forge-idle-loot-rpg_1.0.3",
+          "date": "2026-11-08",
+          "size": 132644864
+        },
+        {
           "version": "1.0.1",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reaper-forge-idle-loot-rpg_1.0.1",
-          "date": "2026-11-02",
-          "size": 131491430
+          "date": "2026-11-02"
         }
       ],
-      "version": "1.0.1",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reaper-forge-idle-loot-rpg_1.0.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reaper-forge-idle-loot-rpg_1.0.1",
-      "size": 131491430,
+      "version": "1.0.3",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reaper-forge-idle-loot-rpg_1.0.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reaper-forge-idle-loot-rpg_1.0.3",
+      "size": 132644864,
       "addedAt": "2026-11-02",
-      "updatedAt": "2026-11-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793641470920",
@@ -53460,19 +53549,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "2.3.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pop-island_2.3.4",
+          "date": "2026-11-08",
+          "size": 329148006
+        },
+        {
           "version": "2.3.3",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pop-island_2.3.3",
-          "date": "2026-11-02",
-          "size": 497863884
+          "date": "2026-11-02"
         }
       ],
-      "version": "2.3.3",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pop-island_2.3.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pop-island_2.3.3",
-      "size": 497863884,
+      "version": "2.3.4",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pop-island_2.3.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pop-island_2.3.4",
+      "size": 329148006,
       "addedAt": "2026-11-02",
-      "updatedAt": "2026-11-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793641858604",
@@ -53665,19 +53759,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-green-tower-defense_1.1.1",
+          "date": "2026-11-08",
+          "size": 1218130739
+        },
+        {
           "version": "1.0.9",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-green-tower-defense_1.0.9",
-          "date": "2026-11-02",
-          "size": 1212363571
+          "date": "2026-11-02"
         }
       ],
-      "version": "1.0.9",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-green-tower-defense_1.0.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-green-tower-defense_1.0.9",
-      "size": 1212363571,
+      "version": "1.1.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-green-tower-defense_1.1.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-green-tower-defense_1.1.1",
+      "size": 1218130739,
       "addedAt": "2026-11-02",
-      "updatedAt": "2026-11-02"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793642685688",
@@ -54890,19 +54989,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "0.72",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/over-peak_0.72",
+          "date": "2026-11-08",
+          "size": 276194918
+        },
+        {
           "version": "0.71",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/over-peak_0.71",
-          "date": "2026-11-06",
-          "size": 528377446
+          "date": "2026-11-06"
         }
       ],
-      "version": "0.71",
-      "versionDate": "2026-11-06",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/over-peak_0.71",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/over-peak_0.71",
-      "size": 528377446,
+      "version": "0.72",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/over-peak_0.72",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/over-peak_0.72",
+      "size": 276194918,
       "addedAt": "2026-11-06",
-      "updatedAt": "2026-11-06"
+      "updatedAt": "2026-11-08"
     },
     {
       "id": "app-1793988423390",
@@ -55326,6 +55430,681 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sk-instagram_451.0.0",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sk-instagram_451.0.0",
       "size": 321388544,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794161658597",
+      "name": "Burger Maker Kids Cooking Game",
+      "bundleIdentifier": "com.pazugames.burgermaker",
+      "bundleId": "com.pazugames.burgermaker",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/52/31/6e52314a-1270-a869-403f-0bc6e3f5e74e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- فتح جميع المحتويات والميزات المميزة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.15",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/burger-maker-kids-cooking-game_1.15",
+          "date": "2026-11-08",
+          "size": 107269324
+        }
+      ],
+      "version": "1.15",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/burger-maker-kids-cooking-game_1.15",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/burger-maker-kids-cooking-game_1.15",
+      "size": 107269324,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794161670332",
+      "name": "Dwarfs Diggers Idle Mining",
+      "bundleIdentifier": "com.bbdigital.idle.dwarfs.master",
+      "bundleId": "com.bbdigital.idle.dwarfs.master",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/c5/fb/30c5fb82-1173-c7f5-70a7-d353d954a20b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- تجميد العملة.\n- تجميد الموارد.\n- تجميد الطاقة.\n- نشر الأقزام دون قيود (Troop Drop Unlimited).",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "0.8.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dwarfs-diggers-idle-mining_0.8.5",
+          "date": "2026-11-08",
+          "size": 130233139
+        }
+      ],
+      "version": "0.8.5",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dwarfs-diggers-idle-mining_0.8.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dwarfs-diggers-idle-mining_0.8.5",
+      "size": 130233139,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794161687597",
+      "name": "LoTik: Video Downloader HD",
+      "bundleIdentifier": "com.a6.LoTik",
+      "bundleId": "com.a6.LoTik",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/38/b4/5638b419-fc58-1c96-3900-f1d17f17f8ff/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.jpeg/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- حفظ مقاطع الفيديو والصور من التطبيقات بضغطة واحدة.\n- فتح الميزات.",
+      "category": "أدوات",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "4.3.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lo-tik-video-downloader-save_4.3.5",
+          "date": "2026-11-08",
+          "size": 46032486
+        }
+      ],
+      "version": "4.3.5",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lo-tik-video-downloader-save_4.3.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lo-tik-video-downloader-save_4.3.5",
+      "size": 46032486,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794161818912",
+      "name": "ChatIt AI Assistant",
+      "bundleIdentifier": "com.getchatit",
+      "bundleId": "com.getchatit",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/ba/8f/d5ba8f27-7a7e-d1a8-b072-5872ef64f619/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- الدردشة مع الذكاء الاصطناعي متعدد النماذج.\n- فتح الميزات.",
+      "category": "دراسة وذكاء اصطناعي",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.32",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chat-it-ai-assistant_1.32",
+          "date": "2026-11-08",
+          "size": 41104179
+        }
+      ],
+      "version": "1.32",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chat-it-ai-assistant_1.32",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chat-it-ai-assistant_1.32",
+      "size": 41104179,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794161884937",
+      "name": "Water Power",
+      "bundleIdentifier": "io.playphoria.waterpower",
+      "bundleId": "io.playphoria.waterpower",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/26/9a/a0269a39-f04c-795f-b23f-0efc24a17b0e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- بدون إعلانات.\n- نقود غير محدودة وعملات غير محدودة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.87.25",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/water-power_2.87.25",
+          "date": "2026-11-08",
+          "size": 188429107
+        }
+      ],
+      "version": "2.87.25",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/water-power_2.87.25",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/water-power_2.87.25",
+      "size": 188429107,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794161898583",
+      "name": "Starbrew Cafe Mystical Merge",
+      "bundleIdentifier": "games.extradimension.cafemerge",
+      "bundleId": "games.extradimension.cafemerge",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/1c/23/5f1c23b2-14cb-bb67-eaf8-608c24ff56ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- الحصول على جواهر عبر عرض مجاني لعناصر المتجر عند الشراء.\n- عملات.\n- طاقة بتكلفة شراء 0.\n- إكمال جميع الطلبات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.85.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/starbrew-cafe-mystical-merge_1.85.1",
+          "date": "2026-11-08",
+          "size": 296747008
+        }
+      ],
+      "version": "1.85.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/starbrew-cafe-mystical-merge_1.85.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/starbrew-cafe-mystical-merge_1.85.1",
+      "size": 296747008,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794161917244",
+      "name": "Great Sword: Twig to Legend",
+      "bundleIdentifier": "com.chopchop.greatSwordRPG",
+      "bundleId": "com.chopchop.greatSwordRPG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/90/03/f2900382-baea-d379-e836-4a0ff41250c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- مضاعف الضرر والدفاع والمكافآت.\n- بدون إعلانات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.14",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/great-sword-twigto-legend_1.14",
+          "date": "2026-11-08",
+          "size": 426141286
+        }
+      ],
+      "version": "1.14",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/great-sword-twigto-legend_1.14",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/great-sword-twigto-legend_1.14",
+      "size": 426141286,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794161941015",
+      "name": "Direction Offline Navigator",
+      "bundleIdentifier": "com.iknowmyway",
+      "bundleId": "com.iknowmyway",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/a1/d5/04a1d5cd-cbe4-3517-8681-4f3df409e2ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- الملاحة دون اتصال بالإنترنت.\n- فتح الميزات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "10.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/direction-offline-navigator_10.2",
+          "date": "2026-11-08",
+          "size": 62285414
+        }
+      ],
+      "version": "10.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/direction-offline-navigator_10.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/direction-offline-navigator_10.2",
+      "size": 62285414,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794162854058",
+      "name": "Knight Maidens Idle Rpg",
+      "bundleIdentifier": "com.yesgames.knightmaidens",
+      "bundleId": "com.yesgames.knightmaidens",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/3e/56/473e568c-2352-283e-fc20-57981c0c868c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- لا تموت أبداً.\n- قتل بضربة واحدة.\n- تجميد الذهب عند الصلاة وتجميد الجواهر.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.11.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/knight-maidens-idle-rpg_1.11.1",
+          "date": "2026-11-08",
+          "size": 559310438
+        }
+      ],
+      "version": "1.11.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/knight-maidens-idle-rpg_1.11.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/knight-maidens-idle-rpg_1.11.1",
+      "size": 559310438,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794162866266",
+      "name": "Micro Rpg",
+      "bundleIdentifier": "com.joliyeti.microrpg",
+      "bundleId": "com.joliyeti.microrpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/69/38/16693844-85b8-2f1c-d6df-3d461d828d29/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- مضاعف الضرر والدفاع والعملات.\n- زيادة العملات عند الإنفاق.\n- شراء تذكرة الملك.\n- بدون إعلانات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.31.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/micro-rpg_1.31.0",
+          "date": "2026-11-08",
+          "size": 355152691
+        }
+      ],
+      "version": "1.31.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/micro-rpg_1.31.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/micro-rpg_1.31.0",
+      "size": 355152691,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794162879701",
+      "name": "Space Base Idle Tower Defense",
+      "bundleIdentifier": "com.idle.space.base.tower.defense",
+      "bundleId": "com.idle.space.base.tower.defense",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/8e/77/8f8e77d1-3b35-937c-85f7-f0ea3e440f1c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- مضاعف الضرر والدفاع والمكافآت.\n- زيادة العملة عند الإنفاق.\n- بدون إعلانات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.5.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/space-base-idle-tower-defense_2.5.4",
+          "date": "2026-11-08",
+          "size": 366687027
+        }
+      ],
+      "version": "2.5.4",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/space-base-idle-tower-defense_2.5.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/space-base-idle-tower-defense_2.5.4",
+      "size": 366687027,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794162905355",
+      "name": "Chop Chop Heroes",
+      "bundleIdentifier": "com.gq.ios.cch",
+      "bundleId": "com.gq.ios.cch",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/de/c6/78dec6f8-42bd-2420-33e1-6775ac6fb743/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- لا تموت أبداً في أنماط اللعب ضد البيئة.\n- القضاء على الأعداء بضربة واحدة.\n- استخدام المهارات دون وقت انتظار.\n- الأعداء لا يستطيعون الهجوم.\n- فوز فوري في المعارك.\n- فوز مضمون في نمط هجوم الزومبي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "12",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chop-chop-heroes_12",
+          "date": "2026-11-08",
+          "size": 1008834969
+        }
+      ],
+      "version": "12",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/chop-chop-heroes_12",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/chop-chop-heroes_12",
+      "size": 1008834969,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794162927323",
+      "name": "Idle Courier",
+      "bundleIdentifier": "com.centurygames.idlecourier",
+      "bundleId": "com.centurygames.idlecourier",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/fd/f9/f0fdf95f-6a42-0731-b17f-97f42bbfb84a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- عملات غير محدودة.\n- بدون إعلانات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.31.36",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-courier_1.31.36",
+          "date": "2026-11-08",
+          "size": 116496793
+        }
+      ],
+      "version": "1.31.36",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/idle-courier_1.31.36",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/idle-courier_1.31.36",
+      "size": 116496793,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794162944291",
+      "name": "TOK CAM - Instant Film Camera",
+      "bundleIdentifier": "com.muyin.camera",
+      "bundleId": "com.muyin.camera",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f0/7e/a0f07efc-e75b-1a9a-0575-089bc4d132a4/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- 43 نوعاً من الكاميرات الفورية وكاميرات CCD والكاميرات الفيلمية.\n- إظهار حبيبات الصورة عند تكبيرها.\n- فتح الميزات (شراء ثم إلغاء).",
+      "category": "أدوات",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.8.195",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tokcam-instant-film-camera_1.8.195",
+          "date": "2026-11-08",
+          "size": 154979532
+        }
+      ],
+      "version": "1.8.195",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tokcam-instant-film-camera_1.8.195",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tokcam-instant-film-camera_1.8.195",
+      "size": 154979532,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794163393116",
+      "name": "Sago Mini World Kids Games",
+      "bundleIdentifier": "com.sagosago.Friends",
+      "bundleId": "com.sagosago.Friends",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/ad/f1/d7adf1f3-4c4f-4c70-8985-ca2d74ee88cd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- فتح جميع الميزات المميزة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "9.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sago-mini-world-kids-games_9.2.0",
+          "date": "2026-11-08",
+          "size": 994888908
+        }
+      ],
+      "version": "9.2.0",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/sago-mini-world-kids-games_9.2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/sago-mini-world-kids-games_9.2.0",
+      "size": 994888908,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794163580399",
+      "name": "Candy Crush Friends Saga",
+      "bundleIdentifier": "com.midasplayer.apps.candycrush4",
+      "bundleId": "com.midasplayer.apps.candycrush4",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/d4/09/28d40962-4e6d-28d0-7f9c-c2dc6b851564/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- تجميد الأرواح والحركات والمعززات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "5.9.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/candy-crush-friends-saga_5.9.1",
+          "date": "2026-11-08"
+        }
+      ],
+      "version": "5.9.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/candy-crush-friends-saga_5.9.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/candy-crush-friends-saga_5.9.1",
+      "size": 0,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794163599195",
+      "name": "Cell to Singularity: Evolution",
+      "bundleIdentifier": "com.lunch.cellstosingularity",
+      "bundleId": "com.lunch.cellstosingularity",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/5e/af/9d5eafcd-b7ab-f528-4a2b-af74a9a62349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- عملات غير محدودة تزداد بدلاً من أن تنقص.\n- عمليات شراء مجانية داخل التطبيق عبر iGMenu.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "51.47",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cellto-singularity-evolution_51.47",
+          "date": "2026-11-08",
+          "size": 232574156
+        }
+      ],
+      "version": "51.47",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cellto-singularity-evolution_51.47",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cellto-singularity-evolution_51.47",
+      "size": 232574156,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794163630111",
+      "name": "Drag Sim: King Of The Racing 2",
+      "bundleIdentifier": "ro.PitStopGames.KingOfTheRacing2",
+      "bundleId": "ro.PitStopGames.KingOfTheRacing2",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/85/cf/a485cfef-de91-4390-8849-d20cbd981431/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- عملات غير محدودة.\n- فتح جميع حزم الشراء داخل التطبيق باستثناء العضوية المميزة بسبب خلل في اللعبة.\n- بدون إعلانات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "2.26280",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragsimkingoftheracing2-v2.26280",
+          "date": "2026-11-08",
+          "size": 1723020083
+        }
+      ],
+      "version": "2.26280",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragsimkingoftheracing2-v2.26280",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragsimkingoftheracing2-v2.26280",
+      "size": 1723020083,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794163649357",
+      "name": "Gear Clicker",
+      "bundleIdentifier": "com.kb.gearclicker",
+      "bundleId": "com.kb.gearclicker",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/12/07/4412070b-85e7-d72c-2210-4e91dd286d6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- بدون إعلانات منبثقة.\n- ترقيات ومعدات مجانية.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "8.21.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gear-clicker_8.21.2",
+          "date": "2026-11-08",
+          "size": 149107507
+        }
+      ],
+      "version": "8.21.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gear-clicker_8.21.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gear-clicker_8.21.2",
+      "size": 149107507,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794163708849",
+      "name": "Cooking Chaos Cooking Games",
+      "bundleIdentifier": "com.cooking.chaos.restaurant.games",
+      "bundleId": "com.cooking.chaos.restaurant.games",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/38/c7/8538c7aa-833d-e0ff-71e3-13691163454c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- جواهر (تعديل وقت المباراة، انتهى وقت المباراة ثم أظهر).\n- عملات عبر مكافأة الإكرامية (تعطيل بعد الحصول عليها).\n- حياة.\n- معززات وفتحها.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "4.5.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cooking-chaos-cooking-games_4.5.1",
+          "date": "2026-11-08",
+          "size": 194615705
+        }
+      ],
+      "version": "4.5.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cooking-chaos-cooking-games_4.5.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cooking-chaos-cooking-games_4.5.1",
+      "size": 194615705,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794163850675",
+      "name": "Hole People",
+      "bundleIdentifier": "com.hyperup.holepeople",
+      "bundleId": "com.hyperup.holepeople",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/9e/93/989e937f-28e5-03ce-9011-b75ecca02c9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- عمليات شراء مجانية داخل التطبيق (Free IAP).",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "31.18.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hole-people_31.18.2",
+          "date": "2026-11-08",
+          "size": 255013683
+        }
+      ],
+      "version": "31.18.2",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hole-people_31.18.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hole-people_31.18.2",
+      "size": 255013683,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794163994315",
+      "name": "Quack Bag Duck Mafia",
+      "bundleIdentifier": "com.bag.blob",
+      "bundleId": "com.bag.blob",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3e/b2/c13eb277-502c-ec93-3ae9-d33d9043691e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- مضاعف الضرر والدفاع.\n- الخلود في المعارك.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.322.267",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/quack-bag-duck-mafia_1.322.267",
+          "date": "2026-11-08",
+          "size": 273573478
+        }
+      ],
+      "version": "1.322.267",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/quack-bag-duck-mafia_1.322.267",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/quack-bag-duck-mafia_1.322.267",
+      "size": 273573478,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794164128269",
+      "name": "Teenieping Magic Match",
+      "bundleIdentifier": "com.plaium.tmm",
+      "bundleId": "com.plaium.tmm",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/7b/d0/bb7bd01a-f4cc-4534-9117-c2548a9add82/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- تجميد الحركات (قد تحدث مشاكل في الخادم أحياناً).",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "209",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/teenieping-magic-match_209",
+          "date": "2026-11-08",
+          "size": 208771481
+        }
+      ],
+      "version": "209",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/teenieping-magic-match_209",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/teenieping-magic-match_209",
+      "size": 208771481,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794164190641",
+      "name": "Guidus One",
+      "bundleIdentifier": "com.izzle.go",
+      "bundleId": "com.izzle.go",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/d2/e2/67d2e2a9-c65f-f8b4-7215-2b23d2b9ed57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- مضاعف الضرر والدفاع والعملات.\n- بدون إعلانات.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.4.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guidus-one_1.4.1",
+          "date": "2026-11-08",
+          "size": 214014361
+        }
+      ],
+      "version": "1.4.1",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/guidus-one_1.4.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/guidus-one_1.4.1",
+      "size": 214014361,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794164282394",
+      "name": "Meow kingdom:cute cat idle rpg",
+      "bundleIdentifier": "com.fathermade.catkingdom",
+      "bundleId": "com.fathermade.catkingdom",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/e2/79/74e27937-791d-ff6b-014d-17c9b5549dc6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- مضاعف الضرر والدفاع.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "00.40.00",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/meowkingdomcutecatidlerpg_00.40.00",
+          "date": "2026-11-08",
+          "size": 996881203
+        }
+      ],
+      "version": "00.40.00",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/meowkingdomcutecatidlerpg_00.40.00",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/meowkingdomcutecatidlerpg_00.40.00",
+      "size": 996881203,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794164351330",
+      "name": "Arcane Arena Tower Defense Td",
+      "bundleIdentifier": "com.panteon.arcanearena",
+      "bundleId": "com.panteon.arcanearena",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/27/75/c8277508-07cf-9e58-77e1-b829b44d7bc1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- بدون إعلانات ومكافآت مجانية.\n- عملات وموارد غير محدودة.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.056",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/arcane-arena-tower-defense-td_1.056",
+          "date": "2026-11-08",
+          "size": 146905497
+        }
+      ],
+      "version": "1.056",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/arcane-arena-tower-defense-td_1.056",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/arcane-arena-tower-defense-td_1.056",
+      "size": 146905497,
+      "addedAt": "2026-11-08",
+      "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794166044622",
+      "name": "ASJ WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "bundleId": "net.whatsapp.WhatsApp",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/eb/39/15eb3965-bec3-4737-950a-9d9df5303e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "مميزات التطبيق :\n- دعم النسخ الاحتياطي المشفر وحفظ النسخة على الجهاز.\n- دعم الإشعارات والتنبيه عند اتصال جهات الاتصال، مع سجل لتحديثاتهم.\n- تسجيل المكالمات.\n- الاحتفاظ بالرسائل المحذوفة وعرض النص الأصلي للرسائل المعدلة.\n- حفظ الرسائل والوسائط المؤقتة.\n- إخفاء آخر ظهور وعلامتي القراءة وحالة الكتابة، ومشاهدة الحالات دون إظهار المشاهدة.\n- قفل التطبيق بالبصمة.\n- تغيير الأيقونات والألوان ودعم تصميم الزجاج السائل باللغتين العربية والإنجليزية.",
+      "category": "تواصل",
+      "recommended": false,
+      "toolVersion": "1.0",
+      "versions": [
+        {
+          "version": "26.43.75",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjwhats-26.43.75-v1.0",
+          "date": "2026-11-08",
+          "size": 165465292
+        }
+      ],
+      "version": "26.43.75",
+      "versionDate": "2026-11-08",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/asjwhats-26.43.75-v1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/asjwhats-26.43.75-v1.0",
+      "size": 165465292,
       "addedAt": "2026-11-08",
       "updatedAt": "2026-11-08"
     }
