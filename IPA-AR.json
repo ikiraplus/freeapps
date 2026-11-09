@@ -11551,19 +11551,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fishing-hook2.1.0.8",
+          "date": "2026-11-09",
+          "size": 253965107
+        },
+        {
           "version": "1.0.4",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fishing-hook2-hack",
-          "date": "2026-08-24",
-          "size": 115238502
+          "date": "2026-08-24"
         }
       ],
-      "version": "1.0.4",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fishing-hook2-hack",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fishing-hook2-hack",
-      "size": 115238502,
+      "version": "1.0.8",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fishing-hook2.1.0.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fishing-hook2.1.0.8",
+      "size": 253965107,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-11-09",
       "_rowKey": 426
     },
     {
@@ -14228,24 +14233,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "5.59.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/good-pizza-great-pizza_5.59.1",
-          "date": "2026-10-22",
-          "size": 486748979
+          "version": "5.60.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/good-pizza-great-pizza_5.60.0",
+          "date": "2026-11-09",
+          "size": 489370419
         },
         {
-          "version": "5.59.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/good-pizza-great-pizza_5.59.0",
-          "date": "2026-10-11"
+          "version": "5.59.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/good-pizza-great-pizza_5.59.1",
+          "date": "2026-10-22"
         }
       ],
-      "version": "5.59.1",
-      "versionDate": "2026-10-22",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/good-pizza-great-pizza_5.59.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/good-pizza-great-pizza_5.59.1",
-      "size": 486748979,
+      "version": "5.60.0",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/good-pizza-great-pizza_5.60.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/good-pizza-great-pizza_5.60.0",
+      "size": 489370419,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-22",
+      "updatedAt": "2026-11-09",
       "_rowKey": 527
     },
     {
@@ -33619,19 +33624,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.78.01",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/matching-story_1.78.01",
+          "date": "2026-11-09",
+          "size": 559939584
+        },
+        {
           "version": "1.75.01",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/matching-story_1.75.01",
-          "date": "2026-09-28",
-          "size": 561722163
+          "date": "2026-09-28"
         }
       ],
-      "version": "1.75.01",
-      "versionDate": "2026-09-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/matching-story_1.75.01",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/matching-story_1.75.01",
-      "size": 561722163,
+      "version": "1.78.01",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/matching-story_1.78.01",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/matching-story_1.78.01",
+      "size": 559939584,
       "addedAt": "2026-09-28",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-11-09"
     },
     {
       "id": "app-1790608757508",
@@ -37985,24 +37995,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.0.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunny-farm-zombie-defense_1.0.9",
-          "date": "2026-10-24",
-          "size": 345191219
+          "version": "1.0.12",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunny-farm-zombie-defense_1.0.12",
+          "date": "2026-11-09",
+          "size": 353370112
         },
         {
-          "version": "1.0.7",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunny-farm-zombie-defense_1.0.7",
-          "date": "2026-10-11"
+          "version": "1.0.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunny-farm-zombie-defense_1.0.9",
+          "date": "2026-10-24"
         }
       ],
-      "version": "1.0.9",
-      "versionDate": "2026-10-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunny-farm-zombie-defense_1.0.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bunny-farm-zombie-defense_1.0.9",
-      "size": 345191219,
+      "version": "1.0.12",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bunny-farm-zombie-defense_1.0.12",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bunny-farm-zombie-defense_1.0.12",
+      "size": 353370112,
       "addedAt": "2026-10-11",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-11-09"
     },
     {
       "id": "app-1791747611617",
@@ -39102,24 +39112,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "797",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/smash-fest_797",
-          "date": "2026-11-04",
-          "size": 385980825
+          "version": "851",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/smash-fest_851",
+          "date": "2026-11-09",
+          "size": 425092710
         },
         {
-          "version": "731",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/smash-fest_731",
-          "date": "2026-10-20"
+          "version": "797",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/smash-fest_797",
+          "date": "2026-11-04"
         }
       ],
-      "version": "797",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/smash-fest_797",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/smash-fest_797",
-      "size": 385980825,
+      "version": "851",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/smash-fest_851",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/smash-fest_851",
+      "size": 425092710,
       "addedAt": "2026-10-13",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-09"
     },
     {
       "id": "app-1791894329325",
@@ -56107,6 +56117,54 @@
       "size": 165465292,
       "addedAt": "2026-11-08",
       "updatedAt": "2026-11-08"
+    },
+    {
+      "id": "app-1794250669443",
+      "name": "Castle Defenders Clash",
+      "bundleIdentifier": "com.mobirix.projectdf1",
+      "bundleId": "com.mobirix.projectdf1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/bb/e7/70bbe75e-e88e-72ae-2162-2fbbd96746e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.2.21",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-defenders-clash_1.2.21",
+          "date": "2026-11-09",
+          "size": 335124889
+        }
+      ],
+      "version": "1.2.21",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/castle-defenders-clash_1.2.21",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/castle-defenders-clash_1.2.21",
+      "size": 335124889,
+      "addedAt": "2026-11-09",
+      "updatedAt": "2026-11-09"
+    },
+    {
+      "id": "app-1794250755212",
+      "name": "Fortune Hunter Golden Saga",
+      "bundleIdentifier": "com.su.kg3.gbi",
+      "bundleId": "com.su.kg3.gbi",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/92/bc/ad92bcfa-31d4-ab4c-8b9f-faeefb764cf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.1.2017962",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortune-hunter-golden-saga_1.1.2017962",
+          "date": "2026-11-09",
+          "size": 397829734
+        }
+      ],
+      "version": "1.1.2017962",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/fortune-hunter-golden-saga_1.1.2017962",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/fortune-hunter-golden-saga_1.1.2017962",
+      "size": 397829734,
+      "addedAt": "2026-11-09",
+      "updatedAt": "2026-11-09"
     }
   ]
 }
