@@ -648,19 +648,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tikdog-2.0",
+          "date": "2026-11-11",
+          "size": 912261
+        },
+        {
           "version": "1.0",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tikdog",
-          "date": "2026-07-20",
-          "size": 629145
+          "date": "2026-07-20"
         }
       ],
-      "version": "1.0",
-      "versionDate": "2026-07-20",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tikdog",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tikdog",
-      "size": 629145,
+      "version": "2.0",
+      "versionDate": "2026-11-11",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/tikdog-2.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/tikdog-2.0",
+      "size": 912261,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-07-20"
+      "updatedAt": "2026-11-11"
     },
     {
       "id": "dylib-1784548216569",
