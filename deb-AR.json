@@ -258,24 +258,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "3.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-V3.9",
-          "date": "2026-11-04",
-          "size": 3460300
+          "version": "3.9.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.9.1",
+          "date": "2026-11-12",
+          "size": 3565158
         },
         {
-          "version": "3.8.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.8.1",
-          "date": "2026-10-31"
+          "version": "3.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-V3.9",
+          "date": "2026-11-04"
         }
       ],
-      "version": "3.9",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-V3.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram-V3.9",
-      "size": 3460300,
+      "version": "3.9.1",
+      "versionDate": "2026-11-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.9.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/Beegram_3.9.1",
+      "size": 3565158,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-12"
     },
     {
       "id": "dylib-1784536158392",
@@ -1058,24 +1058,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.1.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.5",
-          "date": "2026-11-04",
-          "size": 5557452
+          "version": "1.1.7",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.7",
+          "date": "2026-11-12",
+          "size": 5767168
         },
         {
-          "version": "1.1.4",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.4",
-          "date": "2026-10-27"
+          "version": "1.1.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.5",
+          "date": "2026-11-04"
         }
       ],
-      "version": "1.1.5",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.5",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.5",
-      "size": 5557452,
+      "version": "1.1.7",
+      "versionDate": "2026-11-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.7",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/YTKACE-1.1.7",
+      "size": 5767168,
       "addedAt": "2026-07-20",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-12"
     },
     {
       "id": "dylib-1784795898576",
@@ -1653,23 +1653,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "4.6.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.6.1",
-          "date": "2026-10-13",
+          "version": "4.7.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.7.1",
+          "date": "2026-11-12",
           "size": 1153433
         },
         {
-          "version": "4.3",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.3"
+          "version": "4.6.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.6.1",
+          "date": "2026-10-13"
         }
       ],
-      "version": "4.6.1",
-      "versionDate": "2026-10-13",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.6.1",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.6.1",
+      "version": "4.7.1",
+      "versionDate": "2026-11-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.7.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/MoesReddit-4.7.1",
       "size": 1153433,
       "addedAt": "2026-08-30",
-      "updatedAt": "2026-10-13"
+      "updatedAt": "2026-11-12"
     },
     {
       "id": "dylib-1788077646553",
