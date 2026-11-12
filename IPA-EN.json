@@ -189,24 +189,23 @@
       "toolVersion": "3.9.1",
       "versions": [
         {
-          "version": "455.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_455.0.0",
-          "date": "2026-11-11",
+          "version": "454.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-454.0.0",
+          "date": "2026-11-12",
           "size": 415445811
         },
         {
-          "version": "454.0.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-v453.1.0",
-          "date": "2026-11-04"
+          "version": "453.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-453.0.0"
         }
       ],
-      "version": "455.0.0",
-      "versionDate": "2026-11-11",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram_455.0.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram_455.0.0",
+      "version": "454.0.0",
+      "versionDate": "2026-11-12",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/beegram-454.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/beegram-454.0.0",
       "size": 415445811,
       "addedAt": "2026-08-29",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-12"
     },
     {
       "id": "APP-5013744483",
