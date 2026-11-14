@@ -57969,6 +57969,31 @@
       "size": 9017753,
       "addedAt": "2026-11-11",
       "updatedAt": "2026-11-11"
+    },
+    {
+      "id": "app-1794601016101",
+      "name": "Voidgram",
+      "bundleIdentifier": "one.ayugram.unofficial.ios",
+      "bundleId": "one.ayugram.unofficial.ios",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1794601016101.png",
+      "localizedDescription": "Features of the version :\n- Comprehensive support for the notifications feature, as notifications will arrive as quickly as possible and will show the sender’s name, message content, and sender’s photo (notifications include the deleted messages ’s monitoring feature, and you will receive them when someone deletes a message).\n- The full feature of the Ghost Mode , where you can hide the last appearance, read messages and stories, hide writing notifications, record voices, and upload files, and it also includes secret temporary private conversations (you can control the Ghost Mode and exclude some conversations from it). QQNLZS\n- The feature of converting video to voice. You can also convert regular video into a circular video note and control the position of the circle and zoom in and out before sending. You can also send audio files and songs to voice.\n- Advanced search feature where you can search for specific people by ID, by their regular name, or by their ID, and it will give you a very accurate, detailed search.\n- An integrated customization and appearance section in the version where you can choose a font for the application and activation the glass mode or disable it and give you badges and covers and the ability to put rights and a fixed watermark when sending any image or video. You can also lock the application with an icon or Face ID or for specific conversations, the ability to copy several messages at once.\n- Advanced features: For example, the feature of deleting all your messages at once with the push of a button in private or group conversations, the feature of saving song covers, the feature of scanning files, the feature of downloading all conversation media at once, the feature of converting audio to writing and vice versa, advanced translation and changing voices, the ability to save and download an entire conversation and save it with the device .",
+      "category": "communication",
+      "recommended": true,
+      "versions": [
+        {
+          "version": "13.1.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/voidgram-13.1.1-arabic",
+          "date": "2026-11-13",
+          "size": 118698803
+        }
+      ],
+      "version": "13.1.1",
+      "versionDate": "2026-11-14",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/voidgram-13.1.1-arabic",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/voidgram-13.1.1-arabic",
+      "size": 118698803,
+      "addedAt": "2026-11-14",
+      "updatedAt": "2026-11-14"
     }
   ],
   "translationFormatVersion": 5
