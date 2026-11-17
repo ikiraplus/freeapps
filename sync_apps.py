@@ -1008,7 +1008,9 @@ GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
 MYMEMORY_TRANSLATE_URL = "https://api.mymemory.translated.net/get"
 MYMEMORY_EMAIL = os.getenv("MYMEMORY_EMAIL", "").strip()
 
-TRANSLATE_MAX_REQUESTS_PER_MINUTE = int(os.getenv("TRANSLATE_MAX_RPM", "20"))
+# Keep the shared public translation endpoints below their burst limits, including
+# when an older workflow rerun still supplies the previous (higher) environment.
+TRANSLATE_MAX_REQUESTS_PER_MINUTE = max(1, min(18, int(os.getenv("TRANSLATE_MAX_RPM", "18"))))
 
 
 class _SlidingWindowRateLimiter:
@@ -1335,7 +1337,17 @@ def _translate_via_mymemory(protected_text):
     raise last_error or RuntimeError("MyMemory failed")
 
 
+# A single HTTP 429 should pause Google requests for all translation workers.
+# Repeated retries against a throttled endpoint caused the EN sync to fail.
+_google_cooldown_until = 0.0
+_google_cooldown_lock = threading.Lock()
+
+
 def _translate_via_google(protected_text):
+    global _google_cooldown_until
+    with _google_cooldown_lock:
+        if time.monotonic() < _google_cooldown_until:
+            raise RuntimeError("Google Translate is rate-limited; trying MyMemory")
     params = urllib.parse.urlencode(
         {
             "client": "gtx",
@@ -1370,10 +1382,10 @@ def _translate_via_google(protected_text):
         except urllib.error.HTTPError as exc:
             last_error = RuntimeError(f"Google Translate HTTP {exc.code}")
             if exc.code in {429, 403}:
-                delay = min(10 * attempt, 30)
-                print(f"⏳ Google Translate throttled, waiting {delay}s before retry ({attempt}/{max_attempts})")
-                time.sleep(delay)
-                continue
+                with _google_cooldown_lock:
+                    _google_cooldown_until = max(_google_cooldown_until, time.monotonic() + 180)
+                print("⏳ Google Translate throttled; using MyMemory during a 3-minute cooldown", flush=True)
+                raise last_error
             if exc.code not in {408, 500, 502, 503, 504}:
                 raise last_error
         except (urllib.error.URLError, TimeoutError, IndexError, json.JSONDecodeError) as exc:
@@ -1391,6 +1403,16 @@ def _translate_line_to_english(text):
         return ""
 
     protected_text, glossary_tokens = _protect_glossary_terms(_protect_line_breaks(text))
+
+    # MyMemory rejects q strings longer than 500 characters (HTTP 403).
+    # Measure AFTER glossary and line-break protection, which can expand text
+    # beyond the original chunk limit. Split further without dropping features.
+    if len(protected_text) > 380:
+        pieces = _split_translation_chunks(text, limit=max(100, len(text) // 2))
+        if len(pieces) < 2:
+            middle = len(text) // 2
+            pieces = [text[:middle], text[middle:]]
+        return "\n".join(_translate_line_to_english(piece) for piece in pieces if piece).strip()
 
     google_error = None
     for provider in (_translate_via_google, _translate_via_mymemory):
@@ -1412,7 +1434,8 @@ def _translate_line_to_english(text):
     raise RuntimeError("Unable to produce an English-only translation")
 
 
-TRANSLATION_CHUNK_CHARS = int(os.getenv("TRANSLATION_CHUNK_CHARS", "800"))
+# Leave headroom for glossary placeholders so fallback provider queries fit.
+TRANSLATION_CHUNK_CHARS = max(100, min(260, int(os.getenv("TRANSLATION_CHUNK_CHARS", "260"))))
 
 
 def _split_translation_chunks(text, limit=None):
@@ -1421,7 +1444,7 @@ def _split_translation_chunks(text, limit=None):
     if not text:
         return []
 
-    limit = max(300, int(limit or TRANSLATION_CHUNK_CHARS))
+    limit = max(100, int(limit or TRANSLATION_CHUNK_CHARS))
     if len(text) <= limit:
         return [text]
 
@@ -1475,7 +1498,8 @@ def app_identity_for_translation(app):
     return name_identity_key(app)
 
 
-TRANSLATE_WORKERS = int(os.getenv("TRANSLATE_WORKERS", "3"))
+# Limit in-flight requests to prevent Google/MyMemory burst throttling.
+TRANSLATE_WORKERS = max(1, min(2, int(os.getenv("TRANSLATE_WORKERS", "2"))))
 
 EN_SOURCE_URL = "https://ikiraplus.pages.dev/IPA-EN.json"
 
