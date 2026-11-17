@@ -1508,6 +1508,16 @@ TRANSLATION_FORMAT_VERSION = 5
 
 
 def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
+    # Exact-match, human-reviewed translations for descriptions that exceeded
+    # public API limits. Never use an override if the Arabic source changed.
+    curated_descriptions = {}
+    if os.path.isfile("translation-overrides.json"):
+        with open("translation-overrides.json", "r", encoding="utf-8") as handle:
+            override_data = json.load(handle)
+        curated_descriptions = override_data.get("descriptions", {})
+        if not isinstance(curated_descriptions, dict):
+            raise ValueError("translation-overrides.json: descriptions must be a dictionary")
+    curated_count = 0
 
     if not isinstance(old_en_source, dict) or old_en_source.get("translationFormatVersion") != TRANSLATION_FORMAT_VERSION:
         if isinstance(old_en_source, dict) and old_en_source.get("apps"):
@@ -1558,6 +1568,16 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
             reused += 1
             continue
 
+        override = curated_descriptions.get(str(app.get("id") or ""))
+        if isinstance(override, dict) and (
+            clean_text_keep_lines(override.get("arabic")) == arabic_description
+        ):
+            reviewed_english = normalize_english_description(override.get("english"))
+            if reviewed_english and not contains_arabic_script(reviewed_english):
+                app["localizedDescription"] = reviewed_english
+                curated_count += 1
+                continue
+
         pending.append((app, arabic_description, existing_english))
 
     failed = 0
@@ -1586,6 +1606,7 @@ def build_english_source(ar_source, old_ar_source=None, old_en_source=None):
 
     print(f"🌐 English descriptions translated: {translated}")
     print(f"♻️ English descriptions reused: {reused}")
+    print(f"✅ Exact-match reviewed English descriptions: {curated_count}")
     if failed:
         print(f"⚠️ English descriptions that failed to translate this run: {failed}")
     print(f"ℹ️ Apps without Arabic descriptions: {empty}")
