@@ -162,9 +162,10 @@ jobs:
       - name: Translate only changed descriptions to English
         env:
           PYTHONUNBUFFERED: '1'
-          TRANSLATE_WORKERS: '6'
-          TRANSLATE_MAX_RPM: '45'
-          TRANSLATION_CHUNK_CHARS: '800'
+          # Conservative public-API budget; sync_apps.py enforces these ceilings too.
+          TRANSLATE_WORKERS: '2'
+          TRANSLATE_MAX_RPM: '18'
+          TRANSLATION_CHUNK_CHARS: '260'
         run: |
           set -euo pipefail
           python -u sync_apps.py \
