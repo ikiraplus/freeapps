@@ -390,6 +390,11 @@ jobs:
                   try:
                       download_asset(asset, ipa_path)
                       bundle_id = inspect_main_app(ipa_path)
+                      expected_bundle_id = str(rule.get("expected_bundle_id") or "").strip()
+                      if expected_bundle_id and bundle_id != expected_bundle_id:
+                          raise ValueError(
+                              f"bundle ID mismatch: expected {expected_bundle_id}, got {bundle_id}"
+                          )
                   except Exception as exc:
                       # رفض آمن: لا يوضع رابط IPA لم ينجح فحصه الكامل.
                       write_manifest(plist_path, "")
