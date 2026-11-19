@@ -14325,19 +14325,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.183.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gumball3000worldtourrace_1.183.0",
+          "date": "2026-11-19",
+          "size": 919810867
+        },
+        {
           "version": "1.72",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gumball-3000_world-tour-race",
-          "date": "2026-08-24",
-          "size": 675702374
+          "date": "2026-08-24"
         }
       ],
-      "version": "1.72",
-      "versionDate": "2026-09-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gumball-3000_world-tour-race",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gumball-3000_world-tour-race",
-      "size": 675702374,
+      "version": "1.183.0",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gumball3000worldtourrace_1.183.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gumball3000worldtourrace_1.183.0",
+      "size": 919810867,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-11-19",
       "_rowKey": 529
     },
     {
@@ -29342,19 +29347,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "99.1.64",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reinforced-wooden-stick_99.1.64",
+          "date": "2026-11-19",
+          "size": 796183756
+        },
+        {
           "version": "99.1.59",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reinforced-wooden-stick_99.1.59",
-          "date": "2026-09-23",
-          "size": 803733504
+          "date": "2026-09-23"
         }
       ],
-      "version": "99.1.59",
-      "versionDate": "2026-09-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reinforced-wooden-stick_99.1.59",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reinforced-wooden-stick_99.1.59",
-      "size": 803733504,
+      "version": "99.1.64",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/reinforced-wooden-stick_99.1.64",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/reinforced-wooden-stick_99.1.64",
+      "size": 796183756,
       "addedAt": "2026-09-23",
-      "updatedAt": "2026-09-24"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1790151341669",
@@ -30054,24 +30064,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "13.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yarn-fever-unravel-puzzle_13.9",
-          "date": "2026-11-06",
-          "size": 1226414489
+          "version": "14.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yarn-fever-unravel-puzzle_14.3",
+          "date": "2026-11-19",
+          "size": 1238997401
         },
         {
-          "version": "13.7",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yarn-fever-unravel-puzzle_13.7",
-          "date": "2026-10-31"
+          "version": "13.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yarn-fever-unravel-puzzle_13.9",
+          "date": "2026-11-06"
         }
       ],
-      "version": "13.9",
-      "versionDate": "2026-11-06",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yarn-fever-unravel-puzzle_13.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/yarn-fever-unravel-puzzle_13.9",
-      "size": 1226414489,
+      "version": "14.3",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/yarn-fever-unravel-puzzle_14.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/yarn-fever-unravel-puzzle_14.3",
+      "size": 1238997401,
       "addedAt": "2026-09-24",
-      "updatedAt": "2026-11-06"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1790253496109",
@@ -33269,23 +33279,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "6.2.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/metri-athe-starlight_6.2.0",
-          "date": "2026-10-15",
-          "size": 347917516
+          "version": "6.3.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/metri-athe-starlight_6.3.1",
+          "date": "2026-11-19",
+          "size": 437151334
         },
         {
-          "version": "6.0.1",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/metri-athe-starlight_6.0.1"
+          "version": "6.2.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/metri-athe-starlight_6.2.0",
+          "date": "2026-10-15"
         }
       ],
-      "version": "6.2.0",
-      "versionDate": "2026-10-15",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/metri-athe-starlight_6.2.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/metri-athe-starlight_6.2.0",
-      "size": 347917516,
+      "version": "6.3.1",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/metri-athe-starlight_6.3.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/metri-athe-starlight_6.3.1",
+      "size": 437151334,
       "addedAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1790604570281",
@@ -38829,24 +38840,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.0.19",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lucky-pirates-ahoy_1.0.19",
-          "date": "2026-10-27",
-          "size": 674863513
+          "version": "1.0.23",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lucky-pirates-ahoy_1.0.23",
+          "date": "2026-11-19",
+          "size": 684720128
         },
         {
-          "version": "1.0.16",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lucky-pirates-ahoy_1.0.16",
-          "date": "2026-10-22"
+          "version": "1.0.19",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lucky-pirates-ahoy_1.0.19",
+          "date": "2026-10-27"
         }
       ],
-      "version": "1.0.19",
-      "versionDate": "2026-10-27",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lucky-pirates-ahoy_1.0.19",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lucky-pirates-ahoy_1.0.19",
-      "size": 674863513,
+      "version": "1.0.23",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/lucky-pirates-ahoy_1.0.23",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/lucky-pirates-ahoy_1.0.23",
+      "size": 684720128,
       "addedAt": "2026-10-12",
-      "updatedAt": "2026-10-27"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1791795136042",
@@ -39738,24 +39749,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "0.129.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-land_0.129.0",
-          "date": "2026-11-04",
-          "size": 643091660
+          "version": "0.132.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-land_0.132.0",
+          "date": "2026-11-19",
+          "size": 637114777
         },
         {
-          "version": "0.127.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-land_0.127.0",
-          "date": "2026-10-31"
+          "version": "0.129.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-land_0.129.0",
+          "date": "2026-11-04"
         }
       ],
-      "version": "0.129.0",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-land_0.129.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pocket-land_0.129.0",
-      "size": 643091660,
+      "version": "0.132.0",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pocket-land_0.132.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pocket-land_0.132.0",
+      "size": 637114777,
       "addedAt": "2026-10-13",
-      "updatedAt": "2026-11-04"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1791897417958",
@@ -42432,25 +42443,30 @@
       "name": "32 Heroes Retro Rpg",
       "bundleIdentifier": "com.lunosoft.ttheroes",
       "bundleId": "com.lunosoft.ttheroes",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsTajbbv-KtLBAtzh1lgbopNq-lF3EB6r9eRcg5o9gQ&s",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/e5/c3/78e5c3a8-499c-d3e3-5c30-ac7dfb3fd986/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "- مضاعفة قوة الضرر.\n- مضاعفة قوة الدفاع.\n- تجميد العملات.\n- استلام مكافآت التمرير المميز.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
+          "version": "1.4.86",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heroes-retro-rpg_1.4.86",
+          "date": "2026-11-19",
+          "size": 563714457
+        },
+        {
           "version": "1.4.84",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heroes-retro-rpg_1.4.84",
-          "date": "2026-10-21",
-          "size": 562141593
+          "date": "2026-10-21"
         }
       ],
-      "version": "1.4.84",
-      "versionDate": "2026-10-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heroes-retro-rpg_1.4.84",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/heroes-retro-rpg_1.4.84",
-      "size": 562141593,
+      "version": "1.4.86",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/heroes-retro-rpg_1.4.86",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/heroes-retro-rpg_1.4.86",
+      "size": 563714457,
       "addedAt": "2026-10-21",
-      "updatedAt": "2026-10-21"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1792596895886",
@@ -43053,19 +43069,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "13.1.189",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zombiesvs-towers_13.1.189",
+          "date": "2026-11-19",
+          "size": 323590553
+        },
+        {
           "version": "13.1.186",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zombiesvs-towers_13.1.186",
-          "date": "2026-10-21",
-          "size": 318033100
+          "date": "2026-10-21"
         }
       ],
-      "version": "13.1.186",
-      "versionDate": "2026-10-21",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zombiesvs-towers_13.1.186",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zombiesvs-towers_13.1.186",
-      "size": 318033100,
+      "version": "13.1.189",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/zombiesvs-towers_13.1.189",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/zombiesvs-towers_13.1.189",
+      "size": 323590553,
       "addedAt": "2026-10-21",
-      "updatedAt": "2026-10-21"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1792601785095",
@@ -46393,19 +46414,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "10.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/driving-academy-car-games_10.4",
+          "date": "2026-11-19",
+          "size": 1319003750
+        },
+        {
           "version": "10.3",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/driving-academy-car-games_10.3",
-          "date": "2026-10-24",
-          "size": 1299185664
+          "date": "2026-10-24"
         }
       ],
-      "version": "10.3",
-      "versionDate": "2026-10-24",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/driving-academy-car-games_10.3",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/driving-academy-car-games_10.3",
-      "size": 1299185664,
+      "version": "10.4",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/driving-academy-car-games_10.4",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/driving-academy-car-games_10.4",
+      "size": 1319003750,
       "addedAt": "2026-10-24",
-      "updatedAt": "2026-10-24"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1792837611206",
@@ -48737,19 +48763,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "1.41.600",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends2.1.41.600",
+          "date": "2026-11-19",
+          "size": 714814259
+        },
+        {
           "version": "1.40.600",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends-2-v1.40.600",
-          "date": "2026-10-26",
-          "size": 710724812
+          "date": "2026-10-26"
         }
       ],
-      "version": "1.40.600",
-      "versionDate": "2026-10-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends-2-v1.40.600",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends-2-v1.40.600",
-      "size": 710724812,
+      "version": "1.41.600",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends2.1.41.600",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dynasty-legends2.1.41.600",
+      "size": 714814259,
       "addedAt": "2026-10-26",
-      "updatedAt": "2026-10-26"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1793027666222",
@@ -51687,19 +51718,24 @@
       "recommended": false,
       "versions": [
         {
+          "version": "467.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pickaxe-king-island_467.5",
+          "date": "2026-11-19",
+          "size": 367840460
+        },
+        {
           "version": "466.2",
           "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pickaxe-king-island_466.2",
-          "date": "2026-10-29",
-          "size": 349700096
+          "date": "2026-10-29"
         }
       ],
-      "version": "466.2",
-      "versionDate": "2026-10-29",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pickaxe-king-island_466.2",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pickaxe-king-island_466.2",
-      "size": 349700096,
+      "version": "467.5",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pickaxe-king-island_467.5",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pickaxe-king-island_467.5",
+      "size": 367840460,
       "addedAt": "2026-10-29",
-      "updatedAt": "2026-10-29"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1793304909230",
@@ -53881,24 +53917,24 @@
       "recommended": false,
       "versions": [
         {
-          "version": "1.0.9",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mika-dungeon-backpacker_1.0.9",
-          "date": "2026-11-11",
-          "size": 420688691
+          "version": "1.0.11",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mika-dungeon-backpacker_1.0.11",
+          "date": "2026-11-19",
+          "size": 449419673
         },
         {
-          "version": "1.0.8",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mika-dungeon-backpacker_1.0.8",
-          "date": "2026-11-02"
+          "version": "1.0.9",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mika-dungeon-backpacker_1.0.9",
+          "date": "2026-11-11"
         }
       ],
-      "version": "1.0.9",
-      "versionDate": "2026-11-11",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mika-dungeon-backpacker_1.0.9",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mika-dungeon-backpacker_1.0.9",
-      "size": 420688691,
+      "version": "1.0.11",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mika-dungeon-backpacker_1.0.11",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mika-dungeon-backpacker_1.0.11",
+      "size": 449419673,
       "addedAt": "2026-11-02",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-19"
     },
     {
       "id": "app-1793642020813",
@@ -58891,6 +58927,150 @@
       "size": 290245836,
       "addedAt": "2026-11-17",
       "updatedAt": "2026-11-17"
+    },
+    {
+      "id": "app-1795023472190",
+      "name": "Left to Survive: Zombie Games",
+      "bundleIdentifier": "com.glu.zbs",
+      "bundleId": "com.glu.zbs",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/ee/21/9eee21de-2155-958f-a711-332a5859c19b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "9.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leftto-survive-zombie-games_9.0.0",
+          "date": "2026-11-18",
+          "size": 1364721664
+        }
+      ],
+      "version": "9.0.0",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/leftto-survive-zombie-games_9.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/leftto-survive-zombie-games_9.0.0",
+      "size": 1364721664,
+      "addedAt": "2026-11-19",
+      "updatedAt": "2026-11-19"
+    },
+    {
+      "id": "app-1795023488647",
+      "name": "Taichi Panda Heroes",
+      "bundleIdentifier": "com.snailgameusa.taijipandatwo",
+      "bundleId": "com.snailgameusa.taijipandatwo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/34/79/2a347981-5772-2ebb-9ba9-8f896f923598/AppIcon-snail-0-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.4.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/taichi-panda-heroes_1.4.3",
+          "date": "2026-11-18",
+          "size": 819462144
+        }
+      ],
+      "version": "1.4.3",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/taichi-panda-heroes_1.4.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/taichi-panda-heroes_1.4.3",
+      "size": 819462144,
+      "addedAt": "2026-11-19",
+      "updatedAt": "2026-11-19"
+    },
+    {
+      "id": "app-1795023626293",
+      "name": "Bedtime vs Nightmares",
+      "bundleIdentifier": "llc.greenfieldlabs.bedtimevsnightmares",
+      "bundleId": "llc.greenfieldlabs.bedtimevsnightmares",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/4c/49/f24c499d-9403-fc54-4923-8d964e9678c1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.4.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bedtimevs-nightmares_1.4.0",
+          "date": "2026-11-18",
+          "size": 311112499
+        }
+      ],
+      "version": "1.4.0",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/bedtimevs-nightmares_1.4.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/bedtimevs-nightmares_1.4.0",
+      "size": 311112499,
+      "addedAt": "2026-11-19",
+      "updatedAt": "2026-11-19"
+    },
+    {
+      "id": "app-1795023974192",
+      "name": "Football 26 League Superstar",
+      "bundleIdentifier": "com.ikiraplus.apps.football-26-league-superstar.e2f698c80a",
+      "bundleId": "",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795023974192.png",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football26leaguesuperstar_1.0.0",
+          "date": "2026-11-18",
+          "size": 1841823744
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football26leaguesuperstar_1.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football26leaguesuperstar_1.0.0",
+      "size": 1841823744,
+      "addedAt": "2026-11-19",
+      "updatedAt": "2026-11-19"
+    },
+    {
+      "id": "app-1795024013520",
+      "name": "Gunboat God",
+      "bundleIdentifier": "co.uk.fireshine.gunboatgod",
+      "bundleId": "co.uk.fireshine.gunboatgod",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/8e/82/2a8e8292-5070-f4dc-4bbf-7251d3bf3c0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gunboat-god_1.0.2",
+          "date": "2026-11-18",
+          "size": 1036727091
+        }
+      ],
+      "version": "1.0.2",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/gunboat-god_1.0.2",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/gunboat-god_1.0.2",
+      "size": 1036727091,
+      "addedAt": "2026-11-19",
+      "updatedAt": "2026-11-19"
+    },
+    {
+      "id": "app-1795024027278",
+      "name": "Valkyrie Idle",
+      "bundleIdentifier": "com.mobirix.valkyrieidle",
+      "bundleId": "com.mobirix.valkyrieidle",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/37/74/a43774fb-6a8a-fc1c-b8e8-33109f2c52e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "3.25.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/valkyrie-idle_3.25.0",
+          "date": "2026-11-18",
+          "size": 514955673
+        }
+      ],
+      "version": "3.25.0",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/valkyrie-idle_3.25.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/valkyrie-idle_3.25.0",
+      "size": 514955673,
+      "addedAt": "2026-11-19",
+      "updatedAt": "2026-11-19"
     }
   ]
 }
