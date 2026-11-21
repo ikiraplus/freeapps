@@ -1609,29 +1609,30 @@
       "name": "Pubg GL Hack",
       "bundleIdentifier": "com.tencent.ig",
       "bundleId": "com.tencent.ig",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "مميزات الهاك :\n- كشف اللاعبين (رادار)\n- حذف قيست\n- تصويب تلقائي (Aim Bot)\n- ثبات داخلي\n\nاستخدام هذا الهاك على مسؤوليتك الخاصة.",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/APP-5874636765.png",
+      "localizedDescription": "مميزات الهاك :\n- كشف اللاعبين (رادار)\n- سكنات ومظاهر كاملة\n- تصويب تلقائي (Aim Bot)\n- اخفاء الهاك أثناء التصوير\n\nاستخدام هذا الهاك على مسؤوليتك الخاصة.",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "4.6.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-mobile-hack-v4.6.0",
-          "date": "2026-09-15",
-          "size": 3788505088
+          "version": "4.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-hack-gl-v4.7.0",
+          "date": "2026-11-21",
+          "size": 3722339942
         },
         {
-          "version": "4.5.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-gl-4.5.0"
+          "version": "4.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-mobile-hack-v4.6.0",
+          "date": "2026-09-15"
         }
       ],
-      "version": "4.6.0",
-      "versionDate": "2026-09-15",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-mobile-hack-v4.6.0",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-mobile-hack-v4.6.0",
-      "size": 3788505088,
+      "version": "4.7.0",
+      "versionDate": "2026-11-21",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-hack-gl-v4.7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-hack-gl-v4.7.0",
+      "size": 3722339942,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-09-15",
+      "updatedAt": "2026-11-21",
       "_rowKey": 59
     },
     {
@@ -5006,29 +5007,30 @@
       "name": "Pubg KR Hack",
       "bundleIdentifier": "com.pubg.krmobile",
       "bundleId": "com.pubg.krmobile",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFmyHs5ENejMyMXmdH4SrN1HSh9_DX3gj-w&s",
-      "localizedDescription": "هاك ببجي الكورية ، لا تستخدم حسابك الأساسي.\n\nمميزات الهاك :\n- رادار كشف الاعبين\n- مود المنيو\n- الطلق التلقائي\n- إخفاء الهاك أثناء التصوير",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/APP-1167550679.png",
+      "localizedDescription": "هاك ببجي الكورية ، لا تستخدم حسابك الأساسي.\n\nمميزات الهاك :\n- رادار كشف الاعبين\n- ايم بوت - AIMBOT\n- سكنات ومظاهر كاملة\n- إخفاء الهاك أثناء التصوير",
       "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
-          "version": "4.6.0",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0-ikiraplus",
-          "date": "2026-10-26",
-          "size": 3770574438
+          "version": "4.7.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-hack-kr-v4.7.0",
+          "date": "2026-11-21",
+          "size": 3732825702
         },
         {
-          "version": "3.4.5",
-          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/kurd4u-kr-v3.4.5"
+          "version": "4.6.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0-ikiraplus",
+          "date": "2026-10-26"
         }
       ],
-      "version": "4.6.0",
-      "versionDate": "2026-10-26",
-      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0-ikiraplus",
-      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-kr-hack-v4.6.0-ikiraplus",
-      "size": 3770574438,
+      "version": "4.7.0",
+      "versionDate": "2026-11-21",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/pubg-hack-kr-v4.7.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/pubg-hack-kr-v4.7.0",
+      "size": 3732825702,
       "addedAt": "2026-08-22",
-      "updatedAt": "2026-10-26",
+      "updatedAt": "2026-11-21",
       "_rowKey": 185
     },
     {
