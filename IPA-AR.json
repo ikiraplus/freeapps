@@ -59081,7 +59081,7 @@
       "bundleId": "org.nxnative.01000d7024c08000",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444115354.png",
       "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
-      "category": "ألعاب محاكيات",
+      "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
@@ -59106,7 +59106,7 @@
       "bundleId": "org.nxnative.0100fc301fb3e000",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444318289.png",
       "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
-      "category": "ألعاب محاكيات",
+      "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
@@ -59131,7 +59131,7 @@
       "bundleId": "org.nxnative.0100b99019412000",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444400923.png",
       "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
-      "category": "ألعاب محاكيات",
+      "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
@@ -59156,7 +59156,7 @@
       "bundleId": "org.nxnative.01002e7016c46000",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444480558.png",
       "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
-      "category": "ألعاب محاكيات",
+      "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
@@ -59181,7 +59181,7 @@
       "bundleId": "org.nxnative.010028600ebda000",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444511593.png",
       "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
-      "category": "ألعاب محاكيات",
+      "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
@@ -59206,7 +59206,7 @@
       "bundleId": "org.nxnative.0100aaf02813c000",
       "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444599657.png",
       "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
-      "category": "ألعاب محاكيات",
+      "category": "ألعاب",
       "recommended": false,
       "versions": [
         {
@@ -59221,6 +59221,281 @@
       "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ready-or-nowhere-1.0.0-ikiraplus",
       "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ready-or-nowhere-1.0.0-ikiraplus",
       "size": 2357408563,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795447520395",
+      "name": "Last Night of Winter",
+      "bundleIdentifier": "org.nxnative.0100d1e019c72000",
+      "bundleId": "org.nxnative.0100d1e019c72000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795447520395.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-nightof-winter_1.0.1",
+          "date": "2026-11-23",
+          "size": 332188876
+        }
+      ],
+      "version": "1.0.1",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/last-nightof-winter_1.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/last-nightof-winter_1.0.1",
+      "size": 332188876,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795447609884",
+      "name": "NieR:Automata The End of YoRHa Edition",
+      "bundleIdentifier": "org.nxnative.0100B8E016F76000",
+      "bundleId": "org.nxnative.0100B8E016F76000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795447609884.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nie-r-automata-the-endof-yo-r-ha-edition_1.0",
+          "date": "2026-11-23",
+          "size": 231106150
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/nie-r-automata-the-endof-yo-r-ha-edition_1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/nie-r-automata-the-endof-yo-r-ha-edition_1.0",
+      "size": 231106150,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795447677814",
+      "name": "Moomin Midsummer Madness",
+      "bundleIdentifier": "org.nxnative.010009e0263ca000",
+      "bundleId": "org.nxnative.010009e0263ca000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795447677814.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moomin-midsummer-madness_1.0.1",
+          "date": "2026-11-23",
+          "size": 1837524582
+        }
+      ],
+      "version": "1.0.1",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/moomin-midsummer-madness_1.0.1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/moomin-midsummer-madness_1.0.1",
+      "size": 1837524582,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795447750659",
+      "name": "DRAGON BALL: Sparking! ZERO",
+      "bundleIdentifier": "org.nxnative.010035F022078000",
+      "bundleId": "org.nxnative.010035F022078000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795447750659.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragonball-sparking-zero_1.0",
+          "date": "2026-11-23",
+          "size": 1660315238
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragonball-sparking-zero_1.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragonball-sparking-zero_1.0",
+      "size": 1660315238,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795448045371",
+      "name": "Dragon Sinker Descendants of Legend",
+      "bundleIdentifier": "org.nxnative.0100356009860000",
+      "bundleId": "org.nxnative.0100356009860000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795448045371.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragon-sinker-descendantsof-legend_1.0.3",
+          "date": "2026-11-23",
+          "size": 269798604
+        }
+      ],
+      "version": "1.0.3",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/dragon-sinker-descendantsof-legend_1.0.3",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/dragon-sinker-descendantsof-legend_1.0.3",
+      "size": 269798604,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795448137073",
+      "name": "Monument Valley 3",
+      "bundleIdentifier": "org.nxnative.0100ec70226f0000",
+      "bundleId": "org.nxnative.0100ec70226f0000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795448137073.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.5.20160",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monument-valley3-v1.5.20160",
+          "date": "2026-11-23",
+          "size": 898210201
+        }
+      ],
+      "version": "1.5.20160",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monument-valley3-v1.5.20160",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monument-valley3-v1.5.20160",
+      "size": 898210201,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795448188934",
+      "name": "Monument Valley 2",
+      "bundleIdentifier": "org.nxnative.010078c021280000",
+      "bundleId": "org.nxnative.010078c021280000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795448188934.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.385",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monument-valley2-v1.0.385-1",
+          "date": "2026-11-23",
+          "size": 541799219
+        }
+      ],
+      "version": "1.0.385",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/monument-valley2-v1.0.385-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/monument-valley2-v1.0.385-1",
+      "size": 541799219,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795448245915",
+      "name": "Blasphemous 2",
+      "bundleIdentifier": "org.nxnative.010040801a4c8000",
+      "bundleId": "org.nxnative.010040801a4c8000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795448245915.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.8",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blasphemous2-v1.0.8",
+          "date": "2026-11-23",
+          "size": 2134691020
+        }
+      ],
+      "version": "1.0.8",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/blasphemous2-v1.0.8",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/blasphemous2-v1.0.8",
+      "size": 2134691020,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795448305161",
+      "name": "Hollow Knight Silksong",
+      "bundleIdentifier": "org.nxnative.010013c00e930000",
+      "bundleId": "org.nxnative.010013c00e930000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795448305161.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.40",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hollow-knight-silksong_1.0.40",
+          "date": "2026-11-23",
+          "size": 230162432
+        }
+      ],
+      "version": "1.0.40",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/hollow-knight-silksong_1.0.40",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/hollow-knight-silksong_1.0.40",
+      "size": 230162432,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795448359278",
+      "name": "Farlands",
+      "bundleIdentifier": "org.nxnative.0100f4601cba6000",
+      "bundleId": "org.nxnative.0100f4601cba6000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795448359278.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.4",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/farlands_1.0.4-1",
+          "date": "2026-11-23",
+          "size": 1938083020
+        }
+      ],
+      "version": "1.0.4",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/farlands_1.0.4-1",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/farlands_1.0.4-1",
+      "size": 1938083020,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795448410719",
+      "name": "Football 26 League Superstar",
+      "bundleIdentifier": "org.nxnative.0100293027dea000",
+      "bundleId": "org.nxnative.0100293027dea000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795448410719.png",
+      "localizedDescription": "لعبة نينتندو سويتش حصرية.\n\n- تتطلب آيفون 16 فما فوق.\n- تتطلب إصدار ios26 فما فوق.\n- قد تحتوي تحميل داخلي.",
+      "category": "ألعاب",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football-26-league-superstar_1.0.0",
+          "date": "2026-11-23",
+          "size": 1841823744
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/football-26-league-superstar_1.0.0",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/football-26-league-superstar_1.0.0",
+      "size": 1841823744,
       "addedAt": "2026-11-23",
       "updatedAt": "2026-11-23"
     }
