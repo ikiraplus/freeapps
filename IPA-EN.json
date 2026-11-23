@@ -59080,6 +59080,156 @@
       "addedAt": "2026-11-19",
       "updatedAt": "2026-11-19",
       "localizedDescription": ""
+    },
+    {
+      "id": "app-1795444115354",
+      "name": "Solateria",
+      "bundleIdentifier": "org.nxnative.01000d7024c08000",
+      "bundleId": "org.nxnative.01000d7024c08000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444115354.png",
+      "localizedDescription": "Exclusive Nintendo Switch game.\n\n- Requires iPhone 16 or older.\n- version requires ios26 and above.\n- May contain internal download .",
+      "category": "Simulator games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.5",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/solateria-1.0.5-ikiraplus",
+          "date": "2026-11-23",
+          "size": 2594806169
+        }
+      ],
+      "version": "1.0.5",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/solateria-1.0.5-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/solateria-1.0.5-ikiraplus",
+      "size": 2594806169,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795444318289",
+      "name": "AirStrike Command Tactical Assault",
+      "bundleIdentifier": "org.nxnative.0100fc301fb3e000",
+      "bundleId": "org.nxnative.0100fc301fb3e000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444318289.png",
+      "localizedDescription": "Exclusive Nintendo Switch game.\n\n- Requires iPhone 16 or older.\n- version requires ios26 and above.\n- May contain internal download .",
+      "category": "Simulator games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/air_strike_command_tactical_assault_operation_1.0.0_ikiraplus",
+          "date": "2026-11-23",
+          "size": 3524683366
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/air_strike_command_tactical_assault_operation_1.0.0_ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/air_strike_command_tactical_assault_operation_1.0.0_ikiraplus",
+      "size": 3524683366,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795444400923",
+      "name": "Mario vs Donkey Kong",
+      "bundleIdentifier": "org.nxnative.0100b99019412000",
+      "bundleId": "org.nxnative.0100b99019412000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444400923.png",
+      "localizedDescription": "Exclusive Nintendo Switch game.\n\n- Requires iPhone 16 or older.\n- version requires ios26 and above.\n- May contain internal download .",
+      "category": "Simulator games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.1",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mario-vs.-donkey-kong-1.0.1-ikiraplus",
+          "date": "2026-11-23",
+          "size": 2156291686
+        }
+      ],
+      "version": "1.0.1",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/mario-vs.-donkey-kong-1.0.1-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/mario-vs.-donkey-kong-1.0.1-ikiraplus",
+      "size": 2156291686,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795444480558",
+      "name": "Cult Of The Lamb",
+      "bundleIdentifier": "org.nxnative.01002e7016c46000",
+      "bundleId": "org.nxnative.01002e7016c46000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444480558.png",
+      "localizedDescription": "Exclusive Nintendo Switch game.\n\n- Requires iPhone 16 or older.\n- version requires ios26 and above.\n- May contain internal download .",
+      "category": "Simulator games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.5.27",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cult-of-the-lamb-1.5.27-ikiraplus",
+          "date": "2026-11-23",
+          "size": 4103287603
+        }
+      ],
+      "version": "1.5.27",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/cult-of-the-lamb-1.5.27-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/cult-of-the-lamb-1.5.27-ikiraplus",
+      "size": 4103287603,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795444511593",
+      "name": "Super Mario 3D World Bowsers Fury",
+      "bundleIdentifier": "org.nxnative.010028600ebda000",
+      "bundleId": "org.nxnative.010028600ebda000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444511593.png",
+      "localizedDescription": "Exclusive Nintendo Switch game.\n\n- Requires iPhone 16 or older.\n- version requires ios26 and above.\n- May contain internal download .",
+      "category": "Simulator games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.2.2",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/super_mario_3d_world_bowsers_fury_1.2.2_ikiraplus",
+          "date": "2026-11-23",
+          "size": 3766275276
+        }
+      ],
+      "version": "1.2.2",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/super_mario_3d_world_bowsers_fury_1.2.2_ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/super_mario_3d_world_bowsers_fury_1.2.2_ikiraplus",
+      "size": 3766275276,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "app-1795444599657",
+      "name": "Ready Or Nowhere",
+      "bundleIdentifier": "org.nxnative.0100aaf02813c000",
+      "bundleId": "org.nxnative.0100aaf02813c000",
+      "iconURL": "https://ikiraplus-assets.pages.dev/images/app-1795444599657.png",
+      "localizedDescription": "Exclusive Nintendo Switch game.\n\n- Requires iPhone 16 or older.\n- version requires ios26 and above.\n- May contain internal download .",
+      "category": "Simulator games",
+      "recommended": false,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ready-or-nowhere-1.0.0-ikiraplus",
+          "date": "2026-11-23",
+          "size": 2357408563
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://dl.ikiraplus.workers.dev/dl/ready-or-nowhere-1.0.0-ikiraplus",
+      "ipaUrl": "https://dl.ikiraplus.workers.dev/dl/ready-or-nowhere-1.0.0-ikiraplus",
+      "size": 2357408563,
+      "addedAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
     }
   ],
   "translationFormatVersion": 5
