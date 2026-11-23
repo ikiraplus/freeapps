@@ -191,6 +191,18 @@ def normalize_arabic(value):
     return text.casefold()
 
 
+def normalize_export_category(value):
+    """Keep emulator games in the existing Games category of public IPA catalogs.
+
+    The source jom.json keeps its more specific category unchanged.
+    normalize_arabic handles both ألعاب محاكيات and العاب محاكيات.
+    """
+    category = clean_text(value)
+    if normalize_arabic(category) == "العاب محاكيات":
+        return "ألعاب"
+    return category
+
+
 def is_empty(value):
     if value is None:
         return True
@@ -430,6 +442,8 @@ def normalize_app(app, used_bundles, fallback_bundle=None, used_ids=None):
 
     if "name" in fixed:
         fixed["name"] = clean_text(fixed.get("name"))
+    if "category" in fixed:
+        fixed["category"] = normalize_export_category(fixed.get("category"))
 
     fixed["size"] = size_to_bytes(fixed.get("size"))
     fixed["versionDate"] = normalize_version_date(
@@ -1655,7 +1669,9 @@ def translate_categories(output, old_ar_source=None, old_en_source=None):
         if key:
             old_en_by_key[key] = app
 
-    category_map = {}
+    # These both belong to the existing Games section, not new translated groups.
+    # Also covers a translate-only run against an older Arabic catalog.
+    category_map = {"ألعاب": "Games", "ألعاب محاكيات": "Games", "العاب محاكيات": "Games"}
     pending_categories = set()
 
     for app in output.get("apps", []):
