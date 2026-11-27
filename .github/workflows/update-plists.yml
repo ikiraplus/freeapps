@@ -116,6 +116,12 @@ jobs:
               if not str(asset_name).lower().endswith(".ipa"):
                   return False
               clean_name = normalize(asset_name)
+              prefixes = rule.get("prefixes")
+              if isinstance(prefixes, list) and prefixes:
+                  return any(
+                      normalize(prefix) and clean_name.startswith(normalize(prefix))
+                      for prefix in prefixes
+                  )
               return any(
                   group and all(normalize(word) in clean_name for word in group)
                   for group in keyword_groups(rule)
