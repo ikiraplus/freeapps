@@ -66,8 +66,8 @@
   },
   "manifest-ksignkira.plist": {
     "keywords": [
-      "ksign kira"
+      "ksign"
     ],
-    "expected_bundle_id": "net.ksign"
+    "expected_bundle_id": "net.ksign5p"
   }
 }
