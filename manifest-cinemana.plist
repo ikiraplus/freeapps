@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.ikiraplus.workers.dev/freeapps/762165130/Cinemana.-.Signed.ipa</string>
+					<string>https://dl.ikiraplus.workers.dev/freeapps/801996158/Cinemana.-.Signed.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cd-rail.zhct</string>
+				<string>com.apps.epid</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
